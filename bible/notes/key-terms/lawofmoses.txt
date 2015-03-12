@@ -1,0 +1,20 @@
+====== Law of Moses, Law of the Lord, God's Law, Law ======
+
+===== Facts: =====
+
+The term, "Law of Moses" refers generally to the commandments and instructions that God gave Moses for the people of Israel to obey. Sometimes this is called the "Law of the LORD" or "God's Law" or just "the Law."
+
+  * God gave Moses this law at Mount Sinai in the desert, and Moses gave it to the people.
+  * Depending on the context, "The Law of Moses" can also be translated as "the law that Moses wrote" or "the books that Moses wrote."
+  * The shortest form of the "Law of Moses" is the Ten Commandments. It also refers to the first five books of the Old Testament because Moses wrote them. And finally, it sometimes refers to the entire Old Testament.
+  * Since God gave these laws to Moses, they are sometimes called "the Law of God" and at other times they are called "the Law of Moses." These titles refer to the same writings.
+  * The "Law of Moses" could be translated as "the laws that God told Moses to give to the Israelites".
+  * "God's law(s)" can also be translated as "the laws that God gave" or "the laws that God commanded."
+
+(Translation suggestions: [[:en:ta:translate:translatenames|How to Translate Names]])
+
+(See also: [[:sw:bible:notes:key-terms:moses|Moses]], [[:sw:bible:notes:key-terms:tencommandments|Ten Commandments]], [[:sw:bible:notes:key-terms:lawful|lawful]])
+
+===== Bible References: =====
+
+{{topic>lawofmoses&nocomments}}~~DISCUSSION~~{{tag>draft review tklink}}

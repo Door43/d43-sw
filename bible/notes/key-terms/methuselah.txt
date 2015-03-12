@@ -1,0 +1,20 @@
+====== Methuselah ======
+
+===== Facts: =====
+
+Methuselah was the son of Enoch.
+
+  * He was the father of Lamech and the grandfather of Noah.
+  * Methuselah lived to be 969 years old.
+
+(Translation suggestions: [[:en:ta:translate:translatenames|How to Translate Names]])
+
+(See also: [[:sw:bible:notes:key-terms:noah|Noah]], [[:sw:bible:notes:key-terms:lamech|Lamech]], [[:sw:bible:notes:key-terms:enoch|Enoch]])
+
+===== Bible References: =====
+
+{{topic>methusaleh&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft}}

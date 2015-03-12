@@ -1,0 +1,29 @@
+====== Moses ======
+
+
+===== Facts: =====
+
+
+Moses was a prophet and leader of the Israelite people for over 40 years.  
+
+    * God chose Moses to free the Israelites from slavery in Egypt and lead them to the Promised Land.
+    * God gave Moses the stone tablets with his commandments for the Israelite people.
+    * Near the end of his life, Moses disobeyed God so he didn't get to live in the Promised Land of Canaan.
+
+(Translation suggestions: [[:en:ta:translate:translatenames]])
+
+(See also: [[sw:bible:notes:key-terms:egypt]], [[sw:bible:notes:key-terms:promisedland]])
+
+
+===== Bible References: =====
+
+
+{{topic>moses&nocomments}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

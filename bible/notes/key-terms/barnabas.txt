@@ -1,0 +1,17 @@
+====== Barnabas ======
+
+===== Facts: =====
+
+Barnabas was one of the early Christians who lived during the time of the apostles. His name means "son of encouragement".
+
+  * Barnabas <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>was from the Israelite tribe of Levi and was from the island of Cyprus.</font>
+  * When Saul (Paul) became a Christian, Barnabas urged the other believers to accept him as a fellow believer.
+  * Barnabas and Paul traveled together to preach the good news about Jesus in different cities.
+
+(Translation suggestions: [[:en:ta:translate:translatenames|How to Translate Names]])
+
+(See also: [[:sw:bible:notes:key-terms:paul]], [[:sw:bible:notes:key-terms:christian]])
+
+===== Bible References: =====
+
+{{topic>barnabas&nocomments}}~~DISCUSSION~~{{tag>draft}}

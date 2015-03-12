@@ -1,0 +1,20 @@
+====== Lamech ======
+
+===== Facts: =====
+
+Lamech is the name of two men in the book of Genesis.
+
+  * The first Lamech mentioned was a descendant of Cain (Adam's son); he married two women and boasted of killing two men.
+  * The second Lamech was a descendant of Seth (Adam's son); he was the father of Noah.
+
+(Translation suggestions: [[:en:ta:translate:translatenames|How to Translate Names]])
+
+(See also: [[:sw:bible:notes:key-terms:cain|Cain]], [[:sw:bible:notes:key-terms:seth|Seth]], [[:sw:bible:notes:key-terms:noah|Noah]])
+
+===== Bible References: =====
+
+{{topic>lamech&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft}}
