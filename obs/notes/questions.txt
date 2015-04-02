@@ -1,1 +1,1 @@
-<nspages sw:obs:notes:questions -sortID -title -exclude:home -nbCol=3 -textPages="​List of all OBS Swahili Questions Pages:"​>
+<nspages sw:obs:notes:questions -title -exclude:home -nbCol=3 -textPages="List of all OBS Questions Pages:">
