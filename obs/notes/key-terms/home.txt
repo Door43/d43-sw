@@ -1,4 +1,3 @@
 This the list of important words and phrases. Click on the word to learn more.
 
-
-<nspages sw:obs:notes:key-terms -title -exclude:home -textPages="List of important words:">
+<nspages sw:obs:notes:key-terms -title -exclude:home -textPages="List of all OBS Swahili important words:">
