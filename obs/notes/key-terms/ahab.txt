@@ -1,23 +1,23 @@
-====== Ahab ======
+====== Ahab   Ahabu ======
 
-
-===== Facts: =====
+===== Facts: Maarifa =====
 
 Ahab was a very evil king who ruled over the northern kingdom of Israel.
 
+Ahabu alikuwa mfalme muovu sana aliyetawala kaskazini mwa Israeli
+
   * King Ahab was wicked and encouraged the people of the kingdom of Israel to worship false gods.
+  * Mfalme Ahabu aliwashurutisha watu wa ufalme wa Israeli kuiabudu miungu mingine
   * The prophet Elijah confronted Ahab and told him that there would be a severe drought for three and a half years as a punishment for the sins that Ahab caused Israel to commit.
+  * Nabii Elia alimuendea mfalme Ahabu na akamuambua kutakuwa na kiangazi kwa muda wa miaka mitatu na nusu kama adhabu ya uovu aliowasababisha wana wa Israeli kutenda
   * Ahab had 450 prophets to the false god named Baal. Elijah challenged those prophets and proved that Yahweh is the only true God.
+  * Ahabu alikuwa na manabii 450 wa uongo wa Baali. Nabii Elia aliwatia changamoto hao manabii wa uongo kuwa Yahweh pekee ndiye Mungu wa kweli
 
-
-[See also: **[[sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**, **[[sw:obs:notes:key-terms:Elijah|Elijah]]**, **[[sw:obs:notes:key-terms:baal|Baal]]**, **[[sw:obs:notes:key-terms:yahweh|Yahweh]]**]
-
+[See also: **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**, **[[:sw:obs:notes:key-terms:elijah|Elijah]]**, **[[:sw:obs:notes:key-terms:baal|Baal]]**, **[[:sw:obs:notes:key-terms:yahweh|Yahweh]]**]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:sw:obs:notes:frames:19-02|[19-02]]]** Elijah was a prophet when **Ahab** was king over the kingdom of Israel. **Ahab** was an evil man who encouraged people to worship a false god named Baal.
-  ***[[:sw:obs:notes:frames:19-03|[19-03]]]** **Ahab** and his army looked for Elijah, but they could not find him.
-  ***[[:sw:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told Elijah to return to the kingdom of Israel and speak with **Ahab** because he was going to send rain again.
-
-
+  * **[[:sw:obs:notes:frames:19-02|[19-02]]]** Elijah was a prophet when **Ahab**  was king over the kingdom of Israel. **Ahab**  was an evil man who encouraged people to worship a false god named Baal.
+  * **[[:sw:obs:notes:frames:19-03|[19-03]]]****Ahab**  and his army looked for Elijah, but they could not find him.
+  * **[[:sw:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told Elijah to return to the kingdom of Israel and speak with **Ahab**  because he was going to send rain again.
 ~~DISCUSSION:off~~
