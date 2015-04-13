@@ -1,25 +1,22 @@
-====== altar ======
+====== altar  madhabahu ======
 
+===== Definition:  Ufafanuzi =====
 
-===== Definition: =====
+An altar is a raised structure on which sacrifices were burned as gifts, or offerings, to God. Madhahabu ni mahala palipoinuliwa pakutolea dhabihu za kuteketeza , vipawa au matoleo kwa Mungu.
 
+  * Altars were often made by packing together a mound of earth or by carefully placing stones into a large pile.
+  * Madhabahu yalitengenezwa kwa kuweka mchanga pamoja au kukusanya mawe kwa pamoja
+  * Some special altars were made of metal, such as gold or bronze.
+  * Madhabahu mengine yalitengenezwa spesheli kwa vyuma kama vile dhahabu au shaba
+  * God told his people to build altars on which to make sacrifices to him, and the nations around Israel also built altars to make sacrifices to their gods.
+  * Mungu aliwaamuru watu wake kujenga madhabahu yakumtolea dhabihu. Mataifa mengine vile vile  yaliokuwa karibu nao yalijenga madhabu ya miungu
 
-An altar is a raised structure on which sacrifices were burned as gifts, or offerings, to God.
-
-    * Altars were often made by packing together a mound of earth or by carefully placing stones into a large pile. 
-    * Some special altars were made of metal, such as gold or bronze.
-    * God told his people to build altars on which to make sacrifices to him, and the nations around Israel also built altars to make sacrifices to their gods.
-
-[See also: **[[sw:obs:notes:key-terms:sacrifice|sacrifice]]**]
-
+[See also: **[[:sw:obs:notes:key-terms:sacrifice|sacrifice]]**]
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:sw:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an **altar** and sacrificed some of each kind of animal which could be used for a sacrifice.
-  ***[[:sw:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
-  ***[[:sw:obs:notes:frames:13-09|[13-09]]]** A priest would kill the animal and burn it on the **altar**.
-  ***[[:sw:obs:notes:frames:16-06|[16-06]]]** He (Gideon) built a new altar dedicated to God near where the **altar** to the idol used to be and made a sacrifice to God on it.
-
-
+  * **[[:sw:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an **altar**  and sacrificed some of each kind of animal which could be used for a sacrifice.
+  * **[[:sw:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
+  * **[[:sw:obs:notes:frames:13-09|[13-09]]]** A priest would kill the animal and burn it on the **altar**.
+  * **[[:sw:obs:notes:frames:16-06|[16-06]]]** He (Gideon) built a new altar dedicated to God near where the **altar**  to the idol used to be and made a sacrifice to God on it.
 ~~DISCUSSION:off~~
