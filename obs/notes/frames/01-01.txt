@@ -1,8 +1,10 @@
-===== The Beginning [01-01] =====
+===== The Beginning [01-01] Mwanzo =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&}}
 
 This is how **the beginning** of everything happened. God **created** the **universe** and everything in it in six days. After God created the earth it was **dark** and **empty**, and **nothing had been formed** in it. But **God's Spirit** was there over the water.
+
+Hivi ndivyo jinsi **mwanzo ** wa vitu vyote ulifanyika. Mungu **aliumba ulimwengu  ** na vitu vyote ulimwenguni kwa siku sita. Baada ya Mungu kuumba dunia ilikuwa na **giza ** na ilikuwa **tupu, ** na **hakuna kilicho kuwa na umbo ** ndani yake. **Roho wa Mungu ** alikuwa ametanda juu ya maji.
 ===== Important Terms: =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
@@ -10,10 +12,17 @@ This is how **the beginning** of everything happened. God **created** the **univ
 ==== Translation Notes: ====
 
   * **the beginning**  - That is, "the beginning of all things," before anything existed except God.
+  * **mwanzo **- Hiyo ni,  "mwanzo wa vitu vyote," kabla ya kuweko kwa chochote ila Mungu.
   * **created**  - This is used here in the sense of making something out of nothing.
+  * **kuumba **- Hili limetumiwa hapa kwa maana ya kuumba kitu bila kitu chochote.
   * **universe**  - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
+  * **ulimwengu **- Hivi vitu vyote mungu alivyoviumba duniani na mbinguni, vinavyoonekana na visivyoonekana.
   * **dark**  - It was completely dark. There was no light at all, since God had not yet created light.
+  * **giza **- Kulikuwa na giza. Nuru haikuweko, kwani Mungu hakuwa ameiumba nuru.
   * **empty**  - God had not yet created anything except for the bare earth covered by water.
+  * **tupu **- Mungu hakuwa ameumba chochote isipokuwa dunia tupu iliokuwa imefunikwa kwa maji.
   * **nothing had been formed**  - There were no distinguishing features–just water covering everything.
+  * **hakuna chcochote kilichokuwa na umbo**  - Hakukuwa na sifa za kubainisha- maji yalifunika kila kitu.
   * **God's Spirit**  - The Spirit of God, sometimes called the Holy Spirit, was present in the beginning, moving freely over the earth in order to create all that he had planned to do.
+  * **Roho wa Mungu**- Roho wa  Mungu, wakati mwingine huitwa Roho Mtakatifu, alikuweko kutoka mwanzo, akitandaa juu ya dunia ili aumbe yote aliokuwa amepanga kufanya.
 **[[:sw:obs:notes:01|Up]] | [[:sw:obs:notes:frames:01-02|>>]]**
