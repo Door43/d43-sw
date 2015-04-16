@@ -1,4 +1,4 @@
-===== God Created the Plants [01-05] =====
+===== God Created the Plants [01-05] Mungu Aliumba Mimea =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?nolink&}}
 
@@ -13,9 +13,14 @@ Mungu akasema, "Na ardhi ikazalishe kila aina ya miti na mimea." Na ikawa hivyo.
 ==== Translation Notes: ====
 
   * **God said**  - God created all vegetation by speaking a command.
-  *
+  * **Mungu akasema**-Mungu aliumba mimea yote kwa kuamulisha.
   * **let the earth produce**  - This is a command that happened immediately because God spoke it.
+  * **Na ardhi ikazalishe**  - Hii ni amri iliofanyika ghafla kwa sababu Mungu alinena.
   * **all kinds**  - The many different species, or types, of plants and trees.
+  * **Kila aina**  - kila aina ya mimea na miti.
   * **created**  - This word is used here in the sense of making something out of nothing.
+  * **Aliumba**  - Hili neno limetumika na linamanisha kutengeneza kutoka kwa ukiwa.
   * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
+  * ilipendeza - hili tamko limerudiwa kwa hadithi ya uumbaji mala kadhaa na linasisitiza kila sehemu ya uumbaji ilipendeza Mungu na ilitimiza mpango na kusudi wake.
+
 **[[:sw:obs:notes:frames:01-04|<<]] | [[:sw:obs:notes:01|Up]] | [[:sw:obs:notes:frames:01-06|>>]]**
