@@ -1,11 +1,10 @@
-===== God Created Light [01-02]  Mungu aliumba nuru =====
+===== God Created Light [01-02] Mungu aliumba nuru =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&}}
 
 Then **God said**, “**Let there be** light!” And there was **light**. God saw that the light **was good** and called it “day.” He separated it from the darkness, which he called “night.” God created the light on the first day of **creation**.
 
 Kisha **Mungu akasema**, " **na nuru iwepo**!" Nayo **nuru ** ikawepo. Mungu akaona ya kwamba nuru **ni njema ** na akaiita "mchana." Akaitenganisha na giza, ambayo aliita "'usiku." Mungu aliumba nuru siku wa kwanza ya **uumbaji**
-
 ===== Important Terms: =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
@@ -13,17 +12,13 @@ Kisha **Mungu akasema**, " **na nuru iwepo**!" Nayo **nuru ** ikawepo. Mungu aka
 ==== Translation Notes: ====
 
   * **God said**  - God created light by means of a simple verbal command.
-  * **Mungu akasema **- Mungu aliumba nuru kwa njia ya kuamrisha kwa kunena.
+  * **Mungu akasema **- Mungu aliumba nuru kwa njia ya kutamka amri rahisi.
   * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'"
-  *
-
-**iwepo **- Hii ni amri ambayo ilifanyika mara moja kwa sababu Mungu ndiye aliye nena. Inaweza kuwa kawaida zaidi kuyatafsiri maneno haya kama msemo wa uhakika kwani ni lazima hili lifanyike bila shaka. Kwa mfano, unaweza tafsiri hivi , "Mungu akasema, Kutakuwa na nuru."
+  * **iwepo **- Hii ni amri ambayo ilifanyika mara tu kwa sababu Mungu ndiye aliye nena. Inaweza kuwa kawaida zaidi kuyatafsiri maneno haya kama msemo wa uhakika kwani ni lazima hili lifanyike bila shaka. Kwa mfano, unaweza tafsiri hivi , "Mungu akasema, Kutakuwa na nuru."
   * **light**  - This was a special light that God created–the sun was not created until later.
   * **nuru **- hii ilikuwa nuru ya kipekee ile mungu aliumba- jua halikuumbwa hadi baadaye.
   * **was good**  - This a phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-  *
-
-**ni njema - ** maneno haya yemerudiwa mara nyingi katika hadithi ya uumbaji, na husisitiza kwamba kila hatua ya uumbaji ilimpendeza Mungu na ikakamilisha mpango na lengo lake.
+  * **ni njema - **  maneno haya yemerudiwa mara nyingi katika hadithi ya uumbaji, na husisitiza kwamba kila hatua ya uumbaji ilimpendeza Mungu na ikakamilisha mpango na kusudi lake.
   * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists.
-  * **uumbaji - ** Neno hili limetumiwa hapa kumaanisha kipindi cha siku sita zile Mungu aliumba vitu vyote vilivyo.
+  * **uumbaji - **  Neno hili limetumiwa hapa kumaanisha kipindi cha siku sita zile Mungu aliumba vitu vyote vilivyomo.
 **[[:sw:obs:notes:frames:01-01|<<]] | [[:sw:obs:notes:01|Up]] | [[:sw:obs:notes:frames:01-03|>>]]**
