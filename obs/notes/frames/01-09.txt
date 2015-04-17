@@ -2,7 +2,10 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?nolink&}}
 
-Then **God** said, “**Let us** make human beings **in our image** to be **like us**. They will have **authority** over the earth and all the animals.”
+Then **God** said, “**Let us** **make** human beings **in our image** to be **like us**. They will have **authority** over the earth and all the animals.”
+
+**Mungu** akasema, "**Natuwaumbe** wanadamu **kwa mfano wetu**, **wafanane nasi**.  Na watakuwa na **mamlaka** juu ya dunia na wanyama wote."
+
 ===== Important Terms: =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
