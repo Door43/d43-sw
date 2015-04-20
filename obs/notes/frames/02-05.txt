@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?nolink&}}
 
 The woman saw that the fruit was beautiful and looked delicious. She also wanted to be **wise**, so she picked some of the fruit and ate it. Then she gave some to her husband, **who was with her**, and he ate it, too.
+
+Mwanamke akaona lile tunda ni nzuri na lina ladha. Na pia alitaka kuwa na hekima, kwa hivyo akachukua sehemu ya hio matunda na akala. Pia akampea mme wake zingine, aliyekuwa naye, naye pia akala.
+
 ===== Important Terms: =====
 
   * **[[:sw:obs:notes:key-terms:wise|wise]]**
