@@ -1,4 +1,4 @@
-===== The Beginning [01-01] Mwanzo B =====
+===== The Beginning [01-01] Mwanzo *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&}}
 
@@ -9,7 +9,6 @@ Hivi ndivyo jinsi **mwanzo ** wa vitu vyote ulifanyika. Mungu **aliumba ulimweng
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
   * **[[:sw:obs:notes:key-terms:holy-spirit|God's Spirit]]**
-
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the beginning**  - That is, "the beginning of all things," before anything existed except God.
