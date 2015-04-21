@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&}}
 
 After forty more days, **Noah** sent out a bird called a **raven** to see if the water had dried up. The raven flew back and forth looking for dry land, but it could not find any.
+
+Baada ya siku arobanne zaidi, **Nuhu** akatuma ndege anayeitwa **kunguru ** ndio ajue kama maji imekauka. Yule kunguru akaenda huku na huko akitafuta akitafuta ardhi imekauka na hakupata.
+
 ===== Important Terms: =====
 
   * **[[:sw:obs:notes:key-terms:noah|Noah]]**
