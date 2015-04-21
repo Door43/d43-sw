@@ -1,22 +1,22 @@
-===== Leaving the Boat [03-13] =====
+===== Leaving the Boat [03-13] Kuacha Mashua =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink}}
+**Two months later** **God** said to **Noah**, “You and your family and all the animals may leave the boat now. **Have many children** and grandchildren and **fill the earth**.” So Noah and his family came out of the boat.
 
-**Two months later** **God** said to **Noah**, “You and your family and all the animals may leave the boat now. **Have many children** and grandchildren and **fill the earth**.” So Noah and his family came out of the boat. 
-
-===== Important Terms: =====
-
+**Miezi mitatu baadaye Mungu** akamwambia **Nuhu**, "Wewe na jamii yako na wanyama munaweza toka kwa mashua sasa. **Iweni na watoto** wengi na wajukuu wengi **mjaze dunia.**" Kwa hivyo Nuhu na jamii yake wakatoka kwa mashua.
+===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **Mungu**
   * **[[:sw:obs:notes:key-terms:noah|Noah]]**
+  * **Nuhu**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-
-  * **Two months later** - This means two months after Noah released the dove from the ark. It may be necessary to say this explicitly if it is not clear.
-  * **Have many children** – To make sure it is clear that this was God's command and desire, you could say, "You must have many children." or, "I want you to have many children."
-  * **fill the earth** - If this is not clear, it may be necessary to say, "and fill the earth with people" or, "so that there will be many people living on the earth."
-
+  * **Two months later**  - This means two months after Noah released the dove from the ark. It may be necessary to say this explicitly if it is not clear.
+  * **miezi miwili baadaye**  - hii inamaniisha miezi miwili baada ya Nuhu kumtuma youle njiwa kutuka kwa mashua. Ni vizuri kueleza hii kinanaga kama haieleweki vizuri.
+  * **Have many children**  – To make sure it is clear that this was God's command and desire, you could say, "You must have many children." or, "I want you to have many children."
+  * **Iweni na watoto wengi**  - Ndio uhakikishe hii inaeleka vizuri kuwa hii ilikuwa amri na kusudi la Mungu, unaweza sema, "lazima muwe na watoto wengi" ama "ninataka muwe na watoto wengi."
+  * **fill the earth**  - If this is not clear, it may be necessary to say, "and fill the earth with people" or, "so that there will be many people living on the earth."
+  * **Jazeni dunia**  - kama hii haileweki vizuri, unaweza sema, "na mujaze dunia na watu" ama "ndiyo kuwe na watu wengi wanaishi duniani."
 **[[:sw:obs:notes:frames:03-12|<<]] | [[:sw:obs:notes:03|Up]] | [[:sw:obs:notes:frames:03-14|>>]]**
