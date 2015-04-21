@@ -3,17 +3,29 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?nolink&}}
 
 **God** said, “I **promise** I will **never again curse** the ground because of the **evil** things that people do, or destroy the world by causing a flood, even though **people are sinful from the time they are children**.”
-===== Important Terms: =====
+
+**Mungu** akasema, "**Ninaahidi sitalaani tena** ardhi kwa sababu ya mambo **maovu** wanaotenda watu, ama niharibu dunia kwa njia ya kuleta mafuriko, hata ingawa **watu ni wenye dhambi kutoka wakiwa watoto.**"
+===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **Mungu**
   * **[[:sw:obs:notes:key-terms:promise|promise]]**
+  * **Ahadi**
   * **[[:sw:obs:notes:key-terms:curse|curse]]**
+  * **Laana**
   * **[[:sw:obs:notes:key-terms:evil|evil]]**
+  * **[[:sw:obs:notes:key-terms:evil|Maovu]]**
   * **[[:sw:obs:notes:key-terms:sin|sinful]]**
-===== Translation Notes: =====
+  * **Wenye dhambi**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **never again**  - This means, "not ever again" or, "not again at any time" or, "truly not again". Examples: "I will not ever again curse the ground" or, "I will not curse the ground again at any time" or, "I will truly not curse the ground again".
+  * **Hapana tena**  - Hii inamanisha, "haitakuwa hivyo tena milele" ama "hakika sitalaani ardhi tena."
   * **curse the ground**  - The earth and the other creatures suffered because of man's sin.
+  * **Kulaani ardhi**  - Ardhi na viumbe wengine waliteseka sababu ya dhambi ya mwanadamu.
   * **the world**  – This refers to the earth and the living creatures that lived on it.
+  * **Dunia**  - hii inamanisha dunia na viuembe vyote vilivyoishi ndani yake.
   * **people are sinful from the time they are children**  - Another way to say this would be, "people do sinful things their entire lives."
+  * Watu ni wenya dhambi kutoka wakiwa watoton - njia ingine ya kusema hii inaweza kuwa, "watu wanatenda mambo maovu maisha yao yote."
+
 **[[:sw:obs:notes:frames:03-14|<<]] | [[:sw:obs:notes:03|Up]] | [[:sw:obs:notes:frames:03-16|>>]]**
