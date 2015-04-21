@@ -1,22 +1,20 @@
-===== Loading the Boat [03-05] =====
+===== Loading the Boat [03-05] Kupakia mashua =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink&}}
 
 **God** also commanded **Noah** and his family to gather enough food for themselves and the animals. When everything was ready, God told Noah it was time for him, his wife, his three sons, and their wives to get into the boat—eight people in all.
 
-===== Important Terms: =====
-
+**Mungu** pia akaamrisha **Nuhu ** na jamii yake wakusanye chakula yao na wanyama.  Kila kitu kilipokuwa tayari, Mungu akamwambia Nuhu ni wakati wake, mke wake, na wanao watatu, na wake zao kuingia kwa mashua - watu nane kwa jumla.
+===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **Mungu**
   * **[[:sw:obs:notes:key-terms:noah|Noah]]**
+  * **Nuhu**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
+//(There are no notes for this frame.)//
 
-===== Translation Notes: =====
-
-
-//(There are no notes for this frame.)// 
-
-
+//(Hukuna maelezo ya tafsiri sehemu hii)//
 
 **[[:sw:obs:notes:frames:03-04|<<]] | [[:sw:obs:notes:03|Up]] | [[:sw:obs:notes:frames:03-06|>>]]**
