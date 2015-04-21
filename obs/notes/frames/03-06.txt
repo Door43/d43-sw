@@ -1,23 +1,24 @@
-===== The Animals Came [03-06] =====
+===== The Animals Came [03-06] Wanyama walikuja =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?nolink}}
+**God sent** a male and a female of every animal and bird to **Noah** so they could go into the boat and be kept safe during the flood. God sent seven males and seven females of every type of animal that could be **used for sacrifices**. When they were all in the boat, **God himself closed the door**.
 
-**God sent** a male and a female of every animal and bird to **Noah** so they could go into the boat and be kept safe during the flood. God sent seven males and seven females of every type of animal that could be **used for sacrifices**. When they were all in the boat, **God himself closed the door**. 
-
-===== Important Terms: =====
-
+**Mungu akatuma** kutoka kwa kila aina ya mnyama na ndege, mmoja wa kike na mmoja wa kiume kwake **Nuhu** ili waingie kwa ile mashua na wawekwe salama wakati wa mafuriko.  Mungu akatuma kutoka kwa kila aina ya mnyama, saba wa kiume na saba wa kike ndio baadaye zikatumike **kumtolea Mungu dhabihu**.  Walipoingia wote kwa ile mashua, **Mungu mwanyewe akafunga mlango**.
+===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
+  * Mungu
   * **[[:sw:obs:notes:key-terms:noah|Noah]]**
+  * **Nuhu**
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifices]]**
+  * **Dhabihu**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-
-  * **God sent** - Noah did not need to find the animals. God sent them to him.
-  * **used for sacrifices** - For some languages it may be better to say something like, "animals that were acceptable to sacrifice to God." God had decided that people should sacrifice animals to him, but he only permitted them to sacrifice certain kinds of animals.
-  * **God himself closed the door** - This emphasizes that it was God who shut the door.
-
+  * **God sent**  - Noah did not need to find the animals. God sent them to him.
+  * **Mungu alituma**  - Nuhu hakuhitaji kwenda kutafuta wanyama. Mungu aliwatuma kwake.
+  * **used for sacrifices**  - For some languages it may be better to say something like, "animals that were acceptable to sacrifice to God." God had decided that people should sacrifice animals to him, but he only permitted them to sacrifice certain kinds of animals.
+  * **Kutimika kutoa dhabihu**  - Kwa lugha zingine itakuwa vyema kusema kama hivi, "Wanyama waliokubalika kutolewa kama dhabihu kwa Mungu." Mungu alikuwa ameamua kuwa wanadamu watumtolea dhabihu, lakini aliluhusu aina fulani tu ya wanyama."
+  * **God himself closed the door**  - This emphasizes that it was God who shut the door.
+  * **Mungu mwenyewe alifunga mlango**  - Hii inatia mkazo kuwa ni Mungu aliyefunga mlango.
 **[[:sw:obs:notes:frames:03-05|<<]] | [[:sw:obs:notes:03|Up]] | [[:sw:obs:notes:frames:03-07|>>]]**
