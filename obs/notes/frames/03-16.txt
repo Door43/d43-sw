@@ -15,7 +15,7 @@
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **rainbow**  - This is the multicolored arc of light that often appears in the sky after a rainstorm.
-  * **upinde wa mvua**  - Hii ni nusu mviringo ya rangi nyingi ya mwangaza inaonekana mara kwa mara baada ya mvua kubwa.
+  * **upinde wa mvua**  - Hii ni nusu mviringo ya rangi nyingi ya mwangaza inaoonekana mara kwa mara baada ya mvua kubwa.
   * **a sign**  - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
   * **Ishara**  - ishara ni kitu (kama hivi kitu ama tukio) ambacho kina maana fulani ama kinaonyesha kitu kilicho kweli ama kitafanyika.
   * **as a sign of his promise**  – In some languages it may be better to say, "to show that he had promised."
@@ -24,4 +24,5 @@
   * **Kila wakati**  - hakikisha inaeleweka kuwa hii inamanisha kila wakati upinde wa mvua ukionekana kutoka wakati ule. Yaweza kuwa ya muhimu kuongezea, "kutoka wakati huo na kuendelea, kila wakati."
   * **what he promised**  - This refers back to the previous frame in which God promised to never again destroy the earth with a flood.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Hadihi kutoka**  -
 **[[:sw:obs:notes:frames:03-15|<<]] | [[:sw:obs:notes:03|Up]] | [[:sw:obs:notes:frames:04-01|>>]]**
