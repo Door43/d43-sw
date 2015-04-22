@@ -1,25 +1,21 @@
-===== God Blessed Abram [04-06] =====
+===== God Blessed Abram [04-06] Mungu alimbariki Abrahamu =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink}}
+When **Abram** arrived in **Canaan**, **God** said, “Look all around you. I will give to you and your **descendants all the land that you can see as an inheritance**”. **Then Abram settled in the land**.
 
-When **Abram** arrived in **Canaan**, **God** said, “Look all around you. I will give to you and your **descendants all the land that you can see as an inheritance**”. **Then Abram settled in the land**. 
+Wakati **Abrahamu** alifika **Kanani**, **Mungu** akasema, "Tazama kila upande karibu na wewe.  Nitakupa wewe pamoja na vizazi vyako ardhi yote unyoweza kuiona kama urithi." **Basi, Abrahamu akafanye pale makao yake.**
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:abraham|Abram (Abrahamu)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:descendant|descendants (Vizazi)]]**
+  * **[[:sw:obs:notes:key-terms:inherit|inheritance (Urithi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-  * **[[:sw:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:sw:obs:notes:key-terms:inherit|inheritance]]**
-
-
-===== Translation Notes: =====
-
-
-  * **all the land that you can see** - If Abram was standing on a mountain, he could have seen a very large area. On several occasions God promised to give the entire land of Canaan to Abram and his descendants.
-  * **as an inheritance** - God promised to give land to Abram and his descendants as a father gives land and possessions to his children.
-  * **Then Abram settled in the land** - Abram lived there along with all those who had gone there with him.
-
+  * **all the land that you can see**  - If Abram was standing on a mountain, he could have seen a very large area. On several occasions God promised to give the entire land of Canaan to Abram and his descendants.
+  * Ardhi yote unayoweza kuiona - Kama Abrahamu alikuwa anasimama kwa mlima
+  * **as an inheritance**  - God promised to give land to Abram and his descendants as a father gives land and possessions to his children.
+  * **Then Abram settled in the land**  - Abram lived there along with all those who had gone there with him.
 **[[:sw:obs:notes:frames:04-05|<<]] | [[:sw:obs:notes:04|Up]] | [[:sw:obs:notes:frames:04-07|>>]]**
