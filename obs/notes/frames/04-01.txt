@@ -1,22 +1,22 @@
-===== One People [04-01] =====
+===== One People [04-01] Watu moja =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}
 
 **Many years after the flood**, there were **again many people** in the world, and they all spoke the **same language**. Instead of filling the earth as **God** had commanded, they gathered together and built **a city**.
 
-===== Important Terms: =====
-
+**Miaka mingi baada ya yale mafuriko**, kukawa na **watu wengi tena** katika dunia, na wote waliongea **lugha moja**. Badala ya kujaza dunia kama alivyoamuru **Mungu**, wakakusanyika pamoja na kujenga **mji. **
+===== Important Terms (Maneno ya muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **Mungu**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-
-  * **many years after the flood** - Many generations had passed since the end of the flood.
-  * **again many people** - Noah's family multiplied into enough people to fill a city.
-  * **same language** - This means there was only one language, so they could all understand each other.
-  * **a city** - It is best to use a general word for "city" since the text does not give a specific name.
-
+  * **many years after the flood**  - Many generations had passed since the end of the flood.
+  * **miaka mingi baada ya mafuriko**  - vizazi nyingi zilikuwa zimepita kutoka wakati wa yale mafuriko.
+  * **again many people**  - Noah's family multiplied into enough people to fill a city.
+  * **Tena watu wengi**  - Jamii ya Nuhu ikawa imezidi kuongezeka ikafikia watu wanaweza kujaza mji.
+  * **same language**  - This means there was only one language, so they could all understand each other.
+  * **Lugha moja**  - Hii inamanisha kuikuwa na lugha moja tu, na kwa hivyo wote walielewana.
+  * **a city**  - It is best to use a general word for "city" since the text does not give a specific name.
+  * **Mji**  - Ni vizuru kutumia neno la kijumla la "mji" kwa sababu ilionakiliwa haipeani jina maalum.
 **[[:sw:obs:notes:frames:03-16|<<]] | [[:sw:obs:notes:04|Up]] | [[:sw:obs:notes:frames:04-02|>>]]**
