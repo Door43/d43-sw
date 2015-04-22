@@ -1,23 +1,25 @@
-===== Many Languages [04-03] =====
+===== Many Languages [04-03] Lugha nyingi =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink}}
+So **God changed their language** into **many different languages** and **spread the people** out all over the world. The city they had begun to build was called **Babel**, which means, “**confused**.”
 
-So **God changed their language** into **many different languages** and **spread the people** out all over the world. The city they had begun to build was called **Babel**, which means, “**confused**.” 
-
-===== Important Terms: =====
-
+Kwa hivyo **Mungu akabadilisha lugha yoa** zikawa **lugha nyingi tofauti** na **akawatawanya watu** kila mahali duniani. Mji waliokuwa wameanza kuijenga ilikuwa inaitwa **Babeli, ** na inamaanisha** "kuchanganyikiwa."**
+===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
+  * Mungu
 
+===== Translation Notes (Maelezo ya Tafsri): =====
 
-===== Translation Notes: =====
-
-
-  * **changed their language** – In an instant, God miraculously gave them different languages to speak so that suddenly they were no longer able to understand each other.
-  * **many different languages** – Instead of one large group of people speaking one language, there were now many smaller people groups each speaking its own separate language.
-  * **spread the people** - When God changed their languages, he caused these groups of people to scatter out on the earth and each group moved to its own area.
-  * **Babel** - We don't know the exact location of this city, other than it was somewhere in the ancient Middle East.
-  * **confused** - This refers to how the people were confused or, "mixed-up" when they could no longer understand each other after God changed their language.
-
+  * **changed their language**  – In an instant, God miraculously gave them different languages to speak so that suddenly they were no longer able to understand each other.
+  * **Akabadilisha lugha yao**  - Papo hapo, Mungu kimuujiza akawapa lugha tofauti tofauti za kuongea hivi kwamba mara moja tu wakawa hawawezi tena kuelewana.
+  * **many different languages**  – Instead of one large group of people speaking one language, there were now many smaller people groups each speaking its own separate language.
+  * **Lugha nyingi tofauti**  - badala ya kuwa kikundi kimoja kikubwa cha watu wanaongea lugha moja,sasa kukawa na vikundi nyingi ndogo za watu wanaongea lugha zao tofauti.
+  * **spread the people**  - When God changed their languages, he caused these groups of people to scatter out on the earth and each group moved to its own area.
+  * **Akawatawanya watu**  - Mungu alipobadilisha lugha zao, alifanya hizi vikundi za watu, kutawanyika duniani na kila kikundi ikaenda kwa eneo yake.
+  * **Babel**  - We don't know the exact location of this city, other than it was somewhere in the ancient Middle East.
+  * **Babeli**  - Hatujui eneo halisi la mji huu, isipokuwa tu kwamba ilikuwa mahali fulani katika mashariki ya kati ya siku za kale.
+  * **confused**  - This refers to how the people were confused or, "mixed-up" when they could no longer understand each other after God changed their language.
+  * **Walichanganyikiwa**  - Hii inaonyesha vile watu hawa walichanganyikiwa, ama "kuvurugika" wakati hawangeweza kuelewana moja na mwingine Mungu alipobadilisha lugha yao.
 **[[:sw:obs:notes:frames:04-02|<<]] | [[:sw:obs:notes:04|Up]] | [[:sw:obs:notes:frames:04-04|>>]]**
