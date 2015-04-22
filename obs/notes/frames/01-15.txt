@@ -1,11 +1,10 @@
-===== Fill the Earth [01-15] Ijaze Dunia =====
+===== Fill the Earth [01-15] Ijaze Dunia *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?nolink&}}
 
 **God made** man and woman **in his own image**. He **blessed** them and told them, “Have many children and grandchildren and fill the earth!” And God saw that everything he had made was **very good**, and he was very pleased with all of it. This all happened on the sixth day of **creation**.
 
 **Mungu alimfanya** mwanaume na mwanamke kwa mfano wake mwenyewe. **Akawabariki ** na akawambia, "iweni na watoto na wajukuu wengi na mkaijaze dunia! Na Mungu akaona kila kitu alichokitengeneza kilikuwa **kizuri sana**, na akaifurahia yote. Hii yote ilifanyika siku ya sita ya **uumbaji. **
-
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
@@ -14,7 +13,6 @@
   * **Alibariki**
   * **[[:sw:obs:notes:key-terms:good|good]]**
   * **Nzuri**
-
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God made**  - God formed the man and the woman in a very personal way.
