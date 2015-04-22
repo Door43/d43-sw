@@ -1,27 +1,26 @@
-===== God's Covenant [04-09] =====
+===== God's Covenant [04-09] Agano ya Mungu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink&}}
 
 Then **God** made a **covenant** with **Abram**. A covenant is an agreement between **two parties**. God said, “I will give you a **son from your own body**. I give the land of **Canaan** to your **descendants**.” But Abram still **did not have a son**.
 
-===== Important Terms: =====
+**Mungu ** akafanya **agano** na **Abrahamu**.  Agano ni makubaliano kati ya watu vyama **viwili**.  Mungu akasema, "nitakupa **mwana kutoka kwa mwili wako mwenyewe**. Nchi ya **Kanani** nitakupa wewe na **uzao** wako." Lakini Abrahamu bado **hakuwa na mwana. **
+===== Important Terms (Maneno ya muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:covenant|covenant (agano)]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abram (Abrahamu)]]**
+  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:sw:obs:notes:key-terms:son|son]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants]]**
-
-
-===== Translation Notes: =====
-
-
-  * **two parties** - The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram.
-  * **from your own body** - With his own body Abram would cause his wife to become pregnant, so that together they would have their own, natural son. This was an amazing promise, since Abram and Sarai were very old.
-  * **did not have a son** - Abram still did not have any descendants who could possess the land.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **two parties**  - The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram.
+  * **Vyama viwili **- Vyama zaweza kuwa ni watu wawili, vikundi viwili, ama mtu na kikundi. Katika hadithi hii mabaliano yalikuwa kati ya Mungu na Abrahamu.
+  * **from your own body**  - With his own body Abram would cause his wife to become pregnant, so that together they would have their own, natural son. This was an amazing promise, since Abram and Sarai were very old.
+  * **Kutoka kwa mwili wako wewe mwenyewe**  - Kwa mwili wake yeye mwenyewe Abrahamu atamfanya mke wake mja mzito na kwa hivyo watakuwa na mtoto wao was asili. Hii ilikuwa ahadi ya ajabu sababu Abrahamu na Sarai walikuwa wamezeeka sana.
+  * **did not have a son**  - Abram still did not have any descendants who could possess the land.
+  * **Hawakuwa na Mwana**  - Abrahamu bado hakuwa na uzao ambao wanaweza kumiliki ardhi.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yanaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:04-08|<<]] | [[:sw:obs:notes:04|Up]] | [[:sw:obs:notes:frames:05-01|>>]]**
