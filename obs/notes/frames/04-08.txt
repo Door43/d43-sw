@@ -1,27 +1,24 @@
-===== No Son [04-08] =====
+===== No Son [04-08] Hukuna mwana =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink}}
+**Many years** went by, but **Abram** and **Sarai** still did not have a **son**. **God** spoke to Abram and **promised** again that he would have a son and as many **descendants** **as the stars in the sky**. Abram **believed** God's promise. God declared that Abram was **righteous** because he believed in God's promise.
 
-**Many years** went by, but **Abram** and **Sarai** still did not have a **son**. **God** spoke to Abram and **promised** again that he would have a son and as many **descendants** **as the stars in the sky**. Abram **believed** God's promise. God declared that Abram was **righteous** because he believed in God's promise. 
+**Miaka mingi** ikapita, lakini **Abrahamu** na **Sarai** bado hawakuwa na **mwana**. Mungu akanena na Abrahamu na **akamuahidi ** tena kuwa atapata mwana na **uzao wake watakuwa wengi kama nyota wa angani**. Abrahamu **akaamini** ahadi ya Mungu. Mungu akatangaza kuwa Abrahamu ni **menye haki ** kwa sababu aliamini ahadi ya Mungu.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:abraham|Abram (Abrahamu)]]**
+  * **[[:sw:obs:notes:key-terms:sarah|Sarai (Sarai)]]**
+  * **[[:sw:obs:notes:key-terms:son|son (Mwana)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised (Akaahidi)]]**
+  * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believed (Aliamini)]]**
+  * **[[:sw:obs:notes:key-terms:righteous|righteous (Mwenye haki)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-  * **[[:sw:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:sw:obs:notes:key-terms:sarah|Sarai]]**
-  * **[[:sw:obs:notes:key-terms:son|son]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:sw:obs:notes:key-terms:believe|believed]]**
-  * **[[:sw:obs:notes:key-terms:righteous|righteous]]**
-
-
-===== Translation Notes: =====
-
-
-  * **Many years** - Several years had passed since God had first promised that Abram would have a son.
-  * **as the stars in the sky** - This expression means that Abram's descendants will be so many that no one can count them all.
-
+  * **Many years**  - Several years had passed since God had first promised that Abram would have a son.
+  * **Miaka mingi **- Miaka kadhaa ilikuwa imepita tangu Mungu alipomuahidi Abrahamu kua atapata mwana.
+  * **as the stars in the sky**  - This expression means that Abram's descendants will be so many that no one can count them all.
+  * **Kama nyota wa angani **- Hii msemo inamanisha kuwa uzao wa Abrahamu watakuwa wengi kiasi ya kuwa hakuna atakayeweza kuwahesabu.
 **[[:sw:obs:notes:frames:04-07|<<]] | [[:sw:obs:notes:04|Up]] | [[:sw:obs:notes:frames:04-09|>>]]**
