@@ -1,24 +1,17 @@
 ===== Ishmael Was Born [05-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink}}
+So** Abram married Hagar**. Hagar had a baby boy, and Abram named him **Ishmael**. But **Sarai became jealous of Hagar**. When Ishmael was thirteen years old, **God** again spoke to Abram.
+===== Important Terms:Maneno ya Muhimu =====
 
-So** Abram married Hagar**. Hagar had a baby boy, and Abram named him **Ishmael**. But **Sarai became jealous of Hagar**. When Ishmael was thirteen years old, **God** again spoke to Abram. 
+  * **[[:sw:obs:notes:key-terms:abraham|Abram]] - Abrahamu**
+  * **[[:sw:obs:notes:key-terms:hagar|Hagar]] - Hajiri**
+  * **[[:sw:obs:notes:key-terms:ishmael|Ishmael]]- Ishmaeli**
+  * **[[:sw:obs:notes:key-terms:sarah|Sarai]]- Sarai**
+  * **[[:sw:obs:notes:key-terms:god|God]] - Mungu**
+===== Translation Notes: Maelezo ya Tafsiri =====
 
-===== Important Terms: =====
-
-
-  * **[[:sw:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:sw:obs:notes:key-terms:hagar|Hagar]]**
-  * **[[:sw:obs:notes:key-terms:ishmael|Ishmael]]**
-  * **[[:sw:obs:notes:key-terms:sarah|Sarai]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-
-
-===== Translation Notes: =====
-
-
-  * **married** - Hagar became Abram's concubine–a "second wife" of lower status. Hagar was still Sarai's servant.
-  * **became jealous of Hagar** - Sarai was jealous of Hagar because Hagar could have children and Sarai could not.
-
+  * **married**  - Hagar became Abram's concubine–a "second wife" of lower status. Hagar was still Sarai's servant.
+  * **became jealous of Hagar**  - Sarai was jealous of Hagar because Hagar could have children and Sarai could not.
 **[[:sw:obs:notes:frames:05-01|<<]] | [[:sw:obs:notes:05|Up]] | [[:sw:obs:notes:frames:05-03|>>]]**
