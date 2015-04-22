@@ -1,11 +1,10 @@
-===== God Made Adam [01-10] Mungu Aliumba Adamu =====
+===== God Made Adam [01-10] Mungu Aliumba Adamu *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&}}
 
 So **God took some dirt**, **formed it** into **a man**, and **breathed life** into him. This man's name was **Adam**. God planted a **garden** where Adam could live, and put him there to **care for it**.
 
 **Mungu akachukua udongo**, **akaiunda iwe mwanadamu** na **akapuriza uhai ** ndani yake. Jina la huyu mwanadamu lilikuwa ni **Adamu**. Mungu akapanda **bustani** ambalo Adamu angeishi ndani yake na akamuweka pale **alitunze**.
-
 ===== Important Terms (Maneno ya muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God]]**
@@ -14,7 +13,6 @@ So **God took some dirt**, **formed it** into **a man**, and **breathed life** i
   * **Uhai**
   * **[[:sw:obs:notes:key-terms:adam|Adam]]**
   * **Adamu**
-
 ==== Translation Notes: ====
 
   * **took some dirt**  - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
