@@ -13,9 +13,9 @@ Wakati Ishmaeli alipotimiza umri wa miaka kumi na tatu**, Bwana ** alizungumza n
   * **Hagar**- Hagari
   * **Ishmael**  - Ishmaeli
   * **Sarai**  - Sarai
-  * <font inherit/inherit;;rgb(0, 128, 0);;inherit>** God  **</font>    - Bwana
+  * <font inherit/inherit;;inherit;;inherit>** God  **</font>   - Bwana
 
-<font 18px/inherit;;rgb(0, 128, 0);;inherit>** Translation Notes: Maelezo ya Tafsiri  **</font>
+<font 18px/inherit;;inherit;;inherit>** Translation Notes: Maelezo ya Tafsiri  **</font>
 
 <font inherit/inherit;;rgb(0, 128, 0);;inherit>** Married  ** - Ndoa</font>
 
