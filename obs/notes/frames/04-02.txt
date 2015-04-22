@@ -1,24 +1,26 @@
-===== The Tower [04-02] =====
+===== The Tower [04-02] Mnara =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink}}
+They were very **proud**, and they did not care about what **God** said. They even began building a **tall tower to reach heaven**. God saw that if they all kept working together to do **evil**, they could do many more **sinful** things.
 
-They were very **proud**, and they did not care about what **God** said. They even began building a **tall tower to reach heaven**. God saw that if they all kept working together to do **evil**, they could do many more **sinful** things. 
-
-===== Important Terms: =====
-
+Walikuwa **wamejaa kiburi**, na hawakujali aliposema **Mungu**. Hata wakaanza kujenga **mnara mrefu utakaofika binguni.** Mungu akaona kuwa wakiendelea kufanya kazi pamoja kutenda maovu, wanaweza tenda **dhambi** zingine nyigi
+===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:proud|proud]]**
+  * **Kiburi**
   * **[[:sw:obs:notes:key-terms:god|God]]**
+  * Mungu
   * **[[:sw:obs:notes:key-terms:heaven|heaven]]**
+  * **nbinguni**
   * **[[:sw:obs:notes:key-terms:evil|evil]]**
+  * **Maovu**
   * **[[:sw:obs:notes:key-terms:sin|sinful]]**
+  * **zenye dhambi**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-
-  * **tall tower to reach heaven** - This structure was so tall that its top would be in the sky.
-  * **heaven** – This could be translated as, "sky."
-
+  * **tall tower to reach heaven**  - This structure was so tall that its top would be in the sky.
+  * **Mnara mrefu wakufika binguni **- mnara huu ulikuwa uwe mrefu kiasi kwamba kilele chake kingekuwa binguni.
+  * **heaven**  – This could be translated as, "sky."
+  * **Binguni **- Hii inaweza kutafsiriwa kama, "anga."
 **[[:sw:obs:notes:frames:04-01|<<]] | [[:sw:obs:notes:04|Up]] | [[:sw:obs:notes:frames:04-03|>>]]**
