@@ -7,12 +7,10 @@ When **the seventh day** came, **God** had **finished his work**. So **God reste
 **Siku ya saba** ilipofika, **Mungu** akawa **amemaliza kazi yake.** Na kwa hivyo **Mungu akapumzika** kutokana na kazi aliokuwa akiifanya. **Akaibariki siku ya saba** na **akaifanya takatifu**, kwa sababu siku hii alipumzika kutoka kwa kazi yake. Jinsi hii Mungu aliumba **ulimwengu** wote na vyote vilivyomo.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **Mungu**
-  * **[[:sw:obs:notes:key-terms:bless|blessed]]**
-  * **Alibariki**
-  * **[[:sw:obs:notes:key-terms:holy|holy]]**
-  * **Takatifu**
+  * ****[[:sw:obs:notes:key-terms:god|God (Mungu)]]****
+  * ****[[:sw:obs:notes:key-terms:bless|blessed (alibariki)]]****
+  * ****[[:sw:obs:notes:key-terms:holy|holy (takatifu)]]****
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the seventh day**  - The next day after the six days of creation were completed.
