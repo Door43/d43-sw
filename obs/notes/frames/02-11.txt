@@ -8,18 +8,12 @@
 
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **Mungu**
-  * **[[:sw:obs:notes:key-terms:disobey|disobeyed]]**
-  * **Aliasi**
-  * **[[:sw:obs:notes:key-terms:curse|cursed]]**
-  * **Akalaani**
-  * **[[:sw:obs:notes:key-terms:death|die]]**
-  * **Kufa**
-  * **[[:sw:obs:notes:key-terms:eve|Eve]]**
-  * **Hawa**
-  * **[[:sw:obs:notes:key-terms:adam|Adam]]**
-  * **Adamu**
+  * ****[[:sw:obs:notes:key-terms:god|God (Mungu)]]****
+  * ****[[:sw:obs:notes:key-terms:disobey|disobeyed (aliasi)]]****
+  * ******[[:sw:obs:notes:key-terms:curse|cursed (akalaani)]]******
+  * ****[[:sw:obs:notes:key-terms:death|die (kufa)]]****
+  * ****[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]****
+  * ****[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]****
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
