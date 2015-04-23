@@ -7,16 +7,12 @@
 **Mungu** akasema, "**Ninaahidi sitalaani kamwe tena** ardhi kwa sababu ya mambo **maovu** wanaotenda watu, ama niharibu dunia kwa njia ya kuleta mafuriko, hata ingawa **watu ni wenye dhambi kutoka wakiwa watoto.**"
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **Mungu**
-  * **[[:sw:obs:notes:key-terms:promise|promise]]**
-  * **Ahadi**
-  * **[[:sw:obs:notes:key-terms:curse|curse]]**
-  * **Laana**
-  * **[[:sw:obs:notes:key-terms:evil|evil]]**
-  * **[[:sw:obs:notes:key-terms:evil|Maovu]]**
-  * **[[:sw:obs:notes:key-terms:sin|sinful]]**
-  * **Wenye dhambi**
+  * ****[[:sw:obs:notes:key-terms:god|God (Mungu)]]****
+  * ******[[:sw:obs:notes:key-terms:promise|promise (ahadi)]]******
+  * ****[[:sw:obs:notes:key-terms:curse|curse (laana)]]****
+  * **[[:sw:obs:notes:key-terms:evil|evil ([[:sw:obs:notes:key-terms:evil|maovu)]]**]]**
+  * ****[[:sw:obs:notes:key-terms:sin|sinful (wenye dhambi)]]****
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **never again**  - This means, "not ever again" or, "not again at any time" or, "truly not again". Examples: "I will not ever again curse the ground" or, "I will not curse the ground again at any time" or, "I will truly not curse the ground again".
