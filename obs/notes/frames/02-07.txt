@@ -1,20 +1,19 @@
-===== Where Are You? [02-07] Uko wapi? =====
+===== Where Are You? [02-07] Uko wapi? * F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink&}}
 
 Then the man and his wife heard the sound of **God walking** through the garden. They both hid from God. Then God called to the man, “**Where are you**?” **Adam** replied, “I heard you walking in the garden, and I was afraid, because I was naked. So I hid.”
 
-Basi bwana na mke wake wakasikia sauti ya **Mungu akitembea** kupitia bustani. Wote wawili wakajificha kutoka kwa Mungu. Basi Mungu akamuita mwanaume, **"uko wapi?" Adamu ** akajibu**, **"nilikusikia ukitembea bustani na nikaogopa, sababu nilikua uchi. Kwa hivyo nikajificha."
-
+Basi mume na mke wake wakasikia sauti ya **Mungu akitembea** kupitia bustani. Wote wawili wakajificha kutoka kwa Mungu. Basi Mungu akamuita mwanaume, **"uko wapi?" Adamu ** akajibu**, **"nilikusikia ukitembea bustani na nikaogopa, sababu nilikua uchi. Kwa hivyo nikajificha."
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * ****[[:sw:obs:notes:key-terms:god|God (Mungu)]]****
-  * ****[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]****
+  * [[:sw:obs:notes:key-terms:god|God (Mungu)]]
+  * [[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God walking**  - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking.
-  * **Mungu akitembea **- inaonekana kama Mungu mara kwa mara alikuja kutemea na kuongea na mwanamme na mwanmke. Jambo hili haieleweki vizuri kabisa. Kama inawezekana, tunaweza kutumia neno lile tu linaonyesha mutu akitembea.
+  * **Mungu akitembea **- inaonekana kama Mungu mara kwa mara alikuja kutemea na kuongea na mwanamme na mwanmke. Jambo hili halieleweki vizuri kabisa. Kama inawezekana, tunaweza kutumia neno lile tu linaonyesha mutu akitembea.
   * **Where are you?**  - God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding.
-  * **Uko wapi?**  - Mungu tayari alijua jibu la swali hili. Kusudi la swali hili ni kulazimisha mwanamme na mwanamke kueleza kwa nani walikuwa wanajificha.
+  * **Uko wapi?**  - Mungu tayari alijua jibu la swali hili. Kusudi la swali hili ni kulazimisha mwanamme na mwanamke kueleza kwa nini walikuwa wanajificha.
 **[[:sw:obs:notes:frames:02-06|<<]] | [[:sw:obs:notes:02|Up]] | [[:sw:obs:notes:frames:02-08|>>]]**
