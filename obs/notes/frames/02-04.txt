@@ -1,4 +1,4 @@
-===== The Lie [02-04] Uongo =====
+===== The Lie [02-04] Uongo* F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&}}
 
@@ -17,5 +17,5 @@ Nyoka akamjibu mwanamke, "Hiyo si **kweli**! **Hautakufa**. Mungu anajua ukiliku
   * **like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
   * **kama Mungu**  - mwanamme na mwanamke tayari waliumbwa na mfano wa Mungu. Nyoka anapendekeza kuwa mwanamke atafanana zaidi na Mungu akielewa dhambi. Hata hivyo Mungu hakuwa na nia yake mwanmke kupata huo ufahamu.
   * **understand good and evil**  - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
-  * **alielewa mema na mabaya**  - Kujua kupia kwa uzoefu wa kibinafsi mambo yaliyo mabaya, ama kuelewa kama jambo ni nzuri ama ni mbaya.
+  * **alielewa mema na mabaya**  - Kujua kupitia kwa uzoefu wa kibinafsi mambo yaliyo mabaya, ama kuelewa kama jambo ni nzuri ama ni mbaya.
 **[[:sw:obs:notes:frames:02-03|<<]] | [[:sw:obs:notes:02|Up]] | [[:sw:obs:notes:frames:02-05|>>]]**
