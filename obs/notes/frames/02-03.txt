@@ -8,14 +8,10 @@ Mwanamke akajibu, "M**ungu** alituambia tunaweza kula **tunda** la mti wowote il
 
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **Mungu**
-  * **[[:sw:obs:notes:key-terms:good|Good]]**
-  * **Nzuri**
-  * **[[:sw:obs:notes:key-terms:evil|Evil]]**
-  * **Mabaya**
-  * **[[:sw:obs:notes:key-terms:death|Die]]**
-  * **Kufa**
+  * ****[[:sw:obs:notes:key-terms:god|God (Mungu)]]****
+  * ****[[:sw:obs:notes:key-terms:good|good (nzuri]]****)
+  * **[[:sw:obs:notes:key-terms:evil|evil (mabaya)]]**
+  * ****[[:sw:obs:notes:key-terms:death|die (kufa)]]****
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
