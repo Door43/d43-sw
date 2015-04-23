@@ -1,15 +1,15 @@
-===== God Cursed the Snake [02-09] Mungu alilaani Nyoka =====
+===== God Cursed the Snake [02-09] Mungu alimulaani Nyoka * F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink&}}
 
 **God** said to the snake, “**You are cursed**! You will slide on your belly and eat dirt. You and the woman will **hate each other**, and your children and her children will hate each other, too. The **woman’s descendant** will **crush your head**, and you will **wound his heel**.”
 
-**Mungu** akaambia nyoka, **"Umelaaniwa!** Utakuwa ukitambaa na tumbo yako na kula uchafu. Wewe na mwanamke **mtachukiana**, na watoto wako na wake pia watachukiana. **Kizazi cha mwanamke** **itakuponda kichwa** na **utamjeruhi kisigino.**"
+**Mungu** akamwambia nyoka, **"Umelaaniwa!** Utakuwa ukitambaa na tumbo yako na kula uchafu. Wewe na mwanamke **mtachukiana**, na watoto wako na wake pia watachukiana. **Kizazi cha mwanamke** **itakuponda kichwa** na **utamjeruhi kisigino.**"
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * ****[[:sw:obs:notes:key-terms:god|God (Mungu)]]****
-  * ******[[:sw:obs:notes:key-terms:curse|cursed (alilaaniwa)]]******
-  * ****[[:sw:obs:notes:key-terms:descendant|descendant (kizazi)]]****
+  * [[:sw:obs:notes:key-terms:god|God (Mungu)]]
+  * **[[:sw:obs:notes:key-terms:curse|cursed (alilaaniwa)]]**
+  * [[:sw:obs:notes:key-terms:descendant|descendant (kizazi)]]
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
@@ -18,9 +18,11 @@
   * **hate each other**  - The woman would hate the snake and the snake would hate the woman. The women's descendants would also hate the snake's descendants, and the snake's descendants would hate them.
   * **Kuchukiana**  - mwanamke atachukia nyoka naye nyoka amchukie mwanamke. Kizazi cha mwanamke pia kitachukia kizazi cha nyoka na kizazi cha nyoka iwachukie pia.
   * **woman's descendant**  - Refers to one of her descendants in particular.
-  * **Ukoo wa mwanamke**  - inahusu mmoja wa uzao wa mwanamke.
+  *
+
+**Ukoo wa mwanamke**  - inahusu mmoja wa uzao wa mwanamke haswa.
   * **crush your head**  - The descendant of the woman will destroy the descendant of the snake.
-  * **Ponda kichwa chako**  - mzaliwa wa mwanamke  atahalibu mzaliwa wa nyoka.
+  * **Ponda kichwa chako**  - mzaliwa wa mwanamke atahalibu mzaliwa wa nyoka.
   * **wound his heel**  - The descendant of the snake will wound the descendant of the woman.
   * **Jeruhi kisigino yake **- mzaliwa wa nyoka atajeruhi mzaliwa wa mwanamke.
 **[[:sw:obs:notes:frames:02-08|<<]] | [[:sw:obs:notes:02|Up]] | [[:sw:obs:notes:frames:02-10|>>]]**
