@@ -8,8 +8,8 @@
 
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * ****[[:sw:obs:notes:key-terms:god|God (Mungu)]]****
-  * ****[[:sw:obs:notes:key-terms:promise|promise (Ahadi)]]****
+  * [[:sw:obs:notes:key-terms:god|God (Mungu)]]
+  * [[:sw:obs:notes:key-terms:promise|promise (ahadi)]]
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
