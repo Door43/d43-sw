@@ -1,11 +1,10 @@
-===== The Rainbow [03-16] Upinde wa mvua =====
+===== The Rainbow [03-16] Upinde wa mvua *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&}}
 
 **God** then made the first **rainbow** as **a sign of his promise**. **Every time** the rainbow appeared in the sky, God would remember **what he promised** and so would his people.
 
 **Mungu** wakati huo akatengeneza **upinde wa mvua** wa kwanza ikiwa **ishara ya ahadi yake**. **Kila wakati** upinde wa mvua ukionekana angani, Mungu angekumbuka **alichokiahidi ** na pia watu wake.
-
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * [[:sw:obs:notes:key-terms:god|God (Mungu)]]
@@ -15,13 +14,14 @@
 
   * **rainbow**  - This is the multicolored arc of light that often appears in the sky after a rainstorm.
   * **upinde wa mvua**  - Hii ni nusu mviringo ya rangi nyingi ya mwangaza inaoonekana mara kwa mara baada ya mvua kubwa.
-  * **a sign**  - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
-  * **Ishara**  - ishara ni kitu (kama hivi kitu ama tukio) ambacho kina maana fulani ama kinaonyesha kitu kilicho kweli ama kitafanyika.
+  * **a sign**  - A sign is something (or event) that gives a certain meaning or which points to something that is true or will happen.
+  * **Ishara**  - ishara ni kitu (ama tukio) ambacho kina maana fulani ama kinaonyesha kitu kilicho kweli ama kitafanyika.
   * **as a sign of his promise**  – In some languages it may be better to say, "to show that he had promised."
   * **Ikiwa ishara ya ahadi yake**  - katika lugha zingine yaweza kuwa bora zaidi kusema, "kuonyesha kuwa aliahidi."
   * **Every time**  – Make sure it is clear that this means every time a rainbow appeared from that time on. It may be necessary to add, "From then on, every time."
   * **Kila wakati**  - hakikisha inaeleweka kuwa hii inamanisha kila wakati upinde wa mvua ukionekana kutoka wakati ule. Yaweza kuwa ya muhimu kuongezea, "kutoka wakati huo na kuendelea, kila wakati."
   * **what he promised**  - This refers back to the previous frame in which God promised to never again destroy the earth with a flood.
+  * **kile aliahidi **- Hi inaturejesha kwa sehemu iliyopita, mahali Mungu aliahidi kuwa hataiangamiza tena dunia kupitia kwa mafuriko.
   * //A Bible story from - These references may be slightly different in some Bible translations.//
   * //Hadithi ya Biblia kutoka - Marejeo haya yaweza kuwa tofauti kidogo katika tafsiri zingine za Biblia. //
 **[[:sw:obs:notes:frames:03-15|<<]] | [[:sw:obs:notes:03|Up]] | [[:sw:obs:notes:frames:04-01|>>]]**
