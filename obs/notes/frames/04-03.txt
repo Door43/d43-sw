@@ -1,4 +1,4 @@
-===== Many Languages [04-03] Lugha nyingi =====
+===== Many Languages [04-03] Lugha nyingi *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&}}
 
@@ -8,7 +8,6 @@ Kwa hivyo **Mungu akabadilisha lugha yoa** zikawa **lugha nyingi tofauti** na **
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-
 ===== Translation Notes (Maelezo ya Tafsri): =====
 
   * **changed their language**  – In an instant, God miraculously gave them different languages to speak so that suddenly they were no longer able to understand each other.
