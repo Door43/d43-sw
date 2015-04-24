@@ -8,7 +8,7 @@
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * [[:sw:obs:notes:key-terms:god|God (Mungu)]]
-  * [[:sw:obs:notes:key-terms:disobey|disobeyed (aliasi)]]
+  * [[:sw:obs:notes:key-terms:disobey|disobeyed (alikosa kutii)]]
   * **[[:sw:obs:notes:key-terms:curse|cursed (akalaani)]]**
   * [[:sw:obs:notes:key-terms:death|die (kufa)]]
   * [[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]
