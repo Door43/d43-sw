@@ -1,4 +1,4 @@
-===== The Rain Stopped [03-09] Mvua ikasimama =====
+===== The Rain Stopped [03-09] Mvua ikasimama *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&}}
 
@@ -10,7 +10,7 @@ Baada ya **mvua kusimama**, ile mashua ikaelea juu ya maji kwa muda wa miezi tan
 ===== Translation Notes: =====
 
   * **the rains stopped**  – This could be translated as, "it stopped raining."
-  * **Mvua ikasimama**  - Hii inaweza kutafsiriwa kama, "mvua ikasimama."
+  * **Mvua ikasimama**  - Hii inaweza kutafsiriwa kama, "kunyesha kwa mvua ikakoma."
   * **boat rested**  - There was so much water from the rain that it covered the mountains. The ship floated over the mountains, and when the water started to go down, the ship went down with the water and settled on a mountain.
   * **Mashua ikatua**  - Kulikuwa na maji nyingi sana kutoka kwa mvua iliyofunika milima. Ile mashua ilielea juu ya milima na wakati maji ilipoanza kupungua, ile mashua ikashuka pamoja na maji na ikatua kwa mlima.
   * **three more months**  - During the next three months, the water continued to go down.
