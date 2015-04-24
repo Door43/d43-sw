@@ -1,4 +1,4 @@
-===== One People [04-01] Watu moja =====
+===== One People [04-01] Watu moja *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}
 
@@ -7,7 +7,7 @@
 **Miaka mingi baada ya yale mafuriko**, kukawa na **watu wengi tena** katika dunia, na wote waliongea **lugha moja**. Badala ya kujaza dunia kama alivyoamuru **Mungu**, wakakusanyika pamoja na kujenga **mji. **
 ===== Important Terms (Maneno ya muhimu): =====
 
-  * ****[[:sw:obs:notes:key-terms:god|God (Mungu)]]****
+  * [[:sw:obs:notes:key-terms:god|God (Mungu)]]
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
@@ -16,7 +16,7 @@
   * **again many people**  - Noah's family multiplied into enough people to fill a city.
   * **Tena watu wengi**  - Jamii ya Nuhu ikawa imezidi kuongezeka ikafikia watu wanaweza kujaza mji.
   * **same language**  - This means there was only one language, so they could all understand each other.
-  * **Lugha moja**  - Hii inamanisha kuikuwa na lugha moja tu, na kwa hivyo wote walielewana.
+  * **Lugha moja**  - Hii inamanisha kulikuwa na lugha moja tu, na kwa hivyo wote walielewana.
   * **a city**  - It is best to use a general word for "city" since the text does not give a specific name.
   * **Mji**  - Ni vizuru kutumia neno la kijumla la "mji" kwa sababu ilionakiliwa haipeani jina maalum.
 **[[:sw:obs:notes:frames:03-16|<<]] | [[:sw:obs:notes:04|Up]] | [[:sw:obs:notes:frames:04-02|>>]]**
