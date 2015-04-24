@@ -1,14 +1,13 @@
-===== The Dove [03-11] Njiwa =====
+===== The Dove [03-11] Njiwa *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&}}
 
 Later, **Noah** sent out a bird called a **dove**. But it also could not find any dry land, so it came back to Noah. A week later he sent the dove out again, and it came back with an **olive branch** in its beak! **The water was going down**, and the plants were growing again!
 
 Baadaye, **Nuhu** akamtuma nje ndege anayeitwa **njiwa**. Naye pia hangepata ardhi iliyokauka, na kwa hivyo ikamrudia Nuhu. Wiki moja baadaye akamtuma njiwa tena na ikarudi na **tawi la mzeituni** katika kinywa chake! **Maji ikaendele kupungua** na miti ikaanza kumea tena!
-
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * ****[[:sw:obs:notes:key-terms:noah|Noah(Nuhu)]]****
+  * [[:sw:obs:notes:key-terms:noah|Noah(Nuhu)]]
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
@@ -17,5 +16,5 @@ Baadaye, **Nuhu** akamtuma nje ndege anayeitwa **njiwa**. Naye pia hangepata ard
   * **olive branch**  - An olive tree's fruit contains oil which people use for cooking or putting on their skin. If your language does not have a word for "olive branch," you could translate it as, "branch from a tree called 'olive'" or, "branch from an oil-tree."
   * **Tawi la mzeituni**  - matunda ya mzeituni inatoa mafuta inayotumika kupika chakula ama kujipaka kwa ngozi. kama lugha yako haina neno la "tunda la mzeituni" unaweza kuitafsiri kama, "tawi kutoka kwa mti unaitwa 'mzeituni' ama "tawi la mti wa mafuta."
   * **water was going down**  - It may be more natural in your language to say that, "the water was going away" or, "the level of the water was getting lower."
-  * **Maji ilikuwa inapungua**  - yazekana ni rahisi kwa lugha yako kusema kuwa, "maji ikawa inaisha" ama, " wingi wa maji ulikuwa unapungua."
+  * **Maji ilikuwa inashuka**  - yazekana ni rahisi kwa lugha yako kusema kuwa, "maji ikawa inaenda mbali" ama, "ngazi ya maji ilikuwa inashuka."
 **[[:sw:obs:notes:frames:03-10|<<]] | [[:sw:obs:notes:03|Up]] | [[:sw:obs:notes:frames:03-12|>>]]**
