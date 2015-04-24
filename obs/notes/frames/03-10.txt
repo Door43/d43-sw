@@ -1,18 +1,17 @@
-===== The Raven [03-10] Kunguru =====
+===== The Raven [03-10] Kunguru *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&}}
 
 After forty more days, **Noah** sent out a bird called a **raven** to see if the water had dried up. The raven flew back and forth looking for dry land, but it could not find any.
 
-Baada ya siku arobanne zaidi, **Nuhu** akatuma ndege anayeitwa **kunguru ** ndio ajue kama maji imekauka. Yule kunguru akaenda huku na huko akitafuta akitafuta ardhi imekauka na hakupata.
-
+Baada ya siku arobanne zaidi, **Nuhu** akatuma ndege anayeitwa **kunguru ** ndio ajue kama maji imekauka. Yule kunguru akaenda huku na huko akitafuta ardhi imekauka, lakini hakupata.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * ****[[:sw:obs:notes:key-terms:noah|Noah (Nuhu)]]****
+  * [[:sw:obs:notes:key-terms:noah|Noah (Nuhu)]]
 
 ===== Translation Notes (Maelezo ya tafsiri): =====
 
   * **raven**  - A black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals.
-  * K**unguru**  - mnyama mweusi anayeruka na anakula mimea na nyama, pamoja na nyama iliooza ya wanyama waliokufa.
+  * K**unguru**  - Ndege mweusi anayeruka na anakula mimea na nyama, pamoja na nyama iliooza ya wanyama waliokufa.
 
 **[[:sw:obs:notes:frames:03-09|<<]] | [[:sw:obs:notes:03|Up]] | [[:sw:obs:notes:frames:03-11|>>]]**
