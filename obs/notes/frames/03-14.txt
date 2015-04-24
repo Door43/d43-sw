@@ -1,4 +1,4 @@
-===== Noah's Sacrifice [03-14] Sadaka ya Nuhu =====
+===== Noah's Sacrifice [03-14] Sadaka ya Nuhu *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?nolink&}}
 
@@ -7,16 +7,15 @@ After **Noah** got off the boat, he built an **altar** and **sacrificed** some o
 Baada ya **Nuhu** kutoka kwa mashua, akajenga **madhabahu** na **kutoa sadaka** ya **mnyama wa kila aina aliyefaa kutolewa sadaka**. **Mungu akafurahia** hiyo sadaka na **akambariki ** Nuhu na jamii yake.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * ****[[:sw:obs:notes:key-terms:noah|Noah (Nuhu)]]****
-  * ****[[:sw:obs:notes:key-terms:altar|altar (madhabahu)]]****
-  * ****[[:sw:obs:notes:key-terms:sacrifice|sacrificed (akatoa sadaka)]]****
-  * ****[[:sw:obs:notes:key-terms:god|God (Mungu)]]****
+  * [[:sw:obs:notes:key-terms:noah|Noah (Nuhu)]]
+  * [[:sw:obs:notes:key-terms:altar|altar (madhabahu)]]
+  * [[:sw:obs:notes:key-terms:sacrifice|sacrificed (akatoa sadaka)]]
+  * [[:sw:obs:notes:key-terms:god|God (Mungu)]]
   * **[[:sw:obs:notes:key-terms:bless|blessed (akabariki)]]**
-
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **animal that could be used for a sacrifice**  - Another way to say this would be, "that people could use to sacrifice to him."
   * **mnyama aliyefaa kutolewa sadaka**  - njia ingine yakusema hii inaweza kuwa, "ambayo watu wangetumia kumtolea dhabihu."
   * **God was happy**  - God was pleased with Noah for sacrificing these animals.
-  * **Mungu alifurahia **- Mungu alifurahshwa na Nuhu kwa sababu ya kutoa sadaka hawa wanyama.
+  * **Mungu alifurahia **- Mungu alifurahishwa na Nuhu kwa sababu ya kutoa sadaka hawa wanyama.
 **[[:sw:obs:notes:frames:03-13|<<]] | [[:sw:obs:notes:03|Up]] | [[:sw:obs:notes:frames:03-15|>>]]**
