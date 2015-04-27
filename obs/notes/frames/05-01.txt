@@ -1,19 +1,25 @@
-===== Hagar [05-01] Hagari =====
+===== Hagar [05-01] Hajiri =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&}}
 
 Ten years after **Abram** and **Sarai** arrived in **Canaan**, **they still did not have a child**. So Abram's wife, Sarai, said to him, “Since **God** has not allowed me to have children and now I am too old to have children, here is my **servant**, **Hagar**. **Marry her also** so she can **have a child for me**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:sw:obs:notes:key-terms:sarah|Sarai]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:servant|servant]]**
-  * **[[:sw:obs:notes:key-terms:hagar|Hagar]]**
-===== Translation Notes: =====
+Miaka kumi baada ya **Abramu** na **Sarai ** kufika **Kanani, bado hawakuwa na mtoto**. Kwa hivyo mke wa Abramu, Sarai akamwambia, "Kuona **Mungu** hajaniruhusu kuwa na wana na sasa nimezeeka kiasi kuwa siwezi kupata wana, ndiye huyu hapa **mtumishi wangu** wangu **Hajiri**. **Muoe** pia na ndiyo **akanizalie mtoto**."
+===== Important Terms (Maneno ya Muhimu): =====
+
+  * **[[:sw:obs:notes:key-terms:abraham|Abram (Abramu)]]**
+  * **[[:sw:obs:notes:key-terms:sarah|Sarai (Sarai)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:servant|servant (mutumishi)]]**
+  * **[[:sw:obs:notes:key-terms:hagar|Hagar (Hajiri)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **still did not have a child**  - Without a child, Abram had no descendants to become a great nation.
+  * **Bado hakuwa na mtoto**  - bila mtoto, Abramu hakuwa na kizazi ndio kufanyika taifa kumbwa.
   * **Marry her also**  - Abram would take Hagar as a second wife, but Hagar would not have the full status of a wife as Sarai did. She was still Sarai's servant.
+  * **Amuoe pia**  - Abramu angechukua Hajiri kama mke wa pili, lakini Hajiri hangepata mamlaka yote ya mke kama Sarai alivyokuwa. Bado alikuwa mtumishi wa Sarai.
   * **have a child for me**  - Since Hagar was Sarai's servant, Sarai would be considered the mother of any children that Hagar bore.
+  * Anizalie mtoto - Kuona Hajiri
+
 **[[:sw:obs:notes:frames:04-09|<<]] | [[:sw:obs:notes:05|Up]] | [[:sw:obs:notes:frames:05-02|>>]]**
