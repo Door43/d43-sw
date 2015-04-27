@@ -1,21 +1,17 @@
-===== Isaac Married Rebekah [06-03] =====
+===== Isaac Married Rebekah [06-03] Isaka akamuoa Rebeka =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?nolink&}}
 
 **Rebekah** **agreed** to leave her family and go back with the **servant** to **Isaac's** home. Isaac married her as soon as she arrived.
 
-===== Important Terms: =====
+**Rebeka akakumbali** kuacha jamii yake na kurudi na yule **mtumishi** **nyumbani kwa Isaka**. Isaka alimuoa muda tu alipofika.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
+  * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac's (ya Isaka)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah]]**
-  * **[[:sw:obs:notes:key-terms:servant|servant]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac's]]**
-
-
-===== Translation Notes: =====
-
-
-  * **Rebekah agreed** - Even though Rebekah's parents were arranging her marriage, they did not force her to go marry Isaac.
-
+  * **Rebekah agreed**  - Even though Rebekah's parents were arranging her marriage, they did not force her to go marry Isaac.
+  * **Rebeka alikubali **- Hata ingawa wazazi wa Rebeka walikuwa wanapanga arusi yake, hawakumulazimisha kwenda kumuoa Isaka.
 **[[:sw:obs:notes:frames:06-02|<<]] | [[:sw:obs:notes:06|Up]] | [[:sw:obs:notes:frames:06-04|>>]]**
