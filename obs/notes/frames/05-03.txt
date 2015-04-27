@@ -4,10 +4,10 @@
 
 God said, “I am **God** Almighty. I will make a **covenant** with you.” Then **Abram** bowed to the ground. God also told Abram, “You will be the **father of many nations**. I will give you and your **descendants** the land of **Canaan** as their possession and **I will be their God** forever. You must **circumcise every male in your family**.”
 
-Bwana akasema,'Mimi ndimi **Mungu ** Mwenye Nguvu. <font 16px/inherit;;inherit;;inherit>Nami nitafanya</font>    **<font 16px/inherit;;inherit;;inherit>agano</font>     ** <font 16px/inherit;;inherit;;inherit>langu kati yangu na</font>    <font 16px/inherit;;inherit;;inherit>wewe.</font>    Naye** Abramu ** akainama chini na kupiga magoti .** Wewe utakuwa baba wa mataifa mengi. ** Nitakupa wewe na **wa****zao** wako na vizazi vijavyo umiliki wa nchi yote ya **Kanaani ** na nitakuwa** Mungu ** wao milele**. Lazima kila mwanaume miongoni mwenu afanyiwe tohara. **
+Mungu akasema,'Mimi ni **Mungu ** Mwenyezi. <font 16px/inherit;;inherit;;inherit>Nami nitaifanya</font>    **<font 16px/inherit;;inherit;;inherit>agano</font>    ** <font 16px/inherit;;inherit;;inherit>langu kati yangu na</font>    <font 16px/inherit;;inherit;;inherit>wewe.</font>    Naye** Abramu ** akainama chini. Mungu alimuambia Abramu,** Wewe utakuwa baba wa mataifa mengi. ** Nitakupa wewe na **vizazi ** vyako nchi ya** kanani** kama uridhi na** nitakuwa Mungu wao milele** **. Lazima kila mwanaume miongoni mwenu afanyiwe tohara. **
 ===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]] - Bwana**
+  * **[[:sw:obs:notes:key-terms:god|God]] - Mungu**
   * **[[:sw:obs:notes:key-terms:covenant|covenant]] - Agano**
   * **[[:sw:obs:notes:key-terms:abraham|Abram]] - Abramu**
   * **[[:sw:obs:notes:key-terms:descendant|descendants]] - uzao**
@@ -15,7 +15,12 @@ Bwana akasema,'Mimi ndimi **Mungu ** Mwenye Nguvu. <font 16px/inherit;;inherit;;
   * **[[:sw:obs:notes:key-terms:circumcise|circumcise]] - Tohara**
 ===== Translation Notes: =====
 
-  * **father of many nations**  (** baba wa mataifa mengi) **- Abram would have many descendants, and they would have their own lands and rule themselves. They and others would remember that Abram was their ancestor and would honor him.
+  * **(father of many nations) ****** ​**Abram would have many descendants, and they would have their own lands and rule themselves. They and others would remember that Abram was their ancestor and would honor him**
+  * **(** baba wa mataifa mengi) **- Abramu atakuwa na zizazi vingi, na watakuwa na nchi yao na watajitawala wenyewe . Wao na wengine watamkumbuka Abramu kama babu ya na watamheshimu.**
   * **I will be their God**  - Another way to say this is, "I will be the God that they will worship."
+  * **Natakuwa Mungu wao**  - Njia nyingine yakusema hii ni kwamba," nitakuwa Mungu ambae watamuabudu."
   * **every male in your family**  - This could be translated as, "every boy and man in your family." This included Abram's servants and his descendants.
+  * **Kila mume katika jamii yako**
+ - Hii inaweza kutafsiriwa kama, kila kijana wa kiume na mume katika jamii yako". Hii inajumulisha watumishi wa Abramu na uzao wake.
+
 **[[:sw:obs:notes:frames:05-02|<<]] | [[:sw:obs:notes:05|Up]] | [[:sw:obs:notes:frames:05-04|>>]]**
