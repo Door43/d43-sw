@@ -1,24 +1,24 @@
-===== A Wife for Isaac [06-01] =====
+===== A Wife for Isaac [06-01] Mke wa Isaka =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?nolink}}
+When **Abraham** was very old, his **son**, **Isaac**, had grown to be a man. So Abraham **sent one of his servants back to the land** where his relatives lived **to bring back a wife for his son**, **Isaac**.
 
-When **Abraham** was very old, his **son**, **Isaac**, had grown to be a man. So Abraham **sent one of his servants back to the land** where his relatives lived **to bring back a wife for his son**, **Isaac**. 
+Wakati **Ibrahimu** alikwa mzee sana, mwanawe Isaka ????. Basi Ibrahimu **akamtuma mmoja wa watumishi wake arudi kwenye nchi ** ambayo jamii yake walipoishi ili arudi na mke wa mwanawe Isaka.
 
-===== Important Terms: =====
+===== Important Terms: Maneno ya Muhimu =====
 
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham]] Ibrahimu**
+  * **[[:sw:obs:notes:key-terms:son|son]] Mwana**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac]] Isaka**
+  * **[[:sw:obs:notes:key-terms:servant|servants]] watumishi**
+===== Translation Notes: Maneno ya Tafsiri =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:sw:obs:notes:key-terms:son|son]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:sw:obs:notes:key-terms:servant|servants]]**
-
-
-===== Translation Notes: =====
-
-
-  * **sent one of his servants back** – This could be translated as, "told one of his servants to go back." The word "back" means that the servant would be going to the same place where Abraham used to live long ago before he came to Canaan. Make sure the translation of this phrase makes that clear.
-  * **to the land** - This land was east of where Abraham was now living.
-  * **to bring back a wife for his son, Isaac** - This could be translated as, "to bring back an unmarried woman for his son, Isaac, to marry".
+  * **sent one of his servants back**  – This could be translated as, "told one of his servants to go back." The word "back" means that the servant would be going to the same place where Abraham used to live long ago before he came to Canaan. Make sure the translation of this phrase makes that clear.
+  * **alimtuma mmoja wa watumishi wake ****alikotoka**-Hii inaweza tafsiriwa kama, "alimwambia mmoja wa watumishi wake arudi alipotoka" jina " rudi" inamaanisha kwamba mtumishi angerudi mahali ambapo Ibrahmu alikuwa anaishi zamani za kale kabla hajaenda Kaanani.
+  * **to the land**  - This land was east of where Abraham was now living.
+  * **nchi - ** Hii nchi ilikuwa mashariki mwa mahali ambapo Ibrahimu alipokuwa anaishi sasa.
+  * **to bring back a wife for his son, Isaac**  - This could be translated as, "to bring back an unmarried woman for his son, Isaac, to marry".
+  * Kurudi na mke wa mkewe Isaka - Hii inaweza kutafsiriwa kama, "kurudi na mwanamke ambaye hajaolewa kwa mwanawe Isaka ili amoe.
 
 **[[:sw:obs:notes:frames:05-10|<<]] | [[:sw:obs:notes:06|Up]] | [[:sw:obs:notes:frames:06-02|>>]]**
