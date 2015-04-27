@@ -1,22 +1,18 @@
-===== Finding Rebekah [06-02] =====
+===== Finding Rebekah [06-02] Kutafuta Rebeka =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink&}}
 
 After a very long journey to the land where **Abraham's** relatives lived, **God** led the **servant** to **Rebekah**. She was the **granddaughter of Abraham's brother**.
 
-===== Important Terms: =====
+Baada ya safari ndefu sana kuelekea nchi ambayo **jamaa wa Ibrahimu** ulikuwa unaishi, **Mungu** akamuelekeza yule **mtumishi kwa Rebeka**. Alikuwa **mjukuu wa ndugu wa Ibrahimu**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham's (ya Ibrahimu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
+  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham's]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:servant|servant]]**
-  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah]]**
-
-
-===== Translation Notes: =====
-
-
-  * **granddaughter of Abraham's brother** - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
-
+  * **granddaughter of Abraham's brother**  - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
+  * **mjukuu wa ndugu wa Ibrahimu**  -  Haswa, alikuwa binti wa mtoto wa nduguye Ibrahimu.
 **[[:sw:obs:notes:frames:06-01|<<]] | [[:sw:obs:notes:06|Up]] | [[:sw:obs:notes:frames:06-03|>>]]**
