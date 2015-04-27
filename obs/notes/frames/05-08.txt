@@ -1,27 +1,27 @@
-===== The Sacrifice [05-08] =====
+===== The Sacrifice [05-08] Dhabihu =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink}}
+When they reached the place of **sacrifice**, **Abraham** tied up his **son Isaac** and laid him on an **altar**. He was about to **kill his son** when **God** said, “**Stop! Do not hurt the boy**! Now I know that **you fear me** because you did not keep **your only son** from me.”
 
-When they reached the place of **sacrifice**, **Abraham** tied up his **son Isaac** and laid him on an **altar**. He was about to **kill his son** when **God** said, “**Stop! Do not hurt the boy**! Now I know that **you fear me** because you did not keep **your only son** from me.” 
+Walipofika mahali ya kutolea **dhabihu**, **Ibrahimu** akafungilia **mwanawe Isaka** na akamuwekelea juu ya **madhabahu**. Alikuwa karibu **kumuuwa mwanawe** wakati Mungu alisema, **"Wacha! Usimuumize huyo kijana!** Sasa ninajua kuwa **unaniogopa** sababu hukunizilia **mwanao wa pekee**."
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice (dhabihu)]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
+  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
+  * **[[:sw:obs:notes:key-terms:altar|altar (madhabahu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-  * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:sw:obs:notes:key-terms:son|son]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:sw:obs:notes:key-terms:altar|altar]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-
-
-===== Translation Notes: =====
-
-
-  * **kill his son** - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
-  * **Stop! Do no hurt the boy!** - God protected Isaac and kept Abraham from killing him.
-  * **you fear me** - Abraham feared God, which included respect and reverence for God. Because of those things, he obeyed God.
-  * **your only son** - Ishmael was also Abraham's son, but Isaac was the only son of Abraham and Sarah. God's covenant was with Isaac and it was through Isaac that God would fulfill his promise.
+  * **kill his son**  - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
+  * **kumuua mwanawe**  - Mungu hakutaka mwanadamu kutolewa dhabihu kwake. Mungu alitaka kuona kwamba Ibrahimu alimpenda kuliko mwanawe na atamtii hata wakati Mungu alimwambia amrudishie.
+  * **Stop! Do no hurt the boy!**  - God protected Isaac and kept Abraham from killing him.
+  * **Wacha! Usimuumize huyo kijana!**  - Mungu alimulinda Isaka na akamuzuilia Ibrahimu asimuue.
+  * **you fear me**  - Abraham feared God, which included respect and reverence for God. Because of those things, he obeyed God.
+  * **Unaniogopa**  - Ibrahimu alimogopa Mungu, hii ilikuwa pamoja na kumheshimu kumcha Mungu. Sababu ya mambo hayo, akamtii Mungu.
+  * **your only son**  - Ishmael was also Abraham's son, but Isaac was the only son of Abraham and Sarah. God's covenant was with Abraham and it was through Isaac that God would fulfill his promise.
+  * Mwanao wa pekee - Ishmaeli pia alikuwa mwana wa Ibrahimu, lakini Isaka ndiye pekee alikuwa mwana wa Ibrahimu na Sara. Agano ya Mungu ilikuwa na Ibrahimu na ni kupitia kwa Isaka atatimiza ahadi yake.
 
 **[[:sw:obs:notes:frames:05-07|<<]] | [[:sw:obs:notes:05|Up]] | [[:sw:obs:notes:frames:05-09|>>]]**
