@@ -4,12 +4,12 @@
 
 Nearby **Abraham** saw **a ram** that was stuck in a bush. **God had provided the ram** to be the **sacrifice** instead of **Isaac**. Abraham happily offered the ram as a sacrifice.
 
-Hapo karibu Ibrahimu akamuona kondoo wa kiume amekwama katika msitu. Mungu alikuwa amepeana kondoo awe dhabihu badala ya Isaka. Ibrahimu kwa furaha akamtoa kondoo kama dhabihu.
+Hapo karibu Ibrahimu akamuona kondoo wa kiume amekwama katika kichaka. Mungu alikuwa amepeana kondoo awe dhabihu badala ya Isaka. Ibrahimu kwa furaha akamtoa kondoo kama dhabihu.
 
-===== Important Terms: Maelezo Muhimu =====
+===== Important Terms: Maelezo Ya Muhimu =====
 
   * **[[:sw:obs:notes:key-terms:abraham|Abraham]] - Ibrahimu**
-  * **[[:sw:obs:notes:key-terms:god|God]]    - Mungu**
+  * **[[:sw:obs:notes:key-terms:god|God]] - Mungu**
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice]] - Dhabihu**
   * **[[:sw:obs:notes:key-terms:isaac|Isaac]] - Isaka**
 ===== Translation Notes: Maelezo ya Tafsiri =====
@@ -17,5 +17,5 @@ Hapo karibu Ibrahimu akamuona kondoo wa kiume amekwama katika msitu. Mungu aliku
   * **a ram**  - This is a male sheep. sheep were one of the animals that people could sacrifice to God.
   * **Kondoo wa kiume**  - Huyu ni kondoo wa kiume. Kondoo walikuwa wanyama waliotumiwa na watu kutoa dhabihu kwa Mungu.
   * **God had provided the ram**  - Just at the right moment, God caused the ram to be stuck in the bush.
-  * **Mungu alimpeana kondoo wa kiume**  - kwa wakati unaofaa, Mungu alisababisha kondoo kukwama katika msitu.
+  * **Mungu alimpeana kondoo wa kiume**  - kwa wakati unaofaa, Mungu alisababisha kondoo kukwama katika kichaka.
 **[[:sw:obs:notes:frames:05-08|<<]] | [[:sw:obs:notes:05|Up]] | [[:sw:obs:notes:frames:05-10|>>]]**
