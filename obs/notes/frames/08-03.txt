@@ -1,21 +1,16 @@
-===== The Brothers' Lie [08-03] =====
+===== The Brothers' Lie [08-03] Uongo wa Ndugu =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?nolink}}
+Before **Joseph’s** brothers returned home, they tore Joseph’s robe and dipped it in **goat's blood**. Then they showed the robe to their father so he would think that a wild animal had killed Joseph. **Jacob** was very sad.
 
-Before **Joseph’s** brothers returned home, they tore Joseph’s robe and dipped it in **goat's blood**. Then they showed the robe to their father so he would think that a wild animal had killed Joseph. **Jacob** was very sad. 
+Kabla ya ndugu za **Yosefu** kurudi nyumbani, walirarua vazi la Yosefu na wakaitumbukiza kwa **ndamu ya mbuzi**. Halafu wakamuonyesha baba yao lile vazi ili baba yao akafikirie kuwa mnyama poli amemuua Yosefu. **Yakobo** alikasirika sana.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:joseph|Joseph's (ya Yosefu)]]**
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-  * **[[:sw:obs:notes:key-terms:joseph|Joseph's]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-
-
-==== Translation Notes: ====
-
-
-  * **goat's blood** - The brothers wanted Jacob to think that the blood on the clothes was Joseph's blood.
-
-
+  * **goat's blood**  - The brothers wanted Jacob to think that the blood on the clothes was Joseph's blood.
+  * **ndamu ya mbuzi**  - Wale wandugu walitaka Yakobo afikirie kwamba damu iliyokuwa kwa nguo ilikuwa ya Yosefu.
 **[[:sw:obs:notes:frames:08-02|<<]] | [[:sw:obs:notes:08|Up]] | [[:sw:obs:notes:frames:08-04|>>]]**
