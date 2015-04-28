@@ -1,24 +1,20 @@
-===== The Boys Grew Up [07-01] =====
+===== The Boys Grew Up [07-01] Wavulana wakakua =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink}}
+As the boys grew up, **Jacob loved to stay at home**, but **Esau loved to hunt**. **Rebekah loved Jacob**, **but Isaac loved Esau**.
 
-As the boys grew up, **Jacob loved to stay at home**, but **Esau loved to hunt**. **Rebekah loved Jacob**, **but Isaac loved Esau**. 
+Wale wavulana walipokua, **Yakobo alipenda kukaa nyumbani**, lakini **Esau alipenda kuwinda**. **Rebeka alimpenda Yakobo, lakini Isaka alimpenda Esau**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+  * **[[:sw:obs:notes:key-terms:esau|Esau (Esau)]]**
+  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:sw:obs:notes:key-terms:esau|Esau]]**
-  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
-
-
-===== Translation Notes: =====
-
-
-  * **loved to stay at home … loved to hunt** - Some languages will use a word for "love" here that is different from the one used for, "Rebekah loved Jacob." For example, this could be translated as, "liked to stay at home … liked to hunt" or, "preferred to stay at home … preferred to hunt."
-  * **at home** - This expression refers to the area around the family dwellings. Jacob preferred to stay close to the tents where they lived. Some languages have a special expression for, "at home."
-  * **Rebekah loved Jacob, but Isaac loved Esau** - This could be translated as, "Rebekah was more fond of Jacob, and Isaac was more fond of Esau." This does not necessarily mean that Rebekah and Isaac did not love the other son, but that each parent had a favorite.
-
+  * **loved to stay at home … loved to hunt**  - Some languages will use a word for "love" here that is different from the one used for, "Rebekah loved Jacob." For example, this could be translated as, "liked to stay at home … liked to hunt" or, "preferred to stay at home … preferred to hunt."
+  * **alipenda kukaa nyumbani...alipenda kuwinda**  - Lugha zingine zitatumia neno la "upendo" hapa
+  * **at home**  - This expression refers to the area around the family dwellings. Jacob preferred to stay close to the tents where they lived. Some languages have a special expression for, "at home."
+  * **Rebekah loved Jacob, but Isaac loved Esau**  - This could be translated as, "Rebekah was more fond of Jacob, and Isaac was more fond of Esau." This does not necessarily mean that Rebekah and Isaac did not love the other son, but that each parent had a favorite.
 **[[:sw:obs:notes:frames:06-07|<<]] | [[:sw:obs:notes:07|Up]] | [[:sw:obs:notes:frames:07-02|>>]]**
