@@ -1,26 +1,26 @@
-===== Twins Were Born [06-07] =====
+===== Twins Were Born [06-07] Mapacha wakazaliwa =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?nolink}}
+When **Rebekah's babies were born**, **the older son** came out **red** and **hairy**, and they named him **Esau**. Then **the younger son** came out holding on to Esau's heel, and they named him **Jacob**.
 
-When **Rebekah's babies were born**, **the older son** came out **red** and **hairy**, and they named him **Esau**. Then **the younger son** came out holding on to Esau's heel, and they named him **Jacob**. 
+Wakati **watoto wa Rebeka walizaliwa**, **yule mwana aliye mkuu** akatoka akiwa na **rangi nyekundu** na **nywele**, na jina lake wakamuita **Esau**.  **Mwana aliye mndogo** akatoka anashikilia kisigino cha Esau na wakamuita **Yakobo**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah's (ya Rebeka)]]**
+  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+  * **[[:sw:obs:notes:key-terms:esau|Esau (Esau)]]**
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah's]]**
-  * **[[:sw:obs:notes:key-terms:son|son]]**
-  * **[[:sw:obs:notes:key-terms:esau|Esau]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-
-
-===== Translation Notes: =====
-
-
-  * **Rebekah's babies were born** - Some languages have a more indirect way of saying this such as, "when Rebekah saw and took them" or, "when Rebekah brought them to light."
-  * **the older son … the younger son** - This could be translated as, "the first son to come out … the second son to come out." Make sure that the way "older" and "younger" are translated still communicates that the boys were twins.
-  * **red** - This may mean that his skin was very red or that the hair on his body was red.
-  * **hairy** - Esau had a lot of hair on his body. You could say, "the older son's body was red, with lots of hair."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **Rebekah's babies were born**  - Some languages have a more indirect way of saying this such as, "when Rebekah saw and took them" or, "when Rebekah brought them to light."
+  * **Watoto wa Rebeka wakazaliwa**  - Lugha zingine ziko na njia isiyo ya moja kwa moja ya kusema haya kama, "Rebeka alipowaona na kuwashika na mikono yake" ama "wakati Rebeka aliwaleta kwa mwanga."
+  * **the older son … the younger son**  - This could be translated as, "the first son to come out … the second son to come out." Make sure that the way "older" and "younger" are translated still communicates that the boys were twins.
+  * **Mwana aliye mkuu...mwana aliye mdogo**  - Hii inaweza kutafsiriwa kama, "mwana aliyetoka kwanza...mwana aliyetoka wa pili." Hakikisha kuwa vile "mkuu" na "mdogo" zinatafsiriwa zitaonyesha kuwa hawa vijani walikuwa mapacha.
+  * **red**  - This may mean that his skin was very red or that the hair on his body was red.
+  * **nyekundu**  - Hii inaweza maanisha kuwa ngozi ilikuwa nyekundu sana ama kuwa nywele katika mwili wake ilikuwa nyekundu.
+  * **hairy**  - Esau had a lot of hair on his body. You could say, "the older son's body was red, with lots of hair."
+  * **kuwa na nywele**  - Esau alikuwa na nywele nyingi mwilini mwake. Unaweza sema, "mwili wa mwana aliyekuwa mkuu, ulikuwa mwekundu na nywele nyingi."
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * //Hadithi ya Biblia kutoka//  - marajeleo haya yaweza kuwa tofauti kiasi na tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:06-06|<<]] | [[:sw:obs:notes:06|Up]] | [[:sw:obs:notes:frames:07-01|>>]]**
