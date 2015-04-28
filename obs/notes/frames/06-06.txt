@@ -1,25 +1,23 @@
-===== Two Nations [06-06] =====
+===== Two Nations [06-06] Mataifa mawili =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink}}
+**God** told **Rebekah**, “Two nations will come **from the two sons** inside of you. **They will struggle with each other** and **the older son** will **serve the younger one**.”
 
-**God** told **Rebekah**, “Two nations will come **from the two sons** inside of you. **They will struggle with each other** and **the older son** will **serve the younger one**.” 
+Mungu akamwambia Rebeka, "mataifa mawili zitatoka kutoka kwa wana wawili waliyomo ndani yako. **Watapambana moja na mwingine** na **mwanao aliye mkubwa** **atamutumikia aliye mdogo**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
+  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Important Terms: =====
-
-
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah]]**
-  * **[[:sw:obs:notes:key-terms:son|son]]**
-
-
-===== Translation Notes: =====
-
-
-  * **from the two sons** - That is, "from the descendants of the two sons."
-  * **They will struggle with each other** - Both the two sons and the nations that will come from them will continually fight with each other. Compare to **[[:sw:obs:notes:frames:06-05|[06-05]]]**.
-  * **the older son** - Even though the babies were twins, the baby that came out first would be treated as the older son.
-  * **serve the younger one** – This could be translated as, "the older son will have to do what the younger one tells him to do."
-
+  * **from the two sons**  - That is, "from the descendants of the two sons."
+  * **kutoka kwa wana wawili **- Hiyo ni, "kutoka kwa uzao wa wale wana wawili."
+  * **They will struggle with each other**  - Both the two sons and the nations that will come from them will continually fight with each other. Compare to **[[:sw:obs:notes:frames:06-05|[06-05]]]**.
+  * **Watapambana moja na mwingine**  - Wana hawa wawili na mataifa yatakayotoka ndani yao watapigana moja na mwingine mbila kukoma. Linganisha na **[06-05]**
+  * **the older son**  - Even though the babies were twins, the baby that came out first would be treated as the older son.
+  * **mwana aliye mkuu**  - ingawa wale watoto walikuwa mapacha, mtoto aliyetoka mbele ndiye atahesabiwa kama mwana aliye mkuu.
+  * **serve the younger one**  – This could be translated as, "the older son will have to do what the younger one tells him to do."
+  * **Kumutumikia aliye mdogo**  - Hii inaweza kutafsiriwa kama, "mwana aliye mkuu atalazimika kufanya kile aliye mdogo atamwambia afanye."
 **[[:sw:obs:notes:frames:06-05|<<]] | [[:sw:obs:notes:06|Up]] | [[:sw:obs:notes:frames:06-07|>>]]**
