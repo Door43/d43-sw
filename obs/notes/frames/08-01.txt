@@ -1,25 +1,24 @@
-===== Joseph, the Favorite Son [08-01] =====
+===== Joseph, the Favorite Son [08-01] Yosefu, mwana aliye na kibali =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink}}
+Many years later, when **Jacob** was an old man, he **sent** his **favorite son**, **Joseph**, to **check on** his **brothers** who were **taking care of the herds**.
 
-Many years later, when **Jacob** was an old man, he **sent** his **favorite son**, **Joseph**, to **check on** his **brothers** who were **taking care of the herds**. 
+Miaka mingi baadaye, wakati **Yakobo** alikuwa mzee, **alituma mwanaye aliyempenda, Yosefu**, **kuwaangalia** **ndugu ** zake ambao walikuwa **wanachunga mifugo**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+  * **[[:sw:obs:notes:key-terms:joseph|Joseph (Yosefu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:sw:obs:notes:key-terms:joseph|Joseph]]**
-
-
-==== Translation Notes: ====
-
-
-  * **sent** – This word means that Jacob told Joseph to go and Joseph went.
-  * **favorite son** - This could be translated as, "the son he loved more than any of his other children."
-  * **check on** - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, "to see his brothers' well-being."
-  * **brothers** - These were Joseph's older brothers.
-  * **taking care of the herds** – Since this was several days' journey away, it may be necessary to say, "who were far away taking care of."
-
-
+  * **sent**  – This word means that Jacob told Joseph to go and Joseph went.
+  * **alituma**  - Hili neno zina maana kuwa Yakobo alimwambia Yosefu na Yosefu akaenda.
+  * **favorite son**  - This could be translated as, "the son he loved more than any of his other children."
+  * **Mwana aliye mpenda**  - Hii inaweza kutafsiriwa kama, "mwana aliye mpenda kuliko watoto wake wengine."
+  * **check on**  - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, "to see his brothers' well-being."
+  * kuwaangalia - Hii inamanisha kuwa Yosefu alikuwa aende na aone kama kila kitu iko sawa na ndugu zake. Lugha zingine zaweza sema kitu kama, "kuangalia ustawi wa ndugu zake."
+  * **brothers**  - These were Joseph's older brothers.
+  * **ndugu**  - Hawa walikuwa ndugu wakubwa wa Yosefu.
+  * **taking care of the herds**  – Since this was several days' journey away, it may be necessary to say, "who were far away taking care of."
+  * **Kulinda mifugo**  - Sababu hii ilikuwa umbali wa safari ya siku kadhaa, itakuwa muhimu kusema, "waliokuwa mbali wakitunza."
 **[[:sw:obs:notes:frames:07-10|<<]] | [[:sw:obs:notes:08|Up]] | [[:sw:obs:notes:frames:08-02|>>]]**
