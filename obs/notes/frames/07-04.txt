@@ -1,23 +1,20 @@
-===== Isaac Blessed Jacob [07-04] =====
+===== Isaac Blessed Jacob [07-04] Isaka alimbariki Yakobo =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink&}}
 
 **Jacob came to Isaac** and said, “I am **Esau**. I have come so that you can **bless** me.” When Isaac felt the goat hair and smelled the clothes, **he thought it was Esau** and blessed him.
 
-===== Important Terms: =====
+**Yakobo alikuja kwa Isaka** na akasema, "Mimi ni **Esau**. Nimekuja ndio ukaweze **kunibariki**." Wakati Isaka alisikia ile nywele ya ngozi ya mbuzi na akanusa nguo, **alifikiri ni Esau ** na akambariki.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
+  * **[[:sw:obs:notes:key-terms:esau|Esau (Esau)]]**
+  * **[[:sw:obs:notes:key-terms:bless|bless (bariki)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:sw:obs:notes:key-terms:esau|Esau]]**
-  * **[[:sw:obs:notes:key-terms:bless|bless]]**
-
-
-===== Translation Notes: =====
-
-
-  * **Jacob came to Isaac** - In some languages it might be more natural to say, "Jacob went to Isaac."
-  * **he thought it was Esau** - He thought that the person he was touching and smelling was Esau.
-
+  * **Jacob came to Isaac**  - In some languages it might be more natural to say, "Jacob went to Isaac."
+  * **Yakobo alikuja kwa Isaka**  - Katika lugha zingine itakuwa rahisi zaidi kusema, "Yakobo alienda kwa Isaka."
+  * **he thought it was Esau**  - He thought that the person he was touching and smelling was Esau.
+  * **Alifikiria ni Esau **- Alifikiria kuwa yule mtu aliyekuwa anamugusa na kunusa alikuwa Esau.
 **[[:sw:obs:notes:frames:07-03|<<]] | [[:sw:obs:notes:07|Up]] | [[:sw:obs:notes:frames:07-05|>>]]**
