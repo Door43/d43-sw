@@ -1,32 +1,27 @@
-===== The Brothers Were Reunited [07-10] =====
+===== The Brothers Were Reunited [07-10] Ndugu waliunganishwa =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink}}
+But **Esau** had already **forgiven Jacob**, and they were happy to see each other again. Jacob then **lived peacefully** in **Canaan**. Then **Isaac** died, and Jacob and Esau **buried him**. The **covenant promises God** had promised to **Abraham** now **passed on from Isaac to Jacob**.
 
-But **Esau** had already **forgiven Jacob**, and they were happy to see each other again. Jacob then **lived peacefully** in **Canaan**. Then **Isaac** died, and Jacob and Esau **buried him**. The **covenant promises God** had promised to **Abraham** now **passed on from Isaac to Jacob**. 
+Lakini **Esau** alikuwa tayari **amemsamehe Yakobo**,  na walifurahia kuonana tena. Basi Yakobo **akaishi kwa amani Kanani.** Halafu **Isaka** akafa, na Yakobo wakiwa na Esau **wakamzika**. Na **ahadi za agano** ambazo Mungu alikuwa amemuahidi Ibrahimu **zikaptisha kutoka kwa Isaka hadi kwa Yakobo**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:esau|Esau (Esau)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgiven (kumsamehe)]]**
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+  * **[[:sw:obs:notes:key-terms:peace|peacefully (kwa amani)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
+  * **[[:sw:obs:notes:key-terms:covenant|covenant (agano)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promises (ahadi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-  * **[[:sw:obs:notes:key-terms:esau|Esau]]**
-  * **[[:sw:obs:notes:key-terms:forgive|forgiven]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:sw:obs:notes:key-terms:peace|peacefully]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:sw:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:sw:obs:notes:key-terms:promise|promises]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
-
-
-===== Translation Notes: =====
-
-
-  * **lived peacefully** - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
-  * **buried him** - This could mean that they dug a hole in the ground, placed Isaac's body in it, and covered the hole with dirt or stones. Or it could mean that they placed Isaac's body in a cave and covered the opening.
-  * **covenant promises** - These were the promises that God made in his covenant with Abraham.
-  * **passed on from Isaac to Jacob** - The promises went from Abraham to his son Isaac, and now to Isaac's son Jacob. Esau did not receive the promises. See also **[[:sw:obs:notes:frames:06-04|[06-04]]]**.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **lived peacefully**  - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
+  * **buried him**  - This could mean that they dug a hole in the ground, placed Isaac's body in it, and covered the hole with dirt or stones. Or it could mean that they placed Isaac's body in a cave and covered the opening.
+  * **covenant promises**  - These were the promises that God made in his covenant with Abraham.
+  * **passed on from Isaac to Jacob**  - The promises went from Abraham to his son Isaac, and now to Isaac's son Jacob. Esau did not receive the promises. See also **[[:sw:obs:notes:frames:06-04|[06-04]]]**.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:sw:obs:notes:frames:07-09|<<]] | [[:sw:obs:notes:07|Up]] | [[:sw:obs:notes:frames:08-01|>>]]**
