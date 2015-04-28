@@ -1,21 +1,17 @@
-===== Jacob Returned Home [07-08] =====
+===== Jacob Returned Home [07-08] Yakobo alirudi Nyumbani =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink}}
+**After twenty years** away from his home in **Canaan**, **Jacob** returned there with his family, his **servants**, and all his herds of animals.
 
-**After twenty years** away from his home in **Canaan**, **Jacob** returned there with his family, his **servants**, and all his herds of animals. 
+**Baada ya miaka ishirini ** mbali na kwa nyumbani kule **Kanani, Yakobo** akarudi huko na jamii yake, **watumishi ** wake, na vikundi vyake vya wanyama.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+  * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:sw:obs:notes:key-terms:servant|servants]]**
-
-
-===== Translation Notes: =====
-
-
-  * **after twenty years** - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, "After twenty years living in the land where his relatives were."
-
+  * **after twenty years**  - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, "After twenty years living in the land where his relatives were."
+  * **baada ya miaka ishirini **- Yakobo alikuwa ameishi miaka ishirini katika nchi ile alikotoka mama yake. Kama hiyo haieleweki vyema unaweza kusema, "baada ya miaka ishirini akiishi mahali watu wa jamaa zao wako."
 **[[:sw:obs:notes:frames:07-07|<<]] | [[:sw:obs:notes:07|Up]] | [[:sw:obs:notes:frames:07-09|>>]]**
