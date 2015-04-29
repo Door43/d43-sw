@@ -1,26 +1,24 @@
-===== Joseph Interpreted the Dream [08-07] =====
+===== Joseph Interpreted the Dream [08-07] Yosefu alitafsiri ndoto =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink}}
+**God** had given **Joseph** the ability to **interpret dreams**, so **Pharaoh had Joseph brought to him** from the prison. Joseph interpreted the dreams for him and said, “**God is going to send** seven years of plentiful harvests, followed by seven years of **famine**.”
 
-**God** had given **Joseph** the ability to **interpret dreams**, so **Pharaoh had Joseph brought to him** from the prison. Joseph interpreted the dreams for him and said, “**God is going to send** seven years of plentiful harvests, followed by seven years of **famine**.” 
+**Mungu** alikuwa amempea **Yosefu** uwezo wa **kutafsiri ndoto**, kwa hivyo Farao akafanya Yosefu aletwe kwake kutoka gerezani. Yosefu akamtafsiria zile ndoto na akasema, "**Mungu anaenda kuleta** miaka saba ya mavuno mengi, ikifuatiwa na miaka saba ya **njaa**."
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:joseph|Joseph (Yosefu)]]**
+  * **[[:sw:obs:notes:key-terms:dream|dreams (ndoto)]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:sw:obs:notes:key-terms:dream|dreams]]**
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-
-
-==== Translation Notes: ====
-
-
-  * **interpret dreams** - To "interpret" is to tell what something means. So Joseph was able to tell people what their dreams meant.
-  * **had Joseph brought to him** - Another way to say this would be, "ordered his servants to bring Joseph to him."
-  * **God is going to send** - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat.
-  * **famine** - The gardens and fields would produce so little food that people and animals would not have enough to eat.
-
-
+  * **interpret dreams**  - To "interpret" is to tell what something means. So Joseph was able to tell people what their dreams meant.
+  * **tafsiri ndoto**  - "Kutafsiri" ni kueleza maana ya kitu. Kwa hivyo, Yosefu aliweza kuwaambia watu ndoto zao zilimaanisha nini.
+  * **had Joseph brought to him**  - Another way to say this would be, "ordered his servants to bring Joseph to him."
+  * **Akafanya Yosefu aletwe kwake**  - Njia ingine ya kueleza hii yaweza kuwa, "aliamurisha watumishi wake walete Yosefu kwake."
+  * **God is going to send**  - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat.
+  * **Mungu anaenda kuleta**  - Mungu atafanya mimea ikue vizuri kwa miaka saba, na baada ya hiyo ataifanya izalishe chakula ndogo kiasi ya kuwa watu na wanyama hawatakuwa na yakutosha.
+  * **famine**  - The gardens and fields would produce so little food that people and animals would not have enough to eat.
+  * **njaa**  - Zile bustani na mashamba zitazalisha chakula kidogo kiasi ya kuwa watu na wanyama hawatakuwa ta chakula ya kutosha.
 **[[:sw:obs:notes:frames:08-06|<<]] | [[:sw:obs:notes:08|Up]] | [[:sw:obs:notes:frames:08-08|>>]]**
