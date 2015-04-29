@@ -1,27 +1,24 @@
-===== Pharaoh's Dream [08-06] =====
+===== Pharaoh's Dream [08-06] Ndoto ya Farao =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink}}
+After two years, **Joseph** was still in prison, even though he was **innocent**. One night, the **Pharaoh**, which is what the **Egyptians** called their **kings**, had two **dreams** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**.
 
-After two years, **Joseph** was still in prison, even though he was **innocent**. One night, the **Pharaoh**, which is what the **Egyptians** called their **kings**, had two **dreams** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**. 
+Baada ya miaka miwili, **Yosefu** bado alikuwa gerezani, ingawa alikuwa **hana hatia**. Usiku mmoja, **Farao**, ambayo ndivyo **watu wa Misri** waliwaita **wafalme** wao, akaota ndoto mbili **zilizomsumbua sana**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:joseph|Joseph (Yosefu)]]**
+  * **[[:sw:obs:notes:key-terms:innocent|innocent (mbila hatia)]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
+  * **[[:sw:obs:notes:key-terms:king|kings (wafalme)]]**
+  * **[[:sw:obs:notes:key-terms:dream|dreams (ndoto)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-  * **[[:sw:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:sw:obs:notes:key-terms:innocent|innocent]]**
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:sw:obs:notes:key-terms:king|kings]]**
-  * **[[:sw:obs:notes:key-terms:dream|dreams]]**
-
-
-==== Translation Notes: ====
-
-
-  * **disturbed him greatly** – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
-  * **his advisors** - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, "wise men."
-  * **meaning of the dreams** - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
-
-
+  * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
+  * **ilimusumbua sana **- Hii inamaanisha kuwa yule mfalme aliogopa sana na kuchanganyikiwa (kwa sababu ya kile aliona katika ndoto).
+  * **his advisors**  - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, "wise men."
+  * **washauri wake**  - Hawa walikuwa wanaume waliokuwa na nguvu maluum na maarifa ambao wakati mwingine wngeeleza maana ya ndoto. Tafsiri zingine ninawaita, "wanaume wenye hekima."
+  * **meaning of the dreams**  - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
+  * **maana ya ndoto**  - watu kule Misri waliamini kuwa ndoto ni ujumbe kutoka kwa miungu zinazowaambia kile kitafanyika siku za usoni. Mungu alitumia ndoto za Farao kimwambia kile kitafanyika.
 **[[:sw:obs:notes:frames:08-05|<<]] | [[:sw:obs:notes:08|Up]] | [[:sw:obs:notes:frames:08-07|>>]]**
