@@ -1,23 +1,19 @@
-===== The Famine [08-10] =====
+===== The Famine [08-10] Njaa =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?nolink}}
+**The famine was severe** not only in **Egypt**, but also in **Canaan** where **Jacob** and his family lived.
 
-**The famine was severe** not only in **Egypt**, but also in **Canaan** where **Jacob** and his family lived. 
+**Njaa ilikuwa nzito sana** sio tu kule **Misri**, lakini hata **Kanani** mahali **Yakobo** na jamii yake waliishi.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Egypt, but also Canaan** – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
-  * **The famine was severe** - The famine was very bad. There was very little food and many people outside of Egypt were starving.
-
-
+  * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
+  * **Misri na pia Kanani **- Kwa lugha zingine inaweza kuleweka vizuri zaidi na iwe rahisi kusema, "Nchi ya Misri, na pia nchi ya Kanani."
+  * **The famine was severe**  - The famine was very bad. There was very little food and many people outside of Egypt were starving.
+  * **Njaa ilikuwa nzito sana**  - Ile njaa ilikuwa mbaya sana. Kulikuwa na chakula kindogo sana na watu wengi nje ya Misri walikuwa wanakufa njaa.
 **[[:sw:obs:notes:frames:08-09|<<]] | [[:sw:obs:notes:08|Up]] | [[:sw:obs:notes:frames:08-11|>>]]**
