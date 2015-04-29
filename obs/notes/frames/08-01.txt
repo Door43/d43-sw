@@ -1,10 +1,10 @@
-===== Joseph, the Favorite Son [08-01] Yosefu, mwana aliye na kibali =====
+===== Joseph, the Favorite Son [08-01] Yosefu, mwana aliyependwa *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink&}}
 
 Many years later, when **Jacob** was an old man, he **sent** his **favorite son**, **Joseph**, to **check on** his **brothers** who were **taking care of the herds**.
 
-Miaka mingi baadaye, wakati **Yakobo** alikuwa mzee, **alituma mwanaye aliyempenda, Yosefu**, **kuwaangalia** **ndugu ** zake ambao walikuwa **wanachunga mifugo**.
+Miaka mingi baadaye, wakati **Yakobo** alikuwa mzee, **alituma mwanawe aliyempenda zaidi, Yosefu**, **kuwaangalia** **ndugu ** zake ambao walikuwa **wanachunga mifugo**.
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
@@ -12,11 +12,11 @@ Miaka mingi baadaye, wakati **Yakobo** alikuwa mzee, **alituma mwanaye aliyempen
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **sent**  – This word means that Jacob told Joseph to go and Joseph went.
-  * **alituma**  - Hili neno zina maana kuwa Yakobo alimwambia Yosefu na Yosefu akaenda.
+  * **alituma**  - Hili neno lina maana kuwa Yakobo alimwambia Yosefu na Yosefu akaenda.
   * **favorite son**  - This could be translated as, "the son he loved more than any of his other children."
   * **Mwana aliye mpenda**  - Hii inaweza kutafsiriwa kama, "mwana aliye mpenda kuliko watoto wake wengine."
   * **check on**  - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, "to see his brothers' well-being."
-  * kuwaangalia - Hii inamanisha kuwa Yosefu alikuwa aende na aone kama kila kitu iko sawa na ndugu zake. Lugha zingine zaweza sema kitu kama, "kuangalia ustawi wa ndugu zake."
+  * **kuwaangalia**  - Hii inamanisha kuwa Yosefu alikuwa aende na aone kama kila kitu iko sawa na ndugu zake. Lugha zingine zaweza sema kitu kama, "kuangalia ustawi wa ndugu zake."
   * **brothers**  - These were Joseph's older brothers.
   * **ndugu**  - Hawa walikuwa ndugu wakubwa wa Yosefu.
   * **taking care of the herds**  – Since this was several days' journey away, it may be necessary to say, "who were far away taking care of."
