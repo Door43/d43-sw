@@ -1,23 +1,19 @@
-===== The Brothers Bought Food [08-11] =====
+===== The Brothers Bought Food [08-11] Ndugu walinunua chakula =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink}}
+So **Jacob** sent **his older sons** to **Egypt** to buy food. The brothers **did not recognize Joseph** when they stood before him to buy food. But Joseph recognized them.
 
-So **Jacob** sent **his older sons** to **Egypt** to buy food. The brothers **did not recognize Joseph** when they stood before him to buy food. But Joseph recognized them. 
+Kwa hivyo **Yakobo** akatuma **wanao walio wakubwa** **Misri ** kununua chakula. Wale ndugu **hawakumtabua Yosefu** waliposimama mbele yake kununua chakula. Lakini Yosefu aliwatambua.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+  * **[[:sw:obs:notes:key-terms:joseph|Joseph (Yosefu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:sw:obs:notes:key-terms:joseph|Joseph]]**
-
-
-==== Translation Notes: ====
-
-
-  * **his older sons** - These were Joseph's older brothers who had sold him into slavery.
-  * **did not recognize Joseph** - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
-
-
+  * **his older sons**  - These were Joseph's older brothers who had sold him into slavery.
+  * **wanao walio wakubwa**  - Hawa ni ndugu wa Yosefu waliomuuza kwa utumwa.
+  * **did not recognize Joseph**  - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
+  * **hawakumtambua Yosefu**  - Hawakujua kuwa yule mwanaume alikuwa Yosefu, kwa sababu sasa Yosefu alikuwa na umri zaidi kutoka wakati walimuona mala ya mwisho na alikuwa amevaa kama mtawala wa Misri.
 **[[:sw:obs:notes:frames:08-10|<<]] | [[:sw:obs:notes:08|Up]] | [[:sw:obs:notes:frames:08-12|>>]]**
