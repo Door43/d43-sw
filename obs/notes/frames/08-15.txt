@@ -1,30 +1,28 @@
-===== The Twelve Sons [08-15] =====
+===== The Twelve Sons [08-15] Wana kumi na wawili =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink}}
+The **covenant promises** that **God** gave to **Abraham** were **passed on to Isaac**, then to **Jacob**, and then to Jacob’s twelve sons and their families. The **descendants** of the twelve sons became the **twelve tribes of Israel**.
 
-The **covenant promises** that **God** gave to **Abraham** were **passed on to Isaac**, then to **Jacob**, and then to Jacob’s twelve sons and their families. The **descendants** of the twelve sons became the **twelve tribes of Israel**. 
+Zile **ahadi za agano** ambazo **Mungu** alimpea **Ibrahimu zilipitishwa kwa Isaka**, wakati huo kwa **Yakobo**, na wakati huu kwa wana kumi na wawili wa Yakobo na jamii zao. **Uzao** wa wale wana kumi na wawili zilifanyika zile **makabila kumi na mbili ya Israeli.**
+===== Important Terms (Maneno ya muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:covenant|covenant (agano)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promises (ahadi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+  * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+==== Translation Notes (Tafsiri ya Maelezo): ====
 
-
-  * **[[:sw:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:sw:obs:notes:key-terms:promise|promises]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **covenant promises** - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:sw:obs:notes:frames:07-10|[07-10]]]**.
-  * **passed on to** - Another way to say this would be, "passed down to" or, "given to" or, "applied to." God's promise to Abraham was also for Abraham's children, grandchildren and all the rest of his descendants. See also **[[:sw:obs:notes:frames:06-04|[06-04]]]**.
-  * **twelve tribes of Israel** - God had promised Abraham, Isaac and Jacob that their descendants would become a great nation. God later changed Jacob's name to Israel. The descendants of Jacob's 12 sons became 12 great tribes. These 12 tribes made up the ancient nation called Israel, which was named by Jacob's new name.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **covenant promises**  - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:sw:obs:notes:frames:07-10|[07-10]]]**.
+  * **ahadi za agano**  - muda mrefu uliyopita Mungu alifanya agano na Ibrahimu na akaahidi atampa uzao mwingi; watamiliki nchi ya Kanani na kuwa taifa kubwa. Mungu pia aliahidi kuwa watu wote watabarikiwa kupitia kwa uzao wa Ibrahimu. Ona pia **[07-10].**
+  * **passed on to**  - Another way to say this would be, "passed down to" or, "given to" or, "applied to." God's promise to Abraham was also for Abraham's children, grandchildren and all the rest of his descendants. See also **[[:sw:obs:notes:frames:06-04|[06-04]]]**.
+  * zikapitishwa kwa - Njia ingine ya kusema hii inaweza kuwa, "kupitishwa chini kwa" ama "kupeanwa kwa" ama "kutumiwa kwa." Ahadi ya Mungu kwa Ibrahimu ilikuwa pia ya watoto wa Ibrahimu, wajukuu wake, na uzao mwingine wake wote. Ona pia **[06-04].**
+  * **twelve tribes of Israel**  - God had promised Abraham, Isaac and Jacob that their descendants would become a great nation. God later changed Jacob's name to Israel. The descendants of Jacob's 12 sons became 12 great tribes. These 12 tribes made up the ancient nation called Israel, which was named by Jacob's new name.
+  * **makabila kumi na mbili ya Israeli**- Mungu alikuwa amemuahidi Ibrahimu, Isaka na Yakobo kuwa uzao wake utakuwa taifa kubwa. Mungu baadaye alibadilisha jina la Yakobo likawa Israeli. Uzao wa wana 12 wa Yakobo wakafanyika makabila 12 makuu. Hizi makabila 12 zikatengeneza nchi ya kale ilioitwa Israeli, ambalo ni jina mpya la Yakobo.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yanaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:08-14|<<]] | [[:sw:obs:notes:08|Up]] | [[:sw:obs:notes:frames:09-01|>>]]**
