@@ -1,23 +1,20 @@
-===== Pharaoh's Daughter [09-07] =====
+===== Pharaoh's Daughter [09-07] Binti wa Farao =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?nolink&}}
 
 A daughter of **Pharaoh** saw the basket and looked inside. When she saw the baby, she **took him as her own son**. She hired an **Israelite** woman **to nurse him** without realizing the woman was the baby’s own mother. When the child was old enough that he no longer needed his mother's milk, she returned him to Pharaoh’s daughter, who named him **Moses**.
-===== Important Terms: =====
 
+Binti wa **Farao** akaona kile kikapu na akaangalia ndani, alipomwona mtoto, **akamchukua kama mtoto wake**. Akamuajiri mwanamke **muisraeli kumutunza** bila kujua yule mwanamke alikuwa mamake yule mtoto. Mtoto alipokua mkubwa kiasi kuwa hakuhitaji tena kunyonyeshwa na mama, akamurudisha kwa binti wa Farao, aliyemuita jina lake **Musa**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:sw:obs:notes:key-terms:son|son]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelite (Muisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **took him as her own son** - She was a princess. When she made him her son, he became a prince of Egypt.
-  * **to nurse him** - Another way to say this would be, "to breastfeed him."
-
-
+  * **took him as her own son**  - She was a princess. When she made him her son, he became a prince of Egypt.
+  * **akamchukua kama mwanawe**  - Alikuwa binti wa mfalme. Alipomfanya yule mvulana mwanawe, alifanyika mwana wa mfalme wa Misri.
+  * **to nurse him**  - Another way to say this would be, "to breastfeed him."
+  * **Kumutunza**  - njia ingine wa kusema haya yaweza kuwa, "kumnyonyesha."
 **[[:sw:obs:notes:frames:09-06|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-08|>>]]**
