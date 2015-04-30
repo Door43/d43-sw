@@ -1,24 +1,19 @@
-===== An Egyptian Beat a Slave [09-08] =====
+===== An Egyptian Beat a Slave [09-08] Mmisiri anachapa mtumwa =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
 One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
-===== Important Terms: =====
 
+Siku moja, wakati **Musa** alikuwa mtu mzima, akaona **Mumisri** akimchapa **mutumwa Muisraeli**. Musa akajaribu **kumuokoa** **Muisraeli mwenzake**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptian]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:sw:obs:notes:key-terms:servant|slave]]**
-  * **[[:sw:obs:notes:key-terms:save|save]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptian (Mumisri)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelite (Muisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:servant|slave (mtumwa)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **grown up** - Another way to say this would be, "grown into a man."
-  * **fellow Israelite** - This phrase refers to the Israelite slave. The word "fellow" here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
-
-
+  * **grown up**  - Another way to say this would be, "grown into a man."
+  * **amekuwa mkubwa**  - njia ingine ya kusema hii yaweza kuwa, "akafanyika mtu muzima."
+  * **fellow Israelite**  - This phrase refers to the Israelite slave. The word "fellow" here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
 **[[:sw:obs:notes:frames:09-07|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-09|>>]]**
