@@ -1,4 +1,4 @@
-===== A New Pharaoh [09-02] Farao Mgeni =====
+===== A New Pharaoh [09-02] Farao Mgeni *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-02.jpg?nolink&}}
 
@@ -15,7 +15,7 @@ Baada ya mamia ya miaka, idadi ya **wana wa Israeli** ikawa kubwa sana. Wamisri 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Pharaoh**  – "Pharaoh" is an Egyptian word that refers to their king. This Pharaoh was probably the son of a former Pharaoh who had died, who may have been a descendant of the Pharaoh that Joseph knew.
-  * **Farao**  - "Farao" ni neno la kimisri ambalo linamaanisha mfalme wao.  Huyu Farao yawezekana alikuwa mwana wa yule Farao wa zamani ambaye alikufa, na aliyekuwa mtoto wa Farao ambaye alijulikana na Yosefu.
+  * **Farao**  - "Farao" ni neno la kimisri ambalo linamaanisha mfalme wao. Huyu Farao yawezekana alikuwa mwana wa yule Farao wa zamani ambaye alikufa, na aliyekuwa mtoto wa Farao ambaye alijulikana na Yosefu.
   * **made the Israelites slaves**  - That is, "forced the Israelites to do hard labor against their will and treated them very harshly."
   * **alifanya wana wa Israeli watumwa**  - Hiyo ni, "alilazimisha wana wa Israeli to kufanya kazi ngumu kinyume na mapenzi yao na aliwashugulikia kwa ukali mwingi.
 **[[:sw:obs:notes:frames:09-01|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-03|>>]]**
