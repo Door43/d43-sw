@@ -1,24 +1,20 @@
-===== Hard Labor [09-03] =====
+===== Hard Labor [09-03] Kazi Ngumu =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-03.jpg?nolink}}
+The **Egyptians** forced the **Israelites** to build many buildings and even whole cities. The hard work made their lives **miserable**, but **God blessed them**, and they had even more children.
 
-The **Egyptians** forced the **Israelites** to build many buildings and even whole cities. The hard work made their lives **miserable**, but **God blessed them**, and they had even more children. 
+**Wamisri** wakawalazimisha **wana wa Israeli** kujenga manyumba mengi na hata miji mizima.  Ile kazi ngumu ikafanya maisha yao **kuwa duni**, lakini **Mungu akawabariki**, na wakawa na watoto wengi hata zaidi.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (wana wa Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:bless|blessed (alibariki)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:bless|blessed]]**
-
-
-==== Translation Notes: ====
-
-
-  * **miserable** – This means that they suffered terribly because of how harshly they were treated and how hard they were forced to work. They also felt very discouraged.
-  * **God blessed them** - God took care of them, helping them endure the severe treatment and even caused them to become more numerous by giving them children.
-
-
+  * **miserable**  – This means that they suffered terribly because of how harshly they were treated and how hard they were forced to work. They also felt very discouraged.
+  * **kuwa duni**  - Hii inamaanisha kuwa waliteseka vimbaya kwa sababu ya vile walivyofanyiwa makali na vile walivyolazimishwa kufanya kazi kwa nguvu. Pia wajihisi wamezushwa moyo sana.
+  * **God blessed them**  - God took care of them, helping them endure the severe treatment and even caused them to become more numerous by giving them children.
+  * **Mungu aliwabariki**  - Mungu aliwahudumia, akawasaidia kudumu kati ya makali waliofanyiwa na hata akawafanya wawe wengi zaidi kwa kuwapa watoto.
 **[[:sw:obs:notes:frames:09-02|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-04|>>]]**
