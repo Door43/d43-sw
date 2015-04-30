@@ -1,23 +1,19 @@
-===== Jacob Went to Egypt [08-14] =====
+===== Jacob Went to Egypt [08-14] Yakobo alienda Misri =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink}}
+**Even though Jacob was an old man, he moved to Egypt** with all of his family, and they all lived there. **Before Jacob died**, he **blessed** each of his sons.
 
-**Even though Jacob was an old man, he moved to Egypt** with all of his family, and they all lived there. **Before Jacob died**, he **blessed** each of his sons. 
+**Hata ingawa Yosefu alikuwa mzee, alienda Misri ** na jamii yake yote, na wakaishi huko. **Kabla ya Yakobo kufa**, **alibariki ** kila mmoja wa watoto wake.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+  * **[[:sw:obs:notes:key-terms:bless|blessed (alibariki)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:sw:obs:notes:key-terms:bless|blessed]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Even though Jacob was an old man, he moved to Egypt** - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
-  * **Before Jacob died** - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
-
-
+  * **Even though Jacob was an old man, he moved to Egypt**  - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
+  * **Hata ingawa Yakobo alikuwa mzee, alienda Misri**  - Misri ilikuwa mbali sana na Kanani, na ingekuwa vingumu kwa mtu aliyezeeka kutembea ama kuendesha gari umbali huo.
+  * **Before Jacob died**  - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
+  * **Kabla ya Yakobo Kufa**  - Yakobo akakufia Misri. Hakuweza kurudi Kanani, ile nchi ambayo Mungu alikuwa ameahidi kumpea yeye na uzao wake.
 **[[:sw:obs:notes:frames:08-13|<<]] | [[:sw:obs:notes:08|Up]] | [[:sw:obs:notes:frames:08-15|>>]]**
