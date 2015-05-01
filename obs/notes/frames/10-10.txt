@@ -1,21 +1,18 @@
-===== The Locusts [10-10] =====
+===== The Locusts [10-10] Nzige =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?nolink&}}
 
 So **God** caused **swarms of locusts** to come over **Egypt**. These **locusts** ate all the crops that the **hail** had not destroyed.
-===== Important Terms: =====
 
+Kwa hivyo **Mungu** akafanya **makundi ya nzige** zije **Misri**. Hizi **nzige** zikala mimea yote ambayo haikuwa imeharibiwa na **mvua ya mawe**.
+===== Important Terms (Maneno ya muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+==== Translation Notes (Maelezo ya tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **swarms of locusts** - Locusts are grasshoppers that fly together in swarms, or large groups, and that can destroy large areas of all kinds of plants and food crops by eating them.
-  * **hail** - Hail is like chunks of ice that fall down from the clouds as rain does.
-
-
+  * **swarms of locusts**  - Locusts are grasshoppers that fly together in swarms, or large groups, and that can destroy large areas of all kinds of plants and food crops by eating them.
+  * **makundi ya nzige**  - Nzige ni panzi zinazoruka pamoja katika vikundi, ama vikundi vikubwa, na ziko na uwezo wa kuharibu eneo kubwa la kila aina ya mimea pamoja na mimea ya chakula kwa kuikula.
+  * **hail**  - Hail is like chunks of ice that fall down from the clouds as rain does.
+  * **mvua ya mawe**  - Mvua ya mawe ni kama vipande za theluji zinazoanguka kutoka angani kama ianvyofanya mvua.
 **[[:sw:obs:notes:frames:10-09|<<]] | [[:sw:obs:notes:10|Up]] | [[:sw:obs:notes:frames:10-11|>>]]**
