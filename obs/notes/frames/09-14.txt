@@ -4,19 +4,23 @@
 
 **Moses** asked, “What if **the people** want to know who sent me, what should I say?” **God** said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ Also tell them, 'I am **Yahweh**, the God of your ancestors **Abraham**, **Isaac**, and **Jacob**.' This is **my name** forever.”
 
-**Musa** akauliza, "Na kama **watu** watataka kujua ni nani amenituma, nitasema nini?" Mungu akasema, "**MIMI NDIYE ALIYE**. Waambie, '**ALIYE** amenituma kwenu.' Pia waambie, 'Mimi ni
-===== Important Terms: =====
+**Musa** akauliza, "Na kama **watu** watataka kujua ni nani amenituma, nitasema nini?" Mungu akasema, "**MIMI NDIYE ALIYE**. Waambie, '**ALIYE** amenituma kwenu.' Pia waambie, 'Mimi ni **Yehova**, Mungu wa babu zenu **Ibrahimu**, **Isaka** na **Yakobo**.' Hili ndilo **jina langu** milele."
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-==== Translation Notes: ====
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+==== Translation Notes (Maneno ya Muhimu): ====
 
   * **the people**  - See "my people" in **[[:sw:obs:notes:frames:09-13|[09-13]]]**.
+  * watu - Ona, "watu wangu" pale **[09-13]**
   * **I AM WHO I AM**  - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
+  * **MIMI NDIYE ALIYE**  - Hii maelezo inaonyesha kuwa Mungu anaweza kufafanuliwa kwa kulinganisha na yeye tu, na si na kitu kingine tunachokijua, na hawezi kufananishwa na yeyote.
   * **I AM**  - This name emphasizes that God is the only one who has always lived and always will live.
+  * **ALIYE**  - Hili jina linasisitiza kuwa ni Mungu tu anayeishi tangu milele na ataendelea kuishi milele na milele.
   * **my name**  - The name that God told Moses and all of Israel to use for him is "Yahweh," which is related to "I AM" and appears to mean, "HE IS."
+  * **jina langu**  - Jina ambalo Mungu alimuambia Musa na Israeli yote kutumia ni "Yehova," ambalo lina uhusiano na "ALIYE" na ni ni kama linamaanishi, "NI YEYE."
 **[[:sw:obs:notes:frames:09-13|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-15|>>]]**
