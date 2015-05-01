@@ -1,24 +1,21 @@
-===== The Sacrifice [11-02] =====
+===== The Sacrifice [11-02] Dhabihu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?nolink&}}
 
 **God provided** a way to **save** the firstborn **son** of anyone who **believed** in him. Each family had to choose a **perfect lamb** and kill it.
-===== Important Terms: =====
 
+**Mungu akapeana** njia ya **kuokoa** **mwana** aliye mzaliwa wa kwanza wa kila mmoja **atakayemuamini.** Ilibidi kila jamii wachague kondoo aliye kamilika na kumuchinja.
+===== Important Terms (Maneno ya muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:save|save]]**
-  * **[[:sw:obs:notes:key-terms:son|son]]**
-  * **[[:sw:obs:notes:key-terms:believe|believed]]**
-  * **[[:sw:obs:notes:key-terms:lamb|lamb]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:save|save (kuokoa)]]**
+  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believed (aliamini)]]**
+  * **[[:sw:obs:notes:key-terms:lamb|lamb (kondoo)]]**
+==== Translation Notes (Maelezo ya tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **God provided** – God is the only one who could provide the way to save the Israelites' sons from death.
-  * **perfect lamb** - That is, "a young sheep or goat that had no blemishes or defects."
-
-
+  * **God provided**  – God is the only one who could provide the way to save the Israelites' sons from death.
+  * **mungu alipeana**  - Ni Mungu peke yake ambaye angepeana njia ya kuokoa wazaliwa wa kwanza wa Israeli kutoka kwa kifo.
+  * **perfect lamb**  - That is, "a young sheep or goat that had no blemishes or defects."
+  * **kondoo aliyekamilika**  - Hiyo ni, "kondoo ama mbuzi aliye mchanga ambaye hana madoadoa ama mawaa."
 **[[:sw:obs:notes:frames:11-01|<<]] | [[:sw:obs:notes:11|Up]] | [[:sw:obs:notes:frames:11-03|>>]]**
