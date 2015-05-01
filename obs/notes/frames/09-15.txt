@@ -1,25 +1,24 @@
-===== Aaron Helped Moses [09-15] =====
+===== Aaron Helped Moses [09-15] Haruni alimusaidia Musa =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink&}}
 
 **Moses was afraid and did not want to go to Pharaoh** because he thought he could not speak well, so **God** sent **Moses’ brother**, **Aaron**, to help him. God warned Moses and Aaron that Pharaoh would be **stubborn**.
-===== Important Terms: =====
 
+**Musa aliogopa na hakutaka kwenda kwa Farao ** kwa sababu alifikiria hangeweza kuongea vizuri, kwa hivyo **Mungu** alituma **Haruni, ndugu yake Musa**, diposa amusaidie. Mungu alimuonya Musa na Haruni kuwa Farao atakuwa **mkaidi**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:aaron|Aaron]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **was afraid and did not want to go** - Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
-  * **Moses' brother, Aaron** - Aaron was Moses's actual brother from his Israelite mother and father. Aaron would have been at least several years older than Moses.
-  * **stubborn** - This means the Pharaoh would refuse to obey God. You may also want to add, "stubborn and refuse to listen (or obey)."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **was afraid and did not want to go**  - Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
+  * **aliogopa na hakutaka kuenda**  - Musa alijua kuwa Farao alikuwa anataka kumuua, na hakuamini ataweza kufanya kile Mungu alikuwa anataka afanye.
+  * **Moses' brother, Aaron**  - Aaron was Moses's actual brother from his Israelite mother and father. Aaron would have been at least several years older than Moses.
+  * **Haruni, ndugu yake Musa**  - Haruni alikuwa ndugu halisi wa Musa kutoka kwa baba na mama Muisraeli. Haruni alizaliwa mbele ya Musa kwa miaka kadhaa.
+  * **stubborn**  - This means the Pharaoh would refuse to obey God. You may also want to add, "stubborn and refuse to listen (or obey)."
+  * **mkaidi**  - Hii inamaanisha kuwa Farao atakataa kutii Mungu. Unaweza kuongeza, "mkaidi na kukataa kusikia (ama kutii)."
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * //Hadithi ya Biblia kutoka//  -Marejeleo haya yaweza kuwa na tofauti kiasi na Tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:09-14|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:10-01|>>]]**
