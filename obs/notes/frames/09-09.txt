@@ -1,20 +1,18 @@
-===== Moses Killed an Egyptian [09-09] =====
+===== Moses Killed an Egyptian [09-09] Musa aliua Mumisri =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink&}}
 
 When **Moses** thought nobody would see, he killed the **Egyptian** and buried his body. But someone saw what Moses had done.
-===== Important Terms: =====
 
+Wakati **Musa** alifikiri hakuna mtu anaona, aliua yule **Mumisri ** na akazika mwili waka. Lakini mtu fulani akaona alichokifanya Musa.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptian]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptian (Mumisri)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
+* //(There are no notes for this frame)//.
 
-==== Translation Notes: ====
-
-
- * //(There are no notes for this frame.)// 
-
+//*(Hakuna maelezo katika sehemu hii). //
 
 **[[:sw:obs:notes:frames:09-08|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-10|>>]]**
