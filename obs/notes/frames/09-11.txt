@@ -1,21 +1,17 @@
-===== Moses in the Wilderness [09-11] =====
+===== Moses in the Wilderness [09-11] Musa katika jangwa =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink&}}
 
 **Moses** became a **shepherd** in the **wilderness** far away from **Egypt**. He married a woman from that place and had two sons.
-===== Important Terms: =====
 
+**Musa** akafanyika **mchungaji ** pale **jangwani ** mbali na **Misri**. Akamuoa mwanamke kutoka mahali pale na akapata wana wawili.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:shepherd|shepherd]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:shepherd|shepherd (mchungaji)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **wilderness** - See how you translated this in **[[:sw:obs:notes:frames:09-10|[09-10]]]**.
-
-
+  * **wilderness**  - See how you translated this in **[[:sw:obs:notes:frames:09-10|[09-10]]]**.
+  * **jangwa**  - ona vile alivyotafsiri hii pale **[09-10]**
 **[[:sw:obs:notes:frames:09-10|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-12|>>]]**
