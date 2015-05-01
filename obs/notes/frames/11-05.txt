@@ -1,25 +1,23 @@
-===== Saved by the Blood [11-05] =====
+===== Saved by the Blood [11-05] Waliokolewa na damu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?nolink&}}
 
 All the houses of the **Israelites** had **blood** around the doors, so **God passed over** those houses. Everybody inside them was safe. **They were saved because of the lamb's blood**.
-===== Important Terms: =====
 
+Nyumba zote za **wana wa Israeli ** zilikuwa na **damu** kwa milango, kwa hivyo **Mungu akazipita** hizo nyumba. Kila mtu aliyekuwa ndani akawa salama. **Waliokolewa kwa sababu ya damu ya kondoo**.
+===== Important Terms (Maneno ya muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:blood|blood]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:save|saved]]**
-  * **[[:sw:obs:notes:key-terms:lamb|lamb's]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (wana wa Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:blood|blood (damu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:save|saved (aliokoa)]]**
+  * **[[:sw:obs:notes:key-terms:lamb|lamb's (ya kondoo)]]**
+==== Translation Notes (Maelezo ya tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **passed over** - This means that God passed by those houses and did not stop to kill anyone there. This phrase became the name of the Jewish festival, "Passover."
-  * **They were saved** - God did not kill their firstborn son.
-  * **because of the lamb's blood** - This could be translated as, "because the lamb's blood was on their door." God saw that they had killed their lamb as he had commanded, so he did not kill their son.
-
-
+  * **passed over**  - This means that God passed by those houses and did not stop to kill anyone there. This phrase became the name of the Jewish festival, "Passover."
+  * **alizipita**  - Hii inamaanisha kuwa Mungu alipita zile nyumba na hakusimama kuua mtu hapo. Hii msemo ilifanyika jina la tamasha ya Wayahudi iitwayo, "Pasaka."
+  * **They were saved**  - God did not kill their firstborn son.
+  * **waliokolewa**  - Mungu hakuua mwana wao aliye mzaliwa wa kwanza.
+  * **because of the lamb's blood**  - This could be translated as, "because the lamb's blood was on their door." God saw that they had killed their lamb as he had commanded, so he did not kill their son.
+  * **sababu ya damu ya kondoo**  - Hii inaweza kutafsiriwa kama, "kwa sababu damu ya kondoo ilikuwa kwa mlango wao." Mungu aliona kuwa walikuwa wamechinja kondoo kama alivyoamrisha, na kwa hivyo hakuua mwana wao.
 **[[:sw:obs:notes:frames:11-04|<<]] | [[:sw:obs:notes:11|Up]] | [[:sw:obs:notes:frames:11-06|>>]]**
