@@ -15,7 +15,7 @@
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **made without yeast**  – Yeast is something that is mixed into bread dough that makes the dough expand and it also makes the bread rise as it bakes. This could be translated as, "made without something that would make it rise." Making the bread with yeast would have taken much longer, so cooking the bread without yeast was a way to be prepared to leave Egypt quickly.
-  * **ilitengenezwa bila chachu**  - Chachu ni kitu kinachochanganywa na unga kuifanya unga kupanuka na inafanya mkate kupanda inapopikwa. Hii inaweza kutafsiriwa kama, "itengenezwe bila kitu ya kuifanya ipande." Kutengeneza mkate na chachu ingechukua muda zaidi, kwa hivyo kupika makte bila chachu ilikuwa njia ya kujitayarisha kutoka Misri haraka."
+  * **ilitengenezwa bila chachu**  - Chachu ni kitu kinachochanganywa na unga kuifanya unga kupanuka na inafanya mkate kupanda inapopikwa. Hii inaweza kutafsiriwa kama, "itengenezwe bila kitu ya kuifanya ipande." Kutengeneza mkate na chachu ingechukua muda zaidi, kwa hivyo kupika mkate bila chachu ilikuwa njia ya kujitayarisha kutoka Misri haraka."
   * **when they ate**  – This means they needed to be prepared to leave before they started to eat.
   * **walipokula **- Hii inamaanisha walihitaji kuwa tayari kutoka kabla ya kuanza kukula.
 **[[:sw:obs:notes:frames:11-02|<<]] | [[:sw:obs:notes:11|Up]] | [[:sw:obs:notes:frames:11-04|>>]]**
