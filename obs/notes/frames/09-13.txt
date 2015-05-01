@@ -1,31 +1,29 @@
-===== God Sent Moses to Egypt [09-13] =====
+===== God Sent Moses to Egypt [09-13] Mungu alituma Musa Misri =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-13.jpg?nolink&}}
 
 **God** said, “I have seen the **suffering of my people**. I will send you to **Pharaoh** so that you can **bring the Israelites out of their slavery in Egypt**. I will give them the land of **Canaan**, the land I **promised** to **Abraham**, **Isaac**, and **Jacob**.”
-===== Important Terms: =====
 
+**Mungu ** akasema, "Nimeona **kuteseka kwa watu wangu**. Nitakutuma kwa **Farao** ili **ukawatoe wana wa Israeli kutoka kwa utumwa wao Misri**.  Nitawapa nchi ya **Kanani**, nchi **niliahidi ** kwa **Ibrahimu, Isaka** na **Yakobo**."
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:suffer|suffering]]**
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:servant|slavery]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:suffer|suffering (kuteseka)]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (wana wa Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:servant|slavery (utumwa)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised (niliahidi)]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **suffering of my people** - This could be translated as, "the very harsh treatment that my people are experiencing. Some languages might translate this as, "how the Egyptians are giving my people terrible pain."
-  * **my people** - This refers to the Israelites. God had made a covenant with Abraham and his descendants that He would bless them and make them into a great nation. Through this covenant, the Israelites became God's own people.
-  * **bring … out of their slavery in Egypt** - This can be translated as, "set them free from being slaves in Egypt" or, "bring them out of Egypt where they are now slaves."
-
-
+  * **suffering of my people**  - This could be translated as, "the very harsh treatment that my people are experiencing. Some languages might translate this as, "how the Egyptians are giving my people terrible pain."
+  * **kuteseka kwa watu**  - Hii inaweza kutafsiriwa kama, "makali mengi wanaofanyiwa na kuzoeshwa watu wangu."  Lugha zingine zaweza tafsiri hii kama, "Vile Wamisri wanapea watu wangu machungu mengi."
+  * **my people**  - This refers to the Israelites. God had made a covenant with Abraham and his descendants that He would bless them and make them into a great nation. Through this covenant, the Israelites became God's own people.
+  * **watu wangu**  - Hii inamaanisha wana wa Israeli. Mungu alikuwa amefanya agano na Ibrahimu na uzao wake kuwa atawabariki na kuwafanya taifa kubwa. Kupitia kwa agano hili, wana wa Israeli wakafanyika watu wake Mungu.
+  * **bring … out of their slavery in Egypt**  - This can be translated as, "set them free from being slaves in Egypt" or, "bring them out of Egypt where they are now slaves."
+  * **Watoe ... kutoka kwa utumwa Misri **- Hii inaweza kutafsiriwa kama, "waweke huru kutoka kwa kuwa watumwa kule Misri" ama, "watoe Misri wanapotumika kama watumwa sasa."
 **[[:sw:obs:notes:frames:09-12|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-14|>>]]**
