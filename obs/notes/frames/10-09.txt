@@ -1,21 +1,17 @@
-===== Pharaoh's Hard Heart [10-09] =====
+===== Pharaoh's Hard Heart [10-09] Moyo mugumu wa Farao =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?nolink&}}
 
 But **Pharaoh sinned** again and **hardened his heart**. He would not let the **Israelites** go free.
-===== Important Terms: =====
 
+Lakini **Farao alitenda** dhambi tena na **akafanya moyo wake mugumu**. Hangewaruhusu **wana wa Israeli** kuwa huru.
+===== Important Terms (Maneno ya muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:sw:obs:notes:key-terms:sin|sinned]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinned (alitenda dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (wana wa Israeli)]]**
+==== Translation Notes (Maelezo ya tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **hardened his heart** - See note in **[[:sw:obs:notes:frames:10-04|[10-04]]]**.
-
-
+  * **hardened his heart**  - See note in **[[:sw:obs:notes:frames:10-04|[10-04]]]**.
+  * **alifanya moyo mugumu **- Ona maelezo pale **[10-04]**
 **[[:sw:obs:notes:frames:10-08|<<]] | [[:sw:obs:notes:10|Up]] | [[:sw:obs:notes:frames:10-10|>>]]**
