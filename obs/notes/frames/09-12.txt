@@ -1,26 +1,26 @@
-===== The Burning Bush [09-12] =====
+===== The Burning Bush [09-12] Kichaka kinachoungua =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-12.jpg?nolink&}}
 
 One day while **Moses** was **taking care of his sheep**, he saw a bush that was on fire. But the **bush did not burn up**. Moses went towards the bush to be able to see it better. As he approached the burning bush, **the voice of God said**, “Moses, take **off your shoes**. You are standing on **holy ground**.”
-===== Important Terms: =====
 
+Siku moja **Musa** alikuwa **anatunza kondoo wake**, akaona kichaka abacho kinawaka moto. Lakini kile **kichaka hakikuwa kinachomeka**. Musa akaenda kuikaribi ile kichaka diposa akaione vizuri.  Alipokaribia kile kichaka kilichowaka moto, **sauti ya Mungu** ikasema, "Musa, **vua viatu vyako**. Unasimama **pahali patakatifu**."
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:sheep|sheep]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:holy|holy]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:sheep|sheep (kondoo)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:holy|holy (takatifu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **taking care of his sheep** - This means he was doing the work of a shepherd to guide the sheep to grass and water, and to protect them. It could be translated as, "tending the sheep."
-  * **bush did not burn up** - God made the bush full of fire, but the fire did not damage the bush.
-  * **the voice of God said** - This could be translated as, "God said out loud." Moses heard God speak, but he did not see God.
-  * **take off your shoes** - God wanted him to take off his shoes to show that he greatly respected God. To make clear the reason for this, you could say, "take off your shoes, because you are on holy ground."
-  * **holy ground** - It was holy in the sense that God set it apart from the ordinary land and made it to be a special place where He would reveal Himself.
-
-
+  * **taking care of his sheep**  - This means he was doing the work of a shepherd to guide the sheep to grass and water, and to protect them. It could be translated as, "tending the sheep."
+  * **kutunza kondoo**  - Hii inamaanisha alikuwa anafanya kazi ya mchungaji kuelekeza kondoo kwa nyasi na maji, na kuzilinda. Inaweza tafsiriwa kama, "kuchunga kondoo."
+  * **bush did not burn up**  - God made the bush full of fire, but the fire did not damage the bush.
+  * **kichaka hakikuchomeka **- Mungu alifanya kichaka kujaa moto, lakini ile moto haikuchoma kile kichaka.
+  * **the voice of God said**  - This could be translated as, "God said out loud." Moses heard God speak, but he did not see God.
+  * **sauti ya Mungu**  - Hii inaweza kutafsiriwa kama, "Mungu akasema kwa sauti." Musa alisikia Mungu akinena, lakini hakumuona Mungu.
+  * **take off your shoes**  - God wanted him to take off his shoes to show that he greatly respected God. To make clear the reason for this, you could say, "take off your shoes, because you are on holy ground."
+  * **vua viatu vyako**  - Mungu alitaka avue viautu vyake ili aonyeshe anamheshimu Mungu sana. Kuhakikisha hii sababu iko wazi, unaweza sema, "vua viatu vyko, kwa sababu umesimama pahali patakatifu."
+  * **holy ground**  - It was holy in the sense that God set it apart from the ordinary land and made it to be a special place where He would reveal Himself.
+  * **Mahali patakatifu**  - Palikuwa patakatifu kwa sababu Mungu aliitenga kutoka kwa pahali pa kwawaida na akaifanya pahali maalum pa kujifunua.
 **[[:sw:obs:notes:frames:09-11|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-13|>>]]**
