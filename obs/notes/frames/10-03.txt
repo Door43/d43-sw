@@ -1,22 +1,18 @@
-===== The Water Became Blood [10-03] =====
+===== The Water Became Blood [10-03] Maji ikafanyika damu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
 **God turned the Nile River into blood**, but **Pharaoh** still would not let the **Israelites** go.
-===== Important Terms: =====
 
+**Mungu alibadilisha mto wa Nile ukawa damu**, lakini **Farao** bado hangeruhusu **wana wa Israeli** waende.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:nile-river|Nile River]]**
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:nile-river|Nile River (mto wa Nile)]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (wana wa Israeli)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **turned the Nile River into blood** - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
-
-
+  * **turned the Nile River into blood**  - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
+  * **akabadilisha mto wa Nile kuwa damu**  - Lugha zingine zitahitaji kusema, "alibadilisha maji ya mto wa Nile ikawa damu." Badala ya maji pale kwa mto kulikuwa na damu, kwa hivyo samaki zikafa na watu hawakuwa na maji ya kunywa.
 **[[:sw:obs:notes:frames:10-02|<<]] | [[:sw:obs:notes:10|Up]] | [[:sw:obs:notes:frames:10-04|>>]]**
