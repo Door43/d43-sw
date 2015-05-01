@@ -1,25 +1,24 @@
-===== Go Away! [11-08] =====
+===== Go Away! [11-08] Endeni mbali =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink&}}
 
 That same night, **Pharaoh called for Moses** and **Aaron and said**, “Take the **Israelites** and leave **Egypt** immediately!” The **Egyptian** people also urged the Israelites to leave immediately.
-===== Important Terms: =====
 
+Usiku huo huo, **Farao akaita Musa** na **Haruni na akasema**, "Chukua wana wa **Israeli ** na mtoke **Misri** mara moja!" Watu wa **Misri** pia wakawasihi wana wa Israeli watoke mara moja.
+===== Important Terms (Maneno ya muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (wana wa Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+==== Translation Notes (Maelezo ya tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **called for** – This means that Pharaoh told his servants to tell Moses and Aaron to come to him.
-  * **and said** – Pharaoh said the following words to Moses and Aaron after they came to him. In some languages this would be translated as, "and said to them," or, "After they came, Pharaoh said to them."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **called for**  – This means that Pharaoh told his servants to tell Moses and Aaron to come to him.
+  * **akaita**  - Hii inamaanisha kuwa Farao aliwaambia watumishi wake waambie Musa na Haruni waje kwake.
+  * **and said**  – Pharaoh said the following words to Moses and Aaron after they came to him. In some languages this would be translated as, "and said to them," or, "After they came, Pharaoh said to them."
+  * **na akasema**  - Farao alisema maneno haya kwa Musa na Haruni baada ya wao kuja kwake. Katika lugha zingine hii yaweza kutafsiriwa kama, "na akasema kwao," ama "baada yao kuja, Farao akawaambia."
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * Hadithi ya
 
 **[[:sw:obs:notes:frames:11-07|<<]] | [[:sw:obs:notes:11|Up]] | [[:sw:obs:notes:frames:12-01|>>]]**
