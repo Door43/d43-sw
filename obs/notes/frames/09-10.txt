@@ -1,21 +1,17 @@
-===== Moses Fled from Egypt [09-10] =====
+===== Moses Fled from Egypt [09-10] Musa alikimbia kutoka Misri =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink&}}
 
 When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran away from **Egypt** to the **wilderness** where he would be safe from Pharaoh's soldiers.
-===== Important Terms: =====
 
+Wakati **Farao** alisikia kile alichokifanya **Musa**, alijaribu kumuua.  Musa akikimbia kutoka **Misri** akaenda **jangwani ** mahali atakuwa salama kutoka kwa askari wa Farao.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **wilderness** - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
-
-
+  * **wilderness**  - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
+  * **jangwa**  - jangwa ilikuwa eneo kubwa iliyo na mawe na imekauka.  Ardhi pale haikuwa nzuri ya kukuza mimea na ni watu wachache waliishi huko.
 **[[:sw:obs:notes:frames:09-09|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-11|>>]]**
