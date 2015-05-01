@@ -1,30 +1,27 @@
-===== Let My People Go! [10-01] =====
+===== Let My People Go! [10-01] Achilia watu wangu waende =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink}}
+**Moses** and **Aaron** went **to Pharaoh**. They said, “This is what the **God of Israel** says, ‘**Let my people go**!’” Pharaoh **did not ****listen to** them. Instead of letting the **Israelites** go free, he forced them to work even harder!
+**Musa** na **Haruni** wakaenda **kwa Farao**. Wakasema, "Asema hivi **Mungu wa Israeli**, '**Achilia watu wangu waende**?'" Farao **hakuwasikiliza**.  Badala ya kuruhusu **wana wa Israeli ** wawe huru, aliwalazimisha kufanya kazi nguvu zaidi!
+===== Important Terms (Maneno ya Muhimu): =====
 
-**Moses** and **Aaron** went **to Pharaoh**. They said, “This is what the **God of Israel** says, ‘**Let my people go**!’” Pharaoh did not **listen to** them. Instead of letting the **Israelites** go free, he forced them to work even harder!
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni)]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (wana wa Israeli)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-===== Important Terms: =====
-
-
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-
-
-==== Translation Notes: ====
-
-
-  * **to Pharaoh** – It may be clearer to say, "to Pharaoh's palace to talk to him."
-  * **God of Israel** - This could be translated as, "God, who chose the Israelites to be his people" or, "God, who rules the people of Israel" or, "the God whom the Israelites worship."
-  * **Let My people go** – Another way to say this would be, "Allow My people to go free" or, "Free My people to leave Egypt."
-  * **my people** - See "my people" in **[[:sw:obs:notes:frames:09-13|[09-13]]]**.
-  * **listen to** – This could be translated as "heed" or, "obey."
-
-
+  * **to Pharaoh**  – It may be clearer to say, "to Pharaoh's palace to talk to him."
+  * **kwa Farao**  - Inaweza kuwa wazi zaidi kusema, "kwa ikulu ya Farao ili akaongee naye."
+  * **God of Israel**  - This could be translated as, "God, who chose the Israelites to be his people" or, "God, who rules the people of Israel" or, "the God whom the Israelites worship."
+  * Mungu wa Israeli - Hii inaweza kutafsiriwa kama, "Mungu, aliyewachagua wana wa Israeli kuwa watu wake" ama "Mungu, anayetawala watu wa Isreali" ama, "Mungu wanayemuabudu wana wa Israeli."
+  * **Let My people go**  – Another way to say this would be, "Allow My people to go free" or, "Free My people to leave Egypt."
+  * **achilia watu wangu waende**  - Njia ingine ya kusema hii inaweza kuwa, "Ruhusu watu wangu wawe huru" ama "weka watu wangu huru watoke Misri."
+  * **my people**  - See "my people" in **[[:sw:obs:notes:frames:09-13|[09-13]]]**.
+  * **watu wangu**  - Ona "watu wangu" pale **[09-13]. **
+  * **listen to**  – This could be translated as "heed" or, "obey."
+  * **kusikiliza**  - Hii inaweza kutafsiriwa kama "kutia manani" ama, "kutii."
 **[[:sw:obs:notes:frames:09-15|<<]] | [[:sw:obs:notes:10|Up]] | [[:sw:obs:notes:frames:10-02|>>]]**
