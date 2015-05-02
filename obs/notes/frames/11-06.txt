@@ -1,22 +1,20 @@
-===== Death of the Firstborn [11-06] =====
+===== Death of the Firstborn [11-06] Kifo cha mzaliwa wa kwanza =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?nolink&}}
 
 But the **Egyptians did not believe God or obey his commands**. So God **did not pass over** their houses. God killed every one of the Egyptians' firstborn sons.
-===== Important Terms: =====
 
+Lakini **Wamisri hawakuamini Mungu au kutii amri zake**. Kwa hivyo Mungu **hakupita ** nyumba zao. Mungu aliua kila mmoja wa wazaliwa wa kwanza Wamisri.
+===== Important Terms (Maneno ya muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:sw:obs:notes:key-terms:believe|believe]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believe (kuamini)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **did not believe God or obey his commands** – In some languages it may be more natural or clear to say, "did not believe God and so they did not obey his commands."
-  * **did not pass over** - He did not pass by their houses. Rather he stopped at each house and killed their eldest son.
-
+  * **did not believe God or obey his commands**  – In some languages it may be more natural or clear to say, "did not believe God and so they did not obey his commands."
+  * Hawkuamini Mungu au kutii amri zake - Kwa lugha zingine inaweza kuwa rahisi au wazi zaidi kusema, "hawakuamini Mungu na kwa hivyo hawakutii amri zake."
+  * **did not pass over**  - He did not pass by their houses. Rather he stopped at each house and killed their eldest son.
+  * hakupita - Hakupita manyumba zao. Badala ya hiyo alisimama kwa kila nyumba na akaua mwanao mzaliwa wa kwanza.
 
 **[[:sw:obs:notes:frames:11-05|<<]] | [[:sw:obs:notes:11|Up]] | [[:sw:obs:notes:frames:11-07|>>]]**
