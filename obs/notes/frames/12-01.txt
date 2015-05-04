@@ -1,27 +1,26 @@
-===== Israel Left Egypt [12-01] =====
+===== Israel Left Egypt [12-01] Israeli katoka Misri =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?nolink&}}
 
 The **Israelites** were very happy to leave **Egypt**. **They were no longer slaves**, and they were **going** to the **Promised Land**! The **Egyptians** gave the Israelites whatever they asked for, even gold and silver and other valuable things. Some people from other nations **believed** in **God** and went along with the Israelites as they left Egypt.
-===== Important Terms: =====
 
+Wana wa Israeli walifurahia sana kutoka Misri. Hawakua watumwa tena , na walikuwa wakienda kwenye inchi ya ahadi. Wamisri waliwapatia wana wa Israeli chochote walichouliza, hata dhahabu na shaba na  vitu vingine vya dhamana . Watu wengine kotoka mataifa mengine walimuamimni Mungu na wakaandamana na wana wa Israeli walipotoka Misri.
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:sw:obs:notes:key-terms:servant|slaves]]**
-  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:sw:obs:notes:key-terms:believe|believed]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
+===== Important Terms: Maneno Muhimu =====
 
+  * **[[:sw:obs:notes:key-terms:israel|Israelites]] - Wana wa Israeli**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt]] - Misri**
+  * **[[:sw:obs:notes:key-terms:servant|slaves]] - Watumwa**
+  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land]] - Inchi ya ahadi**
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptians]] - Wamisri**
+  * **[[:sw:obs:notes:key-terms:believe|believed]] - waliamini**
+  * **[[:sw:obs:notes:key-terms:god|God]] - Munu**
+==== Translation Notes: Tafsiri ya maneno ====
 
-==== Translation Notes: ====
-
-
-  * **They were no longer slaves** - This could be translated as, "They were not slaves anymore."
-  * **going** – Some languages may use a more specific word like "traveling" since they would be going a long distance to the Promised Land.
-  * **Promised Land** - This is the land that God had promised that he would give to Abraham's descendants.
-
-
+  * **They were no longer slaves**  - This could be translated as, "They were not slaves anymore."
+  * **Hawakuwa watumwa tena**  -  Hii yaweza kutafsiriwa kama , " hawakuwa watumwa tena".
+  * **going**  – Some languages may use a more specific word like "traveling" since they would be going a long distance to the Promised Land.
+  * **Kwenda**  -  Lugha zingine zaweza kutumia kwa sahihi neno kama," usafiri" maana walikuwa waende safari ya mbali katika inchi ya ahadi.
+  * **Promised Land**  - This is the land that God had promised that he would give to Abraham's descendants.
+  * **Inchi****ya ahadi - ** Hii ilikuwa inchi ambaya Mungu alikuwa ameahidi kwamba angepatia uzao Abrahamu
 **[[:sw:obs:notes:frames:11-08|<<]] | [[:sw:obs:notes:12|Up]] | [[:sw:obs:notes:frames:12-02|>>]]**
