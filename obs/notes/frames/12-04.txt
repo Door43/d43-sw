@@ -1,25 +1,22 @@
-===== Pharaoh Chased Israel [12-04] =====
+===== Pharaoh Chased Israel [12-04] Farao alifukuza Israeli =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-04.jpg?nolink&}}
 
 So **Pharaoh** and his army chased after the **Israelites** to **make them their slaves again**. When the Israelites saw the **Egyptian** army coming, they realized **they were trapped between Pharaoh's army and the Red Sea**. They were very afraid and cried out, “**Why did we leave Egypt**? We are going to die!”
-===== Important Terms: =====
 
+Kwa hivyo **Farao** na jeshi lake wakafuata **Waisraeli** ili **wawafanye watumwa wao tena**. Wakati Waisraeli waliona jeshi la **Wamisri** linakuja, **waligudua kuwa wametegwa kati ya jeshi la Farao na bahari ya shamu**. Wakaogopa na kulia kwa sauti, "**Kwa nini tulitoka Misri**? Tunaenda kukufa!"
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:servant|slaves]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptian]]**
-  * **[[:sw:obs:notes:key-terms:red-sea|Red Sea]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:servant|slaves (watumwa)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptian (la Misri)]]**
+  * **[[:sw:obs:notes:key-terms:red-sea|Red Sea (Bahari ya Shamu)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **they were trapped between…Red Sea** - Another way to say this would be, "there was nowhere they could go to escape since the Egyptians were behind them and the Red Sea was in front of them."
-  * **Why did we leave Egypt?** – This means, "We should not have left Egypt!" They were not really asking for reasons. Because they were afraid, in this moment they were wishing they had not left Egypt (even though it had been very difficult for them there).
-
-
+  * **they were trapped between…Red Sea**  - Another way to say this would be, "there was nowhere they could go to escape since the Egyptians were behind them and the Red Sea was in front of them."
+  * **walitegwa kati ya ya...bahari ya shamu**  - Njia nyingine ya kusema hii yaweza kuwa, "hawakuwa na pahali pa kwenda ili watoroke maana Wamisri walikuwa nyuma yao na bahari ya shamu ilikuwa mbele yao."
+  * **Why did we leave Egypt?**  – This means, "We should not have left Egypt!" They were not really asking for reasons. Because they were afraid, in this moment they were wishing they had not left Egypt (even though it had been very difficult for them there).
+  * **Kwa nini tulitoka Misri?**  - Hii inamaanisha, "Hatungetoka Misri!" Hawakuwa wanauliza sababu haswa.  Kwa sababu waliogopa, wakati huo, walikuwa wanatamani kuwa hawakutoka Misri (ingawa mambo yalikuwa magumu sana kwao huko).
 **[[:sw:obs:notes:frames:12-03|<<]] | [[:sw:obs:notes:12|Up]] | [[:sw:obs:notes:frames:12-05|>>]]**
