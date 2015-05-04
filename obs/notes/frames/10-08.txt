@@ -1,4 +1,4 @@
-===== The Hail [10-08] Mvua ya mawe =====
+===== The Hail [10-08] Mvua ya mawe *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink&}}
 
@@ -23,5 +23,5 @@
   * **hail**  - Hail is like chunks of ice that fall down from the clouds as rain does. These chunks can be very small or very large. The larger ones will hurt or kill whatever they fall on.
   * **mvua ya mawe**  - Mvua ya mawe ni kama vipande vya theluji zinazoanguka kutoka kwa mawingu kama mvua. Hizi vipande zaweza kuwa ndogo ama kubwa. Zilizo kubwa zitaumiza ama kuua kila kitu zinaangukia.
   * **You may go**  - The word "you" refers to Moses, Aaron, and the Israelites.
-  * **munaweza kwenda**  - Neno "nyinyi" linaongea kuhusu Musa, Haruni na wana wa Israeli.
+  * **munaweza kwenda**  - Neno "nyinyi" linaongea kuhusu Musa, Haruni na Waisraeli.
 **[[:sw:obs:notes:frames:10-07|<<]] | [[:sw:obs:notes:10|Up]] | [[:sw:obs:notes:frames:10-09|>>]]**
