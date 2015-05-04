@@ -1,4 +1,4 @@
-===== Moses in the Wilderness [09-11] Musa katika jangwa =====
+===== Moses in the Wilderness [09-11] Musa katika jangwa *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink&}}
 
@@ -13,5 +13,5 @@
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **wilderness**  - See how you translated this in **[[:sw:obs:notes:frames:09-10|[09-10]]]**.
-  * **jangwa**  - ona vile alivyotafsiri hii pale **[09-10]**
+  * **jangwa**  - Ona vile ulivyotafsiri hii pale **[09-10]**
 **[[:sw:obs:notes:frames:09-10|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-12|>>]]**
