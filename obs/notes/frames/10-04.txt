@@ -1,10 +1,10 @@
-===== The Frogs [10-04] Vyura =====
+===== The Frogs [10-04] Vyura *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink&}}
 
 **God sent frogs all over Egypt**. **Pharaoh begged Moses** to take away the frogs. But after all the frogs died, Pharaoh **hardened his heart** and would not let the **Israelites** leave Egypt.
 
-**Mungu alituma vyura kila mahari Misri.** **Farao akamsihi Musa** aondoe zile vyura. Lakini wakati vyura zote zilikufa, Farao **akafanya moyo wake mugumu** na hangeruhusu **wana wa Israeli** kutoka Misri.
+**Mungu alituma vyura kila mahari Misri.** **Farao akamsihi Musa** aondoe zile vyura. Lakini wakati vyura zote zilikufa, Farao **akafanya moyo wake mugumu** na hangeruhusu **Waisraeli** kutoka Misri.
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
@@ -12,7 +12,7 @@
   * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
   * **[[:sw:obs:notes:key-terms:beg|begged (alimsihi)]]**
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites (wana wa Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God sent frogs all over Egypt**  - This could be translated as, "God caused many frogs to appear throughout Egypt."
