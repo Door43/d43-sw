@@ -1,10 +1,10 @@
-===== Moses Fled from Egypt [09-10] Musa alikimbia kutoka Misri =====
+===== Moses Fled from Egypt [09-10] Musa alikimbia kutoka Misri *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink&}}
 
 When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran away from **Egypt** to the **wilderness** where he would be safe from Pharaoh's soldiers.
 
-Wakati **Farao** alisikia kile alichokifanya **Musa**, alijaribu kumuua.  Musa akikimbia kutoka **Misri** akaenda **jangwani ** mahali atakuwa salama kutoka kwa askari wa Farao.
+Wakati **Farao** alisikia kile alichokifanya **Musa**, alijaribu kumuua. Musa akikimbia kutoka **Misri** akaenda **jangwani ** mahali atakuwa salama kutoka kwa askari wa Farao.
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
@@ -13,5 +13,5 @@ Wakati **Farao** alisikia kile alichokifanya **Musa**, alijaribu kumuua.  Musa a
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **wilderness**  - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
-  * **jangwa**  - jangwa ilikuwa eneo kubwa lenya mawe na limekauka. Ardhi pale haikuwa nzuri ya kukuza mimea na ni watu wachache waliishi huko.
+  * **jangwa**  - jangwa ilikuwa eneo kubwa lenye mawe na limekauka. Ardhi pale haikuwa nzuri ya kukuza chakula na ni watu wachache waliishi huko.
 **[[:sw:obs:notes:frames:09-09|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-11|>>]]**
