@@ -1,25 +1,24 @@
-===== The Egyptians Drowned [12-11] =====
+===== The Egyptians Drowned [12-11] Wamisri walizama =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?nolink&}}
 
 After the **Israelites** all **made it safely to the other side** of the sea, **God** told **Moses** to **stretch out his arm again**. When he obeyed, the **water fell on the Egyptian army** and **returned to its normal place**. **The whole Egyptian army** drowned.
-===== Important Terms: =====
 
+Baada ya **Waisraeli ** wote **kufika upande ule mwingine wa bahari salama**, **Mungu** akamuambia **Musa** **anyooshe mkono wake tena**. Wakati alitii **maji ikawaangukia majeshi wa Misri** na **ikarudi mahali pake pa kawaida**. **Jeshi lote la Misri** likazama.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptian]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptian (Misri)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **made it safely to the other side** – This could be translated as, "walked safely to the other side" or, "arrived safely on the other side" or, "walked to the other side and were safe from the Egyptians and the sea."
-  * **stretch out his arm again** - This could be translated as, "lift his arm over the sea again" or, as a direct command, as in, "God told Moses, 'Stretch out your arm again.'"
-  * **returned to its normal place** - This could be translated as, "covered the place again where the path had been," or "filled the whole sea again" or, "went back to where it was before God separated it."
-  * **The whole Egyptian army** - This could be translated as, "everyone in Egypt's army."
-
-
+  * **made it safely to the other side**  – This could be translated as, "walked safely to the other side" or, "arrived safely on the other side" or, "walked to the other side and were safe from the Egyptians and the sea."
+  * **walifika salama upande ule mwingine**  - Hii inaweza kutafsiriwa kama, "wakatembea kwa usalama mpake upande ule mwingine" ama, "walifika salama upande ule mwingine", ama "walitembea kwenda upande ule mwingine na wakawa salama kutoka kwa Wamisri na bahari."
+  * **stretch out his arm again**  - This could be translated as, "lift his arm over the sea again" or, as a direct command, as in, "God told Moses, 'Stretch out your arm again.'"
+  * **Kunyoosha tena mkono wake**  - Hii inaweza kutafsiriwa kama, "kuinua mkono wake juu ya bahari tena" ama amri ya moja kwa moja, kama, Mungu alimuambia Musa, 'Nyoosha mkono wako tena.'"
+  * **returned to its normal place**  - This could be translated as, "covered the place again where the path had been," or "filled the whole sea again" or, "went back to where it was before God separated it."
+  * i**karudi**** mahali yake ya kawaida**  - Hii inaweza kutafsiriwa kama, "ikafunika tena mahali ambapo njia ilikuwa," ama "ikajaza bahari yote tena" ama, "ikarudi mahali ilipokuwa kabla ya Mungu kuigawanya."
+  * **The whole Egyptian army**  - This could be translated as, "everyone in Egypt's army."
+  * **jeshi lote la Misri**  - Hii inaweza kutafsiriwa kama, "kila mtu katika jeshi la Misri."
 **[[:sw:obs:notes:frames:12-10|<<]] | [[:sw:obs:notes:12|Up]] | [[:sw:obs:notes:frames:12-12|>>]]**
