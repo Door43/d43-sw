@@ -1,20 +1,16 @@
-===== Moses Divided the Sea [12-07] =====
+===== Moses Divided the Sea [12-07] Musa aligawanya bahari =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink&}}
 
 **God** told **Moses** to **raise his hand over the sea** and divide the waters. Then God caused wind to push the water in the sea to the left and the right, so that a path formed through the sea.
-===== Important Terms: =====
 
+**Mungu** akamwambia **Musa** **ainue mkono wake juu ya bahari** na kugawanya maji. Halafu Mungu akafanya upepo usukume maji baharini upande wa kushoto na wa kulia, kwa hivyo njia ikawa kupitia kwa bahari.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **raise his hand over the sea** - This could be translated as, "held out his hand over the sea". This was a gesture to show that God was doing this miracle through Moses.
-
-
+  * **raise his hand over the sea**  - This could be translated as, "held out his hand over the sea". This was a gesture to show that God was doing this miracle through Moses.
+  * **inua mkono juu ya bahari **- Hii inaweza kutafsiriwa kama, "akanyoosha mkono wake juu ya bahari." Hii ilkuwa kuonyesha kuwa Mungu alikuwa anafanya muujiza kupitia kwa Musa.
 **[[:sw:obs:notes:frames:12-06|<<]] | [[:sw:obs:notes:12|Up]] | [[:sw:obs:notes:frames:12-08|>>]]**
