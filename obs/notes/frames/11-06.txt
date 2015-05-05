@@ -1,4 +1,4 @@
-===== Death of the Firstborn [11-06] Kifo cha mzaliwa wa kwanza =====
+===== Death of the Firstborn [11-06] Kifo cha mzaliwa wa kwanza *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?nolink&}}
 
@@ -13,8 +13,7 @@ Lakini **Wamisri hawakuamini Mungu au kutii amri zake**. Kwa hivyo Mungu **hakup
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **did not believe God or obey his commands**  – In some languages it may be more natural or clear to say, "did not believe God and so they did not obey his commands."
-  * Hawkuamini Mungu au kutii amri zake - Kwa lugha zingine inaweza kuwa rahisi au wazi zaidi kusema, "hawakuamini Mungu na kwa hivyo hawakutii amri zake."
+  * **Hawakuamini Mungu au kutii amri zake**  - Kwa lugha zingine inaweza kuwa rahisi au wazi zaidi kusema, "hawakuamini Mungu na kwa hivyo hawakutii amri zake."
   * **did not pass over**  - He did not pass by their houses. Rather he stopped at each house and killed their eldest son.
-  * hakupita - Hakupita manyumba zao. Badala ya hiyo alisimama kwa kila nyumba na akaua mwanao mzaliwa wa kwanza.
-
+  * **hakupita**  - Hakupita manyumba zao. Badala ya hiyo alisimama kwa kila nyumba na akaua mwanao mzaliwa wa kwanza.
 **[[:sw:obs:notes:frames:11-05|<<]] | [[:sw:obs:notes:11|Up]] | [[:sw:obs:notes:frames:11-07|>>]]**
