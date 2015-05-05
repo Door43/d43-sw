@@ -1,22 +1,19 @@
-===== Darkness over the Egyptians [12-06] =====
+===== Darkness over the Egyptians [12-06] Ngiza juu ya Wamisri =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?nolink&}}
 
 Then **God** moved the **pillar of cloud** and placed it between the **Israelites** and the **Egyptians** so the Egyptians **could not see** the Israelites.
-===== Important Terms: =====
 
+Halafu **Mungu** akalisongeza **lile nguzo la wingu** na akaiweka katikati ya **Waisraeli** na Wamisri kwa hivyo Wamisri **hawangeweza kuona** Waisraeli.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptians]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **pillar of cloud** – See how you translated this phrase in **[[:sw:obs:notes:frames:12-02|[12-02]]]**
-  * **could not see** - The cloud pillar was so large and thick that the Egyptians could no longer see any of the Israelites.
-
-
+  * **pillar of cloud**  – See how you translated this phrase in **[[:sw:obs:notes:frames:12-02|[12-02]]]**
+  * **nguzo la wingu - ** Ona vile ilitafsiri hii msemo pale** [12-02]**
+  * **could not see**  - The cloud pillar was so large and thick that the Egyptians could no longer see any of the Israelites.
+  * **Hawangeona**  - Lile nguzo la wingu lilikuwa kubwa na pana kiasi kuwa Wamisri hawangeweza tena kuona Muisraeli yeyote.
 **[[:sw:obs:notes:frames:12-05|<<]] | [[:sw:obs:notes:12|Up]] | [[:sw:obs:notes:frames:12-07|>>]]**
