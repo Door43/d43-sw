@@ -1,20 +1,17 @@
-===== Israel Crossed the Sea [12-08] =====
+===== Israel Crossed the Sea [12-08] Israeli walivuka bahari =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink&}}
 
 The **Israelites marched** through the sea on dry ground **with a wall of water on either side of them**.
-===== Important Terms: =====
 
+**Waisraeli waliandamana** kupitia katikati ya bahari ikiwa nchi kavu na **kukiwa na ukuta wa maji katika pande zao zote mbili**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **marched** - This can be translated as, "walked" or, "went."
-  * **with a wall of water on either side of them** - This could be translated as, "and the water on both sides of them stood up tall and straight like a wall."
-
-
+  * **marched**  - This can be translated as, "walked" or, "went."
+  * **waliandamana**  - Hii inaweza kutafsiriwa kama, "walitembea" ama, "walienda."
+  * **with a wall of water on either side of them**  - This could be translated as, "and the water on both sides of them stood up tall and straight like a wall."
+  * **na ukuta wa maji katika pande zao zote mbili - ** Hii inaweza kutafsiriwa kama, "na maji pande zao zote mbili ilisimama juu sawa na ukuta."
 **[[:sw:obs:notes:frames:12-07|<<]] | [[:sw:obs:notes:12|Up]] | [[:sw:obs:notes:frames:12-09|>>]]**
