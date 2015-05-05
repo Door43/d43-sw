@@ -1,24 +1,22 @@
-===== God Fought for Israel [12-10] =====
+===== God Fought for Israel [12-10] Mungu alipigania Israeli =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-10.jpg?nolink&}}
 
 So they followed the **Israelites** onto the **path through the sea**, but **God** caused the **Egyptians** to panic and caused their **chariots** to **get stuck**. They shouted, “Run away! God is fighting for the Israelites!”
-===== Important Terms: =====
 
+Kwa hivyo wakawafuata **Waisraeli ** katika **njia ya katikati ya bahari**, lakini **Mungu** akawafanya **Wamisri** kuwa na hofu na **magari ** yao **kukwama**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:sw:obs:notes:key-terms:chariot|chariots]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
+  * **[[:sw:obs:notes:key-terms:chariot|chariots (magari)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **path through the sea** - This was the dry strip of land across the bottom of the sea, with a wall of water on each side.
-  * **to panic** – This could be translated as, "to get fearful and confused."
-  * **get stuck** - The chariots could no longer move.
-
-
+  * **path through the sea**  - This was the dry strip of land across the bottom of the sea, with a wall of water on each side.
+  * **njia katikati ya bahari **- Hii ilikuwa ukanda mkavu ya ardhi kule chini ya bahari, na kuta za maji pande zote.
+  * **to panic**  – This could be translated as, "to get fearful and confused."
+  * **kuwa na hofu**  - Hii inaweza kutafsiriwa kama, "kuogopa na kuchanganyikiwa."
+  * **get stuck**  - The chariots could no longer move.
+  * **kukwama**  - Zile magari hazingweza kuenda tena.
 **[[:sw:obs:notes:frames:12-09|<<]] | [[:sw:obs:notes:12|Up]] | [[:sw:obs:notes:frames:12-11|>>]]**
