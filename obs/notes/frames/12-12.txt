@@ -1,24 +1,20 @@
-===== Israel Believed God [12-12] =====
+===== Israel Believed God [12-12] Israeli waliamini Mungu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-12.jpg?nolink&}}
 
 When the **Israelites** saw that the **Egyptians** were dead, they **trusted in God** and **believed** that **Moses** was **a prophet of God**.
-===== Important Terms: =====
 
+Wakati **Waisraeli** waliona kuwa **Wamisri** wamekufa, wakamutumainia Mungu na wakaamini kuwa Musa ni **nabii wa Mungu**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:believe|believed]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:prophet|prophet]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believed (waliamini)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **trusted in God** - In other words, the people now trusted that God was powerful and could protect them.
-
-
+  * **trusted in God**  - In other words, the people now trusted that God was powerful and could protect them.
+  * **wakatumainia Mungu**  - Kwa maneno mengine, watu sasa wakatumaini kuwa Mungu alikuwa na nguvu na angeweza kuwalinda.
 **[[:sw:obs:notes:frames:12-11|<<]] | [[:sw:obs:notes:12|Up]] | [[:sw:obs:notes:frames:12-13|>>]]**
