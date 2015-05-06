@@ -1,28 +1,27 @@
-===== The Golden Calf [13-12] =====
+===== The Golden Calf [13-12] Ndama wa dhahabu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink&}}
 
 **Aaron made a golden idol** in the shape of a calf. The people began to **wildly worship** the idol and make **sacrifices** to it! **God** was very angry with them because of their **sin** and planned to destroy them. But **Moses prayed** for them, and God **listened to his prayer** and did not destroy them.
-===== Important Terms: =====
 
+**Aaroni alimtengeneza sanamu ya dhahabu** kwa sura ya ndama. Watu wakaanza** kuiabudu** ile sanamu na kuitolea **dhabihu**. **Mungu ** alikasirishwa nao kwa sababu ya **dhambi** na akapanga kuwangamiza. Lakini **Musa akaombea** na Mungu **akasikia maombi yake ** na hakuwangamiza.
+===== Important Terms: Maneno Muhimu =====
 
-  * **[[:sw:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:sw:obs:notes:key-terms:idol|idol]]**
-  * **[[:sw:obs:notes:key-terms:worship|worship]]**
-  * **[[:sw:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:sin|sin]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:pray|prayed]]**
+  * **[[:sw:obs:notes:key-terms:aaron|Aaron]] Aroni**
+  * **[[:sw:obs:notes:key-terms:idol|idol]] sanamu**
+  * **[[:sw:obs:notes:key-terms:worship|worship]] ibada**
+  * **[[:sw:obs:notes:key-terms:sacrifice|sacrifices]] dhabihu**
+  * **[[:sw:obs:notes:key-terms:god|God]] Mungu**
+  * **[[:sw:obs:notes:key-terms:sin|sin]] dhambi**
+  * **[[:sw:obs:notes:key-terms:moses|Moses]] Musa**
+  * **[[:sw:obs:notes:key-terms:pray|prayed]] aliomba**
+==== Translation Notes:  Tafsiri ya maneno: ====
 
-
-==== Translation Notes: ====
-
-
-  * **made a golden idol** - Aaron took the things made of gold that the people had brought to him, melted them, combined them, and formed them into the shape of a calf.
-  * **wildly worship** - The people were sinning by worshiping the idol and also by doing sinful things as they worshiped it.
-  * **listened to his prayer** - God always hears prayer. In this situation, "listened" means that God agreed to do what Moses asked.
-
-
+  * **made a golden idol**  - Aaron took the things made of gold that the people had brought to him, melted them, combined them, and formed them into the shape of a calf.
+  * **Alitengeneza sanamu ya dhahabu**  - Aroni alichukua vitu zilizotengezwa na dhahabu alizoletewa , akaziyeyusha , akazichanganya na akatengeneza sura ya ndama.
+  * **wildly worship**  - The people were sinning by worshiping the idol and also by doing sinful things as they worshiped it.
+  * **kuabudu bila mpangilio **
+  - Watu walikua wakitenda dhambi kwa kuabudu sanamu kwa kufanya dhambi matendo walipoabudu.
+  * **listened to his prayer**  - God always hears prayer. In this situation, "listened" means that God agreed to do what Moses asked.
+  * **Akasikia maombi yake**  - Mungu husikia maombi kila mara. katika hali hii," Sikia" inamaanisha kwamba Mungu alikubali kile Musa alichomuuliza.
 **[[:sw:obs:notes:frames:13-11|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-13|>>]]**
