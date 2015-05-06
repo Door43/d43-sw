@@ -1,25 +1,22 @@
-===== The People Ignored God [14-09] =====
+===== The People Ignored God [14-09] Watu walimupuuza Mungu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-09.jpg?nolink&}}
 
 When the people heard this, they were sorry **they had sinned**. They took their weapons and went to attack the people of **Canaan**. **Moses warned them not to go** because **God was not with them**, **but they did not listen to him**.
-===== Important Terms: =====
 
+Wakati watu walisikia hiyo, walihuzunika kuwa **walitenda dhambi**. Wakachukua silaha zao na wakaenda kushambulia watu wa **Kanani.** Musa akawaonya wasiende kwa sababu **Mungu hakuwa pamoja na wao, lakini hawakumusikiliza. **
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:sin|sinned]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinned (walitenda dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **they had sinned** - It may be necessary to add, "they had sinned by disobeying God's command to conquer the peoples of Canaan."
-  * **Moses warned them not to go** - This means that Moses told them not to go to fight against the Canaanites because they would be in danger if they did that.
-  * **God was not with them** – In other words, God would not be with them to help them. Because of the Israelites' disobedience, God withdrew from them his presence, protection, and power.
-  * **but they did not listen to him** - They did not obey Moses. They went to attack the Canaanites anyway.
-
-
+  * **they had sinned**  - It may be necessary to add, "they had sinned by disobeying God's command to conquer the peoples of Canaan."
+  * **walitenda dhambi **- Yaweza kuwa ya muhimu kuongeza, "walikuwa wametenda dhambi kwa kutotii amri za Mungu kuwashinda watu wa Kanani."
+  * **Moses warned them not to go**  - This means that Moses told them not to go to fight against the Canaanites because they would be in danger if they did that.
+  * Musa aliwaonya wasiende - Hii inamanisha kuwa Musa aliwaambia
+  * **God was not with them**  – In other words, God would not be with them to help them. Because of the Israelites' disobedience, God withdrew from them his presence, protection, and power.
+  * **but they did not listen to him**  - They did not obey Moses. They went to attack the Canaanites anyway.
 **[[:sw:obs:notes:frames:14-08|<<]] | [[:sw:obs:notes:14|Up]] | [[:sw:obs:notes:frames:14-10|>>]]**
