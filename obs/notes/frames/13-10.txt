@@ -1,26 +1,25 @@
-===== The People Sinned [13-10] =====
+===== The People Sinned [13-10] Watu walitenda dhambi =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?nolink&}}
 
 The people all agreed to **obey** the laws that **God** had **given them**, to **worship** only God, and to be **his special people**. But a short time after they **promised** to obey God, they **sinned terribly**.
-===== Important Terms: =====
 
+Watu kwa pamoja wakakubaliana **kutii ** sheria ambazo **Mungu** **aliwapa**, **kumuabudu** Mungu peke yake, na kuwa **watu wake spesheli**. Lakini muda mfupi baada ya **kuahidi** kumtii Mungu, **walitenda dhambi vibaya**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:obey|obey]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:worship|worship]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-  * **[[:sw:obs:notes:key-terms:sin|sinned]]**
+  * **[[:sw:obs:notes:key-terms:obey|obey (tii)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worship (abudu)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinned (walitenda dhambi)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **given them** - This could be translated as, "told them to obey."
-  * **his special people** - From among all the nations, God had chosen the Israelites for his special purpose. This could be translated as "his special nation" or, "his own people" or, "the nation he chose to be his people."
-  * **a short time** – The people sinned during the forty days that Moses was on the mountain with God.
-  * **sinned terribly** - They sinned in a way that was especially offensive to God. This could be translated as, "they sinned badly," or "they did something that was very bad" or, "they did something bad that made God very angry."
-
-
+  * **given them**  - This could be translated as, "told them to obey."
+  * **aliwapa**  - Hii inaweza kutafsiriwa kama, "aliowambia watii."
+  * **his special people**  - From among all the nations, God had chosen the Israelites for his special purpose. This could be translated as "his special nation" or, "his own people" or, "the nation he chose to be his people."
+  * **watu wake spesheli**  - Kutoka kwa mataifa yote, Mungu alikuwa amewachagua Waisraeli kwa kusudi lake maalum.
+  * **a short time**  – The people sinned during the forty days that Moses was on the mountain with God.
+  * **muda mfupi **- Watu walitenda dhambi wakati wa siku arobanne zile Musa alikuwa kwa mlima na Mungu.
+  * **sinned terribly**  - They sinned in a way that was especially offensive to God. This could be translated as, "they sinned badly," or "they did something that was very bad" or, "they did something bad that made God very angry."
+  * **walitenda dhambi vibaya**  - Walitenda dhambi kwa njia ambayo ilimuudhi Mungu. Hii inaweza kutafsiriwa kama, "walitenda dhambi vibaya," ama "walifanya kitu ambacho kilikuwa kibaya sana" ama, "walifanya kitu kibaya ambacho kilimukasirisa Mungu sana."
 **[[:sw:obs:notes:frames:13-09|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-11|>>]]**
