@@ -1,26 +1,23 @@
 ===== The Death of Moses [14-15] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-15.jpg?nolink&}}
 
 Then **God** told **Moses** to go to the top of a mountain so he could see the **Promised Land**. Moses saw the Promised Land but God did not permit him to enter it. Then Moses died, and the **Israelites mourned for thirty days**. **Joshua** became their new leader. Joshua was a good leader because he **trusted** and **obeyed God**.
-===== Important Terms: =====
 
+Kisha **Mungu** akamwambia **Musa** aende kwa kilele cha mlima ili akaweze kuona **Nchi ya Ahadi**. Musa akaona ile Nchi ya Ahadi lakini Mungu hakumuruhusu kuingia huko. Na Musa akafa, na **Waisraeli wakaomboleza kwa siku thelathini**.  **Yoshua** akawa kiongozi wao mpya. Yoshua alikuwa kiongozi mzuri kwa sababu **alimutumainia** na **kumtii Mungu**.
+===== Important Terms (Manene ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:sw:obs:notes:key-terms:trust|trusted]]**
-  * **[[:sw:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
+  * **[[:sw:obs:notes:key-terms:trust|trusted (waliamini)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obeyed (walitii)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **mourned for thirty days** - For thirty days all the people of Israel cried and showed that they were very sad that Moses had died.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **mourned for thirty days**  - For thirty days all the people of Israel cried and showed that they were very sad that Moses had died.
+  * **waliomboleza siku thelathini**  - Kwa siku arobanne watu wote wa Israeli walilia na kuonyesha kuwa wailikuwa na huzuni sana kwa sababu Musa amekufa.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Hadithi ya Biblia kutoka**  - Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:14-14|<<]] | [[:sw:obs:notes:14|Up]] | [[:sw:obs:notes:frames:15-01|>>]]**
