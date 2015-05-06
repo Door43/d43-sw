@@ -1,25 +1,23 @@
-===== The Mountain at Sinai [13-01] =====
+===== The Mountain at Sinai [13-01] Mlima pale Sinai =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink&}}
 
 After **God** led the **Israelites** through the **Red Sea**, he led them through the wilderness to a mountain called **Sinai**. This was the same mountain where **Moses** had seen the **burning bush**. The people **set up their tents** at the **base of the mountain**.
-===== Important Terms: =====
 
+Baada ya **Mungu** kuwaongoza **Waisraeli** kupitia **bahari ya shamu**, aliwaongoza kupitia jangwa mpaka mlima unaoitwa **Sinai.** Huu ni ule tu mlima Musa alikuwa ameona **kichaka kikichomeka**. Watu wakaanzisha hema zao **chini ya mlima ule**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:red-sea|Red Sea]]**
-  * **[[:sw:obs:notes:key-terms:sinai|Sinai]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:red-sea|Red Sea (Bahari ya Shamu)]]**
+  * **[[:sw:obs:notes:key-terms:sinai|Sinai (Sinai)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **burning bush** - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:sw:obs:notes:frames:09-12|[09-12]]]**.
-  * **set up their tents** - The Israelites had to travel a great distance from Egypt to the Promised Land. So they took tents with them so that they could set them up as shelters and sleep in them along the way. Some languages could translate this as, "hung their tents."
-  * **base of the mountain** – This could be translated as, "bottom of the mountain." This refers to the area of land that is located next to the place where the ground starts to slant upward to form a mountain.
-
-
+  * **burning bush**  - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:sw:obs:notes:frames:09-12|[09-12]]]**.
+  * **kichaka kinawaka moto**  - Kabla ya Musa kurudi Misri, Mungu alikuwa ameongea naye kutoka kwa kichaka kilichokuwa kinawaka moto, na haikuwa inachomeka na moto. **Ona [09-12]. **
+  * **set up their tents**  - The Israelites had to travel a great distance from Egypt to the Promised Land. So they took tents with them so that they could set them up as shelters and sleep in them along the way. Some languages could translate this as, "hung their tents."
+  * **kuanzisha hema zao**  - Lazima Waisraeli wangesafiri umbali mrefu kutoka Misri mpaka nchi ya ahadi. Kwa hivyo walibeba hema ile waziinue kama makazi na walale ndani yake wakiwa jiani. Lugha zingine zaweza tafsiri hii kama, "hema zao."
+  * **base of the mountain**  – This could be translated as, "bottom of the mountain." This refers to the area of land that is located next to the place where the ground starts to slant upward to form a mountain.
+  * **chini ya mlima**  - Hii inaweza kutafsiriwa kama, "chini ya mlima." Hii inamaanisha eneo la ardhi iliyo karibu na mahali ardhi inaaza kuinuka juu ili itengeneze mlima.
 **[[:sw:obs:notes:frames:12-14|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-02|>>]]**
