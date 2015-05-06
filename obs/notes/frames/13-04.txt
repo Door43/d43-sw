@@ -1,28 +1,26 @@
-===== I Am Your God [13-04] =====
+===== I Am Your God [13-04] Mimi ni Mungu wenu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink&}}
 
 **Then God gave them the covenant and said**, “I am **Yahweh**, **your God**, **who saved you from slavery** in **Egypt**. Do not **worship** other **gods**.”
-===== Important Terms: =====
 
+**Na Mungu akawapa agano na kusema**, "Mimi ni **Yehova**, **Mungu aliyewaokoa kutoka kwa utumwa** kule **Misri**. **Msiabudu miungu** mingine."
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:sw:obs:notes:key-terms:save|saved]]**
-  * **[[:sw:obs:notes:key-terms:servant|slavery]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:sw:obs:notes:key-terms:worship|worship]]**
-  * **[[:sw:obs:notes:key-terms:god-false|gods]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:covenant|covenant (agano)]]**
+  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
+  * **[[:sw:obs:notes:key-terms:save|saved (aliokoa)]]**
+  * **[[:sw:obs:notes:key-terms:servant|slavery (utumwa)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worship (kuabudu)]]**
+  * **[[:sw:obs:notes:key-terms:god-false|gods (miungu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
-  * **Yahweh your God** - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
-  * **who saved you from slavery** - This could be translated as, "I freed you from slavery."
-
-
+  * **Then God gave them the covenant and said**  - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
+  * **Mungu akawa agano na kusema**  - Kile Mungu anafuatisha ni yaliyomo katika agano, hiyo ni, anawambia watu yale mambo ni ya lazima wafuate. Hii inaweza kutafsiriwa kama, "Na Mungu akawaambia agano lake. Alisema" ama, "Na Mungu akafanya agano nao."
+  * **Yahweh your God**  - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
+  * **Yehova Mungu wenu**  - Katika lugha zingine inaweza kuwa rahisi kubadilisha mpangilio wa maneno na kusema, "Mungu wenu Yehova." Hakikisha hitakaa kama Waisraeli walikuwa na zaidi ya Mungu mmoja. Inastahili kuwa wazi kuwa Yehova peke yake ndiye Mungu. Njia ingine ya kutafsiri hii yaweza kuwa, "Yehova, ambaye ni Mungu wenu," ama "Mungu wenu, ambaye jina lake ni Yehova."
+  * **who saved you from slavery**  - This could be translated as, "I freed you from slavery."
+  * **aliyewaokoa kutoka kwa utumwa**  - Hii inaweza kutafsiriwa kama, "niliwaweka huru kutoka kwa utumwa."
 **[[:sw:obs:notes:frames:13-03|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-05|>>]]**
