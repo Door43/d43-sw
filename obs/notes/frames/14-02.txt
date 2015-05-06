@@ -1,32 +1,29 @@
-===== The Canaanites' Idols [14-02] =====
+===== The Canaanites' Idols [14-02] Sanamu za Wakanani =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-02.jpg?nolink&}}
 
 **God** had **promised Abraham**, **Isaac**, and **Jacob** that he would give the **Promised Land** to their **descendants**, but now there were many **people groups** living there. They were called **Canaanites**. The Canaanites did not **worship** or **obey** God. They worshiped **false gods** and did many **evil** things.
-===== Important Terms: =====
 
+**Mungu** alikuwa **amewaahidi Ibrahimu, Isaka** na **Yakobo** kuwa atapeana ile **Nchi ya Ahadi** kwa **uzao** wao, lakini sasa kulikuwa **vikundi nyingi** za watu wanaoishi pale. Waliitwa **Wakanani**. Wakanani **hawakumwabudu** wala **kumtii** Mungu. Waliabudu **miungu ya uongo** na kufanya mambo mengi maovu.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:sw:obs:notes:key-terms:people-group|people groups]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaanites]]**
-  * **[[:sw:obs:notes:key-terms:worship|worship]]**
-  * **[[:sw:obs:notes:key-terms:obey|obey]]**
-  * **[[:sw:obs:notes:key-terms:god-false|false gods]]**
-  * **[[:sw:obs:notes:key-terms:evil|evil]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
+  * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
+  * **[[:sw:obs:notes:key-terms:people-group|people groups (vikundi vya watu)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaanites (Wakanani)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worship (kuabudu)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
+  * **[[:sw:obs:notes:key-terms:god-false|false gods (miungu ya uongo)]]**
+  * **[[:sw:obs:notes:key-terms:evil|evil (maovu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
+//(There are no notes for this frame.)//
 
-==== Translation Notes: ====
-
-
-//(There are no notes for this frame.)// 
-
-
+//(Hukuna maelezo katika sehemu hii.)//
 
 **[[:sw:obs:notes:frames:14-01|<<]] | [[:sw:obs:notes:14|Up]] | [[:sw:obs:notes:frames:14-03|>>]]**
