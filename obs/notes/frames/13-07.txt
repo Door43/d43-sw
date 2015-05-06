@@ -1,30 +1,29 @@
-===== The Stone Tablets [13-07] =====
+===== The Stone Tablets [13-07] Vidonge vya mawe =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink&}}
 
 Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave them to **Moses**. **God also gave** many other laws and rules **to follow**. If the people **obeyed** these laws, God **promised** that he would **bless** and protect them. If they **disobeyed** them, God would **punish them**.
-===== Important Terms: =====
 
+Na **Mungu ** akaandika **amri hizi kumi** kwa **vidonge viwili vya mawe** na akazipeana kwa **Musa**. Mungu pia akapeana sheria na kanuni zingine nyingi **za kufuata**. Kama watu **wangetii ** hizi sheria, Mungu **aliahidi ** kuwa **atawabariki** na kuwalinda. Ikiwa **watakosa kutii**, Mungu **atawaadhibu**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:ten-commandments|Ten Commandments]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:gods-law|laws]]**
-  * **[[:sw:obs:notes:key-terms:obey|obeyed]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-  * **[[:sw:obs:notes:key-terms:bless|bless]]**
-  * **[[:sw:obs:notes:key-terms:disobey|disobeyed]]**
-  * **[[:sw:obs:notes:key-terms:punish|punish]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:ten-commandments|Ten Commandments (Amri kumi)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:gods-law|laws (sheria)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obeyed (walitii)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
+  * **[[:sw:obs:notes:key-terms:bless|bless (bariki)]]**
+  * **[[:sw:obs:notes:key-terms:disobey|disobeyed (kukosa kutii)]]**
+  * **[[:sw:obs:notes:key-terms:punish|punish (adhibu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:sw:obs:notes:frames:13-05|[13-05]]]** and **[[:sw:obs:notes:frames:13-06|[13-06]]]**.
-  * **stone tablets** - These were flat pieces of stone.
-  * **God also gave** - This can be translated as, "God also told them."
-  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
-
-
+  * **these Ten Commandments**  - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:sw:obs:notes:frames:13-05|[13-05]]]** and **[[:sw:obs:notes:frames:13-06|[13-06]]]**.
+  * **hizi amri kumi**  - Hii inaongea kuhusu amri ambazo Mungu alimpa Musa ili Waisraeli watii. Zinanakiliwa katika sehumu **[13-05]**  na **[13-06]. **
+  * **stone tablets**  - These were flat pieces of stone.
+  * **vidonge vya mawe**  - Hizi zilikuwa vipande laini vya mawe.
+  * **God also gave**  - This can be translated as, "God also told them."
+  * **Mungu pia alipeana**  - Hii inaweza kutafsiriwa kama, "Mungu pia aliwaambia."
+  * **to follow**  - This can be translated as, "that they must obey" or, "that they must keep."
+  * **kufuata**  - Hii inaweza kutafsiriwa kama, "ile ambayo lazima watii"  ama, "ile ambayo lazima watilie manaani."
 **[[:sw:obs:notes:frames:13-06|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-08|>>]]**
