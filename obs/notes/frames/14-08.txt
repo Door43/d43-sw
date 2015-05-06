@@ -1,25 +1,22 @@
-===== God Spoke [14-08] =====
+===== God Spoke [14-08] Mungu aliongea =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-08.jpg?nolink&}}
 
 **God was very angry** and **came to** the **Tent of Meeting**. **God** said, “Because you have rebelled against me, all of the people will have to **wander in the wilderness**. Except for **Joshua** and **Caleb**, everyone who is twenty years or older will die there and never enter the **Promised Land**.”
-===== Important Terms: =====
 
+**Mungu alikasirika sana** na **akaja ****kwa** ile **hema ya makutano**. Mungu akasema, "Kwa sababu mmeniasi, watu wote ni lazima **watazungukazunguka jangwani.** Isipokuwa **Yoshua** na **Kalebu**, kila mtu ambaye amefikisha miaka ishirini na zaidi atakufa hapo na hataingia **Nchi ya Ahadi**."
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:sw:obs:notes:key-terms:caleb|Caleb]]**
-  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:tent-of-meeting|Tent of Meeting (Hema ya Makutano)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
+  * **[[:sw:obs:notes:key-terms:caleb|Caleb (Kalebu)]]**
+  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **came to** - God did not appear as a person, but came in some other form that showed his glory and power.
-  * **wander in the wilderness** - God would lead the people around in the wilderness with no specific destination until all of the adults who rebelled against him died.
-
-
+  * **came to**  - God did not appear as a person, but came in some other form that showed his glory and power.
+  * **akaja huko**  - Mungu hakuja mwenyewe, lakini alikuja kwa njia ingine ambayo ilionyesha utukufu wake na nguvu.
+  * **wander in the wilderness**  - God would lead the people around in the wilderness with no specific destination until all of the adults who rebelled against him died.
+  * **zungukazunguka jangwani**  - Mungu atawaongoza watu mzunguko kule jangwani bila mpaka wale watu wazima wote walioasi kinyume naye wakufe.
 **[[:sw:obs:notes:frames:14-07|<<]] | [[:sw:obs:notes:14|Up]] | [[:sw:obs:notes:frames:14-09|>>]]**
