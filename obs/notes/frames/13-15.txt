@@ -6,19 +6,22 @@
 
 Musa alitengeneza vidonge mpya vya mawe za Amri Kumi kwa nafasi ya zile alivunja. Kisha akapanda mlima tena na kuomba kwamba Mungu atawasamehe watu. Mungu akumusikiliza Musa na akawasamehe. Musa akarudi chini ya mlima na zile Amri Kumi katika vidonge mpya. Na Mungu akawaongoza Waisraeli mbali na Mlima wa Sinai kuelekea nchi ya ahadi.
 
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:pray|prayed]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:forgive|forgive]]**
-  * **[[:sw:obs:notes:key-terms:ten-commandments|Ten Commandments]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:sinai|Mount Sinai]]**
-  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land]]**
-==== Translation Notes: ====
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:pray|prayed (aliomba)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgive (kusamehe)]]**
+  * **[[:sw:obs:notes:key-terms:ten-commandments|Ten Commandments (Amri Kumi)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:sinai|Mount Sinai (Mlima wa Sinai)]]**
+  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Moses made**  - Moses carved the stone tablets with tools such as a hammer and chisel.
+  * **Musa alitengeneza**  - Musa alichonga vidonge vya mawe na vyombo kama nyundo na patasi.
   * **listened to**  - See how you translated this phrase in **[[:sw:obs:notes:frames:13-12|[13-12]]]**.
+  * **alisikiliza**  - Ona vile ulivyotafsiri hii msemo pale **[13-12]**
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:13-14|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:14-01|>>]]**
