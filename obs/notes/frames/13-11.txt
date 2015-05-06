@@ -1,24 +1,21 @@
-===== Make Us an Idol for Us [13-11] =====
+===== Make Us an Idol for Us [13-11] Fanya sanamu kwa ajili yetu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?nolink&}}
 
 For many days, **Moses** was on top of **Mount Sinai** talking with **God**. **The people became tired of waiting** for him to return. So they **brought gold** to **Aaron** and asked him to make an **idol** for them!
-===== Important Terms: =====
 
+Kwa siku nyingi, **Musa** alikuwa juu ya **Mlima wa Sinai** akiongea na **Mungu**. **Watu wakachoshwa na kumngojea** arudi. Kwa hivyo **wakaleta dhahabu** kwa **Haruni** na wakamuuliza awatengenezee **sanamu**!
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:sinai|Mount Sinai]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:sw:obs:notes:key-terms:idol|idol]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:sinai|Mount Sinai (Mlima wa Sinai)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni)]]**
+  * **[[:sw:obs:notes:key-terms:idol|idol (sanamu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **The people became tired of waiting** - This could be translated as, "The people became impatient because he did not return quickly" or, "The people didn't want to wait any longer for him to return."
-  * **brought gold** - These were objects and jewelry made of gold, which could be melted and formed into other things.
-
-
+  * **The people became tired of waiting**  - This could be translated as, "The people became impatient because he did not return quickly" or, "The people didn't want to wait any longer for him to return."
+  * Watu wlichoswa na kungoja - Hii inaweza kutafsiriwa kama, "Watu wakakosa uvumilivu kwa sababu hakurudi haraka" ama, "Watu hawakutaka kungoja tena kurudi kwake."
+  * **brought gold**  - These were objects and jewelry made of gold, which could be melted and formed into other things.
+  * **walileta dhahabu **- Hizi zilikuwa vitu na zana zimetngenezwa na dhahabu, ambazo zingeyeyushwa na kuundwa kuwa vitu zingine."
 **[[:sw:obs:notes:frames:13-10|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-12|>>]]**
