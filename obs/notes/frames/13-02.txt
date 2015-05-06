@@ -1,28 +1,26 @@
-===== God Called Israel [13-02] =====
+===== God Called Israel [13-02] Mungu aliita Israeli =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-02.jpg?nolink&}}
 
 **God** said to **Moses** and the people of **Israel**, “If you will **obey** me and **keep my covenant**, **you will be my prized possession**, a **kingdom of priests**, and a **holy nation**.”
-===== Important Terms: =====
 
+**Mungu** alisema kwa **Musa** na watu wa **Israeli**, "kama **mtanitii** na **kuweka agano langu, mtakuwa milki yangu ya dhamana**, **ufalme wa makuhani**, na **taifa takatifu**."
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:obey|obey]]**
-  * **[[:sw:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:sw:obs:notes:key-terms:kingdom|kingdom]]**
-  * **[[:sw:obs:notes:key-terms:priest|priests]]**
-  * **[[:sw:obs:notes:key-terms:holy|holy]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
+  * **[[:sw:obs:notes:key-terms:covenant|covenant (agano)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom|kingdom (ufalme)]]**
+  * **[[:sw:obs:notes:key-terms:priest|priests (makuhani]]**)
+  * **[[:sw:obs:notes:key-terms:holy|holy (watakatifu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **keep my covenant** - This could be translated as, "do what my covenant requires you to do." Obeying and keeping the covenant are not two different things. One way to make this clear would be to say, "obey me by keeping my covenant." God will soon tell them what his covenant requires.
-  * **my prized possession** - This could be translated as, "You will be my possession that I value most" or, "You will be the people that I treasure more than any other group of people" or, "You will be my own precious people."
-  * **You will be…a kingdom of priests** - This could be translated as, "I will be your king and you will be like priests." The Israelites were supposed to teach the other nations about God and be a mediator between God and the nations just as there were priests in the nation of Israel to go between God and the Israelites.
-
-
+  * **keep my covenant**  - This could be translated as, "do what my covenant requires you to do." Obeying and keeping the covenant are not two different things. One way to make this clear would be to say, "obey me by keeping my covenant." God will soon tell them what his covenant requires.
+  * **weka agano yangu**  - Hii inaweza kutafsiriwa kama, "fanya kile agano langu lawatakia kufanya." Kutii na kuliweka agano si mambo mawili tofauti. Njia moja ya kufanya hii iwe wazi ni kusema, "Nitiini kwa kuweka agano zangu."  Mungu karibuni atawaambia agano lake litahitaji nini."
+  * **my prized possession**  - This could be translated as, "You will be my possession that I value most" or, "You will be the people that I treasure more than any other group of people" or, "You will be my own precious people."
+  * **milki yangu ya thamana**  - Hii inaweza kutafsiriwa kama, "Mtakuwa milki yangu amboyo nina ithamini zaidi" ama, Mtakuwa wale watu wale nitathamini kuriko vikundi vingine vyote vya watu" ama, Mtakuwa watu wangu wa thamana."
+  * **You will be…a kingdom of priests**  - This could be translated as, "I will be your king and you will be like priests." The Israelites were supposed to teach the other nations about God and be a mediator between God and the nations just as there were priests in the nation of Israel to go between God and the Israelites.
+  * **mtakuwa ...ufalme wa makuhani**  - Hii inaweza kutafsiriwa kama, "nitakuwa mfalme wenu nanyi mtakuwa kama makuhani." Waisraeli walitakiwa wafundishe mataifa mengine kuhusu Mungu na wawe wapatanishi kati ya Mungu na mataifa kama vile kulikuwa na makuhani katika nchi ya Israeli wakupatanisha Mungu na Waisraeli.
 **[[:sw:obs:notes:frames:13-01|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-03|>>]]**
