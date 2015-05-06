@@ -1,29 +1,28 @@
-===== Destroy the Canaanites [14-03] =====
+===== Destroy the Canaanites [14-03] Angamiza Wakanani =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-03.jpg?nolink&}}
 
 **God** told the **Israelites**, “You must **get rid of** all the **Canaanites** in the **Promised Land**. **Do not make peace with them** and **do not marry them**. You must completely destroy all of their **idols**. If you do not **obey** me, **you will worship their idols** instead of me.”
-===== Important Terms: =====
 
+**Mungu** akawaambia **Waisraeli**, "Lazima **muwaondoe** **Wakanani** wote katika **Nchi ya Ahadi**.  Msifanya amani nao na **msioane** nao. Lazima muziangamize kabisa **sanamu** zao yote. Kama hamutakuwa **watiifu** kwangu, **mtaabudu sanamu zao** badala yangu."
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaanites]]**
-  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:sw:obs:notes:key-terms:peace|peace]]**
-  * **[[:sw:obs:notes:key-terms:idol|idols]]**
-  * **[[:sw:obs:notes:key-terms:obey|obey]]**
-  * **[[:sw:obs:notes:key-terms:worship|worship]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaanites (Wakanani)]]**
+  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
+  * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
+  * **[[:sw:obs:notes:key-terms:idol|idols (sanamu)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worship (kuabudu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **get rid of** - This could be translated as, "get them out of the land" or, "remove them from the land."
-  * **Do not make peace with them** - This could be translated as, "Do not live peacefully among or alongside them" or, "Do not promise to live peacefully with them."
-  * **do not marry them** - God did not want any Israelite person to marry any Canaanite person.
-  * **you will worship their idols** - If the Israelites became friends with the Canaanites and did not destroy the idols, they would be tempted to worship those idols instead of God. You could say, "you will end up worshiping" to make it clear that this would result from living so close to the Canaanites and learning their ways.
-
-
+  * **get rid of**  - This could be translated as, "get them out of the land" or, "remove them from the land."
+  * **angamizeni **- Hii inaweza kutafsiriwa kama, "wafurusheni kutoka kwa nchi" ama, "watoeni kutoka kwa nchi."
+  * **Do not make peace with them**  - This could be translated as, "Do not live peacefully among or alongside them" or, "Do not promise to live peacefully with them."
+  * **msifanye amani nao**  - Hii yaweza kutafsiriwa kama, "Msikae kwa amani miongoni ama karibu nao" ama, "Msiahidi kuishi katika amani nao."
+  * **do not marry them**  - God did not want any Israelite person to marry any Canaanite person.
+  * **Msioane nao**  - Mungu hakutaka Muisraeli yeyote kuoa mtu wa Kanani.
+  * **you will worship their idols**  - If the Israelites became friends with the Canaanites and did not destroy the idols, they would be tempted to worship those idols instead of God. You could say, "you will end up worshiping" to make it clear that this would result from living so close to the Canaanites and learning their ways.
+  * **mtaziabudu sanamu zao**  - Kama Waisraeli watafanya urafiki na Wakanani na wakose kuangamiza sanakmu, watajaribiwa kuabudu hizo sanamu badala ya Mungu. Unaweza sema, "mwisho utakuwa kuabudu" kuifanya wazi kuwa matokeo ya mwisho ya kuishi karibu na Wakanani na kujifunza njia zao.
 **[[:sw:obs:notes:frames:14-02|<<]] | [[:sw:obs:notes:14|Up]] | [[:sw:obs:notes:frames:14-04|>>]]**
