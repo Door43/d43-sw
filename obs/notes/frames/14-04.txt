@@ -1,25 +1,23 @@
-===== The Twelve Spies [14-04] =====
+===== The Twelve Spies [14-04] Wapelelezi kumi na wawili =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-04.jpg?nolink&}}
 
 When the **Israelites** reached the border of **Canaan**, **Moses** chose twelve men, one from each tribe of **Israel**. He gave the men instructions to go and **spy on the land** to see what it was like. They were also to **spy on the Canaanites to see if they were strong or weak**.
-===== Important Terms: =====
 
+Wakati **Waisraeli** walifika mpaka wa **Kanani**, **Musa** akachagua wanaume kumi na wawili, mmoja kutoka kwa kila kabila la **Israeli**. Akawapa hawa wanaume maagizo waende na **kupeleleza nchi ** kuona vile inavyokaa. Pia walikuwa **wapeleleze kuona kama wana nguvu ama ni wanyonge**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaanites]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaanites (Wakanani)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **spy on the land** - This could be translated as, "secretly get information about the land" or, "secretly learn about the land." Part of the spies' task was to find out what kinds of food the land could produce.
-  * **spy on the Canaanites** - This could be translated as, "secretly get information about the people of Canaan" or, "secretly learn about the Canaanites."
-  * **to see if they were strong or weak** - They wanted to know if the Canaanites were prepared to fight against them. This could be translated as, "to find out how powerful the Canaanite armies were."
-
-
+  * **spy on the land**  - This could be translated as, "secretly get information about the land" or, "secretly learn about the land." Part of the spies' task was to find out what kinds of food the land could produce.
+  * peleleza nchi - Hii inaweza kutafsiriwa kama, "kupata tarifa kisiri kuhusu nchi" ama, "kisiri jifahamishe mabo ya nchi." Sehemu ya kazi ya wapelelezi ilikuwa kujua aina ya chakula ambacho ile nchi inaweza kutoa."
+  * **spy on the Canaanites**  - This could be translated as, "secretly get information about the people of Canaan" or, "secretly learn about the Canaanites."
+  * **peleleza Wakanani**  - Hii inaweza kutafsiriwa kama, "kwa siri kupata taifa kuhusu watu wa Kanani" ama, kisiri jifundishe kuhusu Wakanani."
+  * **to see if they were strong or weak**  - They wanted to know if the Canaanites were prepared to fight against them. This could be translated as, "to find out how powerful the Canaanite armies were."
+  * **Kuangalia kama wana nguvu ama ni wanyonge **- Walitaka kujua kama Wakanani walikuwa tayari kupigana na wao. Hii inaweza kutafsiriwa kama, "kutafuta nguvu ya majeshi ya Kanani ni kiasi gani."
 **[[:sw:obs:notes:frames:14-03|<<]] | [[:sw:obs:notes:14|Up]] | [[:sw:obs:notes:frames:14-05|>>]]**
