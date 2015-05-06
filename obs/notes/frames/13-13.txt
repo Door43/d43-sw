@@ -1,22 +1,17 @@
-===== Moses Was Angry [13-13] =====
+===== Moses Was Angry [13-13] Musa alikasirika =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink&}}
 
 When **Moses** came down the mountain and saw the **idol**, he was so angry that he **smashed the stones** on which **God** had written the **Ten Commandments**.
-===== Important Terms: =====
 
+Wakati Musa aliteremka mlima na akaona ile **sanamu**, alikasirika sana kiasi ya kuwa **aliangusha chini na kuvunja mawe** zile Mungu alikuwa ameandika zile **Amri Kumi**.
+===== Important Terms: =====
 
   * **[[:sw:obs:notes:key-terms:moses|Moses]]**
   * **[[:sw:obs:notes:key-terms:idol|idol]]**
   * **[[:sw:obs:notes:key-terms:god|God]]**
   * **[[:sw:obs:notes:key-terms:ten-commandments|Ten Commandments]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **smashed the stones** - He threw the stones down on the ground and they broke up into little pieces.
-
-
+  * **smashed the stones**  - He threw the stones down on the ground and they broke up into little pieces.
 **[[:sw:obs:notes:frames:13-12|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-14|>>]]**
