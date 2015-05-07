@@ -1,4 +1,4 @@
-===== I Am Your God [13-04] Mimi ni Mungu wenu =====
+===== I Am Your God [13-04] Mimi ni Mungu wenu *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink&}}
 
@@ -18,9 +18,9 @@
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Then God gave them the covenant and said**  - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
-  * **Mungu akawa agano na kusema**  - Kile Mungu anafuatisha ni yaliyomo katika agano, hiyo ni, anawambia watu yale mambo ni ya lazima wafuate. Hii inaweza kutafsiriwa kama, "Na Mungu akawaambia agano lake. Alisema" ama, "Na Mungu akafanya agano nao."
+  * **Mungu akawapa agano na kusema**  - Kile Mungu anafuatisha ni yaliyomo katika agano, hiyo ni, anawambia watu yale mambo ni ya lazima wafuate. Hii inaweza kutafsiriwa kama, "Na Mungu akawaambia agano lake. Alisema" ama, "Na Mungu akafanya agano nao."
   * **Yahweh your God**  - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
-  * **Yehova Mungu wenu**  - Katika lugha zingine inaweza kuwa rahisi kubadilisha mpangilio wa maneno na kusema, "Mungu wenu Yehova." Hakikisha hitakaa kama Waisraeli walikuwa na zaidi ya Mungu mmoja. Inastahili kuwa wazi kuwa Yehova peke yake ndiye Mungu. Njia ingine ya kutafsiri hii yaweza kuwa, "Yehova, ambaye ni Mungu wenu," ama "Mungu wenu, ambaye jina lake ni Yehova."
+  * **Yehova Mungu wenu**  - Katika lugha zingine inaweza kuwa rahisi kubadilisha mpangilio wa maneno na kusema, "Mungu wenu Yehova." Hakikisha haitakaa kama Waisraeli walikuwa na zaidi ya Mungu mmoja. Inastahili kuwa wazi kuwa Yehova peke yake ndiye Mungu. Njia ingine ya kutafsiri hii yaweza kuwa, "Yehova, ambaye ni Mungu wenu," ama "Mungu wenu, ambaye jina lake ni Yehova."
   * **who saved you from slavery**  - This could be translated as, "I freed you from slavery."
   * **aliyewaokoa kutoka kwa utumwa**  - Hii inaweza kutafsiriwa kama, "niliwaweka huru kutoka kwa utumwa."
 **[[:sw:obs:notes:frames:13-03|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-05|>>]]**
