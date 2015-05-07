@@ -1,11 +1,11 @@
-===== The Commandments [13-05] Amri =====
+===== The Commandments [13-05] Amri *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?nolink&}}
 
 “Do not make **idols** and do not **worship** them, because **I**, **Yahweh**, **am a jealous God**. **Do not use my name in a disrespectful way**. Be sure to keep the **Sabbath day holy**. In other words, do all your work in six days, for the **seventh day** is a day for you to rest and **to remember me**.”
 
-Musiifanye **miungu ** na wala musiabudu , maana **mimi**, **Yehova, ni Mungu mwenye wivu. Musilutumie jina langu kwa njia isiyi na heshima**. Muhakikishe kuiweka **sabato takatifu**. Kwa njia nyingine, fanyeni kazi zote kwa siku sita, maana **siku ya sabato** ni siku yenu ya kupumzika **na kunikumbuka,**
-===== Important Terms: Maneno Muhimu: =====
+Musizifanye **sanamu ** wala **kuziabudu**, kwa sababu **M****imi**, **Yehova, ni Mungu mwenye wivu. Musilitumie jina langu kwa njia isiyo na heshima**. Muhakikishe kuiweka **sabato takatifu**. Kwa njia nyingine, fanyeni kazi zote kwa siku sita, maana **siku ya saba** ni siku yenu ya kupumzika **na kunikumbuka."**
+===== Important Terms: Maneno ya Muhimu: =====
 
   * **[[:sw:obs:notes:key-terms:idol|idols]] Miungu**
   * **[[:sw:obs:notes:key-terms:worship|worship]] kuabudu**
@@ -14,16 +14,16 @@ Musiifanye **miungu ** na wala musiabudu , maana **mimi**, **Yehova, ni Mungu mw
   * **[[:sw:obs:notes:key-terms:sabbath|Sabbath day]] sabato**
   * **[[:sw:obs:notes:key-terms:holy|holy]] takatifu**
   * **[[:sw:obs:notes:key-terms:sabbath|seventh day]] siku ya saba**
-==== Translation Notes: Tafsiri ya Maneno: ====
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * (God continues speaking to Moses.)
-  * ( Mungu anaendelea kunena na Musa)
+  * (Mungu anaendelea kunena na Musa.)
   * **I, Yahweh, am a jealous God**  - This could be translated as, "I, Yahweh, will be angry if you worship or honor anything besides me." God strongly desires that his people love, serve, and obey Him more than anything or anyone else. He must be the only master of their lives.
-  * **Mimi. Yehova, ni Mungu mwenye wivu**  - Hii inaweza kutafsiriwa kama, " Mimi, Yehova, nitakasirika kama mkiabudu ama kuheshimu chochote kando yangu".
+  * **Mimi. Yehova, ni Mungu mwenye wivu**  - Hii inaweza kutafsiriwa kama, " Mimi, Yehova, nitakasirika kama mkiabudu ama kuheshimu chochote kando yangu." Mungu anatamani sana watu wake wampende, wamutumikie, na kumtii kuliko kitu chochote. Lazima awe bwana peke yake wa maisha yao."
   * **Do not use my name in a disrespectful way**  - This could be translated as, "Do not talk about me in a way that does not show respect and honor" or, "Talk about me in a way that gives me proper respect and honor."
-  * **Msilitumie jina langu kwa njia ya kunikosea heshima**  - Hii inaweza kutafsiriwa kama, " Msinene kunihusu kwa njia ambayo haionyeshi heshima na adabu ama " kunena kunihusu kwa njia ambaya inanipatia heshima ninayoistahili .
+  * **Msilitumie jina langu kwa njia ya kunikosea heshima**  - Hii inaweza kutafsiriwa kama, "Msinene kunihusu kwa njia ambayo haionyeshi heshima na adabu" ama, "nena kunihusu kwa njia ambayo inanipatia heshima ninayoistahili."
   * **seventh day**  - To translate this, it is best to use the number ("seventh") rather than give the name of a specific day of the week.
-  * **Sabato**  -  kutafsiri hii, ni vizuri kutumia nambari ( saba) badala ya kupatia siku maalumu ya wiki.
+  * **Siku ya saba**  - kutafsiri hii, ni vizuri kutumia nambari ("ya saba") badala ya kutaja siku fulani ya wiki.
   * **to remember me**  - This could be translated as, "to keep me in mind" or, "to honor me."
-  * **Kunikumbuka mimi **- Hii inaweza kutafsiriwa kama, " kuiweka kwa akili ama kuniheshimu".
+  * **Kunikumbuka mimi **- Hii inaweza kutafsiriwa kama, "kuniweka kwa akili" ama, "kuniheshimu".
 **[[:sw:obs:notes:frames:13-04|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-06|>>]]**
