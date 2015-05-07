@@ -1,23 +1,22 @@
-===== Manna from Heaven [14-11] =====
+===== Manna from Heaven [14-11] Mana kutoka binguni =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-11.jpg?nolink&}}
 
 During the forty years that the people of **Israel** wandered in the wilderness, **God provided for them**. He gave them **bread from heaven**, **called “manna”**. **He also sent flocks of quail** (which are medium-sized birds) **into their camp** so they could have meat to eat. During all that time, God kept their clothes and shoes from wearing out.
-===== Important Terms: =====
 
+Kwa zile siku arobanne watu wa** Israeli** walizungukazunguka katika jangwa, **Mungu alikutana na mahitaji yao**. Aliwapa **mkate kutoka mbiguni**, **inayoitwa mana"**. **Pia alileta vikundi vya kware** (hawa ni ndege waliyo na ukubwa wa kati) **katika kambi yao** ili wawe na nyama ya kula. Katika wakati hou wote, Mungu alihifadhi nguo na viatu vyao mbila kuraruka.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **God provided for them** – This could be translated as, "God gave them everything they needed for food, water, and shelter."
-  * **bread from heaven, called "manna"** - This thin, bread-like food fell from the sky overnight onto the grass like dew. They called it "manna." Almost every day the people gathered this "manna" and cooked it as their food.
-  * **He also sent flocks of quail…camp** - Another way to say this would be, "He also caused a large number of quails to fly into their camp." If quails are unknown, a different, similar type bird could be used. Or it could be translated as, "a large number of medium-sized birds."
-  * **their camp** - The place where the Israelites set up their tents to sleep in was called a "camp." It was like a city with tents instead of buildings, and it could be moved around.
-
-
+  * **God provided for them**  – This could be translated as, "God gave them everything they needed for food, water, and shelter."
+  * **mungu alikutana na mahitaji yao**  - Hii inaweza kutafsiriwa kama, "Mungu aliwapa kila kitu walichokihitaji kama chakula, maji na makazi."
+  * **bread from heaven, called "manna"**  - This thin, bread-like food fell from the sky overnight onto the grass like dew. They called it "manna." Almost every day the people gathered this "manna" and cooked it as their food.
+  * **mkate kutoka mbinguni, unaoitwa "mana"**  - Hii chakula, ilikaa kama mkate nyembamba na ilinguka kwa nyasi kutoka angani kama umande. Waliita "mana." Karibu kila siku watu walikusanya hii "mana" na kuipika kama chakula yao.
+  * **He also sent flocks of quail…camp**  - Another way to say this would be, "He also caused a large number of quails to fly into their camp." If quails are unknown, a different, similar type bird could be used. Or it could be translated as, "a large number of medium-sized birds."
+  * **pia alileta vikundi vya kware...kambi**  - Njia nyingine ya kusema hii yaweza kuwa, "pia alifanya kware nyingi kuruka na kuja kwa kambi." Kama kware hazijulikani, jina la ndege anayefanana naye laweza tumika.  Ama inaweza tafsiriwa kama, "ndege wengi waliyo na ukubwa wa kati."
+  * **their camp**  - The place where the Israelites set up their tents to sleep in was called a "camp." It was like a city with tents instead of buildings, and it could be moved around.
+  * **kambi yao**  - Mahali ambapo Waisraeli waliweka hema zao za malazi iliitwa "kambi." Ilikuwa kama mji uliyo na hema badala ya mijengo, na ingetolewa toka mahali moja hadi ingine.
 **[[:sw:obs:notes:frames:14-10|<<]] | [[:sw:obs:notes:14|Up]] | [[:sw:obs:notes:frames:14-12|>>]]**
