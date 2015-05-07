@@ -1,4 +1,4 @@
-===== An Annual Feast [12-14] Sikukuu ya kila mwaka =====
+===== An Annual Feast [12-14] Karamu ya kila mwaka *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&}}
 
@@ -16,14 +16,13 @@
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the Passover**  - This could be translated as, "the Passover activities" or, "the Passover celebration" or, "the Passover meal."
-  * **Pasaka**  - Hii inaweza kutafsiriwa kama, "shuguli za Pasaka" ama, "sherehe za Pasaka" ama, "chakula ya Pasaka."
+  * **Pasaka**  - Hii inaweza kutafsiriwa kama, "shuguli za Pasaka" ama, "sherehe za Pasaka" ama, "mlo wa Pasaka."
   * **remember how God gave them victory over**  – This could be translated as, "regularly remind themselves of how God defeated." The word "remember" here doesn't just mean to not forget; it also means to formally commemorate something.
   * **kumbuka vile Mungu aliwapa ushindi**  - Hii inaweza kutafsiriwa kama, "kujikumbusha kila mala vile Mungu alivyo washinda." Neno "kumbuka" hapa haimanishi tu kutosahau; linamaanisha pia kusherehekea jambo kirasmi.
   * **perfect lamb**  - The word "perfect" here refers to a lamb with no disease or anything else wrong with it. Another way to say this might be, "a completely healthy and well-formed lamb."
   * **kondoo aliyemkamilifu**  - Neno "kamilifu" hapa linanena juu ya kondoo ambaye hana magonjwa ama umbaya mwingine wowote. Njia ingine ya kusema hii yaweza kuwa, "kondoo aliyekomaa na mwenye afya."
   * **bread that was made without yeast**  - Another way to say this is, "unleavened bread." See how you translated this in **[[:sw:obs:notes:frames:11-03|[11-03]]]**.
-  * mkake ambao hauna chachu - Njia ingine ya kusema hii ni, "mkate usiotiwa". Ona vile ulivyotafsiri hii pale **[11-03]**
-
+  * **mkake ambao hauna chachu**  - Njia ingine ya kusema hii ni, "mkate usiotiwa". Ona vile ulivyotafsiri hii pale **[11-03]**
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
   * //Hadithi ya Biblia kutoka//  - Marejeleo haya yaweza kuwa na tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:12-13|<<]] | [[:sw:obs:notes:12|Up]] | [[:sw:obs:notes:frames:13-01|>>]]**
