@@ -1,23 +1,21 @@
-===== The Canaanites Defeated Israel [14-10] =====
+===== The Canaanites Defeated Israel [14-10] Wakanani walishinda Israeli =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-10.jpg?nolink&}}
 
 **God did not go with them into this battle**, so they were defeated and many of them were killed. Then the **Israelites turned back from Canaan** and **wandered through the wilderness** for forty years.
-===== Important Terms: =====
 
+**Mungu hakwenda nao katika vita hii**, kwa hivyo walishindwa na wengi wao kuuawa. Kisha **Waisraeli wakarudi kutoka Kanani** na **wakazungukazunguka katika jangwa** kwa miaka arobanne.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **God did not go with them into this battle** - In other words, God did not help them in this fight.
-  * **turned back from Canaan** - They left Canaan and went back into the wilderness where they were before.
-  * **wandered through the wilderness** - They lived in the wilderness, and together they moved from place to place in that large, dry land, looking for food and water for themselves and their animals.
-
-
+  * **God did not go with them into this battle**  - In other words, God did not help them in this fight.
+  * **Mungu hakwenda nao katika vita**  - Kwa maneno mengine, Mungu hakuwasaidia katika hii vita.
+  * **turned back from Canaan**  - They left Canaan and went back into the wilderness where they were before.
+  * **wakarudi kutoka Kanani **- Walitoka Kanani na wakarudi jangwani mahali walipotoka.
+  * **wandered through the wilderness**  - They lived in the wilderness, and together they moved from place to place in that large, dry land, looking for food and water for themselves and their animals.
+  * **wakazungazunguka katika jangwa**  - Waliishi jangwani, na pamoja wakaenda toka mahali moja hadi ingine katika ardhi hiyo kubwa na kavu, wakitafuta chakula na maji yao na ya mifugo yao.
 **[[:sw:obs:notes:frames:14-09|<<]] | [[:sw:obs:notes:14|Up]] | [[:sw:obs:notes:frames:14-11|>>]]**
