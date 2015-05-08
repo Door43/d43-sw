@@ -1,23 +1,20 @@
-===== Dividing the Promised Land [15-12] =====
+===== Dividing the Promised Land [15-12] Kugawanya Nchi ya Ahadi =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-12.jpg?nolink&}}
 
 After this battle, **God gave each tribe of Israel its own section of the Promised Land**. Then God **gave Israel peace along all its borders**.
-===== Important Terms: =====
 
+Baada ya hiyo vita, **Mungu aliwapa kila kabila la Israeli sehemu yao la ile Nchi ya Ahadi**. Kisha **Mungu akawapa Israeli amani katika mipaka yao yote. **
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:sw:obs:notes:key-terms:peace|peace]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
+  * **[[:sw:obs:notes:key-terms:peace|peace (ahadi)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **God gave…Land** – this could be translated as, "God appointed each tribe its own plot of land" or, "God decided which part of the Promised Land each tribe of Israel would live on."
-  * **gave Israel peace along all its borders** – This could be translated as, "God allowed the Israelites to experience peace with the other people groups that surrounded them" or. "the other countries around Israel."
-
-
+  * **God gave…Land**  – this could be translated as, "God appointed each tribe its own plot of land" or, "God decided which part of the Promised Land each tribe of Israel would live on."
+  * **Mungu aliwapa...Nchi **- Hii inaweza kutafsiriwa kama, "Mungu aliwachagulia kila kabila eneo la shamba" ama "Mungu aliamuwa ni sehemu gani ya Nchi ya ahadi kila kabila la Israeli litaishi."
+  * **gave Israel peace along all its borders**  – This could be translated as, "God allowed the Israelites to experience peace with the other people groups that surrounded them" or. "the other countries around Israel."
+  * **aliwapa Israeli amani katika mipaka yao yote**  - Hii inaweza kutafsiriwa kama, "Mungu aliruhusu Waisraeli kuzoea amani na vikundi vingine vya watu waliowazingira" ama, "nchi zingine ambazo ziliwazunguka Israeli."
 **[[:sw:obs:notes:frames:15-11|<<]] | [[:sw:obs:notes:15|Up]] | [[:sw:obs:notes:frames:15-13|>>]]**
