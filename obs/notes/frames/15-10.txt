@@ -1,21 +1,19 @@
-===== The Sun Stood Still [15-10] =====
+===== The Sun Stood Still [15-10] Jua lilisimama =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-10.jpg?nolink&}}
 
 **God** also caused the sun to stay in one place in the sky so that **Israel** would have enough time to completely defeat the **Amorites**. On that day, God won a great victory for Israel.
-===== Important Terms: =====
 
+**Mungu** pia alifanya jua likae pahali moja angani ili **Israeli** wawe na muda wa kutosha kuwashinda **Waamori ** kabisa. Siku hiyo, Mungu aliwapa Israeli ushindi mkubwa.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:amorite|Amorites]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:amorite|Amorites (Waamori)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
+* //(There are no notes for this frame.)//
 
-==== Translation Notes: ====
-
-
- * //(There are no notes for this frame.)// 
-
+//*(Hakuna maelezo katika sehemu hii.)//
 
 **[[:sw:obs:notes:frames:15-09|<<]] | [[:sw:obs:notes:15|Up]] | [[:sw:obs:notes:frames:15-11|>>]]**
