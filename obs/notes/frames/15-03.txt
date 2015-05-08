@@ -1,26 +1,24 @@
-===== Marching around Jericho [15-03] =====
+===== Marching around Jericho [15-03] Kuandamana kuzunguka Yericho =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink&}}
 
 **After the people crossed the Jordan River**, **God** told **Joshua how to attack** the powerful city of **Jericho**. The people **obeyed** God. Just as God told them to do, the soldiers and **priests** marched around the city of Jericho **once a day for six days**.
-===== Important Terms: =====
 
+**Baada ya watu kuvuka Mto wa Yordani**, **Mungu** alimwambia **Yoshua jinsi ya kuvamia** mji mwenye nguvu wa **Yericho**. Watu **walimutii** Mungu. Kama vile Mungu aliwaambia wafanye, wale askari na **makuhani** wakaandamana wakizunguka mji wa Yericho **mara moja kila siku, kwa siku sita.**
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jordan-river|Jordan River]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:sw:obs:notes:key-terms:jericho|Jericho]]**
-  * **[[:sw:obs:notes:key-terms:obey|obeyed]]**
-  * **[[:sw:obs:notes:key-terms:priest|priests]]**
+  * **[[:sw:obs:notes:key-terms:jordan-river|Jordan River (Mto wa Yordani)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
+  * **[[:sw:obs:notes:key-terms:jericho|Jericho (Yericho)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obeyed (alitii)]]**
+  * **[[:sw:obs:notes:key-terms:priest|priests (makuhani)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **After the people crossed the Jordan River** – In some languages it is better to say, "The people crossed the Jordan River and then…"
-  * **how to attack** – This could be translated as, "exactly what he should do to attack."
-  * **once a day for six days** - That is, they went around the city one time every day for a total of six days.
-
-
+  * **After the people crossed the Jordan River**  – In some languages it is better to say, "The people crossed the Jordan River and then…"
+  * **baada ya watu kuvuka Mto wa Yordani**  - Kwa lugha zingine ni bora zaidi kusema, "watu walivuka Mto wa Yordani na..."
+  * **how to attack**  – This could be translated as, "exactly what he should do to attack."
+  * **jinsi ya kuvamia**  - Hii inaweza kutafsiriwa kama, "haswa kile anastahili kufanya ili kuvamia."
+  * **once a day for six days**  - That is, they went around the city one time every day for a total of six days.
+  * **mala moja kila siku kwa siku sita**  - Hiyo ni, walizunguka mji mara moja kila siku kwa jumla ya siku sita.
 **[[:sw:obs:notes:frames:15-02|<<]] | [[:sw:obs:notes:15|Up]] | [[:sw:obs:notes:frames:15-04|>>]]**
