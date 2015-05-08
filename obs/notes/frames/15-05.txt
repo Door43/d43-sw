@@ -1,23 +1,17 @@
-===== The Walls Fell Down [15-05] =====
+===== The Walls Fell Down [15-05] Kuta zilianguka =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-05.jpg?nolink&}}
 
 Then the walls around **Jericho** fell down! The **Israelites** destroyed everything in the city as **God** had commanded. They only spared **Rahab** and her family, who **became part of** the Israelites. When the other people living in **Canaan** heard that the Israelites had destroyed Jericho, they were terrified that the Israelites would attack them also.
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jericho|Jericho (Yericho)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:rahab|Rahab (Rahabu)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-  * **[[:sw:obs:notes:key-terms:jericho|Jericho]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:rahab|Rahab]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-
-
-==== Translation Notes: ====
-
-
-  * **became part of** - This can be translated as, "who then joined the Israelite community" or, "who then became members of the nation of Israel."
-
-
+  * **became part of**  - This can be translated as, "who then joined the Israelite community" or, "who then became members of the nation of Israel."
+  * **wakawa sehemu ya**  - Hii inaweza kutafsiriwa kama, "ambao wakati ule walijiunga na Waisraeli" ama, "ambao wakati ule walifanyika wananchi wa Israeli."
 **[[:sw:obs:notes:frames:15-04|<<]] | [[:sw:obs:notes:15|Up]] | [[:sw:obs:notes:frames:15-06|>>]]**
