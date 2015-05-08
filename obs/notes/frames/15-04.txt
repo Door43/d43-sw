@@ -1,21 +1,18 @@
-===== Shouting to God [15-04] =====
+===== Shouting to God [15-04] Kupiga kelele kwa Mungu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-04.jpg?nolink&}}
 
 Then on the seventh day, the **Israelites** marched around the city seven more times. **While they marched around the city for the last time**, the soldiers shouted while the **priests blew their trumpets**.
-===== Important Terms: =====
 
+Na katika siku ya saba, **Waisraeli** wakaandamana kuzunguka mji wa Yericho mara ingine saba. **Walipouzunguka ule mji kwa mara ya mwisho**, askari wakapiga kelele na **makuhani wakapiga tarumpeta zao**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:priest|priests]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:priest|priests (makuhani)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **While they marched around the city for the last time** - This can be translated as, "During their final circuit around the city."
-  * **blew their trumpets** - This could be translated as, "They sounded their trumpets" or, "They played their trumpets." These trumpets were made out of ram's horns.
-
-
+  * **While they marched around the city for the last time**  - This can be translated as, "During their final circuit around the city."
+  * **walipoandamana wakizunguka mji kwa mara ya kwanza**  - Hii inaweza kutafsiriwa kama, "wakati wa mzunguko wao wa mji wa mwisho."
+  * **blew their trumpets**  - This could be translated as, "They sounded their trumpets" or, "They played their trumpets." These trumpets were made out of ram's horns.
+  * **walipiga tarumpeta zao**  - Hii inaweza kutafsiriwa kama, "walifanya tarumpeta zao kutoa sauti" ama, "Walipiga tarumpeta zao."  Hizi tarumpeta zilikuwa zimetengenezwa na pembe za kondoo wa kiume.
 **[[:sw:obs:notes:frames:15-03|<<]] | [[:sw:obs:notes:15|Up]] | [[:sw:obs:notes:frames:15-05|>>]]**
