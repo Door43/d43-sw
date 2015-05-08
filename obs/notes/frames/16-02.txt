@@ -1,24 +1,17 @@
-===== Enemies Defeated Israel [16-02] =====
+===== Enemies Defeated Israel [16-02] Maadui walishinda Israeli =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-02.jpg?nolink&}}
 
 Because the **Israelites** kept **disobeying God**, he **punished** them by allowing their enemies to defeat them. These enemies stole things from the Israelites, destroyed their property, and killed many of them. After many years of disobeying God and being oppressed by their enemies, the Israelites **repented** and **asked God to rescue them**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:disobey|disobeying (kutotii)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:punish|punished (kuadhibu)]]**
+  * **[[:sw:obs:notes:key-terms:repent|repented (walitubu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:disobey|disobeying]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:punish|punished]]**
-  * **[[:sw:obs:notes:key-terms:repent|repented]]**
-
-
-==== Translation Notes: ====
-
-
-  * **asked God to rescue them** - That is, they asked God to help them and to set them free from their enemies.
-
-
+  * **asked God to rescue them**  - That is, they asked God to help them and to set them free from their enemies.
+  * **waliuliza Mungu awaokoe**  - Hiyo ni, waliuliza Mungu awasaidie na kuwaweka huru kutoka kwa adui zao.
 **[[:sw:obs:notes:frames:16-01|<<]] | [[:sw:obs:notes:16|Up]] | [[:sw:obs:notes:frames:16-03|>>]]**
