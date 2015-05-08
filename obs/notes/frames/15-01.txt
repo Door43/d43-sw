@@ -3,22 +3,26 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg?nolink&}}
 
 **At last it was time for** the **Israelites** to **enter Canaan**, the **Promised Land**. **Joshua** sent **two spies to the Canaanite city of Jericho** that was **protected by strong walls**. In that city there lived a prostitute named **Rahab** who hid the spies and later helped them to **escape**. She did this because she **believed God**. They promised to protect Rahab and **her family** when the Israelites would destroy Jericho.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:sw:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaanite]]**
-  * **[[:sw:obs:notes:key-terms:jericho|Jericho]]**
-  * **[[:sw:obs:notes:key-terms:rahab|Rahab]]**
-  * **[[:sw:obs:notes:key-terms:believe|believed]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-==== Translation Notes: ====
+**Hatimaye ilifika wakati** wa Waisraeli kuingia **Kanani**, ile **Nchi ya Ahadi.** **Yoshua** akatuma **wapelelezi wawili mji wa Yericho kule Kanani** ambao ulikuwa **umelindwa na kuta zenye nguvu**. Katika mji ule aliishi kahaba alietwa **Rahabu** ambaye aliwaficha wale wapelelezi na baadaye akawasaidia **kutoroka**. Alifanya hivyo kwa sababu **alimwamini Mungu**. Wakaahidi kumlinda Rahabu na **jamii yake** wakati Waisraeli wataharibu Yericho.
+===== Important Terms (Maneno ya Muhimu): =====
+
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
+  * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaanite (Mkanani)]]**
+  * **[[:sw:obs:notes:key-terms:jericho|Jericho (Yericho)]]**
+  * **[[:sw:obs:notes:key-terms:rahab|Rahab (Rahabu)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believed (aliamini)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
+==== Translation Notes (Maelezoa ya Tafsiri): ====
 
   * **At last it was time for**  - "At last" means "finally" or, "after a long wait." To make it clear what "time" refers to, you could say, "after they had wandered in the desert for 40 years, God finally permitted."
+  * **hatimaye ikafika wakati wa**  - "Hatimaye" inamanisha "mwisho kabisa" ama, "baada ya kugonja muda mrefu." Diposa iwe wazi "wakati" gani inamaanisha nini, unaweza sema, "baada ya kuzungazunguka katika jangwa miaka arobanne, Mungu hatimaye akaruhusu."
   * **two spies to the Canaanite city of Jericho**  - This could be translated as, "two men to Jericho, a city in Canaan, to find out information about it." Also see the notes for, "spy out the land" in **[[:sw:obs:notes:frames:14-04|[14-04]]]**.
+  * **wapelelezi wawili kwenda Yericho mji ulioko Kanani **- Hii inaweza kutafsiriwa kama, "wanaume wawili kwenda Yericho, mji ulioko Kanani, kutafuta habari kuihusu." Pia angalia maelezo ya, "peleleza nchi" pale** [14-04]. **
   * **protected by strong walls**  - This could be translated as, "completely surrounded by thick, strong walls made of stone to protect it from their enemies."
   * **escape**  – It is also possible to add, "escape from people in Jericho who wanted to harm them."
   * **her family**  - Rahab asked for protection for her father, mother, brothers, and sisters. Use your word for family that includes these people.
