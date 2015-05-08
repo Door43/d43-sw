@@ -1,28 +1,24 @@
-===== The Gibeonites in Danger [15-07] =====
+===== The Gibeonites in Danger [15-07] Wagibeoni Hatarini =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-07.jpg?nolink&}}
 
 The **Israelites** were angry when they found out that the **Gibeonites** had deceived them, but they kept the **peace** treaty they had made with them because it was a **promise** before God. Sometime later, the **kings** of another people group in **Canaan**, the **Amorites**, heard that the Gibeonites had made a peace treaty with the Israelites, so they combined their armies into one large army and attacked **Gibeon**. The Gibeonites **sent a message to Joshua asking for help**.
+
+**Waisraeli ** walipatwa na hasira walipogundua kuwa **Wagibeoni** waliwadanganya, lakini waliweka mkataba wa **amani** walioifanya na wao kwa sababu ilikuwa **ahadi** mbele za Mungu.  Baadaye, **wafalme** wa kikundi kingine cha watu kule **Kanani**, **Waamori,** wakasikia kuwa Wagibeoni wamefanya mkataba wa amani na Waisraeli, kwa hivyo wakaunganisha majeshi yao ikawa jeshi moja kubwa na wakavamia **Gibeoni**. Wagibeoni **walituma ujumbe kwa Yoshua wakiitisha msaada**.
 ===== Important Terms: =====
 
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:gibeon|Gibeonites (Wagibeoni)]]**
+  * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promise (ahadi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:king|kings (wafalme)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+  * **[[:sw:obs:notes:key-terms:amorite|Amorites (Waamori)]]**
+  * **[[:sw:obs:notes:key-terms:gibeon|Gibeon (Gibeoni)]]**
+  * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:gibeon|Gibeonites]]**
-  * **[[:sw:obs:notes:key-terms:peace|peace]]**
-  * **[[:sw:obs:notes:key-terms:promise|promise]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:king|kings]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:sw:obs:notes:key-terms:amorite|Amorites]]**
-  * **[[:sw:obs:notes:key-terms:gibeon|Gibeon]]**
-  * **[[:sw:obs:notes:key-terms:joshua|Joshua]]**
-
-
-==== Translation Notes: ====
-
-
-  * **sent a message to Joshua asking for help** - This could be translated as, "sent some of their people to tell Joshua that they needed the Israelites to help defend them against their enemies."
-
-
+  * **sent a message to Joshua asking for help**  - This could be translated as, "sent some of their people to tell Joshua that they needed the Israelites to help defend them against their enemies."
+  * **alituma ujumbe kwa Yoshua akiitisha msaada**  - Hii inaweza kutafsiriwa kama, "walituma wengine kati ya watu wao ili wamwambie Yoshua kuwa wanahitaji msaada wa Waisraeli kujilinda kutoka kwa adui zao.
 **[[:sw:obs:notes:frames:15-06|<<]] | [[:sw:obs:notes:15|Up]] | [[:sw:obs:notes:frames:15-08|>>]]**
