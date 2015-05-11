@@ -1,4 +1,4 @@
-===== More Commandments [13-06] Amri zaidi =====
+===== More Commandments [13-06] Amri zaidi *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-06.jpg?nolink&}}
 
@@ -8,12 +8,12 @@
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:adultery|adultery (ushelati)]]**
-==== Translation Notes: ====
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * (God continues speaking to Moses.)
   * (Mungu anaendelea kunena na Musa.)
   * **Do not commit adultery**  - This could be translated as, "Do not have sexual relations with someone else's spouse" or, "Do not have marital relations with another man's wife or another woman's husband." Be sure to translate this in a way that doesn't offend or embarrass people. Languages often have an indirect, polite way of saying this, such as, "Do not sleep with."
-  * **musifanye ushelati**  - Hii inaweza kutafsiriwa kama, "msiwe na mahusiano ya kingono na mke wa mwingine" ama, "msiwe na mahusiano ya ndoa na mke wa mwanaume mwingine ama mume wa mwanamke mwingine." Hakikisha utatafsiri hii kwa njia ambayo haitaudhi ama kuaimbisha watu. Lugha zina njia zi njia isiyo ya moja kwa moja, na yenye adabu, kama hivi, "Usilale na."
+  * **musifanye ushelati**  - Hii inaweza kutafsiriwa kama, "msiwe na mahusiano ya kingono na mke wa mwingine" ama, "msiwe na mahusiano ya ndoa na mke wa mwanaume mwingine ama mume wa mwanamke mwingine." Hakikisha utatafsiri hii kwa njia ambayo haitaudhi ama kuaimbisha watu. Lugha zina njia isiyo ya moja kwa moja, na yenye adabu, kama hivi, "Usilale na."
   * **Do not lie**  - This means, "Do not say false things about other people."
   * **Msiongee uongo**  - Hii inamaanisha, "Usiseme mambo isiyo ya kweli kuhusu watu wengine."
 **[[:sw:obs:notes:frames:13-05|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-07|>>]]**
