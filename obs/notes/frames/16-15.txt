@@ -1,22 +1,17 @@
-===== An Offering for Gideon [16-15] =====
+===== An Offering for Gideon [16-15] Sadaka kwa ajili ya Gideoni =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-15.jpg?nolink&}}
 
 The people wanted to make **Gideon** their **king**. Gideon **did not allow them to do this**, **but he asked them** for some of the gold rings that each of them had taken from the **Midianites**. The people gave Gideon a large amount of gold.
-===== Important Terms: =====
 
+Watu walitaka kumfanya **Gideoni ** kuwa **mfalme** wao. Gideoni **hakuwaruhusu kufanya hivyo, lakini aliwauliza** baadhi ya pete za dhahabu ambazo kila mmoja wao alikuwa amechukua kutoka kwa **Wamidiani**. Watu walimpa Gideoni dhahabu nyingi mno.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:gideon|Gideon]]**
-  * **[[:sw:obs:notes:key-terms:king|king]]**
-  * **[[:sw:obs:notes:key-terms:midian|Midianites]]**
+  * **[[:sw:obs:notes:key-terms:gideon|Gideon (Gideoni)]]**
+  * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+  * **[[:sw:obs:notes:key-terms:midian|Midianites (Wamidiani)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **did not allow them to do this** - Gideon knew that it was better for the Israelites to have God as their king.
-  * **but he asked them** – This phrase starts with "but" because what he did next was not wise.
-
-
+  * **did not allow them to do this**  - Gideon knew that it was better for the Israelites to have God as their king.
+  * **but he asked them**  – This phrase starts with "but" because what he did next was not wise.
 **[[:sw:obs:notes:frames:16-14|<<]] | [[:sw:obs:notes:16|Up]] | [[:sw:obs:notes:frames:16-16|>>]]**
