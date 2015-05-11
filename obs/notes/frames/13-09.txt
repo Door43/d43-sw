@@ -1,15 +1,15 @@
-===== The Altar [13-09] Madhabahu =====
+===== The Altar [13-09] Madhabahu *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink&}}
 
 Anyone who **disobeyed God's law** could bring an animal **to the altar in front of the Tent of Meeting** as a **sacrifice** to **God**. A **priest** would kill the animal and burn it on the **altar**. The **blood of the animal that was sacrificed covered the person’s sin** and made that person **clean in God's sight**. God chose **Moses**' brother, **Aaron**, and Aaron's **descendants** to be his priests.
 
-Yeyote **aliyekosa kutii sheria ya Mungu ** angemlete mnyama **kwa madhabahu mbele ya hema ya mikutano ** kama **dhabihu kwa Mungu**. **Kuhani ** angemuua yule mnyama na kumteketeza kwenye madhabahuni. **Damu ya mnyama aliyetolwea kama dhabihu iliifunika dhambi ya** **mtu** na kumtakasa machoni pa Mungu. Mungu alimchagua nduguye **Musa Aaroni** na **uzao ** wa Aaroni kuwa makuhani wake.
+Yeyote **aliyekosa kutii sheria ya Mungu ** angemlete mnyama **kwa madhabahu mbele ya hema ya mkutano ** kama **dhabihu kwa Mungu**. **Kuhani ** angemuua yule mnyama na kumteketeza kwenye madhabahu. **Damu ya mnyama aliyetolewa kama dhabihu iliifunika dhambi ya** **mtu** na kumtakasa machoni pa Mungu. Mungu alimchagua nduguye **Musa, Haruni** na **uzao ** wa Haruni kuwa makuhani wake.
 ===== Important Terms: Maneno Muhimu: =====
 
   * **[[:sw:obs:notes:key-terms:disobey|disobeyed]] Kutotii**
-  * **[[:sw:obs:notes:key-terms:gods-law|God's law]] sheria ya MUngu**
-  * **[[:sw:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]] Hema ya Mikutano**
+  * **[[:sw:obs:notes:key-terms:gods-law|God's law]] sheria ya Mungu**
+  * **[[:sw:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]] Hema ya Mkutano**
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice]] dhabihu**
   * **[[:sw:obs:notes:key-terms:god|God]] Mungu**
   * **[[:sw:obs:notes:key-terms:priest|priest]] Kuhani**
@@ -17,16 +17,16 @@ Yeyote **aliyekosa kutii sheria ya Mungu ** angemlete mnyama **kwa madhabahu mbe
   * **[[:sw:obs:notes:key-terms:blood|blood]] damu**
   * **[[:sw:obs:notes:key-terms:sin|sin]] dhambi**
   * **[[:sw:obs:notes:key-terms:moses|Moses']] Musa**
-  * **[[:sw:obs:notes:key-terms:aaron|Aaron]] Aaroni**
+  * **[[:sw:obs:notes:key-terms:aaron|Aaron]] Haruni**
   * **[[:sw:obs:notes:key-terms:descendant|descendants]] Uzao**
-==== Translation Notes: Tafsiri ya maneno ====
+==== Translation Notes: Maelezo ya Tafsiri ====
 
   * **God's law**  - This refers to all the commandments and instructions that God had told the Israelites to obey.
-  * **Sheria ya Mungu**  - Hii inahusu sheria zote na maelekezo ambaya Mungu aliwaambia waisraeli watii.
+  * **Sheria ya Mungu**  - Hii inahusu amri zote na maelekezo ambayo Mungu alikuwa amewaambia Waisraeli watii.
   * **to the Tent of Meeting**  - They did not bring the animal inside the Tent of Meeting, but to the altar in front of the Tent of Meeting. Be sure not to use an expression that means that they brought it inside.
-  * **Kwa hema ya mikutano**  - Hawakumlete mnyama ndani ya hema ya mikutano, bali kwa madhabahu mbele ya hema ya mikutano. Hakikisha usitumie kueleza kwamba wallileta ndani.
+  * **Kwa hema ya mkutano**  - Hawakumleta mnyama ndani ya hema ya mkutano, bali kwa madhabahu mbele ya hema ya mkutano. Hakikisha hutatumia msemo inayoomanisha kwamba walileta ndani.
   * **covered the person's sin**  - When people brought animals to sacrifice, God chose to see the blood of the animals as a covering over their sin. This is like hiding something that is ugly or dirty by covering it.
   * **Ilifunika dhambi ya mtu**  - Watu walipowaleta wanyama wa kutoa dhabihu, Mungu alichagua kuona damu ya mnyama kama kifuniko cha dhambi zao. Hii ni kama kuficha kitu kibaya au kichafu kwa kukifunika.
   * **clean in God's sight**  - This could be translated as, "as if he did not have the sin according to God" or, "free of the punishment for breaking God's law."
-  * **Kitakatifu machoni pa Mungu**  - Hii inaweza kutafsiriwa kama, " ni kama hakuwa na dhambi kulingana na Mungu" huru kwa adhabu ya kuvunja amri ya Mungu."
+  * **Kisafi machoni pa Mungu**  - Hii inaweza kutafsiriwa kama, "ni kana kwamba hakuwa na dhambi kulingana na Mungu" ama, "huru kwa adhabu ya kuvunja amri ya Mungu."
 **[[:sw:obs:notes:frames:13-08|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-10|>>]]**
