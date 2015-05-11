@@ -1,27 +1,23 @@
-===== The Sheep Skin [16-09] =====
+===== The Sheep Skin [16-09] Ngozi ya Kondoo =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-09.jpg?nolink&}}
 
 For the first **sign**, **Gideon** laid a **sheep skin** on the ground and asked **God** to **let the morning dew fall** only on the sheep skin and not on the ground. **God did that**. The next night, he asked that the ground be wet but that the sheep skin be dry. God did that too. These two signs convinced Gideon that God would use him to **save Israel** from the **Midianites**.
-===== Important Terms: =====
 
+Kwa ajiri ya **ishara** ya kwanza, **Gideoni** akaweka **ngozi ya kondoo** kwa ardhi na akauliza **Mungu** **afanye umande wa ashubuhi uanguke** kwa ngozi mbila kuguza ardhi. **Mungu akafanya hivyo**. Usiku uliyofuata, akauliza kuwa ardhi itakuwa na maji lakini ngozi ya kondoo itakuwa imekauka. Mungu akafanya hivyo pia. Hizi ishara mbili zilimushawishi Gideoni kuwa Mungu atamutumia **kuokoa Israeli ** kutoka kwa **Wamidiani**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:gideon|Gideon]]**
-  * **[[:sw:obs:notes:key-terms:sheep|sheep]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:save|save]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:midian|Midianites]]**
+  * **[[:sw:obs:notes:key-terms:gideon|Gideon (Gideoni)]]**
+  * **[[:sw:obs:notes:key-terms:sheep|sheep (kondoo)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:save|save (okoa)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:midian|Midianites (Wamidiani)]]**
+==== Translation Notes (Maelezo ta Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **sign** - This could be translated as, "miracle" or, "impossible thing."
-  * **sheep skin** - This is the skin of a sheep that has all of the wool on it. Wool is a very thick and curly hair that would hold a lot of water. Translate this so that it is clear that this skin is covered with thick, soft hair.
-  * **let the morning dew fall** - This can be translated as, "make the morning dew appear" or, "make the morning dew come up." "Dew" refers to the drops of water that appear on the ground in the morning. Dew naturally covers everything equally.
-  * **God did that** - This could be translated as, "God did what Gideon asked him to do."
-
-
+  * **sign**  - This could be translated as, "miracle" or, "impossible thing."
+  * **ishara**  - Hii inawez kutafsiriwa kama, "muujiza" ama, "jambo lisilo wezekana."
+  * **sheep skin**  - This is the skin of a sheep that has all of the wool on it. Wool is a very thick and curly hair that would hold a lot of water. Translate this so that it is clear that this skin is covered with thick, soft hair.
+  * **let the morning dew fall**  - This can be translated as, "make the morning dew appear" or, "make the morning dew come up." "Dew" refers to the drops of water that appear on the ground in the morning. Dew naturally covers everything equally.
+  * **God did that**  - This could be translated as, "God did what Gideon asked him to do."
 **[[:sw:obs:notes:frames:16-08|<<]] | [[:sw:obs:notes:16|Up]] | [[:sw:obs:notes:frames:16-10|>>]]**
