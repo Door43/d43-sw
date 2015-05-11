@@ -1,25 +1,21 @@
-===== Sin and Deliverance [16-17] =====
+===== Sin and Deliverance [16-17] Dhambi na ukombozi =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-17.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-17.jpg?nolink&}}
 
 **This pattern repeated many times**: the **Israelites** would **sin**, **God** would **punish** them, they would **repent**, and God would send a **deliverer** to **save** them. Over many years, God sent many deliverers who saved the Israelites from their enemies.
-===== Important Terms: =====
 
+**Mfumo huu ulijirudia mara nyingi: Waisraeli** **wangeteda dhambi**, **Mungu anawaadhibu**, wangetubu na Mungu anatuma **mkombozi** wa **kuwaokoa**. Kwa miaka mingi, Mungu alituma wakombozi wengi ambao waliokoa Israeli kutoka kwa adui zao.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:sin|sin]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:punish|punish]]**
-  * **[[:sw:obs:notes:key-terms:repent|repent]]**
-  * **[[:sw:obs:notes:key-terms:deliverer|deliverer]]**
-  * **[[:sw:obs:notes:key-terms:save|save]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:punish|punish (adhibu)]]**
+  * **[[:sw:obs:notes:key-terms:repent|repent (tubu)]]**
+  * **[[:sw:obs:notes:key-terms:deliverer|deliverer (mkombozi)]]**
+  * **[[:sw:obs:notes:key-terms:save|save (kuokoa)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **This pattern repeated many times** - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
-
-
+  * **This pattern repeated many times**  - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
+  * **Mfumo huu ulijirudia mara nyingi **- Hii inaweza kutafsiriwa kama, "Haya mambo walindelea na kufanyika tena na tena" ama, Mambo haya yalifanyika mara nyingi."
 **[[:sw:obs:notes:frames:16-16|<<]] | [[:sw:obs:notes:16|Up]] | [[:sw:obs:notes:frames:16-18|>>]]**
