@@ -1,22 +1,17 @@
-===== Gideon Was Rescued [16-07] =====
+===== Gideon Was Rescued [16-07] Gideoni aliokolewa =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-07.jpg?nolink&}}
 
 The next morning the people saw that someone had torn down and destroyed the **altar**, and they were very angry. They went to **Gideon's** house to kill him, but Gideon's father said, “**Why are you trying to help your god**? **If he is a god**, **let him protect himself**!” Because he said this, the people did not kill Gideon.
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:altar|altar (madhabahu)]]**
+  * **[[:sw:obs:notes:key-terms:gideon|Gideon's (ya Gideoni)]]**
+  * **[[:sw:obs:notes:key-terms:god-false|god (mungu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-  * **[[:sw:obs:notes:key-terms:altar|altar]]**
-  * **[[:sw:obs:notes:key-terms:gideon|Gideon's]]**
-  * **[[:sw:obs:notes:key-terms:god-false|god]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Why are you trying to help your god?** - This is not a real question that asks for information. Another way of saying this would be, "You should not be trying to help your god" or, "You should not need to help your god."
-  * **If he is a god, let him protect himself** - This means, "If he were truly a god, he would be able to defend himself."
-
-
+  * **Why are you trying to help your god?**  - This is not a real question that asks for information. Another way of saying this would be, "You should not be trying to help your god" or, "You should not need to help your god."
+  * **kwa nini mnajaribu kusaidia mungu wenu?**  - Hii si swali halisi ambalo linauliza habari. Njia nyingine ya kusema hii inaweza kuwa, "Haustahiri kuwa unajaribu kusaidia Mungu wako" ama, "Hauna haja kusidia mungu wako."
+  * **If he is a god, let him protect himself**  - This means, "If he were truly a god, he would be able to defend himself."
+  * **kama yeye ni mungu, wacha ajilinde mwenyewe**  - Hii inamaanisha, "kama yeye angekuwa Mungu kabisa, angeweza kujilinda mwenyewe."
 **[[:sw:obs:notes:frames:16-06|<<]] | [[:sw:obs:notes:16|Up]] | [[:sw:obs:notes:frames:16-08|>>]]**
