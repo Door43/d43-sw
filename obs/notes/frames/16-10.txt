@@ -11,9 +11,12 @@
   * **[[:sw:obs:notes:key-terms:gideon|Gideon (Gideoni)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
 
-==== Translation Notes: ====
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **32,000 Israelite soldiers came to Gideon**  - Some languages might need to insert the following sentence at the beginning of the story: "Gideon called the Israelites to come fight against the Midianites." See **[[:sw:obs:notes:frames:16-08|[16-08]]]**.
+  * **Askari 32,000 Wisraeli walikuja kwa Gideoni **- Lugha zingine zaweza hitaji kuongezea sentense hii katika mwanzo wa hadithi hii: "Gideoni aliwaita Waisraeli waje wapigane kinyuma na Wamidiani." Ona **[16-08].**
   * **too many**  - This was more soldiers than God wanted for this fight. If that many solders fought and won, they would think that they won the battle with their own strength, and they would not know that God did it.
+  * **wengi sana**  - Hawa walikuwa askari wengi ukilinganisha na wale Mungu alitaka kwa vita hii. Kama askari wengi hivyo wangepigana na washinde, wangefikiria kuwa wameshinda vita kwa nguvu zao, na wangejua kuwa Mungu amefanya hivyo.
   * **except for 300 soldiers**  - This sentence could be translated as, "So Gideon allowed only 300 men to stay, and the rest of the men went home."
+  * **isipokuwa askari 300 **- Hii sentensi inaweza kutafsiriwa kama, "Kwa hivyo Gideoni akaruhusu wanaume 300 wakae, na wanaume wengine wote wakaenda nyumbani."
 **[[:sw:obs:notes:frames:16-09|<<]] | [[:sw:obs:notes:16|Up]] | [[:sw:obs:notes:frames:16-11|>>]]**
