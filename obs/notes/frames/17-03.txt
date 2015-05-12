@@ -1,8 +1,10 @@
-===== David Killed Goliath [17-03] Daudi aliua Goliathu =====
+===== David Killed Goliath [17-03] Daudi aliua Goliathi =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-03.jpg?nolink&}}
 
 **David** became a great soldier and leader. When David was still a young man, he fought against **a giant named Goliath**. Goliath was a trained soldier, very strong, and almost three meters tall! But **God** helped David kill Goliath and save **Israel**. After that, David won many victories over Israel's enemies, for which the people **praised** him.
+
+**Daudi ** alifanyika askari na kiongozi mkubwa. Wakati Daudi alikuwa bado kijana, alipigana na **jitu liitwalo Goliathi**. Goliathi alikuwa askari aliyefunzwa, mwenye nguvu, na alikuwa na urefu wa kama mita tatu! Lakini **Mungu** alimsaidia Daudi kumuua Goliathi na kuokoa **Israeli**. Baada ya hiyo, Daudi alipata ushindi mara nyingi kinyume na maadui wa Israeli, na hivyo watu **walimsifu**.
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
@@ -12,5 +14,5 @@
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **a giant named Goliath**  - The word "giant" here describes a person who is unusually large and powerful. Goliath was a huge soldier in an army that was fighting against Israel.
-  * **jitu lililoitwa Goliathu**- Neno hili "jitu" hapa linaelezea mtu aliye mkubwa na mwenye nguvu kuliko kawaida. Goliathu alikuwa askari mkubwa katika jeshi ambalo lilikuwa linapigana na Israeli.
+  * **jitu lililoitwa Goliathi**- Neno hili "jitu" hapa linaelezea mtu aliye mkubwa na mwenye nguvu kuliko kawaida. Goliathu alikuwa askari mkubwa katika jeshi ambalo lilikuwa linapigana na Israeli.
 **[[:sw:obs:notes:frames:17-02|<<]] | [[:sw:obs:notes:17|Up]] | [[:sw:obs:notes:frames:17-04|>>]]**
