@@ -1,26 +1,22 @@
-===== David Wanted to Build a Temple [17-06] =====
+===== David Wanted to Build a Temple [17-06] Daudi alitaka kujenga hekalu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink&}}
 
 **David** wanted to **build a temple** where all the **Israelites** could **worship God** and offer him **sacrifices**. For about 400 years, the people had been worshiping God and offering sacrifices to him at the **Tent of Meeting** that **Moses** had built.
-===== Important Terms: =====
 
+**Daudi** alitaka **kujenga hekalu** ambapo **Waisraeli** wote **wangemwabudu** **Mungu** na kumtolea **dhabihu**. Kwa miaka kama 400, watu walikuwa wanamuabudu Mungu na kumtolea dhabihu katika **Hema ya Mkutano** ambao **Musa** aliijenga.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:david|David]]**
-  * **[[:sw:obs:notes:key-terms:temple|temple]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:worship|worship]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:sw:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
+  * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
+  * **[[:sw:obs:notes:key-terms:temple|temple (hekalu)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worship (kuabudu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:sacrifice|sacrifices (dhabihu)]]**
+  * **[[:sw:obs:notes:key-terms:tent-of-meeting|Tent of Meeting (Hema ya Mkutano)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
-
-
+  * **build a temple**  - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
+  * **kujenga hekalu**  - Daudi alitaka kujenga mjengo wa kudumu ya kuabudia Mungu ambayo inaweza chukua mahali pa Hema ya Mkutano inayochukulika.
 **[[:sw:obs:notes:frames:17-05|<<]] | [[:sw:obs:notes:17|Up]] | [[:sw:obs:notes:frames:17-07|>>]]**
