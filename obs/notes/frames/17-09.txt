@@ -1,26 +1,24 @@
-===== God Blessed David [17-09] =====
+===== God Blessed David [17-09] Mungu alimbariki Daudi =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?nolink&}}
 
 **David ruled with justice and faithfulness for many years**, and **God blessed** him. However, **toward the end of his life he sinned terribly** against God.
-===== Important Terms: =====
 
+**Daudi alitawala na haki na uaminifu kwa miaka mingi,** na **Mungu akambariki**. Hata hivyo, **akielekea mwisho wa maisha yake ** alimtendea Mungu **dhambi vibaya**
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:david|David]]**
-  * **[[:sw:obs:notes:key-terms:justice|justice]]**
-  * **[[:sw:obs:notes:key-terms:faithful|faithfulness]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:bless|blessed]]**
-  * **[[:sw:obs:notes:key-terms:sin|sinned]]**
+  * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
+  * **[[:sw:obs:notes:key-terms:justice|justice (haki)]]**
+  * **[[:sw:obs:notes:key-terms:faithful|faithfulness (uaminifu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:bless|blessed (alibariki)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinned (alitenda dhambi)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **David ruled with justice and faithfulness for many years** - This could be translated as, "When David ruled the people, for many years he did what was right and fair, and he was faithful to God."
-  * **toward the end of his life** - This may be translated as, "when David was older" or "later on in David's life."
-  * **sinned terribly** - That is, "sinned in a very evil way." David's sin was especially evil.
-
-
+  * **David ruled with justice and faithfulness for many years**  - This could be translated as, "When David ruled the people, for many years he did what was right and fair, and he was faithful to God."
+  * **Daudi alitawala na haki na uaminifu kwa miaka mingi **- Hii inaweza kutafsiriwa kama, "Wakati Daudi alitawala watu, kwa miaka mingi alifanya yaliyo mema na ya haki, na alikuwa muaminifu kwa Mungu."
+  * **toward the end of his life**  - This may be translated as, "when David was older" or "later on in David's life."
+  * **kuelekea mwisho wa maisha yake**  - Hii inaweza kutafsiriwa kama, "wakati Daudi alikuwa na umri" ama, "baadaye katika maisha ya Daudi."
+  * **sinned terribly**  - That is, "sinned in a very evil way." David's sin was especially evil.
+  * **alitenda dhabi vibaya**  - Hiyo ni, "akatenda dhambi kwa njia mbaya sana." Dhambi ya Daudi hasa ilikuwa mbaya.
 **[[:sw:obs:notes:frames:17-08|<<]] | [[:sw:obs:notes:17|Up]] | [[:sw:obs:notes:frames:17-10|>>]]**
