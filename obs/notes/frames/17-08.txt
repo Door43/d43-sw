@@ -1,26 +1,23 @@
-===== David Praised God [17-08] =====
+===== David Praised God [17-08] Daudi alisifu Mungu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?nolink&}}
 
 When **David** heard **these words**, he immediately thanked and **praised God** because he had **promised** David t**his great honor** and many **blessings**. David did not know when God would do these things. But as it happened, the **Israelites** would have to wait a long time before the **Messiah** came, almost 1,000 years.
-===== Important Terms: =====
 
+Wakati **Daudi** alisikia **maneno haya**, mara tu alimshukuru **Mungu** na **kumsifu** kwa sababu alikuwa **amemuahidi** Daudi **heshima hii kubwa** na **baraka** nyingi. Daudi hakujua wakati Mungu atafanya mabo haya. Lakini kama ilivyofanyika, ingebidi **Waisraeli** wangoje muda mrefu kabla ya **Masihi** kuja, karibu miaka 1,000.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:david|David]]**
-  * **[[:sw:obs:notes:key-terms:praise|praised]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-  * **[[:sw:obs:notes:key-terms:bless|blessings]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
+  * **[[:sw:obs:notes:key-terms:praise|praised (kusifu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
+  * **[[:sw:obs:notes:key-terms:bless|blessings (baraka)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **these words** - That is, "the words the prophet had just said." This refers back to the promises in **[[:sw:obs:notes:frames:17-07|[17-07]]]**.
-  * **this great honor** - People who lived later would highly respect David because some of his descendants would be kings over Israel and one of them would be the Messiah.
-
-
+  * **these words**  - That is, "the words the prophet had just said." This refers back to the promises in **[[:sw:obs:notes:frames:17-07|[17-07]]]**.
+  * **maneno haya**  - Hiyo ni, "maneno ambayo nabii alikuwa tu ameyasema." Hii inarejelea kwa ahadi zilizoko pale **[17-07]**.
+  * **this great honor**  - People who lived later would highly respect David because some of his descendants would be kings over Israel and one of them would be the Messiah.
+  * **heshima hii kubwa**  - Watu walioishi baadaye walimheshimu sana Daudi kwa sababu wengine katika uzao wake watakuwa wafalme juu ya Israeli na mmoja wao atakuwa Masihi.
 **[[:sw:obs:notes:frames:17-07|<<]] | [[:sw:obs:notes:17|Up]] | [[:sw:obs:notes:frames:17-09|>>]]**
