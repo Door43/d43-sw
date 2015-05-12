@@ -1,29 +1,25 @@
-===== Nathan Rebuked David [17-13] =====
+===== Nathan Rebuked David [17-13] Nathani alikemea Daudi =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?nolink&}}
 
 After **Uriah** was killed, **David** married **Bathsheba**. Later, she gave birth to David's son. **God** was very angry about what David had done, so he sent the **prophet Nathan** to tell David how **evil** his **sin** was. David **repented** of his sin and God **forgave** him. For the rest of his life, David **followed and obeyed God**, even in difficult times.
-===== Important Terms: =====
 
+Baada ya **Uria** kuua, **Daudi** alimuoa **Bathseba**. Baadaye, alizaa mtoto wa Daudi. Mungu alikasirika sana kwa sababu ya kile Daudi alifanya, kwa hivyo alituma **nabii Nathani** kumwambia Daudi vile **dhambi** yake ilivyokuwa **mbaya**.  Daudi **alitubu** dhambi yake na Mungu **alimusamehe**. Kwa sehemu ya maisha yake iliyobaki, Daudi **alimfuata Mungu na kumtii**, hata wakati wa mabo magumu.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:uriah|Uriah]]**
-  * **[[:sw:obs:notes:key-terms:david|David]]**
-  * **[[:sw:obs:notes:key-terms:bathsheba|Bathsheba]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:sw:obs:notes:key-terms:nathan|Nathan]]**
-  * **[[:sw:obs:notes:key-terms:evil|evil]]**
-  * **[[:sw:obs:notes:key-terms:sin|sin]]**
-  * **[[:sw:obs:notes:key-terms:repent|repented]]**
-  * **[[:sw:obs:notes:key-terms:forgive|forgave]]**
-  * **[[:sw:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:sw:obs:notes:key-terms:uriah|Uriah (Uria)]]**
+  * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
+  * **[[:sw:obs:notes:key-terms:bathsheba|Bathsheba (Bathseba)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
+  * **[[:sw:obs:notes:key-terms:nathan|Nathan (Nathani)]]**
+  * **[[:sw:obs:notes:key-terms:evil|evil (mabaya)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sin (dhabi)]]**
+  * **[[:sw:obs:notes:key-terms:repent|repented (alitubu)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgave (alisamehe)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obeyed (alitii)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **what David had done** - This refers to David's adultery with Bathsheba and his murder of her husband, Uriah.
-
-
+  * **what David had done**  - This refers to David's adultery with Bathsheba and his murder of her husband, Uriah.
+  * **kile Daudi alifanya**  - Hii inarejelea kwa ushelati wa Daudi na Bathseba na mauaji ya bwana yake, Uria.
 **[[:sw:obs:notes:frames:17-12|<<]] | [[:sw:obs:notes:17|Up]] | [[:sw:obs:notes:frames:17-14|>>]]**
