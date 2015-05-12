@@ -1,30 +1,26 @@
-===== David the Shepherd [17-02] =====
+===== David the Shepherd [17-02] Mchungaji Daudi =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?nolink&}}
 
 **God** chose a young **Israelite** named David to be **king** after **Saul**. David was a **shepherd** from the town of **Bethlehem**. At different times while he was **watching** his father's **sheep**, David had killed both a lion and a bear that had attacked the sheep. David was a **humble** and **righteous** man who **trusted** and **obeyed** God.
-===== Important Terms: =====
 
+**Mungu** akamchagua **Muisraeli** kijana anayeitwa Daudi awe **mfalme** baada ya **Sauli.** Daudi alikuwa **mchungaji ** kutoka mji wa **Bethlehemu**. Kwa nyakati tofauti alipokuwa **anachunga** **kondoo** za baba yake, Daudi alikuwa ameua wote wawili simba na duba ambazo zilishambulia kondoo. Daudi alikuwa **mnyenyekevu** na **mwenye haki** **aliyemtumainia ** na **kumtii ** Mungu.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:sw:obs:notes:key-terms:david|David]]**
-  * **[[:sw:obs:notes:key-terms:king|king]]**
-  * **[[:sw:obs:notes:key-terms:saul|Saul]]**
-  * **[[:sw:obs:notes:key-terms:shepherd|shepherd]]**
-  * **[[:sw:obs:notes:key-terms:bethlehem|Bethlehem]]**
-  * **[[:sw:obs:notes:key-terms:sheep|sheep]]**
-  * **[[:sw:obs:notes:key-terms:humble|humble]]**
-  * **[[:sw:obs:notes:key-terms:righteous|righteous]]**
-  * **[[:sw:obs:notes:key-terms:trust|trusted]]**
-  * **[[:sw:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelite (Muisraeli)]]**
+  * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
+  * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+  * **[[:sw:obs:notes:key-terms:saul|Saul (Sauli)]]**
+  * **[[:sw:obs:notes:key-terms:shepherd|shepherd (mchungaji)]]**
+  * **[[:sw:obs:notes:key-terms:bethlehem|Bethlehem (Bethlehemu)]]**
+  * **[[:sw:obs:notes:key-terms:sheep|sheep (kondoo)]]**
+  * **[[:sw:obs:notes:key-terms:humble|humble (mnyenyekevu)]]**
+  * **[[:sw:obs:notes:key-terms:righteous|righteous (mwenye haki)]]**
+  * **[[:sw:obs:notes:key-terms:trust|trusted (alitumaini)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obeyed (alitii)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **watching** - That is, "caring for" or, "protecting" or, "taking care of."
-
-
+  * **watching**  - That is, "caring for" or, "protecting" or, "taking care of."
+  * **kuchunga**  - Hii ni, "kutunza kitu" ama, "kulinda" ama, "kuchukua hatua ya kutunza."
 **[[:sw:obs:notes:frames:17-01|<<]] | [[:sw:obs:notes:17|Up]] | [[:sw:obs:notes:frames:17-03|>>]]**
