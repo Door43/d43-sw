@@ -1,28 +1,24 @@
-===== David Became King [17-05] =====
+===== David Became King [17-05] Daudi alifanyika mfalme =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?nolink&}}
 
 Eventually, **Saul** died in battle, and **David** became **king** of **Israel**. He was a good king, and the people **loved** him. **God blessed** David and **made him successful**. David fought many battles and God helped him defeat Israel's enemies. David conquered **Jerusalem** and made it **his capital city**. **During David’s reign**, Israel became powerful and wealthy.
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:saul|Saul (Sauli)]]**
+  * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
+  * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:love|loved (alipenda)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:bless|blessed (alibariki)]]**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-  * **[[:sw:obs:notes:key-terms:saul|Saul]]**
-  * **[[:sw:obs:notes:key-terms:david|David]]**
-  * **[[:sw:obs:notes:key-terms:king|king]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:love|loved]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:bless|blessed]]**
-  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem]]**
-
-
-==== Translation Notes: ====
-
-
-  * **made him successful** - That is, "helped him accomplish the good things he wanted to do."
-  * **his capital city** - That is, "the capital city of his kingdom." David lived in Jerusalem and ruled from there.
-  * **During David's reign** - That is, "During the time when David was king over Israel" or, "During the time when David was ruling as king over Israel."
-
-
+  * **made him successful**  - That is, "helped him accomplish the good things he wanted to do."
+  * **alimfanya afaulu**  - Hiyo ni, "alimsaidia kukamilisha mambo mazuri aliyotaka kufanya."
+  * **his capital city**  - That is, "the capital city of his kingdom." David lived in Jerusalem and ruled from there.
+  * **Mji wake mkuu**  - Hiyo ni, "mjii mkuu wa ufalme wake." Daudi aliishi Yerusalemu na akatawala kutoka huko.
+  * **During David's reign**  - That is, "During the time when David was king over Israel" or, "During the time when David was ruling as king over Israel."
+  * **Wakati wa utawala wa Daudi**  - Hiyo ni, "Katika muda ule Daudi alikuwa anatawala Israeli" ama, "Katika muda ule Daudi alikuwa anatawala kama mfalme kule Israeli."
 **[[:sw:obs:notes:frames:17-04|<<]] | [[:sw:obs:notes:17|Up]] | [[:sw:obs:notes:frames:17-06|>>]]**
