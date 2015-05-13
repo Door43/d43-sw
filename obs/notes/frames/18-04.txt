@@ -1,24 +1,17 @@
-===== The Kingdom Would Divide [18-04] =====
+===== The Kingdom Would Divide [18-04] - Ufalme Ungegawanya =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-04.jpg?nolink}}
+**God** was angry with **Solomon** and, **as a punishment for Solomon’s unfaithfulness**, **he promised to divide** the nation of **Israel** into two **kingdoms** after Solomon’s death. Mungu alikuwa amekasirika na Suleimani na, kama adhabu kwa kutoaminika kwa Suleimani, aliahidi kugawanya taifa ya Israeli kuwa falme mbili baada ya kifo cha Suleimani.
+===== Important Terms: Maneno ya Muhimu =====
 
-**God** was angry with **Solomon** and, **as a punishment for Solomon’s unfaithfulness**, **he promised to divide** the nation of **Israel** into two **kingdoms** after Solomon’s death.
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:solomon|Solomon (Suleimani)]]**
+  * **[[:sw:obs:notes:key-terms:punish|punishment (Adhabu)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised]]** (Aliahidi)
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom|kingdoms (Falme)]]**
+==== Translation Notes: Tafsiri ya Maelezo ====
 
-
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:solomon|Solomon]]**
-  * **[[:sw:obs:notes:key-terms:punish|punishment]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:kingdom|kingdoms]]**
-
-
-==== Translation Notes: ====
-
-
-  * **as a punishment for Solomon's unfaithfulness, he promised to divide** – This could be translated as, "to punish Solomon for being unfaithful to him, God solemnly said that he would divide."
-
-
+  * **as a punishment for Solomon's unfaithfulness, he promised to divide**  – This could be translated as, "to punish Solomon for being unfaithful to him, God solemnly said that he would divide." Kama adhabu kwa kutoaminika kwa Suleimani, aliahidi kugawanya - Hii inaweza kutafsiriwa kama, "kuadhibu Suleimani kuwa asiyeaminika kwake, Mungu alimaanisha kusema angegawanya.
 **[[:sw:obs:notes:frames:18-03|<<]] | [[:sw:obs:notes:18|Up]] | [[:sw:obs:notes:frames:18-05|>>]]**
