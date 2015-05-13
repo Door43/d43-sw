@@ -2,7 +2,10 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-02.jpg?nolink&}}
 
-In **Jerusalem**, **Solomon** built the **Temple** for which his father **David** had planned and gathered materials. People now **worshiped God** and offered **sacrifices** to him at the Temple instead of at the **Tent of Meeting**. God came and **was present in the Temple**, and he lived there **with his people**. Katika Yerusalemu, Suleimani alijenga hekaru ambayo baba yake Daudi alikuwa amepanga na kukusanya vifaa.  Watu sasa waliabudu Mungu na kutoa dhabihu kwake katika hekaru badala ya hema ya makutano. Mungu alikuja na alikuwepo hekaruni, na aliishi hapo pamoja na watu.
+In **Jerusalem**, **Solomon** built the **Temple** for which his father **David** had planned and gathered materials. People now **worshiped God** and offered **sacrifices** to him at the Temple instead of at the **Tent of Meeting**. God came and **was present in the Temple**, and he lived there **with his people**.
+
+Katika Yerusalemu, Suleimani alijenga hekaru ambayo baba yake Daudi alikuwa amepanga na kukusanya vifaa. Watu sasa waliabudu Mungu na kutoa dhabihu kwake katika hekaru badala ya hema ya makutano. Mungu alikuja na alikuwepo hekaruni, na aliishi hapo pamoja na watu.
+
 ===== Important Terms: Maneno ya Muhimu =====
 
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
@@ -15,6 +18,9 @@ In **Jerusalem**, **Solomon** built the **Temple** for which his father **David*
   * **[[:sw:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]** (Hema ya makutano)
 ==== Translation Notes: Tafsiri ya Maelezo ====
 
-  * **was present in the Temple**  – That is, "was present in the Temple in a special way." Even though God was also present everywhere else at the same time, he made himself especially available to the people at the Temple. Alikuwepo hekaruni - Hiyo ni, " alikuwepo hekaruni kwa njia ya kipekee." Hata ingawa Mungu alikuwepo kila mahali pengine kwa wakati mmoja, alijihidhirisha hasa kwa watu katika hekaru.
-  * **with his people**  - This could be translated as, "in the midst of his people" or, "among his people."  Pamoja na watu wake - Hii inaweza kutafsiriwa kama, "katikati ya watu wake" ama, "miongoni mwa watu wake."
+  * **was present in the Temple**  – That is, "was present in the Temple in a special way." Even though God was also present everywhere else at the same time, he made himself especially available to the people at the Temple.
+  * Alikuwepo hekaruni - Hiyo ni, " alikuwepo hekaruni kwa njia ya kipekee." Hata ingawa Mungu alikuwepo kila mahali pengine kwa wakati mmoja, alijihidhirisha hasa kwa watu katika hekaru.
+  * **with his people**  - This could be translated as, "in the midst of his people" or, "among his people."
+  * Pamoja na watu wake - Hii inaweza kutafsiriwa kama, "katikati ya watu wake" ama, "miongoni mwa watu wake."
+
 **[[:sw:obs:notes:frames:18-01|<<]] | [[:sw:obs:notes:18|Up]] | [[:sw:obs:notes:frames:18-03|>>]]**
