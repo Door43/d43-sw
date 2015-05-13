@@ -1,33 +1,31 @@
-===== Judah Was Unfaithful [18-13] =====
+===== Judah Was Unfaithful [18-13] Yuda hakuwa mwaminifu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?nolink&}}
 
 The **kings** of **Judah** were **descendants** of **David**. Some of these kings were **good** men who **ruled justly** and **worshiped God**. But most of Judah’s kings were **evil**, **corrupt**, and they worshiped **idols**. Some of the kings even **sacrificed** their children to false **gods**. Most of the people of Judah also **rebelled** against God and worshiped other gods.
-===== Important Terms: =====
 
+**Wafalme** wa **Yuda** walikuwa **uzao** wa **Daudi**. Wengine wa hawa wafalme walikuwa watu **wazuri** **walitawala kwa haki** na **kuabudu Mungu**.  Lakini wengi wa wafalme wa Yuda walikuwa **wabaya, wafisadi**, na walibudu **sanamu**. Wengine wa hawa wafalme hata **walitoa dhabihu** watoto wao kwa **miungu** ya uongo. Watu wengi wa Yuda pia **walimuasi** Mungu na kuabudu miungu ingine.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:king|kings]]**
-  * **[[:sw:obs:notes:key-terms:kingdom-of-judah|Judah]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:sw:obs:notes:key-terms:david|David]]**
-  * **[[:sw:obs:notes:key-terms:good|good]]**
-  * **[[:sw:obs:notes:key-terms:justice|justly]]**
-  * **[[:sw:obs:notes:key-terms:worship|worshiped]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:evil|evil]]**
-  * **[[:sw:obs:notes:key-terms:idol|idols]]**
-  * **[[:sw:obs:notes:key-terms:sacrifice|sacrificed]]**
-  * **[[:sw:obs:notes:key-terms:god-false|gods]]**
-  * **[[:sw:obs:notes:key-terms:rebel|rebelled]]**
+  * **[[:sw:obs:notes:key-terms:king|kings (wafalme)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-judah|Judah (Yuda)]]**
+  * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
+  * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
+  * **[[:sw:obs:notes:key-terms:good|good (wazuri)]]**
+  * **[[:sw:obs:notes:key-terms:justice|justly (kwa haki)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worshiped (waliabudu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:evil|evil (mabaya)]]**
+  * **[[:sw:obs:notes:key-terms:idol|idols (sanamu)]]**
+  * **[[:sw:obs:notes:key-terms:sacrifice|sacrificed (kutoa dhabihu)]]**
+  * **[[:sw:obs:notes:key-terms:god-false|gods (miungu)]]**
+  * **[[:sw:obs:notes:key-terms:rebel|rebelled (waliasi)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **ruled justly** - This means they ruled according to God's laws. This can be translated as, "when they ruled, they did what was right."
-  * **corrupt** - This can be translated as, "did what was wrong in order to get whatever they wanted."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **ruled justly**  - This means they ruled according to God's laws. This can be translated as, "when they ruled, they did what was right."
+  * **alitawala kwa haki**  - Hii inamaanisha kuwa alitawala kulingana na sheria za Mungu. Hii inaweza kutafsiriwa kama, "walipotawala, walifanya kilicho cha haki."
+  * **corrupt**  - This can be translated as, "did what was wrong in order to get whatever they wanted."
+  * **wafisadi**  - Hii inaweza kutafsiriwa kama, "walifanya mambo mabaya ili wapate kile walichokitaka."
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * //Hadithi ya Biblia Kutoka//  - Marejeleo haya yeweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:18-12|<<]] | [[:sw:obs:notes:18|Up]] | [[:sw:obs:notes:frames:19-01|>>]]**
