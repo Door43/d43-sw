@@ -2,16 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-01.jpg?nolink&}}
 
-After many years, **David** died, and his son **Solomon** began to rule over **Israel**. **God** spoke to Solomon and asked him what he wanted most. When Solomon **asked for wisdom**, God was pleased and made him the wisest man in the world. Solomon learned many things and was a very wise **judge**. God also made him very wealthy. Baada ya miaka mingi, Daudi alifariki na mwanawe Suleimani akaanza Kutawala Israeli.  Mungu alisema na Suleimani na akamuuliza kile angetaka zaidi ya yote. Wakati Suleimani aliuliza hekima, Mungu alipendezwa sana na akamfanya kuwa mwenye hekima zaidi ya wote ulimwenguni.  Suleimani alijifunza mambo mengi na akawa hakimu mwenye hekima sana. Mungu pia alimfanya tajiri sana.
-===== Important Terms: =====
+After many years, **David** died, and his son **Solomon** began to rule over **Israel**. **God** spoke to Solomon and asked him what he wanted most. When Solomon **asked for wisdom**, God was pleased and made him the wisest man in the world. Solomon learned many things and was a very wise **judge**. God also made him very wealthy. Baada ya miaka mingi, Daudi alifariki na mwanawe Suleimani akaanza Kutawala Israeli. Mungu alisema na Suleimani na akamuuliza kile angetaka zaidi ya yote. Wakati Suleimani aliuliza hekima, Mungu alipendezwa sana na akamfanya kuwa mwenye hekima zaidi ya wote ulimwenguni. Suleimani alijifunza mambo mengi na akawa hakimu mwenye hekima sana. Mungu pia alimfanya tajiri sana.
+===== Important Terms: Maelezo ya Muhimu =====
 
-  * **[[:sw:obs:notes:key-terms:david|David]]**
-  * **[[:sw:obs:notes:key-terms:solomon|Solomon]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:wise|wisdom]]**
-  * **[[:sw:obs:notes:key-terms:judge|judge]]**
-==== Translation Notes: ====
+  * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
+  * **[[:sw:obs:notes:key-terms:solomon|Solomon (Suleimani)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:wise|wisdom (Hekima)]]**
+  * **[[:sw:obs:notes:key-terms:judge|judge (Hakimu)]]**
+==== Translation Notes: Tafsiri ya Maelezo ====
 
-  * **asked for wisdom**  - This could be translated as, "asked God to make him wise."
+  * **asked for wisdom**  - This could be translated as, "asked God to make him wise." Aliuliza hekima - Hii inaweza kutafsiriwa kama, " aliuliza Mungu amfanye mwenye hekima."
 **[[:sw:obs:notes:frames:17-14|<<]] | [[:sw:obs:notes:18|Up]] | [[:sw:obs:notes:frames:18-02|>>]]**
