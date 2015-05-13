@@ -1,4 +1,4 @@
-===== Moses Destroyed the Idol [13-14] Musa aliharibu sanamu =====
+===== Moses Destroyed the Idol [13-14] Musa aliharibu sanamu *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-14.jpg?nolink&}}
 
@@ -13,7 +13,7 @@ Kisha **Musa alipigapiga ile sanamu mpaka ikawa unga**, akarusha ile unga kwa ma
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **beat the idol into powder**  - Moses utterly destroyed the idol by pounding it into fine particles.
-  * **pigapiga sanamu akawa unga**  - Musa ariharibu kabisa ile sanamu kwa kuisiaga ikafanyika chembe ndogo.
+  * **pigapiga sanamu ikawa unga**  - Musa aliharibu kabisa ile sanamu kwa kuipigapiga ikafanyika chembe ndogo.
   * **into some water**  - Moses scattered the gold powder over a large expanse of water.
   * **kwa maji **- Musa alitawanya ile unga ya dhahabu kwa eneo kubwa la maji.
   * **a plague**  - This could be translated as, "a terrible disease."
