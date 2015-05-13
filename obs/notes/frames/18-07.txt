@@ -1,25 +1,23 @@
-===== Israel Rebelled against Judah [18-07] =====
+===== Israel Rebelled against Judah [18-07] Israeli waliasi Yuda =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?nolink&}}
 
 Ten of the **tribes of the nation of Israel rebelled against Rehoboam**. Only two tribes **remained faithful to him**. These two tribes became the **kingdom of Judah**.
-===== Important Terms: =====
 
+Kumi ya zile **makabila za taifa la Israeli waliasi kinyume na Rehoboamu**. Ni makabila mbili peke yake **walikaa wakiwa waaminifu kwake**. Haya makabila mawili wakafanyika **ufalme wa Yuda**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:israel|nation of Israel]]**
-  * **[[:sw:obs:notes:key-terms:rebel|rebelled]]**
-  * **[[:sw:obs:notes:key-terms:rehoboam|Rehoboam]]**
-  * **[[:sw:obs:notes:key-terms:faithful|faithful]]**
+  * **[[:sw:obs:notes:key-terms:israel|nation of Israel (taifa la Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:rebel|rebelled (aliasi)]]**
+  * **[[:sw:obs:notes:key-terms:rehoboam|Rehoboam (Rehoboamu)]]**
+  * **[[:sw:obs:notes:key-terms:faithful|faithful (uaminifu)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **tribes of the nation of Israel** - The descendants of each of Jacob's twelve sons had become a "tribe" or very large family group in the nation of Israel. Everyone in Israel belonged to one of the twelve tribes.
-  * **rebelled against Rehoboam** – That is, "refused to follow Rehoboam as their king." It might help to start this sentence with, "So" or, "Because of that" or, "Because of what Rehoboam said."
-  * **remained faithful to him** – That is, "stayed loyal to him" or, "continued to support him as king."
-
-
+  * **tribes of the nation of Israel**  - The descendants of each of Jacob's twelve sons had become a "tribe" or very large family group in the nation of Israel. Everyone in Israel belonged to one of the twelve tribes.
+  * **makabila ya taifa la Israeli **- Uzao wa kila mmoja wa wana kumi na wawili wa Yakobo walikuwa wamefanyika "kabila" ama jamii kubwa sana katika nchi ya Israeli. Kila mtu Israeli alikuwa katika mojawapo ya zile makabila kumi na mbili.
+  * **rebelled against Rehoboam**  – That is, "refused to follow Rehoboam as their king." It might help to start this sentence with, "So" or, "Because of that" or, "Because of what Rehoboam said."
+  * **waliasi kinyume na Rehoboamu**  - Hiyo ni, "walikataa kumfuata Rehoboamu kama mfalme wao." Inaweza saidia kuanza hii sentensi na, "kwa hivyo" ama, "kwa sababu ya hiyo" ama, "kwa sababu ya kile Rehoboamu alisema."
+  * **remained faithful to him**  – That is, "stayed loyal to him" or, "continued to support him as king."
+  * **walikuwa waaminifu kwake**  - Hiyo ni, "waliendelea kujitoa kwake" ama, "waliendelea kumuunga mkono kama mfalme."
 **[[:sw:obs:notes:frames:18-06|<<]] | [[:sw:obs:notes:18|Up]] | [[:sw:obs:notes:frames:18-08|>>]]**
