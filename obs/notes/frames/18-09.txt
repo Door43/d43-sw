@@ -1,27 +1,24 @@
-===== Jeroboam Made an Idol [18-09] =====
+===== Jeroboam Made an Idol [18-09] Yeroboamu alitengeneza sanamu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?nolink&}}
 
 **Jeroboam rebelled** against **God** and **caused the people to sin**. He built two **idols** for his people to **worship instead of worshiping God at the Temple in the kingdom of Judah**.
-===== Important Terms: =====
 
+**Yeroboamu aliasi** kinyume na **Mungu na akafanya watu watende dhabi**. Alitengenezea watu wake **sanamu** mbili **waziabudu badala wa kuabudu Mungu kwa hekalu katika ufalme wa Yuda**.
+===== Important Terms (Meneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jeroboam|Jeroboam]]**
-  * **[[:sw:obs:notes:key-terms:rebel|rebelled]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:sin|sin]]**
-  * **[[:sw:obs:notes:key-terms:idol|idols]]**
-  * **[[:sw:obs:notes:key-terms:worship|worship]]**
-  * **[[:sw:obs:notes:key-terms:temple|Temple]]**
-  * **[[:sw:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
+  * **[[:sw:obs:notes:key-terms:jeroboam|Jeroboam (Yeroboamu)]]**
+  * **[[:sw:obs:notes:key-terms:rebel|rebelled (waliasi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:idol|idols (sanamu)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worship (kuabudu)]]**
+  * **[[:sw:obs:notes:key-terms:temple|Temple (hekalu)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah (ufalme wa Yuda)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **caused the people to sin** - This could be translated as, "led the people to sin" or, "motivated the people to sin." Rehoboam led the people into sin by making idols for them to worship.
-  * **instead of worshiping God at…Judah** - This can be translated as, "so that they would not worship God at" or, "instead of going to the kingdom of Judah to worship God at the Temple."
-
-
+  * **caused the people to sin**  - This could be translated as, "led the people to sin" or, "motivated the people to sin." Rehoboam led the people into sin by making idols for them to worship.
+  * **alifanya watu watende dhambi**  - Hii inaweza kutafsiriwa kama, "akaelekeza watu kwa dhambi" ama, "alitia watu motisha kutenda dhambi." Rehoboamu aliongoza watu kutenda dhambi kwa kutengenezea sanamu ili waziabudu.
+  * **instead of worshiping God at…Judah**  - This can be translated as, "so that they would not worship God at" or, "instead of going to the kingdom of Judah to worship God at the Temple."
+  * **badala ya kumuabudu Mungu...Yuda**  - Hii inaweza kutafsiriwa kama, "ili wasimuabudu Mungu katika" ama, "badala ya kwenda kwa ufalme wa ufalme wa Yuda kuabudu Mungu katika Hekalu."
 **[[:sw:obs:notes:frames:18-08|<<]] | [[:sw:obs:notes:18|Up]] | [[:sw:obs:notes:frames:18-10|>>]]**
