@@ -1,10 +1,10 @@
-===== The People Rebelled [14-07] Watu waliasi =====
+===== The People Rebelled [14-07] Watu waliasi *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-07.jpg?nolink&}}
 
 But the people did not listen to **Caleb** and **Joshua**. They became angry with **Moses** and **Aaron** and said, “**Why did you bring us to this horrible place**? We should have stayed in **Egypt rather than be killed in battle and our wives and children made slaves**.” The people wanted to choose a different leader to take them back to Egypt.
 
-Lakini watu hawakusikiliza **Kalebu** na **Yoshua**. Walikasirikia **Musa** na **Haruni ** na kusema, "**kwa nini mlituleta mahali hapa pabaya**? Tungekaa **Misiri badala ya kuuliwa katika vita na wake wetu na watoto wetu kufanwya watumwa**." Watu walitaka kuchagua kiongozi mwingine awarudishe Misri.
+Lakini watu hawakusikiliza **Kalebu** na **Yoshua**. Walikasirikia **Musa** na **Haruni ** na kusema, "**kwa nini mlituleta mahali hapa pabaya**? Tungekaa **Misiri badala ya kuuliwa katika vita na wake wetu na watoto wetu kufanywa watumwa**." Watu walitaka kuchagua kiongozi mwingine awarudishe Misri.
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:caleb|Caleb (Kalebu)]]**
@@ -16,9 +16,9 @@ Lakini watu hawakusikiliza **Kalebu** na **Yoshua**. Walikasirikia **Musa** na *
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Why did you bring us**  – This is not a real question. It is a way that some languages use to say, "You should not have brought us."
-  * kwa nini mlituleta - Hii si swahi haswa. Ni njia ambayo lugha zingine zinatumia kusema, "Hamukupaswa kutuleta."
+  * **kwa nini mlituleta**  - Hii si swahi haswa. Ni njia ambayo lugha zingine zinatumia kusema, "Hamukupaswa kutuleta."
   * **this horrible place**  - They considered Canaan to be "horrible" because they thought it was so dangerous that they would all be killed.
   * **pahali hapa pabaya**  - Walihesabu Kanani kuwa, "kubaya" kwa sababu walifikiri kuna hatari kiasi kuwa wote watauawa.
   * **rather than be killed in battle and our wives and children made slaves**  - This could be translated as, "If we fight against the Canaanites, they will kill us men and force our wives and children to be their slaves."
-  * **badala ya kuuawa katika vita na wake wetu na watoto wetu kufanywa watumwa**  - Hii inaweza kutafsiriwa kama, "tukipiga Wakanani, watatuua sisi wanaume na walazimishe wake wetu na watoto wetu kuwa watumwa."
+  * **badala ya kuuawa katika vita na wake wetu na watoto wetu kufanywa watumwa**  - Hii inaweza kutafsiriwa kama, "tukipigana na Wakanani, watatuua sisi wanaume na walazimishe wake wetu na watoto wetu kuwa watumwa."
 **[[:sw:obs:notes:frames:14-06|<<]] | [[:sw:obs:notes:14|Up]] | [[:sw:obs:notes:frames:14-08|>>]]**
