@@ -1,11 +1,11 @@
-===== The Golden Calf [13-12] Ndama wa dhahabu =====
+===== The Golden Calf [13-12] Ndama wa dhahabu *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink&}}
 
 **Aaron made a golden idol** in the shape of a calf. The people began to **wildly worship** the idol and make **sacrifices** to it! **God** was very angry with them because of their **sin** and planned to destroy them. But **Moses prayed** for them, and God **listened to his prayer** and did not destroy them.
 
-**Aaroni alimtengeneza sanamu ya dhahabu** kwa sura ya ndama. Watu wakaanza** kuiabudu** ile sanamu na kuitolea **dhabihu**. **Mungu ** alikasirishwa nao kwa sababu ya **dhambi** na akapanga kuwangamiza. Lakini **Musa akaombea** na Mungu **akasikia maombi yake ** na hakuwangamiza.
-===== Important Terms: Maneno Muhimu =====
+**Haruni alitengeneza sanamu ya dhahabu** kwa sura ya ndama. Watu wakaanza** kuiabudu bila mpangilio** ile sanamu na kuitolea **dhabihu**. **Mungu ** alikasirishwa nao kwa sababu ya **dhambi** na akapanga kuwaangamiza. Lakini **Musa akawaombea** na Mungu **akasikia maombi yake ** na hakuwangamiza.
+===== Important Terms: Maneno ya Muhimu =====
 
   * **[[:sw:obs:notes:key-terms:aaron|Aaron]] Aroni**
   * **[[:sw:obs:notes:key-terms:idol|idol]] sanamu**
@@ -15,12 +15,12 @@
   * **[[:sw:obs:notes:key-terms:sin|sin]] dhambi**
   * **[[:sw:obs:notes:key-terms:moses|Moses]] Musa**
   * **[[:sw:obs:notes:key-terms:pray|prayed]] aliomba**
-==== Translation Notes: Tafsiri ya maneno: ====
+==== Translation Notes: Maelezo ya Tafsiri ====
 
   * **made a golden idol**  - Aaron took the things made of gold that the people had brought to him, melted them, combined them, and formed them into the shape of a calf.
-  * **Alitengeneza sanamu ya dhahabu**  - Aroni alichukua vitu zilizotengezwa na dhahabu alizoletewa , akaziyeyusha , akazichanganya na akatengeneza sura ya ndama.
+  * **Alitengeneza sanamu ya dhahabu**  - Haruni alichukua vitu zilizotengezwa na dhahabu alizoletewa, akaziyeyusha, akazichanganya na akatengeneza sura ya ndama.
   * **wildly worship**  - The people were sinning by worshiping the idol and also by doing sinful things as they worshiped it.
-  * **kuabudu bila mpangilio - ** Watu walikua wakitenda dhambi kwa kuabudu sanamu kwa kufanya dhambi matendo walipoabudu.
+  * **kuabudu bila mpangilio - **  Watu walikua wakitenda dhambi kwa kuabudu sanamu na pia kwa kufanya mambo ya dhambi walipoabudu.
   * **listened to his prayer**  - God always hears prayer. In this situation, "listened" means that God agreed to do what Moses asked.
-  * **Akasikia maombi yake**  - Mungu husikia maombi kila mara. katika hali hii," Sikia" inamaanisha kwamba Mungu alikubali kile Musa alichomuuliza.
+  * **Akasikia maombi yake**  - Mungu husikia maombi kila mara. katika hali hii,"alisikiliza" inamaanisha kwamba Mungu alikubali kile Musa alichomuuliza.
 **[[:sw:obs:notes:frames:13-11|<<]] | [[:sw:obs:notes:13|Up]] | [[:sw:obs:notes:frames:13-13|>>]]**
