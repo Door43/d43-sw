@@ -1,23 +1,19 @@
-===== The Evil Kings of Israel [18-11] =====
+===== The Evil Kings of Israel [18-11] Wafalme waovu wa Israeli =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?nolink&}}
 
 In the new **kingdom** of **Israel**, all the **kings** were **evil**. Many of these kings were killed by other **Israelites** who wanted to become king in their place.
-===== Important Terms: =====
 
+Katika **ufalme** mpya wa **Israeli**, **wafalme** wote walikuwa **wabaya**. Wengi wa wafalme hawa waliuawa na **Waisraeli** wengine waliotaka kufanyika wafalme mahali pao.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:kingdom|kingdom]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:king|kings]]**
-  * **[[:sw:obs:notes:key-terms:evil|evil]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:sw:obs:notes:key-terms:kingdom|kingdom (ufalme)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeili)]]**
+  * **[[:sw:obs:notes:key-terms:king|kings (wafalme)]]**
+  * **[[:sw:obs:notes:key-terms:evil|evil (wabaya)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **Israelites** - Here, "Israelites" refers only to the people living in the northern kingdom of Israel, not to the people living in the southern kingdom of Judah.
-
-
+  * **Israelites**  - Here, "Israelites" refers only to the people living in the northern kingdom of Israel, not to the people living in the southern kingdom of Judah.
+  * **Waisraeli **- Hapa, "Waisraeli" inaongea kuhusu watu walioshi katika ufalme wa kaskazini wa Israeli, sio watu walioishi ufalme uliokusini, ya Yuda.
 **[[:sw:obs:notes:frames:18-10|<<]] | [[:sw:obs:notes:18|Up]] | [[:sw:obs:notes:frames:18-12|>>]]**
