@@ -5,19 +5,20 @@
 **God** sent many other **prophets**. They all told the people to stop **worshiping idols** and to **start showing justice and mercy** to others. The prophets warned the people that if they did not stop doing **evil** and start **obeying** God, then God would **judge** them as **guilty**, and he would **punish** them.
 
 **Mungu** alituma **manabii** wengine wengi. Wote waliambia watu waache **kuabudu sanamu** na **waanze kuonyesha haki na huruma** kwa wengine. Hawa manabii walionya watu kuwa kama hawataacha kutenda **maovu** na waanze **kumtii** Mungu, naye Mungu **atawahukumu** kama wenye **hatia**, na **atawaadhibu**.
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:sw:obs:notes:key-terms:worship|worshiping]]**
-  * **[[:sw:obs:notes:key-terms:idol|idols]]**
-  * **[[:sw:obs:notes:key-terms:justice|justice]]**
-  * **[[:sw:obs:notes:key-terms:mercy|mercy]]**
-  * **[[:sw:obs:notes:key-terms:evil|evil]]**
-  * **[[:sw:obs:notes:key-terms:obey|obeying]]**
-  * **[[:sw:obs:notes:key-terms:judge|judge]]**
-  * **[[:sw:obs:notes:key-terms:guilt|guilty]]**
-  * **[[:sw:obs:notes:key-terms:punish|punish]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worshiping (kuabudu)]]**
+  * **[[:sw:obs:notes:key-terms:idol|idols (sanamu)]]**
+  * **[[:sw:obs:notes:key-terms:justice|justice (haki)]]**
+  * **[[:sw:obs:notes:key-terms:mercy|mercy (huruma)]]**
+  * **[[:sw:obs:notes:key-terms:evil|evil (maovu)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obeying (kutii)]]**
+  * **[[:sw:obs:notes:key-terms:judge|judge (hukumu) ]]**
+  * **[[:sw:obs:notes:key-terms:guilt|guilty (kuwa na hatia)]]**
+  * **[[:sw:obs:notes:key-terms:punish|punish (adhibu)]]**
+
 ==== Translation Notes: ====
 
   * **start showing justice and mercy**  - This can be translated as, "start being just and merciful" or, "begin to demonstrate justice and mercy."
