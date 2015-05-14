@@ -1,31 +1,29 @@
-====== Judah also Worshiped Idols [20-05] ======
+====== Judah also Worshiped Idols [20-05] Yuda pia waliabudu sanamu ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink&}}
 
 The people in the **kingdom of Judah** saw how **God** had **punished** the people of the **kingdom of Israel for not believing and obeying him**. But they still **worshiped idols**, including the **gods** of the **Canaanites**. God sent **prophets** to **warn them**, but **they refused to listen**.
 
+Watu katika **ufalme wa Yuda** waliona vile **Mungu** **alivyowaadhibu** watu wa **ufalme wa Israeli kwa sababu hawakumuamini na kumtii**. Lakini bado waliendelea kuabudu sanamu, pamoja na **miungu ** ya **Wakanani**. Mungu alituma **manabii** ili **wawaonye**, lakini** walikataa kusikiliza**.
+====== Important Terms (Maneno ya Muhimu): ======
 
-====== Important Terms: ======
+  * **[[:sw:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah (ufalme wa Yuda)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:punish|punished (aliadhibu)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (ufalme wa Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believing (kuamini)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obeying (kutii)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worshiped (waliabudu)]]**
+  * **[[:sw:obs:notes:key-terms:idol|idols (sanamu)]]**
+  * **[[:sw:obs:notes:key-terms:god-false|gods (miungu)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaanites (Wakanani)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **[[:sw:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:punish|punished]]**
-  * **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:sw:obs:notes:key-terms:believe|believing]]**
-  * **[[:sw:obs:notes:key-terms:obey|obeying]]**
-  * **[[:sw:obs:notes:key-terms:worship|worshiped]]**
-  * **[[:sw:obs:notes:key-terms:idol|idols]]**
-  * **[[:sw:obs:notes:key-terms:god-false|gods]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaanites]]**
-  * **[[:sw:obs:notes:key-terms:prophet|prophets]]**
-
-
-===== Translation Notes: =====
-
-
-  * **for not believing and obeying him** – Another way to translate this would be, "because they did not believe or obey him." 
-  * **warn them** – That is, "tell them to stop sinning or terrible things would happen to them."
-  * **they refused to listen** - That is, "they refused to obey" or "they refused to stop their evil behavior." 
-  
-
+  * **for not believing and obeying him**  – Another way to translate this would be, "because they did not believe or obey him."
+  * **kwa kutoamini na kutotii**- Njia ingine ya kutafsiri hii yaweza kuwa, "kwa sababu hawakumuamini au kumtii."
+  * **warn them**  – That is, "tell them to stop sinning or terrible things would happen to them."
+  * **waliwaonya **- Hiyo ni, "kuwambia waache kutenda dhambi ama mambo mabaya yatafanyika kwao."
+  * **they refused to listen**  - That is, "they refused to obey" or "they refused to stop their evil behavior."
+  * **walikataa kusikiliza**  - Hiyo ni, "walikataa kutii" ama "walikataa kuachana na tambia yao baya."
 **[[:sw:obs:notes:frames:20-04|<<]] | [[:sw:obs:notes:20|Up]] | [[:sw:obs:notes:frames:20-06|>>]]**
