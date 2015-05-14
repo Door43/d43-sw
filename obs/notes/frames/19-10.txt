@@ -1,32 +1,29 @@
-===== The Prayer of Elijah [19-10] =====
+===== The Prayer of Elijah [19-10] Maombi ya Elia =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg?nolink&}}
 
 Then **Elijah prayed**, “**Yahweh**, **God** of **Abraham**, **Isaac**, and **Jacob**, **show us** today that you are the God of **Israel** and that **I am your servant**. **Answer me** so that **these people will know** that you are the **true** God.”
 
-===== Important Terms: =====
+Kisha **Elia akaomba**, "**Yehova, Mungu wa Ibrahimu, Isaka**, **na Yakobo, tuonyeshe** leo kuwa wewe ndiye Mungu wa **Israeli** na kuwa **mimi ni mtumishi wako**. **Nijibu** ili **hawa watu wajue** kuwa wewe ndiye Mungu wa **kweli**."
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:elijah|Elijah (Elia)]]**
+  * **[[:sw:obs:notes:key-terms:pray|prayed (aliomba)]]**
+  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
+  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
+  * **[[:sw:obs:notes:key-terms:true|true (kweli)]]**
+==== Translation Notes (Maelezoa ya Tafsiri): ====
 
-  * **[[:sw:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:sw:obs:notes:key-terms:pray|prayed]]**
-  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:servant|servant]]**
-  * **[[:sw:obs:notes:key-terms:true|true]]**
-
-
-==== Translation Notes: ====
-
-
-  * **show us** - That is, "prove to us" or, "demonstrate to us."
-  * **I am your servant** - This could be translated as, "You have given me authority to serve you and do these things."
-  * **Answer me** - That is, "respond to my prayer" or, "send the fire that I have asked you for."
-  * **these people will know** - This may be translated as, "these people will see and understand."
-
-
+  * **show us**  - That is, "prove to us" or, "demonstrate to us."
+  * **tuonyeshe**  - Hiyo ni, "thibitisha kwetu" ama, "onyesha kwetu."
+  * **I am your servant**  - This could be translated as, "You have given me authority to serve you and do these things."
+  * **mimi ni mtumishi wako**  - Hii inaweza kutafsiriwa kama, "Umenipa mimi mamlaka kukutumikia na kufanya mambo haya."
+  * **Answer me**  - That is, "respond to my prayer" or, "send the fire that I have asked you for."
+  * nijibu - Hiyo ni, "
+  * **these people will know**  - This may be translated as, "these people will see and understand."
 **[[:sw:obs:notes:frames:19-09|<<]] | [[:sw:obs:notes:19|Up]] | [[:sw:obs:notes:frames:19-11|>>]]**
