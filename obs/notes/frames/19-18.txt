@@ -1,25 +1,21 @@
-===== The Message of the Prophets [19-18] =====
+===== The Message of the Prophets [19-18] Ujumbe wa Manabii =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-18.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-18.jpg?nolink&}}
 
 The **prophets continued to speak for God** even though the people hated them. They warned people that God would destroy them if they did not **repent**. They also reminded people **of the promise that God’s Messiah would come**.
-===== Important Terms: =====
 
+**Manabii walindelea kuongea kwa miamba ya Mungu** hata ingawa watu waliwachukia. Walionya watu kuwa Mungu atawaharibu kama **hawatatubu**. Pia walikubusha watu kuhusu **ahadi kuwa Masihi wa Mungu atakuja**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:repent|repent]]**
-  * **[[:sw:obs:notes:key-terms:promise|promise]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:repent|repent (tubu)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promise (ahadi)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **continued to speak for God** - That is, "continued to tell the people what God wanted to tell them."
-  * **of the promise that God's Messiah would come** – This could be translated as, "that God had promised that his Messiah would come to save his people."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **continued to speak for God**  - That is, "continued to tell the people what God wanted to tell them."
+  * **waliendelea kuongea kwa miamba ya Mungu**  -
+  * **of the promise that God's Messiah would come**  – This could be translated as, "that God had promised that his Messiah would come to save his people."
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:sw:obs:notes:frames:19-17|<<]] | [[:sw:obs:notes:19|Up]] | [[:sw:obs:notes:frames:20-01|>>]]**
