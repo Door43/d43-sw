@@ -1,24 +1,22 @@
-===== Assyria Destroyed Israel [20-02] =====
+===== Assyria Destroyed Israel [20-02] Ashuru iliharibu Israeli =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-02.jpg?nolink&}}
 
 So **God punished both kingdoms** by allowing their enemies to destroy them. The **Assyrian Empire**, a powerful, cruel nation, destroyed the **kingdom of Israel**. The Assyrians killed many people in the kingdom of Israel, **took away** everything of value, and burned much of the country.
-===== Important Terms: =====
 
+Kwa hivyo **Mungu aliadhibu falme zote mbili** kwa kuruhusu maadui wao kuwaangamiza. **Ufalme wa Ashuru**, uliyokuwa mwenye nguvu na umejaa ukatili, ukaangamiza **ufalme wa Israeli**. Waashuri wakaua watu wengi katika ufalme wa Israeli, **wakabeba** kila kitu cha dhamana, na wakachoma sehemu kubwa ya nchi yao.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:punish|punished]]**
-  * **[[:sw:obs:notes:key-terms:assyria|Assyrian Empire]]**
-  * **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:punish|punished (aliadhibu)]]**
+  * **[[:sw:obs:notes:key-terms:assyria|Assyrian Empire (ufalme wa Ashuru)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (ufalme wa Israeli)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **both kingdoms** - This refers to both the kingdoms of Israel and Judah.
-  * **Empire** - A country was called an "empire" when it was powerful enough to extend its authority over many other countries.
-  * **took away** - That is, "stole." They stole these valuable things and carried them back to Assyria.
-
-
+  * **both kingdoms**  - This refers to both the kingdoms of Israel and Judah.
+  * **falme zote mbili **- Hii inaeleza kuhusu falme zote mbili ya Israeli na ya Yuda.
+  * **Empire**  - A country was called an "empire" when it was powerful enough to extend its authority over many other countries.
+  * **Dola**  - Nchi iliitwa "Dola" wakati iko na nguvu kiasi ya kuwa inaweza kueneza mamlaka yake juu ya mataifa mengini mengi.
+  * **took away**  - That is, "stole." They stole these valuable things and carried them back to Assyria.
+  * **walibeba**  - Hiyo ni, "waliiba." Waliiba zile vitu vya dhamana na wakazibeba kurudi nazo Ashuru.
 **[[:sw:obs:notes:frames:20-01|<<]] | [[:sw:obs:notes:20|Up]] | [[:sw:obs:notes:frames:20-03|>>]]**
