@@ -1,24 +1,21 @@
-===== A Storm Ended the Drought [19-13] =====
+===== A Storm Ended the Drought [19-13] Mvua kubwa ilimaliza ukame =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?nolink&}}
 
 Then **Elijah** said to **King Ahab**, “Return immediately to the city, because the rain is coming.” Soon **the sky grew black**, and a heavy rain began. **Yahweh** had ended the **drought** and proved that he is the true **God**.
-===== Important Terms: =====
 
+Kisha **Elia** akasema kwa **Mfalme Ahabu**, "Rudi mara moja kwa mji, kwa sababu mvua inakuja hivi karibuni." Upesi **anga ikawa nyeusi**, na mvua kubwa ikaanza. **Yehova** akawa amefikisha ile **ukame** mwisho na kuonyesha kuwa yeye ndiye **Mungu** wa kweli.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:sw:obs:notes:key-terms:king|King]]**
-  * **[[:sw:obs:notes:key-terms:ahab|Ahab]]**
-  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **[[:sw:obs:notes:key-terms:elijah|Elijah (Elia)]]**
+  * **[[:sw:obs:notes:key-terms:king|King (mfalme)]]**
+  * **[[:sw:obs:notes:key-terms:ahab|Ahab (Ahabu)]]**
+  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **the sky grew black** - That is, "the sky became very dark." Heavy rainclouds covered the sky, making it look dark grey or black.
-  * **drought** – That is, "long dry time with no rain."
-
-
+  * **the sky grew black**  - That is, "the sky became very dark." Heavy rainclouds covered the sky, making it look dark grey or black.
+  * **anga ikawa nyeusi **- Hiyo ni, "anga ikajaa ngiza." Mawingu mazito ya mzua ilifunika anga, na kuifanya kuonekana rangi ya kijivu ama nyeusi.
+  * **drought**  – That is, "long dry time with no rain."
+  * **ukame**  - Hiyo ni, "wakati mrefu na mkavu bila mvua."
 **[[:sw:obs:notes:frames:19-12|<<]] | [[:sw:obs:notes:19|Up]] | [[:sw:obs:notes:frames:19-14|>>]]**
