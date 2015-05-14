@@ -1,23 +1,21 @@
-===== God Answered with Fire [19-11] =====
+===== God Answered with Fire [19-11] Mungu alijibu na moto =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-11.jpg?nolink&}}
 
 Immediately, fire **fell from the sky** and burned up the meat, the wood, the rocks, the dirt, and even the water that was around the **altar**. When the people saw this, they **fell on the ground** and said, “**Yahweh is God**! Yahweh is God!”
-===== Important Terms: =====
 
+Mara moja, moto **ikaanguka kutoka angani** na kuteketeza ile nyama, kuni, mawe, makapi, na hata maji iliyozunguka **madhabahu**. Watu walipoona hivyo, **walianguka chini** na kusema, "**Yehova ni Mungu**! Yehova ni Mungu!"
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:altar|altar]]**
-  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **[[:sw:obs:notes:key-terms:altar|altar (madhabahu)]]**
+  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **fell from the sky** - This may be translated as, "suddenly came down from the sky."
-  * **fell on the ground** - They quickly lay down or knelt down on the ground. They were afraid of Yahweh because they had seen his power. They knew that only the true God could do that and bowed down to honor and worship him.
-  * **Yahweh is God** - This expression means that they understood that Yahweh is the only God, not just one god among others.
-
-
+  * **fell from the sky**  - This may be translated as, "suddenly came down from the sky."
+  * **ikaanguka kutoka angani **- Hii inaweza kutafsiriwa kama, "kwa ghafla ikatelemka toka angani."
+  * **fell on the ground**  - They quickly lay down or knelt down on the ground. They were afraid of Yahweh because they had seen his power. They knew that only the true God could do that and bowed down to honor and worship him.
+  * **walianguka chini **- Kwa haraka walilala chini ama wakapiga magoti kwa ardhi. Waliogopa Yehova kwa sababu waliona nguvu zake. Walijua kuwa ni Mungu wa kweli peke yake angeweza kufanya hivyo na wakainama chini kumheshimu na kumuabudu.
+  * **Yahweh is God**  - This expression means that they understood that Yahweh is the only God, not just one god among others.
+  * **Yehova ni Mungu**  - Hii msemo inamaanisha kuwa walielewa kuwa Yehova ndiye Mungu peke yake, na si tu mungu miongoni mwa wengine.
 **[[:sw:obs:notes:frames:19-10|<<]] | [[:sw:obs:notes:19|Up]] | [[:sw:obs:notes:frames:19-12|>>]]**
