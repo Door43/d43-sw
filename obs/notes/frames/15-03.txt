@@ -1,4 +1,4 @@
-===== Marching around Jericho [15-03] Kuandamana kuzunguka Yericho =====
+===== Marching around Jericho [15-03] Kuandamana kuzunguka Yericho *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink&}}
 
@@ -16,7 +16,7 @@
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **After the people crossed the Jordan River**  – In some languages it is better to say, "The people crossed the Jordan River and then…"
-  * **baada ya watu kuvuka Mto wa Yordani**  - Kwa lugha zingine ni bora zaidi kusema, "watu walivuka Mto wa Yordani na..."
+  * **baada ya watu kuvuka Mto wa Yordani**  - Kwa lugha zingine ni bora zaidi kusema, "watu walivuka Mto wa Yordani na…"
   * **how to attack**  – This could be translated as, "exactly what he should do to attack."
   * **jinsi ya kuvamia**  - Hii inaweza kutafsiriwa kama, "haswa kile anastahili kufanya ili kuvamia."
   * **once a day for six days**  - That is, they went around the city one time every day for a total of six days.
