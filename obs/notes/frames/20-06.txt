@@ -1,28 +1,27 @@
-===== Judah Served Babylon [20-06] =====
+===== Judah Served Babylon [20-06] Yuda walitumikia Babeli =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink&}}
 
 About 100 years after the **Assyrians** destroyed the **kingdom of Israel**, God sent **Nebuchadnezzar**, **king** of the **Babylonians**, to attack the **kingdom of Judah**. **Babylon** was a powerful **empire**. The king of Judah agreed **to be Nebuchadnezzar’s servant** and pay him a lot of money every year.
-===== Important Terms: =====
 
+Kama miaka 100 baada ya **Ashuru** kuangamiza **ufalme wa Israeli**, Mungu alituma **Nebukadreza**, **mfalme** wa **Babeli**, kuvamia **ufalme wa Yuda**. **Babeli** ilikuwa **Dola** yenye nguvu. Mfalme wa Yuda akakubali kuwa **mtumishi wa Nebukadreza** na kumlipa kiasi kubwa ya pesa kila mwaka.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:assyria|Assyrians]]**
-  * **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:nebuchadnezzar|Nebuchadnezzar]]**
-  * **[[:sw:obs:notes:key-terms:king|king]]**
-  * **[[:sw:obs:notes:key-terms:babylon|Babylonians]]**
-  * **[[:sw:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
-  * **[[:sw:obs:notes:key-terms:babylon|Babylon]]**
-  * **[[:sw:obs:notes:key-terms:servant|servant]]**
+  * **[[:sw:obs:notes:key-terms:assyria|Assyrians (Waashuru)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (ufalme wa Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:nebuchadnezzar|Nebuchadnezzar (Nebukadreza)]]**
+  * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+  * **[[:sw:obs:notes:key-terms:babylon|Babylonians (Babeli)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah (ufalme wa Yuda)]]**
+  * **[[:sw:obs:notes:key-terms:babylon|Babylon (Babeli)]]**
+  * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **empire** - See how you translated this in **[[:sw:obs:notes:frames:20-02|[20-02]]]**.
-  * **agreed to be** – The king of Judah was forced to either serve the Babylonian king or be destroyed.
-  * **to be Nebuchadnezzar's servant** - This could be translated as, "to govern Judah under Nebuchadnezzar's command."
-
-
+  * **empire**  - See how you translated this in **[[:sw:obs:notes:frames:20-02|[20-02]]]**.
+  * **dola**  - Ona vile ulivyotafsiri hii pale **[20-02].**
+  * **agreed to be**  – The king of Judah was forced to either serve the Babylonian king or be destroyed.
+  * **alikubali kuwa**  - Mfalme wa Yuda alilazimishwa aidha kumutumikia mfalme wa Babeli au kuharibiwa.
+  * **to be Nebuchadnezzar's servant**  - This could be translated as, "to govern Judah under Nebuchadnezzar's command."
+  * **kuwa mtumishi wa Nebukadreza**  - Hii inaweza kutafsiriwa kama, "kutawala Yuda chini ya amri ya Nebukadreza."
 **[[:sw:obs:notes:frames:20-05|<<]] | [[:sw:obs:notes:20|Up]] | [[:sw:obs:notes:frames:20-07|>>]]**
