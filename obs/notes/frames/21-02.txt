@@ -1,28 +1,21 @@
-===== A Promise for the Whole World [21-02] =====
+===== A Promise for the Whole World [21-02] Ahadi ya ulimwengu wote =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink&}}
 
 **God** promised **Abraham** that **through him** all **people groups** of the world would receive a **blessing**. This blessing would be **fulfilled** when the **Messiah** would come sometime in the future. He would make it possible for people from every people groups in the world to be **saved**.
 
+**Mungu** aliahidi **Ibrahimu** kuwa **kupitia kwake** **vikundi vyote vya watu** za ulimwengu zitapata **baraka**. Hii baraka **itatimizwa** wakati **Masihi** atakuja katika siku zijazo. Atahakikisha kuwa watu kutoka kwa kila kikundi ulimwenguni **wataokolewa**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
+  * **[[:sw:obs:notes:key-terms:people-group|people groups (vikundi vya watu)]]**
+  * **[[:sw:obs:notes:key-terms:bless|blessing (baraka)]]**
+  * **[[:sw:obs:notes:key-terms:fulfill|fulfilled (itatimizwa)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:save|saved (kuokolewa)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:sw:obs:notes:key-terms:people-group|people groups]]**
-  * **[[:sw:obs:notes:key-terms:bless|blessing]]**
-  * **[[:sw:obs:notes:key-terms:fulfill|fulfilled]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms:save|saved]]**
-
-
-==== Translation Notes: ====
-
-
-  * **through him** – That is, "because of one of his descendants."
-
-
+  * **through him**  – That is, "because of one of his descendants."
+  * **kupitia kwake **- Hiyo ni, "kwa sababu ya mmoja katika uzao wake."
 **[[:sw:obs:notes:frames:21-01|<<]] | [[:sw:obs:notes:21|Up]] | [[:sw:obs:notes:frames:21-03|>>]]**
