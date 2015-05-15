@@ -1,25 +1,23 @@
-===== Babylon Destroyed Judah [20-07] =====
+===== Babylon Destroyed Judah [20-07] Babeli waliangamiza Yuda =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?nolink&}}
 
 But after a few years, the king of **Judah rebelled** against **Babylon**. So, the Babylonians **came back** and attacked the kingdom of Judah. They **captured the city** of **Jerusalem**, destroyed the **Temple**, and **took away** all the treasures of the city and the Temple.
-===== Important Terms: =====
 
+Lakini baada ya miaka michache, mfalme wa **Yuda** **aliasi** **Babeli**. Kwa hivyo, Wababeli **walirudi** na kuvamia ufalme wa Yuda. **Waliteka mji wa Yerusalemu**, wakaharibu **Hekalu**, na **kubeba** hazina zote za mji na Hekalu.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:kingdom-of-judah|Judah]]**
-  * **[[:sw:obs:notes:key-terms:rebel|rebelled]]**
-  * **[[:sw:obs:notes:key-terms:babylon|Babylon]]**
-  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem]]**
-  * **[[:sw:obs:notes:key-terms:temple|Temple]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-judah|Judah (Yuda)]]**
+  * **[[:sw:obs:notes:key-terms:rebel|rebelled (waliasi)]]**
+  * **[[:sw:obs:notes:key-terms:babylon|Babylon (Babeli)]]**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+  * **[[:sw:obs:notes:key-terms:temple|Temple (Hekalu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **came back** - This may also be translated as, "returned" or "came to Judah again."
-  * **captured the city** - That is, "took control of the city and the people there."
-  * **took away** - They carried the treasures with them back to Babylon.
-
-
+  * **came back**  - This may also be translated as, "returned" or "came to Judah again."
+  * **walikuja tena**- Hii inaweza kutafsiriwa kama, "walirudi" ama, "wakaja Yuda tena."
+  * **captured the city**  - That is, "took control of the city and the people there."
+  * **waliteka mji**  - Hiyo ni, "walichukua uthibiti wa mji na watu walioko huko."
+  * **took away**  - They carried the treasures with them back to Babylon.
+  * **walibeba**  - Walibeba hazina wakaenda nazo Babeli.
 **[[:sw:obs:notes:frames:20-06|<<]] | [[:sw:obs:notes:20|Up]] | [[:sw:obs:notes:frames:20-08|>>]]**
