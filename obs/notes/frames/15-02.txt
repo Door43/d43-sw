@@ -1,10 +1,10 @@
-===== Crossing the Jordan River [15-02] Kuvuka Mto wa Yordani =====
+===== Crossing the Jordan River [15-02] Kuvuka Mto wa Yordani *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?nolink&}}
 
 The **Israelites** had to cross the **Jordan River** to enter into the **Promised Land**. God told Joshua, “Have the priests go first.” When the priests started to step into the Jordan River, the water upstream stopped flowing so the Israelites could cross over to the other side of the river on dry ground.
 
-Ilibidi **Waisraeli** wavuke **Mto wa Yordani** diposa waingie **Nchi ya Ahadi**. Mungu akamwambia Yoshua, "Wafanye makuhani waende mbele."  Wakati makuhani walianza kukanyanga mto Yordani, maji iliyotoka juu ikasimama na kwa hivyo Waisraeli wakaweza kuvuka hadi pande ile ingine ya mto kwa nchi kavu.
+Ilibidi **Waisraeli** wavuke **Mto wa Yordani** diposa waingie **Nchi ya Ahadi**. Mungu akamwambia Yoshua, "Wafanye makuhani waende mbele." Wakati makuhani walianza kukanyanga mto Yordani, maji iliyotoka juu ikasimama na kwa hivyo Waisraeli wakaweza kuvuka hadi pande ile ingine ya mto kwa nchi kavu.
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
@@ -16,7 +16,7 @@ Ilibidi **Waisraeli** wavuke **Mto wa Yordani** diposa waingie **Nchi ya Ahadi**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Have the priests go first**  – For some languages it may be helpful to add, "Have the priests go before the rest of the people to cross the river."
-  * **Wafanye makuhani kwenda mbele**  - Kutoka kwa lugha zingine inweza kuwa ya manufaa kunongeza, "Fanya makuhani waende mbele ya watu wengine wanapovuka mto."
+  * **Wafanye makuhani kwenda mbele**  - Kutoka kwa lugha zingine inaweza kuwa ya manufaa kuongeza, "Fanya makuhani waende mbele ya watu wengine wanapovuka mto."
   * **the water upstream stopped flowing**  - In some languages it may be helpful to add, "and the water in front of them flowed away downstream."
-  * **maji kutoka juu ikasimama**  - Kwa lugha zingine inaweza kuwa ya manufaa kusema, "na maji iliyokuwa mbele yao ikaende mbali kuelekea chini."
+  * **maji kutoka juu ikasimama**  - Kwa lugha zingine inaweza kuwa ya manufaa kusema, "na maji iliyokuwa mbele yao iende mbali kuelekea chini."
 **[[:sw:obs:notes:frames:15-01|<<]] | [[:sw:obs:notes:15|Up]] | [[:sw:obs:notes:frames:15-03|>>]]**
