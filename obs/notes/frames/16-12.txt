@@ -1,4 +1,4 @@
-===== Gideon's Army [16-12] Jeshi la Gideoni =====
+===== Gideon's Army [16-12] Jeshi la Gideoni *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-12.jpg?nolink&}}
 
@@ -12,7 +12,7 @@ Kisha **Gideoni** akarudi kwa askari wake na akampa kila mmoja wao **baraguma**,
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **horn**  - This could be translated as, "trumpet" or, "ram's horn trumpet." These horns came from a male sheep and were often used to call men for battle.
-  * **baragumu**  - Hii inaweza kutafsiriwa kama, "tarumpeta" ama, "tarumpeta ya baragumu ya kondoo wa kiume." Hizi baragumu zilitoka kwa kondoo wa kiume na zilitumika kiuta wanaume waje kwa vita.
+  * **baragumu**  - Hii inaweza kutafsiriwa kama, "tarumpeta" ama, "tarumpeta ya baragumu ya kondoo wa kiume." Hizi baragumu zilitoka kwa kondoo wa kiume na zilitumika kuwaita wanaume waje kwa vita.
   * **a torch**  - This was probably a piece of wood wrapped with cloth and soaked in oil so that it could burn well. (This was not the modern torch that runs on batteries.)
-  * **mwenge**  - Hii pengine ilikuwa kipande cha mti kimefungwa na nguo na kimetumbukizwa kwa mafuta ili ikachomeke vizuri. (Hii haikuwa mwenge ya kisasa ambayo inatumia betri.)
+  * **mwenge**  - Hii pengine ilikuwa kipande cha mti kimefungwa na nguo na kutumbukizwa kwa mafuta ili iweze kuchomeka vizuri. (Hii haikuwa mwenge ya kisasa ambayo inatumia betri.)
 **[[:sw:obs:notes:frames:16-11|<<]] | [[:sw:obs:notes:16|Up]] | [[:sw:obs:notes:frames:16-13|>>]]**
