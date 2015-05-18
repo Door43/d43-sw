@@ -1,25 +1,19 @@
-===== A Prophet Like Moses [21-03] =====
+===== A Prophet Like Moses [21-03]-  Nabii Kama Musa =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-03.jpg?nolink}}
+**God promised Moses** that in the future he would **raise up another prophet like Moses**. This was another promise about the **Messiah** who would come at some later time.** Mungu aliahidi Musa** kuwa katika siku sijazo, angewesa **kuinua anabii mwingine** kama Musa. Hii ni ahadi ingine kuhusu **Masihi** ambaye angekuja katika siku sijazo.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophet (Nabii)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+==== Translation Notes: Maelezo ya Tafsiri ====
 
-**God promised Moses** that in the future he would **raise up another prophet like Moses**. This was another promise about the **Messiah** who would come at some later time.
-===== Important Terms: =====
-
-
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah]]**
-
-
-==== Translation Notes: ====
-
-
-  * **raise up another prophet like Moses** - That is, "appoint another prophet like Moses" or, "cause another prophet to come who would be like Moses."
-  * **prophet like Moses** - To be like Moses, the future prophet would need to have great authority from God to lead and rescue his people.
-
-
+  * **raise up another prophet like Moses**  - That is, "appoint another prophet like Moses" or, "cause another prophet to come who would be like Moses."
+  * **Inua nabii mwingine kama Musa**  - Hii ni, "Kuteua nabii mwingine kama Musa" ama, kusababisha nabii mwingine aje ambaye alikuwa kama Musa."
+  * **prophet like Moses**  - To be like Moses, the future prophet would need to have great authority from God to lead and rescue his people.
+  * **Nabii kama Musa**  - Kuwa kama Musa, huyo nabii wa siku sijazo alihitaji kuwa na mamlaka kuu kutoka kwa Mungu kuongoza na kukomboa watu wake.
 **[[:sw:obs:notes:frames:21-02|<<]] | [[:sw:obs:notes:21|Up]] | [[:sw:obs:notes:frames:21-04|>>]]**
