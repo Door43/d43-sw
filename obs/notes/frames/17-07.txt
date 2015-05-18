@@ -1,4 +1,4 @@
-===== God's Promise to David [17-07] Ahadi ya Mungu kwa Daudi =====
+===== God's Promise to David [17-07] Ahadi ya Mungu kwa Daudi *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-07.jpg?nolink&}}
 
@@ -16,15 +16,15 @@ Lakini **Mungu** alimtuma **nabii Nathani ** kwa **Daudi** na ujumbe, "Kwa sabab
   * **[[:sw:obs:notes:key-terms:bless|bless (bariki)]]**
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Mashihi)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
-  * **[[:sw:obs:notes:key-terms:sin|sin (dhabi)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the prophet Nathan**  – It may be more natural in some languages to say, "a prophet named Nathan."
   * **nabii Nathani **- Inaweza kuwa ya asili zaidi kwa lugha zingine kusema, "nabii anayeitwa Nathani."
-  * **man of war**  - That is, "man who fights battles." David killed many, many people in battle against the Israelites' enemies. God wasn't punishing David, but God wanted a man of peace to build the Temple where people would worship him.
-  * mtu wa vita - Hiyo ni, "mtu anayepigana kitika vita." Daudi aliua wengi, watu wengi katika vita kinyume na maadui wa Israeli. Mungu hakuwa anamuadhibu Daudi, lakini Mungu alitaka mtu wa amani aijenge hekalu ambapo watu watamuabudu yeye.
+  * **man of war**  - That is, "man who fights battles." David killed many Israelites' enemies in battle. God wasn't punishing David, but God wanted a man of peace to build the Temple where people would worship him.
+  * **mtu wa vita**  - Hiyo ni, "mtu anayepigana kitika vita." Daudi aliua maadui engi wa Waisraeli katika vita. Mungu hakuwa anamuadhibu Daudi, lakini Mungu alitaka mtu wa amani ajenge hekalu ambapo watu watamuabudu yeye.
   * **this Temple**  - That is, "this building for worship" or, "this place of worship."
   * **hii hekalu**  - Hiyo ni, "nyumba hili la ibada" ama, "mahali hapa pa ibada."
   * **from sin**  - That is, "from the terrible consequences of their sin."
