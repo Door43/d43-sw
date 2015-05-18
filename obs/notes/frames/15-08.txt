@@ -1,4 +1,4 @@
-===== Israel Helped the Gibeonites [15-08] Israeli walisaidia Wagibeoni =====
+===== Israel Helped the Gibeonites [15-08] Israeli walisaidia Wagibeoni *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-08.jpg?nolink&}}
 
@@ -11,11 +11,10 @@ Kwa hivyo **Yoshua** akakusanya jeshi la **Israeli** na wakaandamana usiku wote 
   * **[[:sw:obs:notes:key-terms:israel|Israelite (ya Israeli)]]**
   * **[[:sw:obs:notes:key-terms:gibeon|Gibeonites (Wagibeoni)]]**
   * **[[:sw:obs:notes:key-terms:amorite|Amorite (Waamori)]]**
-
 ==== Translation Notes: ====
 
   * **to reach the Gibeonites**  - That is, "to get to the Gibeonites" or, "to arrive at where the Gibeonites lived." The Gibeonites lived in Canaan, but Canaan is big enough that it took all night for the Israelite army to travel from their camp to where the Gibeonites were.
-  * **kufikia Wagibeoni**  - Hii ni, "kufika kwa Wagibeoni" ama, "kufika kwa makazi ya Wagibeoni." Wagibeoni waliishi Kanani, lakini Kanani ni kubwa kiasi kuwa iliwachukua jeshi la Israeli usiku mzima kusafiri mpaka mahali kambi walipokuwa Wagibeoni.
+  * **kufikia Wagibeoni**  - Hii ni, "kufika kwa Wagibeoni" ama, "kufika kwa makao ya Wagibeoni." Wagibeoni waliishi Kanani, lakini Kanani ni kubwa kiasi kuwa iliwachukua jeshi la Israeli usiku mzima kusafiri kutoka kwa kambi yao mpaka walipokuwa Wagibeoni.
   * **they surprised the Amorite armies**  - The Amorites did not know that the Israelites were coming to attack them.
-  * **walishangaza jeshi la Wagibeoni **- Waamari hakujua kuwa Waisraeli walikuwa wanakuja kuwavamia.
+  * **walishangaza jeshi la Waamori **- Waamori hawakujua kuwa Waisraeli walikuwa wanakuja kuwavamia.
 **[[:sw:obs:notes:frames:15-07|<<]] | [[:sw:obs:notes:15|Up]] | [[:sw:obs:notes:frames:15-09|>>]]**
