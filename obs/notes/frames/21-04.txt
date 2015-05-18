@@ -1,23 +1,21 @@
-===== A Descendant of David [21-04] =====
+===== A Descendant of David [21-04] Wa ukoo wa Daudi =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink&}}
 
 **God promised King David** that one of his own **descendants** would rule as **king** over God’s people forever. That meant that the **Messiah** would be one of **David’s own descendants**.
-===== Important Terms: =====
 
+**Mungu alimuahidi mfalme Daudi** ya kwamba mmoja wa **ukoo** wake atakuwa **mfalme ** juu ya watu wa mungu milele. Hii iliimaanisha
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-  * **[[:sw:obs:notes:key-terms:david|King David]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants]]**
+ya kwamba masihi atakuwa mmoja wa ukoo wa Daudi mwenyewe.
 
+===== Important Terms: Maneno Muhimu =====
 
-==== Translation Notes: ====
+  * **[[:sw:obs:notes:key-terms:god|God]]  Mungu**
+  * **[[:sw:obs:notes:key-terms:promise|promised]]  ahidi**
+  * **[[:sw:obs:notes:key-terms:david|King David]] Mfalme Daudi**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah]] masihi**
+  * **[[:sw:obs:notes:key-terms:descendant|descendants]] ukoo**
+==== Translation Notes: maelezo ya Tafsiri ====
 
-
-  * **David's own descendants** - Another way to say this would be, "a direct descendant of David himself."
-
-
+  * **David's own descendants**  - Another way to say this would be, "a direct descendant of David himself.".
 **[[:sw:obs:notes:frames:21-03|<<]] | [[:sw:obs:notes:21|Up]] | [[:sw:obs:notes:frames:21-05|>>]]**
