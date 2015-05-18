@@ -1,10 +1,10 @@
-===== The Attack [16-13] Mashambulizi =====
+===== The Attack [16-13] Mashambulizi *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-13.jpg?nolink&}}
 
 Then, all of **Gideon's** soldiers broke their pots at the same moment, suddenly revealing the fire of the torches. They blew their horns and **shouted**, “**A sword for Yahweh and for Gideon**!”
 
-Kisha, askari wote **wa Gideoni** wakavunja nyungu zao wakati mmoja, kwa ghafla moto wa zile mwenge ukaonekana. Wakapiga baragumu zao **kupiga kelele, "Upanga wa Yehova na wa Gideoni**!"
+Kisha, askari wote **wa Gideoni** wakavunja nyungu zao wakati mmoja, kwa ghafla moto wa zile mwenge ukaonekana. Wakapiga baragumu zao na **kupiga kelele, "Upanga wa Yehova na wa Gideoni**!"
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:gideon|Gideon's (ya Gideoni)]]**
@@ -14,7 +14,7 @@ Kisha, askari wote **wa Gideoni** wakavunja nyungu zao wakati mmoja, kwa ghafla 
   * **shouted**  - This could be translated as, "yelled loudly" or, "said with a very loud voice."
   * **wakapiga kelele**  - Hii inaweza kutafsiriwa kama, "wakapasa sauti kubwa" ama, "wakasema na sauti kubwa sana."
   * **sword**  - A sword is a weapon that has a long sharp blade and a handle at one end. People hold the handle and hit or stab the enemy with the sharp blade. If your people don't have a weapon just like this, you could translate it as a "long knife," "machete" or, "bush knife."
-  * **upanga**  - Upanga ni silaha ambayo ni kali na ndefu na iko na pahali kushika pale mwisho. Watu wanashikilia hapo na kumchoma adui na sehemu ilyo kali. Kama watu wenu hawana silaha kama hii, unaweza kuitafsiri kama, "kisu kirefu," "panga" ama "kisu cha kichakani."
+  * **upanga**  - Upanga ni silaha ambayo ni kali na ndefu na iko na pahali kushika pale mwisho. Watu wanashikilia hapo na kumchoma adui na sehemu iliyo kali. Kama watu wenu hawana silaha kama hii, unaweza kuitafsiri kama, "kisu kirefu," "panga" ama "kisu cha kutumika kichakani."
   * **A sword for God and for Gideon**  - This means, "We fight for God and for Gideon!"
   * **upanga wa Mungu na wa Gideoni**  - Hii inamaanisha, "tunapigania Mungu na Gideoni!"
 **[[:sw:obs:notes:frames:16-12|<<]] | [[:sw:obs:notes:16|Up]] | [[:sw:obs:notes:frames:16-14|>>]]**
