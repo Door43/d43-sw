@@ -1,11 +1,10 @@
-===== Israel Worshiped Idols [16-01] Israeli waliabudu sanamu =====
+===== Israel Worshiped Idols [16-01] Israeli waliabudu sanamu *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-01.jpg?nolink&}}
 
 After **Joshua** died, the **Israelites disobeyed God** and **did not drive out the rest of the Canaanites** or **obey God's laws**. The Israelites began to **worship** the Canaanite **gods** instead of **Yahweh**, **the true God**. The Israelites had no king, so everyone did **what they thought was right for them**.
 
 Baada ya **Yoshua** kufa, **Waisraeli walikataa kutii Mungu** na **hawakuwafukuza Wakanani hao wengine** wala **kutii sheria za Mungu**. Waisraeli wakaanza **kuabudu** **miungu** ya Wakanani badala ya **Yehova, Mungu wa kweli**. Waisraeli hawakuwa na mfalme, na yeyote yule **alifanya kile walichokifikiria kuwa sawa kwao**.
-
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
@@ -20,11 +19,10 @@ Baada ya **Yoshua** kufa, **Waisraeli walikataa kutii Mungu** na **hawakuwafukuz
   * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
   * **[[:sw:obs:notes:key-terms:true|true (kweli)]]**
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
-
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **and did not drive out**  – This tells how they disobeyed God, so in some languages it may be better to start this as a new sentence, "They did not."
-  * **na hawakufukuza**  - Hii inaeleza vile walikosa kumtii Mungu, kwa hivyo katika lugha zingine itakuwa bora kuanza hii kama sentensi mpya, "hawakufanya hivyo."
+  * **na hawakufukuza**  - Hii inaeleza vile walikosa kumtii Mungu, kwa hivyo katika lugha zingine itakuwa bora kuanza hii kama sentensi mpya, "hawakuwafukuza."
   * **drive out the rest of the Canaanites**  - This can be translated, "fight with the rest of the Canaanites to force them to leave the land."
   * **fukuza Wakanani wengine**  - Hii inaweza kutafsiriwa kama, "pigana na Wakanani wengine ili wawalazimishe kutoka kwa nchi."
   * **or obey God's laws**  - This means that the people also disobeyed the laws that God gave to the Israelites at Mount Sinai.
@@ -32,5 +30,5 @@ Baada ya **Yoshua** kufa, **Waisraeli walikataa kutii Mungu** na **hawakuwafukuz
   * **the true God**  - That is, "the only real God." Yahweh is the only one that people should worship.
   * **yule Mungu wa kweli **- Hiyo ni, "Mungu aliye peke yake wa kweli." Yehova ndiye peke yake watu wanastahili kuabudu.
   * **what they thought was right for them**  – This means that they all did whatever they wanted to do, including many evil things.
-  * **kile walifikiri ni kizuri kwao**  - Hii inamaanisha kuwa wote walifanya kile walitaka kufanya, pamoja na maovu mengi.
+  * **kile walifikiri kinawafaa**  - Hii inamaanisha kuwa wote walifanya kile walitaka kufanya, pamoja na maovu mengi.
 **[[:sw:obs:notes:frames:15-13|<<]] | [[:sw:obs:notes:16|Up]] | [[:sw:obs:notes:frames:16-02|>>]]**
