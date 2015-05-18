@@ -1,4 +1,4 @@
-===== David Wanted to Build a Temple [17-06] Daudi alitaka kujenga hekalu =====
+===== David Wanted to Build a Temple [17-06] Daudi alitaka kujenga hekalu *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink&}}
 
@@ -18,5 +18,5 @@
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **build a temple**  - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
-  * **kujenga hekalu**  - Daudi alitaka kujenga mjengo wa kudumu ya kuabudia Mungu ambayo inaweza chukua mahali pa Hema ya Mkutano inayochukulika.
+  * **kujenga hekalu**  - Daudi alitaka kujenga mjengo wa kudumu ya kuabudia Mungu ambayo inaweza chukua mahali pa Hema ya Mkutano inayoweza kubebwa.
 **[[:sw:obs:notes:frames:17-05|<<]] | [[:sw:obs:notes:17|Up]] | [[:sw:obs:notes:frames:17-07|>>]]**
