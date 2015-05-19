@@ -2,23 +2,24 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-05.jpg?nolink&}}
 
-Through the **prophet Jeremiah**, **God promised** that he would make a **New Covenant**, **but not like** the **covenant** God made with **Israel** at **Sinai**. In the New Covenant, God would **write his law on the people’s hearts**, the people would **know God** personally, they would **be his people**, and God would **forgive** their **sins**. The **Messiah** would **start the New Covenant**. Kupitia kwa nabii Yeremia, Mungu aliahidi ya kuwa atafanya Agano Jipya, na sio kama ile Agano  Mungu alifanya na Israeli katika Sinai. Katika Agano Jipya, Mungu angeandika sheria zake juu ya roho za watu, watu wangemjua Mungu kibinafsi, wangekuwa watu wake, naye Mungu angewasamehe dhambi zao. Masihi alikuwa aanze Agano Jipya.
-===== Important Terms: =====
+Through the **prophet Jeremiah**, **God promised** that he would make a **New Covenant**, **but not like** the **covenant** God made with **Israel** at **Sinai**. In the New Covenant, God would **write his law on the people’s hearts**, the people would **know God** personally, they would **be his people**, and God would **forgive** their **sins**. The **Messiah** would **start the New Covenant**. Kupitia kwa nabii Yeremia, Mungu aliahidi ya kuwa atafanya Agano Jipya, na sio kama ile Agano Mungu alifanya na Israeli katika Sinai. Katika Agano Jipya, Mungu angeandika sheria zake juu ya roho za watu, watu wangemjua Mungu kibinafsi, wangekuwa watu wake, naye Mungu angewasamehe dhambi zao. Masihi alikuwa aanze Agano Jipya.
+===== Important Terms: Maneno ya Muhimu =====
 
-  * **[[:sw:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:sw:obs:notes:key-terms:jeremiah|Jeremiah]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised]]**
-  * **[[:sw:obs:notes:key-terms:covenant-new|New Covenant]]**
-  * **[[:sw:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms:sinai|Sinai]]**
-  * **[[:sw:obs:notes:key-terms:forgive|forgive]]**
-  * **[[:sw:obs:notes:key-terms:sin|sins]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah]]**
-==== Translation Notes: ====
+  * **[[:sw:obs:notes:key-terms:prophet|prophet]](nabii)**
+  * **[[:sw:obs:notes:key-terms:jeremiah|Jeremiah]](Yeremia)**
+  * **[[:sw:obs:notes:key-terms:god|God]](Mungu)**
+  * **[[:sw:obs:notes:key-terms:promise|promised]](Aliahidi)**
+  * **[[:sw:obs:notes:key-terms:covenant-new|New Covenant]](Agano Jipya)**
+  * **[[:sw:obs:notes:key-terms:covenant|covenant]](agano)**
+  * **[[:sw:obs:notes:key-terms:israel|Israel]](Israeli)**
+  * **[[:sw:obs:notes:key-terms:sinai|Sinai]](Sinai)**
+  * **[[:sw:obs:notes:key-terms:forgive|forgive]](Samehe)**
+  * **[[:sw:obs:notes:key-terms:sin|sins]](dhambi)**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah]](Masihi)**
+==== Translation Notes: Maelezo ya Tafsiri ====
 
-  * **Through the prophet Jeremiah God promised**  – This could be translated as, "Through the messages that God gave to Jeremiah, God promised" or, "The prophet Jeremiah told the people God's promise."
+  * **Through the prophet Jeremiah God promised**  – This could be translated as, "Through the messages that God gave to Jeremiah, God promised" or, "The prophet Jeremiah told the people God's <font inherit/inherit;;inherit;;inherit>promise."</font>
+  * <font inherit/inherit;;inherit;;inherit>Kupitia kwa nabii Yeremia Mungu aliahidi - Hii inaweza kutafsiriwa kama, "kupitia kwa jumbe zile Mungu alimpatia Yeremia, Mungu aliahidi" ama' "Nabii Yeremia aliambia watu ahadi ya Mungu."</font>
   * **but not like**  - The New Covenant would be truly effective. People really would know God, they would truly live as his people, and He would forgive their sins completely, based on the Messiah's sacrifice of himself one time for all who believe in him.
   * **write his law on the people's hearts**  - This is a metaphor meaning, "help his people to understand his laws and to earnestly desire to obey them." If possible, keep the image of writing on their hearts, since this is in contrast with the way God had written his law on stone tablets for the Israelites. If that is not possible, you could just translate the meaning.
   * **be his people**  - This could be translated as, "be his special people" or, "be his favored people."
