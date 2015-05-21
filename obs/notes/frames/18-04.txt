@@ -1,11 +1,10 @@
-===== The Kingdom Would Divide [18-04] - Ufalme Ungegawanya =====
+===== The Kingdom Would Divide [18-04] - Ufalme Ungegawanyika *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-04.jpg?nolink&}}
 
 **God** was angry with **Solomon** and, **as a punishment for Solomon’s unfaithfulness**, **he promised to divide** the nation of **Israel** into two **kingdoms** after Solomon’s death.
 
-Mungu alikuwa amekasirika na Suleimani na, kama adhabu kwa kutoaminika kwa Suleimani, aliahidi kugawanya taifa la Israeli kuwa falme mbili baada ya kifo cha Suleimani.
-
+**Mungu** alikuwa amekasirika na **Suleimani** na, **kama adhabu kwa kutoaminika kwa Suleimani, aliahidi kugawanya** taifa la **Israeli** kuwa **falme** mbili baada ya kifo cha Suleimani.
 ===== Important Terms: Maneno ya Muhimu =====
 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
@@ -17,6 +16,5 @@ Mungu alikuwa amekasirika na Suleimani na, kama adhabu kwa kutoaminika kwa Sulei
 ==== Translation Notes: Tafsiri ya Maelezo ====
 
   * **as a punishment for Solomon's unfaithfulness, he promised to divide**  – This could be translated as, "to punish Solomon for being unfaithful to him, God solemnly said that he would divide."
-  * Kama adhabu kwa kutoaminika kwa Suleimani, aliahidi kugawanya - Hii inaweza kutafsiriwa kama, "kuadhibu Suleimani kuwa asiyeaminika kwake, Mungu alimaanisha kusema angegawanya.
-
+  * **Kama adhabu kwa kutoaminika kwa Suleimani, aliahidi kugawanya**  - Hii inaweza kutafsiriwa kama, "kuadhibu Suleimani kuwa asiyeaminika kwake, Mungu alimaanisha kusema angegawanya."
 **[[:sw:obs:notes:frames:18-03|<<]] | [[:sw:obs:notes:18|Up]] | [[:sw:obs:notes:frames:18-05|>>]]**
