@@ -1,10 +1,10 @@
-===== Persia Defeated Babylon [20-11] Uajemi walishinda Babeli =====
+===== Persia Defeated Babylon [20-11] Uajemi Walishinda Babeli =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink&}}
 
 About **seventy years later**, **Cyrus**, the **king** of the **Persians**, defeated **Babylon**, so the Persian Empire replaced the Babylonian Empire. **The Israelites were now called Jews** and most of them had lived their whole lives in Babylon. Only a few very old Jews even remembered **the land of Judah**.
 
-Kama **miaka sabini baadaye**, **Koreshi**, **mfalme** wa **Uajemi**, alishinda **Babeli**, kwa hivyo Dola la Uajemi likachukua mahahi pa Dola la Babeli. **Waisraeli sasa walikuwa wanaitwa Wayahudi ** na wengi wao walikuwa wameishi maisha yao yote Babeli. Ni Wachache waliokuwa na miaka mingi ambao walikuwa wanakumbuka **nchi ya Yuda**.
+Kama **miaka sabini baadaye**, **Koreshi**, **mfalme** wa **Uajemi**, alishinda **Babeli**, kwa hivyo Dola la Uajemi likachukua mahahi pa Dola la Babeli. **Waisraeli sasa walikuwa wanaitwa Wayahudi ** na wengi wao walikuwa wameishi maisha yao yote Babeli. Ni Wachache waliokuwa na miaka mingi na ambao wangeweza kukumbuka **nchi ya Yuda**.
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
@@ -16,9 +16,9 @@ Kama **miaka sabini baadaye**, **Koreshi**, **mfalme** wa **Uajemi**, alishinda 
   * **seventy years later**  - This refers to the seventy years that had passed since the Babylonian army took the people of Jerusalem into exile.
   * **miaka sabini baadaye**  - Hii inaeleza kuhusu miaka sabini iliyokuwa imepita kutoka wakati jeshi la Babeli lilipeleka watu wa Yerusalemu uhamishoni.
   * **Cyrus**  - Cyrus was also called, "Cyrus the Great." The name "Cyrus" meant "like the sun" in the Persian language. However, since Cyrus was an important historical person, it might be best to transliterate his name, rather than translating the meaning.
-  * **Koreshi**  - Kereshi pia aliitwa, "Koreshi Mkuu." Jina Koreshi lilimaanisha "kama jua" katika lugha ya Uajemi. Hata hivyo, sababu Koreshi alikuwa mtu muhimu katika historia, ni vizuru kutumia jina lake, bila kulibandilisha na maana ya jina lake.
+  * **Koreshi**  - Koreshi pia aliitwa, "Koreshi Mkuu." Jina Koreshi lilimaanisha "kama jua" katika lugha ya Uajemi. Hata hivyo, sababu Koreshi alikuwa mtu muhimu katika historia, ni vizuru kutumia jina lake, bila kulibandilisha na maana ya jina lake.
   * **Persians**  - The Persian Empire grew to cover the area from central Asia to Egypt. Its home was located in the general area of modern-day Iran.
-  * **Waajemi**  - Dola la Uajemi lilikua kufika eneo la Asia ya  kati hadi Misri. Eneo hilo lilikua sehemu iliyoko nchi ya leo ya Iran (Uajemi).
+  * **Waajemi**  - Dola la Uajemi lilikua mpaka likafikia kutoka eneo la Asia ya kati hadi Misri. Eneo hilo lilikua sehemu iliyoko nchi ya leo ya Iran (Uajemi).
   * **The Israelites were now called Jews**  - This could also be translated as, "People now called the Israelites by the name 'Jews.'"
   * **Waisraeli wakati huo waliitwa Wayahudi**  - Hii inaweza kutafsiriwa kama, "watu sasa waliwaita Waisraeli kwa jina 'Wayahudi.'"
   * **the land of Judah**  - That is, the area where the kingdom of Judah was located before the Exile. Jerusalem was the capital city of Judah.
