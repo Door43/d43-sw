@@ -1,22 +1,19 @@
-===== A Descendant of David [21-04] Wa ukoo wa Daudi =====
+===== A Descendant of David [21-04] Mmoja wa Uzao wa Daudi =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink&}}
 
 **God promised King David** that one of his own **descendants** would rule as **king** over God’s people forever. That meant that the **Messiah** would be one of **David’s own descendants**.
 
-**Mungu alimuahidi mfalme Daudi** ya kwamba mmoja wa **ukoo** wake atakuwa **mfalme ** juu ya watu wa mungu milele. Hii iliimaanisha
+**Mungu alimuahidi mfalme Daudi** ya kwamba mmoja wa **ukoo** wake atakuwa **mfalme ** juu ya watu wa mungu milele. Hii iliimaanisha ya kwamba **Masihi** atakuwa mmoja wa uzao wa Daudi mwenyewe.
+===== Important Terms (Maneno Muhimu): =====
 
-ya kwamba masihi atakuwa mmoja wa ukoo wa Daudi mwenyewe.
-
-===== Important Terms: Maneno Muhimu =====
-
-  * **[[:sw:obs:notes:key-terms:god|God]] Mungu**
-  * **[[:sw:obs:notes:key-terms:promise|promised]] ahidi**
-  * **[[:sw:obs:notes:key-terms:david|King David]] Mfalme Daudi**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah]] masihi**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants]] ukoo**
-==== Translation Notes: maelezo ya Tafsiri ====
+  * **[[:sw:obs:notes:key-terms:god|God]] (Mungu)**
+  * **[[:sw:obs:notes:key-terms:promise|promised]] (aliahidi)**
+  * **[[:sw:obs:notes:key-terms:david|King David]] (Mfalme Daudi**)
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah]] (Masihi**)
+  * **[[:sw:obs:notes:key-terms:descendant|descendants]] (uzao)**
+==== Translation Notes (Maelezo ya Tafsiri) ====
 
   * **David's own descendants**  - Another way to say this would be, "a direct descendant of David himself."
-  * **Wa ukoo wa Daudi mwenyewe**  -  njia nyingine ya kusema haya ni, " wa moja kwa moja kutoka ukoo wa Daudi mwenyewe".
+  * **wa uzao wa Daudi mwenyewe**  - njia nyingine ya kusema hii yeweza kuwa, "mzaliwa wa moja kwa moja kutoka kwa Daudi mwenyewe."
 **[[:sw:obs:notes:frames:21-03|<<]] | [[:sw:obs:notes:21|Up]] | [[:sw:obs:notes:frames:21-05|>>]]**
