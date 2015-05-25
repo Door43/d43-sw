@@ -2,20 +2,26 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-11.jpg?nolink&}}
 
-The **prophet Isaiah** also **prophesied** that the **Messiah** would be **hated without reason and rejected**. Other prophets **foretold** that those who killed the Messiah would **gamble for his clothes** and that a friend would **betray** him. The prophet **Zechariah** predicted that the friend would be paid **thirty silver coins** as payment for betraying the Messiah. **Nabii Isaya ** pia **alitabiri ** ya kuwa **Masihi ** angeonewa **chuki bila sababu na kukataliwa**. Manabii wengine **walitabiri ** ya kuwa wale walimuua Masihi** wangegombania nguo zake** na ya kuwa rafiki alikuwa **amsaliti**. Nabii **Zakaria ** alitabiri ya kuwa rafiki angelipwa** sarafu therathini za fedha** kama malipo ya kumsaliti Masihi.
-===== Important Terms:(Maneno ya Muhimu) =====
+The **prophet Isaiah** also **prophesied** that the **Messiah** would be **hated without reason and rejected**. Other prophets **foretold** that those who killed the Messiah would **gamble for his clothes** and that a friend would **betray** him. The prophet **Zechariah** predicted that the friend would be paid **thirty silver coins** as payment for betraying the Messiah.
 
-  * **[[:sw:obs:notes:key-terms:prophet|prophet(Nabii)]]**
-  * **[[:sw:obs:notes:key-terms:isaiah|Isaiah(Isaya)]]**
-  * **[[:sw:obs:notes:key-terms:prophet|prophesied(Alitabiri)]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah(Masihi)]]**
-  * **[[:sw:obs:notes:key-terms:betray|betray(Kusaliti)]]**
-==== Translation Notes: Maelezo ya Tafsiri ====
+**Nabii Isaya ** pia **alitabiri** kuwa **Masihi ** angeonewa **chuki bila sababu na kukataliwa**. Manabii wengine **walitabiri ** ya kuwa wale walimuua Masihi** wangegombania nguo zake** na ya kuwa rafiki **angemsaliti**. Nabii **Zakaria ** alitabiri ya kuwa rafiki angelipwa** sarafu therathini za fedha** kama malipo ya kumsaliti Masihi.
+===== Important Terms (Maneno ya Muhimu): =====
+
+  * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
+  * **[[:sw:obs:notes:key-terms:isaiah|Isaiah (Isaya)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophesied (alitabiri)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:betray|betray (kusaliti)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **hated without reason and rejected**  - This could be translated as, "hated and rejected, even though he had done nothing wrong" or "…even though he was innocent."
-  * Kuchukiwa bila sababu na Kutataliwa - Hii inaweza kumaanisha, "Kuchukiwa na kukataliwa, ata kama hakuwa amefanya chochote kibaya" ama …. ata kama alikuwa hana hatia."
+  * **Kuchukiwa bila sababu na Kukataliwa**  - Hii inaweza kumaanisha, "Kuchukiwa na kukataliwa, ata kama hakuwa amefanya chochote kibaya" ama  "... hata kama alikuwa hana hatia."
   * **foretold**  – This means they told about things that would happen in the future. Other words that have a similar meaning are, "predicted" and "prophesied."
+  * **alitabiri**  - Hii inamaanisha walieleza kuhusu mambo ambayo watatukia siku za usoni.  Maneno mengine yaliyo na maana sawa ni, "ongea kuhusu mambo yatakayo kuja" ama "kutoa unabii."
   * **gamble for his clothes**  - That is, "play a game of chance to determine who would win his clothes."
+  * **chezea nguo zake kamari **- Hiyo ni, "fanya mchezo wa pata potea ili kuamua nani atabeba nguo zake."
   * **Zechariah**  - Zechariah was an Old Testament prophet who spoke to God's people after they returned to the Promised Land from the Exile in Babylon. This was about 500 years before the Messiah came.
+  * **Zakaria**  - Zakaria alikuwa nabii wa Agano la Kale ambaye alinena na watu wa Mungu baada ya wao kurudi Nchi ya Ahadi kutoka kwa uhamisho Babeli. Hii ilikuwa miaka kama 500 kabla ya kuja kwa Masihi.
   * **thirty silver coins**  - At the time, each of these coins was worth the amount of money a person could earn in four days.
+  * **sarafu thelathini za fedha**  - Katika wakati ule, kila moja ya zile sarafu ilikuwa na dhamana ya pesa ambazo mtu angezipata kwa kufanya kazi siku nne.
 **[[:sw:obs:notes:frames:21-10|<<]] | [[:sw:obs:notes:21|Up]] | [[:sw:obs:notes:frames:21-12|>>]]**
