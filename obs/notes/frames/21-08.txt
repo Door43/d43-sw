@@ -2,18 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-08.jpg?nolink&}}
 
-A **king** is someone who rules over a **kingdom** and **judges** the people. The **Messiah** would be the perfect king who would **sit on the throne** of his ancestor **David**. He would reign over **the whole world** forever, and would always judge honestly and make the right decisions. **Mfalme ** ni mtu ambaye anatawala juu ya **ufalme ** na **huhukumu ** watu. **Masihi ** alikuwa awe mfalme mkamilifu ambaye **angekalia kiti cha enzi ** cha babu yake Daudi. Angeweza kutawala juu ya **ulimwengu wote ** milele, na daima angetoa hukumu kwa uaminifu na kufanya maamuzi yalio sahihi.
-===== Important Terms: (Maneno ya Muhihu) =====
+A **king** is someone who rules over a **kingdom** and **judges** the people. The **Messiah** would be the perfect king who would **sit on the throne** of his ancestor **David**. He would reign over **the whole world** forever, and would always judge honestly and make the right decisions.
 
-  * **[[:sw:obs:notes:key-terms:king|king (Mfalme)]]**
-  * **[[:sw:obs:notes:key-terms:kingdom|kingdom(Ufalme)]]**
-  * **[[:sw:obs:notes:key-terms:judge|judges(Hakimu)]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah(Masihi)]]**
-  * **[[:sw:obs:notes:key-terms:david|David(Daudi)]]**
-==== Translation Notes: Maelezo ya Tafsiri ====
+**Mfalme ** ni mtu ambaye anatawala juu ya **ufalme ** na **kuhukumu ** watu. **Masihi ** alikuwa awe mfalme mkamilifu ambaye **angekalia kiti cha enzi ** cha babu yake Daudi. Angeweza kutawala juu ya **ulimwengu wote ** milele, na daima angetoa hukumu kwa uaminifu na kufanya maamuzi yalio sahihi.
+===== Important Terms (Maneno ya Muhihu): =====
+
+  * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom|kingdom (ufalme)]]**
+  * **[[:sw:obs:notes:key-terms:judge|judges (anahukumu)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
+==== Translation Notes (Maelezo ya Tafsiri) ====
 
   * **sit on the throne of his ancestor David**  - A throne is a ceremonial chair for a king or queen that represents their authority. This expression could also be translated as, "have the authority to reign as his ancestor King David did" or, "be the descendant of King David and continue his rule over God's people."
-  * **Keti kwenye kiti cha enzi cha babu yake Daudi**  - Kiti cha enzi ni kiti cha sherehe tu cha mfalme ama malkia ambaye huakilisha mamlaka yao. Hii maelezo inaweza kutafsiriwa kama, "kuwa na mamlaka ya kutawala kama vile babu yake Daudi alifanya," ama kuwa wa kizazi cha Mfalme Daudi na kueneza utawala wake juu ya watu wa Mungu.
+  * **Keti kwenye kiti cha enzi cha babu yake Daudi**  - Kiti cha enzi ni kiti cha sherehe cha mfalme ama malkia ambaye huakilisha mamlaka yao. Hii maelezo inaweza kutafsiriwa kama, "kuwa na mamlaka ya kutawala kama vile babu yake Daudi alifanya," ama kuwa wa kizazi cha Mfalme Daudi na kueneza utawala wake juu ya watu wa Mungu."
   * **the whole world**  - This could also be translated as, "everyone everywhere."
-  * **Ulimwengu wote**  - Hii inaweza kutafsiriwa kama, " Kila mtu aliye kila mahali."
+  * **ulimwengu wote**  - Hii inaweza kutafsiriwa kama, " Kila mtu aliye kila mahali."
 **[[:sw:obs:notes:frames:21-07|<<]] | [[:sw:obs:notes:21|Up]] | [[:sw:obs:notes:frames:21-09|>>]]**
