@@ -1,11 +1,10 @@
-===== Israel Sinned [20-01] Israeli walitenda dhambi =====
+===== Israel Sinned [20-01] Israeli walitenda Dhambi =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink&}}
 
 The **kingdom of Israel** and the **kingdom of Judah** both **sinned** against **God**. They **broke the covenant** that God had made with them at **Sinai**. God sent his **prophets** to **warn them to repent** and **worship** him again, but they refused to **obey**.
 
 **Ufalme wa Israeli ** na **ufalme wa Yuda** wote **walitenda dhambi** kwa **Mungu**. **Walivunja agano ** ambalo Mungu alifanya na wao pale Mlima wa **Sinai**. Mungu alituma **manabii ** wake **wawaonye ili watubu** na **kumuabudu** tena, lakini **walikataa** kutii.
-
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (ufalme wa Israeli)]]**
@@ -18,11 +17,10 @@ The **kingdom of Israel** and the **kingdom of Judah** both **sinned** against *
   * **[[:sw:obs:notes:key-terms:repent|repent (kutubu)]]**
   * **[[:sw:obs:notes:key-terms:worship|worship (kuabudu)]]**
   * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
-
-==== Translation Notes: ====
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **broke the covenant**  - That is, "disobeyed the commands God had given them in his covenant with them at Mount Sinai."
-  * **walivunja agano**  - Hiyo ni, "walikosa kutii amri ambazo Mungu aliwapa katika agano lake nao pale Mlima wa Sina."
+  * **walivunja agano**  - Hiyo ni, "walikosa kutii amri ambazo Mungu aliwapa katika agano lake nao pale Mlima wa Sinai."
   * **warn them to repent and worship him again**  – Another way to translate this would be, "tell them to stop sinning and to worship Yahweh instead of other gods, or terrible things would happen to them."
   * **waonye watubu na kuniabudu tena**  - Njia ingine ya kutafsiri hii yeweza kuwa, "wambie waache kutenda dhambi na waabudu Yehova badala ya miungu mingine, ama mambo mabaya itafanyika kwao."
 **[[:sw:obs:notes:frames:19-18|<<]] | [[:sw:obs:notes:20|Up]] | [[:sw:obs:notes:frames:20-02|>>]]**
