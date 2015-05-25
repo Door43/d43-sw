@@ -18,11 +18,10 @@
   * **[[:sw:obs:notes:key-terms:god-false|god (mungu)]]**
   * **[[:sw:obs:notes:key-terms:baal|Baal (Baali)]]**
 
-==== Translation Notes: (Maneno ya Muhimu) ====
+==== Translation Notes (Maelezo ya Tafsiri) ====
 
   * **until I say so**  - This may be translated as, "until I command the rain and dew to come again."
-  * Hadi niseme - Hii inaweza kutafsiriwa kama, "Hadi niamrishe mvua na umande kurudi tena."
+  * **hadi mimi niseme hivyo**  - Hii inaweza kutafsiriwa kama, "hadi niamrishe mvua na umande kurudi tena."
   * **This made Ahab very angry**  – This could be translated as, "When Ahab heard what Elijah said, he became very angry."
-  * Hii ilimfanya Ahabu akasirike sana - Hii inaweza kutafsiriwa kama, "Wakati Ahabu alisikia kile Elia alisema, alikasirika sana."
-
+  * **Hii ilimfanya Ahabu akasirike sana**  - Hii inaweza kutafsiriwa kama, "Wakati Ahabu alisikia kile Elia alisema, alikasirika sana."
 **[[:sw:obs:notes:frames:19-01|<<]] | [[:sw:obs:notes:19|Up]] | [[:sw:obs:notes:frames:19-03|>>]]**
