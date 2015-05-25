@@ -10,7 +10,8 @@
 
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:prophet|prophets (Manabii)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+
 ==== Translation Notes: (Tafsiri ya Maelezo) ====
 
   * **Throughout the history of**  - This expression means that God sent many prophets at many different times during all of the years that Israel and Judah existed.
