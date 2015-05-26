@@ -1,25 +1,21 @@
-===== Take Mary as Your Wife [23-02] =====
+===== Take Mary as Your Wife [23-02] - Mchukue Mariamu Kuwa Mke Wako =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink&}}
 
-The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife**. The baby that is in her **is from the Holy Spirit**. She will give birth to a **son**. Name him **Jesus** (which means, '**Yahweh saves**'), because he will save the people from their **sins**.”
+The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife**. The baby that is in her **is from the Holy Spirit**. She will give birth to a **son**. Name him **Jesus** (which means, '**Yahweh saves**'), because he will save the people from their **sins**.”**Malaika ** alisema, "**Yusufu, usiogope kumchukua Mariamu kuwa mke wako**. Mtoto aliye ndani yake **ni kutokana kwa Roho Mtakatifu**. Yeye atamzaa **mwana wa kiume**. Jina lake **Yesu ** (Maana yake, '**Yahweh huokoa**'), kwa sababu ataokoa watu kutoka kwa **dhambi ** zao."
 ===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/angel|angel]]**
-  * **[[:sw:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:sw:obs:notes:key-terms/mary|Mary]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:sw:obs:notes:key-terms/son|son]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/yahweh|Yahweh]]**
-  * **[[:sw:obs:notes:key-terms/save|saves]]**
-  * **[[:sw:obs:notes:key-terms/sin|sins]]**
-
-
+  * **[[:sw:obs:notes:key-terms:angel|angel]]**
+  * **[[:sw:obs:notes:key-terms:joseph-nt|Joseph]]**
+  * **[[:sw:obs:notes:key-terms:mary|Mary]]**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
+  * **[[:sw:obs:notes:key-terms:son|son]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:sw:obs:notes:key-terms:yahweh|Yahweh]]**
+  * **[[:sw:obs:notes:key-terms:save|saves]]**
+  * **[[:sw:obs:notes:key-terms:sin|sins]]**
 ===== Translation Notes: =====
 
-  * **do not be afraid to take Mary as your wife** - This can also be translated as, "Stop thinking that you shouldn't marry Mary" or, "Do not hesitate to have Mary as your wife."
-  * **is from the Holy Spirit** - That is, "was conceived by a miracle of the Holy Spirit."
-
-
+  * **do not be afraid to take Mary as your wife**  - This can also be translated as, "Stop thinking that you shouldn't marry Mary" or, "Do not hesitate to have Mary as your wife."
+  * **is from the Holy Spirit**  - That is, "was conceived by a miracle of the Holy Spirit."
 **[[:sw:obs:notes:frames:23-01|<<]] | [[:sw:obs:notes:23|Up]] | [[:sw:obs:notes:frames:23-03|>>]]**
