@@ -1,25 +1,25 @@
-===== Mary Was Pregnant [23-01] =====
+===== Mary Was Pregnant [23-01] - Mariamu Alikuwa na Mimba =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink&}}
 
-**Mary** was engaged to a **righteous** man named **Joseph**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **angel** came and spoke to him **in a dream**.
-===== Important Terms: =====
+**Mary** was engaged to a **righteous** man named **Joseph**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **angel** came and spoke to him **in a dream**. **Mariamu ** alikuwa ameposwa na mwanume **mwenye haki** aliyeitwa **Yusufu**.  Wakati aliposikia yakuwa Mariamu alikuwa na mimba, **alijua kwamba hakuwa mtoto wake**. Hakutaka **kuaibisha Mariamu**, kwa hivyo** alipanga kumtaliki yeye kisiri**.  Kabla ya kufanya hivyo, **Malaika ** alimjia na kunena naye **kwa ndoto**.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:mary|Mary(Mariamu)]]**
+  * **[[:sw:obs:notes:key-terms:righteous|righteous(mwenye haki)]]**
+  * **[[:sw:obs:notes:key-terms:joseph-nt|Joseph(Yusufu)]]**
+  * **[[:sw:obs:notes:key-terms:angel|angel(Malaika)]]**
+  * **[[:sw:obs:notes:key-terms:dream|dream(ndoto)]]**
+===== Translation Notes: Maelezo ya Tafsiri =====
 
-  * **[[:sw:obs:notes:key-terms/mary|Mary]]**
-  * **[[:sw:obs:notes:key-terms/righteous|righteous]]**
-  * **[[:sw:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:sw:obs:notes:key-terms/angel|angel]]**
-  * **[[:sw:obs:notes:key-terms/dream|dream]]**
-
-
-===== Translation Notes: =====
-
-  * **he knew it was not his baby** - That is, "he knew that he was not the one who had caused her to be pregnant."
-  * **to shame Mary** - That is, "to cause Mary to be publicly disgraced" or "to embarrass Mary publicly." Joseph was merciful to Mary, even though it seemed like she was an adulterer.
-  * **he planned to quietly divorce her** - This could also be translated as, "He planned to divorce her without telling others why," or, "He planned to divorce her without telling others about her pregnancy." Because Joseph was righteous, he wanted to resolve the situation in the best way possible, which in this culture would be to divorce her quietly.
-  * **divorce her** - For some languages it may be better to say, "break their engagement." Joseph and Mary were engaged or, "pledged to be married." But in Jewish culture a divorce was required in order to break off an engagement.
-  * **in a dream** - That is, "while he was asleep and dreaming."
-
-
+  * **he knew it was not his baby**  - That is, "he knew that he was not the one who had caused her to be pregnant."
+  * **Alijua mtoto hakuwa wake**  - Hii ni, "alijua kwamba sio yeye aliyemtia  mimba."
+  * **to shame Mary**  - That is, "to cause Mary to be publicly disgraced" or "to embarrass Mary publicly." Joseph was merciful to Mary, even though it seemed like she was an adulterer.
+  * **Kuaibisha Mariamu**  - Hio ni, " kusababisha Mariamu kuaibishwa hadharani" ama, "kumuonyesha Mariamu aibu hadharani." Yosefu alikuwa na huruma kwa Mariamu, ata kama ilionekana ni  kama alikuwa mzinifu."
+  * **he planned to quietly divorce her**  - This could also be translated as, "He planned to divorce her without telling others why," or, "He planned to divorce her without telling others about her pregnancy." Because Joseph was righteous, he wanted to resolve the situation in the best way possible, which in this culture would be to divorce her quietly.
+  * **alipanga kumtaliki kisiri**  - Hii inaweza kutafsiriwa kama, "Alipanga kumtaliki bila kuambia wengine kwa nini," ama, "Alipanga kumtaliki bila kuambia wengine kuhusu mimba yake." Kwa sababu Yosefu alikuwa mwenye haki, alitaka kusuruhisha hali hiyo kwa njia bora zaidi iwezekanavyo, ambayo katika tamaduni hii ilikuwa kumtaliki kisiri.
+  * **divorce her**  - For some languages it may be better to say, "break their engagement." Joseph and Mary were engaged or, "pledged to be married." But in Jewish culture a divorce was required in order to break off an engagement.
+  * **Kumtaliki yeye**  - Kwa lugha zingine inaweza kuwa bora kusema, "kuvuja uchumba wao." Yusufu na Mariamu walikuwa wamepoozana ama "Kuahidiana kuoana." Lakini katija tamaduni za Kiyahudi talaka ilihitanjika ili kivunja uchumba.
+  * **in a dream**  - That is, "while he was asleep and dreaming."
+  * **Katika ndoto**  - Hio ni, "alipokuwa amelala na kuota."
 **[[:sw:obs:notes:frames:22-07|<<]] | [[:sw:obs:notes:23|Up]] | [[:sw:obs:notes:frames:23-02|>>]]**
