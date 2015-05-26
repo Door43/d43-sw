@@ -1,24 +1,19 @@
-===== At the Perfect Time [21-15] =====
+===== At the Perfect Time [21-15] Katika Wakati Uliokamilika =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-15.jpg?nolink&}}
 
 **God** revealed to the **prophets** many things about the **Messiah**, but the Messiah did not come during the time of any of those prophets. More than 400 years after the last of these prophecies was given, at exactly the right time, God would send the Messiah **into the world**.
 
-//A Bible story from: Genesis 3:15; 12:1-3; Deuteronomy 18:15; 2 Samuel 7; Jeremiah 31; Isaiah 59:16; Daniel 7; Malachi 4:5; Isaiah 7:14; Micah 5:2; Isaiah 9:1-7; 35:3-5; 61; 53; Psalm 22:18; 35:19; 69:4; 41:9; Zechariah 11:12-13; Isaiah 50:6; Psalm 16:10-11//
-===== Important Terms: =====
+**Mungu** alifunua kwa **Manabii** mambo mengi kuhusu **Masihi**, lakini Masihi hakuja wakati wa yeyote wa hawa manabii. Zaidi ya miaka 400 baada ya unabii wa mwisho kati hizi unabii zote kutolewa, katika wakati muafaka, Mungu atumtuma Masihi aje **katika ulimwengu**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah]]**
-
-
-==== Translation Notes: ====
-
-
-  * **into the world** - This could be translated as, "to the people of the world." The Messiah would be sent not only to the Jews, but to all people.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **into the world**  - This could be translated as, "to the people of the world." The Messiah would be sent not only to the Jews, but to all people.
+  * **katika ulimwengu**  - Hii inaweza kutafsiriwa kama, "kwa watu wa ulimwengu." Masihi angetumwa si kwa Wayahudi peke yao, lakini kwa watu wote.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * //Hadithi ya Biblia Kutoka//  - Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:21-14|<<]] | [[:sw:obs:notes:21|Up]] | [[:sw:obs:notes:frames:22-01|>>]]**
