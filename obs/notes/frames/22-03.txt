@@ -1,20 +1,18 @@
-===== Unable to Speak [22-03] =====
+===== Unable to Speak [22-03] Kushindwa na Kuongea =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink&}}
 
 The **angel** responded to Zechariah, “I was sent by **God** to bring you this good news. Because you did not **believe** me, you will not be able to speak until the child is born.” Immediately, **Zechariah** was unable to speak. Then the angel left Zechariah. After this, Zechariah returned home and his wife **became pregnant**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/angel|angel]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/believe|believe]]**
-  * **[[:sw:obs:notes:key-terms/zechariah-nt|Zechariah]]**
+**Malaika** akamjibu Zakaria, "nilitumwa na **Mungu** nikuletee hii habari njema. Kwa sababu **hukuniamini**, hutaweza kunena mpaka huo mtoto azaliwe." Mara moja, **Zakaria** akashindwa na kunena. Kisha malaika akamuacha Zakaria. Baada ya hii, Zakaria akarudi nyumbani na mke wake **akawa mjamzito**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
+  * **[[:sw:obs:notes:key-terms:zechariah-nt|Zechariah (Zakaria)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **became pregnant** - Some languages have polite ways of saying "become pregnant." Use an expression that will not be embarrassing to readers.
-
-
+  * **became pregnant**  - Some languages have polite ways of saying "become pregnant." Use an expression that will not be embarrassing to readers.
+  * **akawa mja mzito**  - Lugha zingine ziko na njia ya adabu ya kusema "akawa mja mzito." Tumia msemo ambao hautaleta aibu kwa wanaosoma.
 **[[:sw:obs:notes:frames:22-02|<<]] | [[:sw:obs:notes:22|Up]] | [[:sw:obs:notes:frames:22-04|>>]]**
