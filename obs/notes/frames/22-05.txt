@@ -1,26 +1,25 @@
-===== The Mother of the Messiah [22-05] =====
+===== The Mother of the Messiah [22-05] Mama wa Masihi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?nolink&}}
 
 **Mary** replied, “How can this be, since I am a **virgin**?” The **angel** explained, “The **Holy Spirit** will **come to you**, **and the power of God will overshadow you**. So the baby will be **holy**, the **Son of God**.” Mary **believed** and accepted what the angel said.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/mary|Mary]]**
-  * **[[:sw:obs:notes:key-terms/virgin|virgin]]**
-  * **[[:sw:obs:notes:key-terms/angel|angel]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:sw:obs:notes:key-terms/power|power]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/holy|holy]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:sw:obs:notes:key-terms/believe|believed]]**
+**Mariamu** akajibu, "Hii atwezekana aje, kuona mimi ni **bikira**?" **Malaika** akaeleza, "**Roho Mtakatifu** **atakuja juu yako**, **na nguvu za Mungu zitakufunika**. Kwa hivyo mtoto atakuwa **mtakatifu**, **Mwana wa Mungu.**" Mariamu **aliamini** na akakubali kile malaika alisema.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:mary|Mary (Mariamu)]]**
+  * **[[:sw:obs:notes:key-terms:virgin|virgin (bikira)]]**
+  * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
+  * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:holy|holy (mtakatifu)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believed (aliamini)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **How can this be** - That is, "How can I become pregnant?" Mary was not doubting the truth of the angel's words, but asking how it would happen.
-  * **Holy Spirit will come to you, and the power of God will overshadow you** - These are two ways of saying the same thing: "By the power of God, the Holy Spirit will miraculously cause you to become pregnant." Make sure the translation of this sentence does not sound like there was any physical contact involved. This was a miracle.
-
-
+  * **How can this be**  - That is, "How can I become pregnant?" Mary was not doubting the truth of the angel's words, but asking how it would happen.
+  * **Hii itawezekana aje**  - Hiyo ni, "Nitakua aje mja mzito?" Mariamu hakuwa na mashaka na ukweli wa maneno ya malaika, lakini alikuwa anauliza vile lile jambo litafanyika.
+  * **Holy Spirit will come to you, and the power of God will overshadow you**  - These are two ways of saying the same thing: "By the power of God, the Holy Spirit will miraculously cause you to become pregnant." Make sure the translation of this sentence does not sound like there was any physical contact involved. This was a miracle.
+  * **Roho Mtakatifu atakuja kwako, na nguvu za Mungu zitakufunika**  - Hizi ni njia mbili za kusema jambo moja: "Kupitia kwa nguvu za Mungu, Roho Mtakatifu atakufanya uwe mja mzito kimuujiza." Hakikisha tafsiri ya hii sentensi haiongei kama kuwa kulikuwa na uhusiano wa kuwasiliana kimwili. Hii ilikuwa muujiza.
 **[[:sw:obs:notes:frames:22-04|<<]] | [[:sw:obs:notes:22|Up]] | [[:sw:obs:notes:frames:22-06|>>]]**
