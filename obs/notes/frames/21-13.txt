@@ -1,30 +1,28 @@
-===== The Messiah Will Bring Peace [21-13] =====
+===== The Messiah Will Bring Peace [21-13] Masihi Ataleta Amani =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-13.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-13.jpg?nolink&}}
 
 The **prophets** also said that the **Messiah** would be perfect, **having no sin**. He would **die** to **receive the punishment for other people’s sin**. His punishment would bring **peace** between **God** and people. For this reason, **it was God's will to crush the Messiah**.
-===== Important Terms: =====
 
+**Manabii** pia walisema kwamba **Masihi** atakuwa mkamilifu, **bila dhambi**. **Atakufa** ili **apokee adhabu kwa sababu ya dhambi za watu wengine**. Adhabu yake italeta **amani** kati ya **Mungu** na watu. Kwa sababu hii, **ilikuwa mapenzi ya Mungu kumponda Masihi**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms:sin|sin]]**
-  * **[[:sw:obs:notes:key-terms:death|die]]**
-  * **[[:sw:obs:notes:key-terms:receive|receive]]**
-  * **[[:sw:obs:notes:key-terms:punish|punishment]]**
-  * **[[:sw:obs:notes:key-terms:peace|peace]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:death|die (afe)]]**
+  * **[[:sw:obs:notes:key-terms:receive|receive (pokea)]]**
+  * **[[:sw:obs:notes:key-terms:punish|punishment (adhabu)]]**
+  * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **having no sin** - This can also be translated as "he never sinned."
-  * **receive the punishment for other people's sin** - That is, "to take on himself the punishment that other people deserved" or, "to be punished in the place of other people."
-  * **it was God's will** - That is, "it fulfilled God's purpose." This phrase means that the Messiah's death was exactly what God had planned to happen in order that his sacrifice would pay for the sins of the people.
-  * **to crush** - That is, "to damage completely," "to kill" or, "to completely destroy."
-
-
+  * **having no sin**  - This can also be translated as "he never sinned."
+  * **bila dhambi**  - Hii inaweza pia kutafsiriwa kama "hakutenda dhambi.:
+  * **receive the punishment for other people's sin**  - That is, "to take on himself the punishment that other people deserved" or, "to be punished in the place of other people."
+  * **pokea adhabu kwa sababu ya dhambi za watu wengine**  - Hiyo ni, "achukue juu yake mwenyewe walichostahili watu wengine" ama, "aadhibiwe kwa niaba ya watu wengine."
+  * **it was God's will**  - That is, "it fulfilled God's purpose." This phrase means that the Messiah's death was exactly what God had planned to happen in order that his sacrifice would pay for the sins of the people.
+  * **ilikuwa mapenzi ya Mungu**  - Hiyo ni, "ilitimiza kusudi la Mungu." Hii msemo inamaanisha kuwa kifo cha Masihi ni kulingana na alichopanga kifanyike Mungu ili dhabihu yake ikalipe gharama ya dhambi za watu."
+  * **to crush**  - That is, "to damage completely," "to kill" or, "to completely destroy."
+  * **kuponda**  - Hii ni, "kudhuru kabisa," "kuua" ama "kuharibu kabisa."
 **[[:sw:obs:notes:frames:21-12|<<]] | [[:sw:obs:notes:21|Up]] | [[:sw:obs:notes:frames:21-14|>>]]**
