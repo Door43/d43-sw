@@ -2,12 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink&}}
 
-So **Joseph** married **Mary** and took her home as his wife, but **he did not sleep with her** until she had given birth. Hivyo **Yusufu** alioa **Mariamu ** na kumpeleka nyumbani kama mke, lakini **hakulala na yeye** mpaka wakati alipozaa.
-===== Important Terms: (Maneno ya Muhimu) =====
+So **Joseph** married **Mary** and took her home as his wife, but **he did not sleep with her** until she had given birth.
 
-  * **[[:sw:obs:notes:key-terms:joseph-nt|Joseph(Yosefu)]]**
-  * **[[:sw:obs:notes:key-terms:mary|Mary(Mariamu)]]**
-===== Translation Notes: Maelezo ya Tafsiri =====
+Hivyo **Yusufu** alioa **Mariamu ** na kumpeleka nyumbani kama mke wake, lakini **hakulala na yeye** mpaka wakati alijifungua.
+===== Important Terms (Maneno ya Muhimu): =====
+
+  * **[[:sw:obs:notes:key-terms:joseph-nt|Joseph (Yusufu)]]**
+  * **[[:sw:obs:notes:key-terms:mary|Mary (Mariamu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **he did not sleep with her**  - That is, "he did not have sexual relations with her." He kept her a virgin until the birth of the baby.
   * **Hakulala na ****yey**e - Hio ni, "hakuwa na uhusiano wa kimapenzi na yeye." Alimuweka akiwa bikira mpaka kuzaliwa kwa mtoto.
