@@ -1,26 +1,26 @@
-===== The Wise Men Visited Jesus [23-09] =====
+===== The Wise Men Visited Jesus [23-09] Wanaume Wenye Hekima Walimtembelea Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink&}}
 
 **Sometime later**, **wise men** from countries far to the east saw an **unusual star** in the sky. T**hey realized** it meant a new **king of the Jews** had been born. So, they traveled a great distance to see this king. They came to **Bethlehem** and found **the house** where **Jesus** and his parents were staying.
 
+**Baadaye, Wanaume wenya Hekima** kutoka nchi za mbali upande wa mashariki wakaona **nyota isiyo ya kawaida** angani. **Wakaelewa** ilinamaanisha kuwa **mfalme mpya wa Wayahudi ** amezaliwa. Kwa hivyo, walisafiri mbali sana kumuona mfalme. Walifika **Bethlehemu** na wakapata ile **nyumba** walipokuwa wanakaa **Yesu** na wazazi wake.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:wise|wise (wenye hekima)]]**
+  * **[[:sw:obs:notes:key-terms:king-of-jews|king of the Jews (mfalme wa Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:bethlehem|Bethlehem (Bethlehemu)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+===== Translation Notes (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/wise|wise]]**
-  * **[[:sw:obs:notes:key-terms/king-of-jews|king of the Jews]]**
-  * **[[:sw:obs:notes:key-terms/bethlehem|Bethlehem]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-
-
-===== Translation Notes: =====
-
-  * **Sometime later** - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
-  * **wise men** - The "wise men" were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah.
-  * **unusual star** - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
-  * **They realized** - Some languages may add, "From their studies, these scholars realized."
-  * **the house** - They were no longer staying in the place for animals where he was born.
-
-
+  * **Sometime later**  - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
+  * **Baadaye**  - Hii si wazi ilikuwa muda gani baada ya kuzaliwa kwa Yesu ili wanaume wenye hekima waone ile nyota, lakini yaweza kuwa ilichukuwa muda wa miaka kama miwili kujiadaa kwa ile safari na pia kusafiri hadi Bethlehemu.
+  * **wise men**  - The "wise men" were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah.
+  * **Wanaume wenye hekima**  - "Wanaume wenye hekima" yawezekana walikuwa wasomi waliyo na ujuzi kwa mambo ya nyota. Yawezekana walikuwa wamepata Agano la Kale na maandiko yake iliyo tabiri kuzaliwa kwa Masihi.
+  * **unusual star**  - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
+  * **nyota isiyo ya kawaida **- Nyota ambayo waliiona haikuwa ya kawainda. Ilikuwa kitu ambacho kilionekana wakati wa kuzaliwa kwa Yesu.
+  * **They realized**  - Some languages may add, "From their studies, these scholars realized."
+  * **Walielewa**  - Lugha zingine zinaweza ongeza, "kutoka kwa masomo yao, hawa wasomi waligundua."
+  * **the house**  - They were no longer staying in the place for animals where he was born.
+  * **Nyumba**  - Hawakuwa wanakaa tena pahali pa mifugo alipozaliwa.
 **[[:sw:obs:notes:frames:23-08|<<]] | [[:sw:obs:notes:23|Up]] | [[:sw:obs:notes:frames:23-10|>>]]**
