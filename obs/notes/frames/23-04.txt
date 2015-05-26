@@ -1,24 +1,23 @@
-===== The Trip to Bethlehem [23-04] =====
+===== The Trip to Bethlehem [23-04] - Safari ya Bethlehemu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&}}
 
+**When the time was near for Mary to give birth**, the **Roman government** told everyone to go **for a census** to the town where their ancestors had lived. **Joseph** and Mary had to make a long journey from where they lived in **Nazareth** to **Bethlehem** because their ancestor was **David** whose hometown was Bethlehem. **Wakati ulipokaribia wa mariamu kujifugua**, **serikali ya Kirumi** iliambia kila mtu aende **kwa ajili tukio la kuhesabiwa** kwa mji ule babu zao waliishi. Yusufu na Mariamu walikuwa wafanye safari ndefu kutoka kule waliishi huko Nazarethi hadi Bethlehemu kwa sababu babu wao alikuwa **Daudi ** ambaye mji wake wa nyumbani ulikuwa Bethlehemu.
+===== Important Terms:(Maneno ya Muhimu) =====
 
-**When the time was near for Mary to give birth**, the **Roman government** told everyone to go **for a census** to the town where their ancestors had lived. **Joseph** and Mary had to make a long journey from where they lived in **Nazareth** to **Bethlehem** because their ancestor was **David** whose hometown was Bethlehem.
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:mary|Mary(Mariamu)]]**
+  * **[[:sw:obs:notes:key-terms:rome|Roman(Kirumi)]]**
+  * **[[:sw:obs:notes:key-terms:joseph-nt|Joseph(Yusufu)]]**
+  * **[[:sw:obs:notes:key-terms:nazareth|Nazareth(Nazarethi)]]**
+  * **[[:sw:obs:notes:key-terms:bethlehem|Bethlehem(Bethlehemu)]]**
+  * **[[:sw:obs:notes:key-terms:david|David(Daudi)]]**
+===== Translation Notes:Maelezo ya Tafsiri =====
 
-  * **[[:sw:obs:notes:key-terms/mary|Mary]]**
-  * **[[:sw:obs:notes:key-terms/rome|Roman]]**
-  * **[[:sw:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:sw:obs:notes:key-terms/nazareth|Nazareth]]**
-  * **[[:sw:obs:notes:key-terms/bethlehem|Bethlehem]]**
-  * **[[:sw:obs:notes:key-terms/david|David]]**
-
-
-===== Translation Notes: =====
-
-  * **When the time was near for Mary to give birth** - That is, "When it was near the end of Mary's pregnancy."
-  * **Roman government** - Rome had conquered and ruled over Israel at this time.
-  * **for a census** - That is, "to be counted for the government record" or, "so that the government could write their names on a list" or, "to be counted by the government." This census was probably made for the purpose of taxing the people.
-
+  * **When the time was near for Mary to give birth**  - That is, "When it was near the end of Mary's pregnancy."
+  * Wakati ulipokaribia wa Mariamu Kujifungua - Hio ni, " wakati ulipokaribia mwisho wa uja uzito wa Mariamu."
+  * **Roman government**  - Rome had conquered and ruled over Israel at this time.
+  * **serikari ya Kirumi **- Roma ilikuwa imeshinda na kutawala juu ya Israeli wakati huu.
+  * **for a census**  - That is, "to be counted for the government record" or, "so that the government could write their names on a list" or, "to be counted by the government." This census was probably made for the purpose of taxing the people.
+  * Kwa tukio la kuhesabiwa - Hio ni, "kuhesabiwa kwa ajili ya rekodi ya serikali" ama, "ndiposa serikali iandike majina yao kwa orodha" ama kuhesabiwa na serikali." Hii tukio la kuhesabiwa labda ilifanywa kwa madhumuni ya kulipisha watu kodi.
 
 **[[:sw:obs:notes:frames:23-03|<<]] | [[:sw:obs:notes:23|Up]] | [[:sw:obs:notes:frames:23-05|>>]]**
