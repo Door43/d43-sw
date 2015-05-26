@@ -1,26 +1,31 @@
-===== The Angels Praised God [23-07] =====
+===== The Angels Praised God [23-07] Malaika Walisifu Mungu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?nolink&}}
 
 “Go search for the baby, and you will find him **wrapped in pieces of cloth** and lying in a feeding trough.” Suddenly, the skies were **filled with angels** praising God, saying, “**Glory to God** in **heaven** and **peace on earth** to **the people he favors**!”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/angel|angels]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/glory|Glory]]**
-  * **[[:sw:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:sw:obs:notes:key-terms/peace|peace]]**
+"Endeni mkatafute yule mtoto, na mtampata **amefungwa na manguo** na amelazwa horini." Ghafla, anga **ikajaa malaika** wanaosifu Mungu, wakisema, "**Utukufu kwa Mungu** kule **binguni** na **amani duniani ** kwa **watu anliyewapa kibali!**"
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:angel|angels (malaika)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:glory|Glory (Utukufu)]]**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven (bingu)]]**
+  * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (The angel continued speaking.)
-  * **wrapped in pieces of cloth** - The custom of that time was to tightly wrap newborn babies in long strips of cloth. It may be necessary to say, "wrapped in long strips of cloth, in the customary way."
-  * **feeding trough** - That is, "animal feeding box." Also see how you translated this in **[[:sw:obs:notes:frames:23-05|[23-05]]]**.
-  * **filled with angels** - This means that there were so many angels that they seemed to fill the sky.
-  * **Glory to God** - This can also be translated as, "Let us all give glory to God!" or, "Our God deserves all glory and honor!" or, "We all give glory to God!"
-  * **peace on earth** - Another way to say this would be, "may there be peace on earth."
-  * **the people he favors** - This might be translated as, "people that God looks upon with favor, delight, or good will."
-
-
+  * (Malaika aliendelea na kunena.)
+  * **wrapped in pieces of cloth**  - The custom of that time was to tightly wrap newborn babies in long strips of cloth. It may be necessary to say, "wrapped in long strips of cloth, in the customary way."
+  * **amefungwa na manguo**  - Desturi ya nyakati zile ilikuwa kufunga vizuri mtoto aliyezaliwa na vipande virefu vya manguo. Inaweza kuwa ya muhimu kusema, "amefungwa na vipande virefu vya nguo, kama ilivyo kuwa desturi."
+  * **feeding trough**  - That is, "animal feeding box." Also see how you translated this in **[[:sw:obs:notes:frames:23-05|[23-05]]]**.
+  * **hori **- Hiyo ni, "saduku la kuweka chakula ya mifugo." Pia ona vile ulivyotafsiri hii pale **[23-05]**.
+  * **filled with angels**  - This means that there were so many angels that they seemed to fill the sky.
+  * **ilijaa malaika**  - Hii inamaanisha kwamba kulikuwa na malaika wengi kiasi kuwa walionekana kama wamejaa kwa anga.
+  * **Glory to God**  - This can also be translated as, "Let us all give glory to God!" or, "Our God deserves all glory and honor!" or, "We all give glory to God!"
+  * **Utukufu kwa Mungu**  - Hii inaweza kutafsiriwa kama, "Wote na tumpe Mungu utukufu!" ama, "Mungu wetu anastahili utukufu na heshima!" ama, "Wote tunampa Mungu utukufu!"
+  * **peace on earth**  - Another way to say this would be, "may there be peace on earth."
+  * **amani duniani **- Njia ingine ya kusema hii inaweza kuwa, "na kuwe amani duniani."
+  * **the people he favors**  - This might be translated as, "people that God looks upon with favor, delight, or good will."
+  * **watu anayewapa kibali **- Hii inaweza kutafsiriwa kama, "watu ambao Mungu anawatazama kwa kibali, furaha, ama nia njema."
 **[[:sw:obs:notes:frames:23-06|<<]] | [[:sw:obs:notes:23|Up]] | [[:sw:obs:notes:frames:23-08|>>]]**
