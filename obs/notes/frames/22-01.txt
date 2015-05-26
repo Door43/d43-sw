@@ -1,23 +1,25 @@
-===== God Spoke to Zechariah [22-01] =====
+===== God Spoke to Zechariah [22-01] Mungu Alinena na Zakaria =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink&}}
 
 In the past, **God** had spoken to **his people** through his **angels** and **prophets**. But then **400 years went by when he did not speak to them**. Suddenly an angel came with a message from God to an old **priest** named **Zechariah**. Zechariah and his wife, Elizabeth, were **godly people**, but she had not been able to have any children.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/angel|angels]]**
-  * **[[:sw:obs:notes:key-terms/prophet|prophets]]**
-  * **[[:sw:obs:notes:key-terms/priest|priest]]**
-  * **[[:sw:obs:notes:key-terms/zechariah-nt|Zechariah]]**
+Katika siku zilizopita, **Mungu** alinena na **watu wake** kupitia kwa **malaika** na **manabii**. Lakini sasa **miaka 400 ikapita bila yeye kuongea nao**. Ghafla malaika akaja na ujumbe kutoka kwa Mungu kwa **kuhani aliyezeeka** anayeitwa **Zakaria**. Zakaria na mke wake, Elisabeta, walikuwa wacha Mungu, lakini hakuwa ameweza kupata mtoto yeyote.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:angel|angels (malaika)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+  * **[[:sw:obs:notes:key-terms:priest|priest (kuhani)]]**
+  * **[[:sw:obs:notes:key-terms:zechariah-nt|Zechariah (Zakaria)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **his people** - This could be translated as, "his people, the Israelites" or "his people, the Jews." But only include the added information if it is not clearly understood who these people were.
-  * **400 years went by** - Another way to say this would be, "400 years passed" or "there were 400 years." 400 years had passed since the last Old Testament prophet, Malachi.
-  * **when he did not speak to them** - That is, "during which God did not give any messages to the prophets for his people."
-  * **godly people** - That is, "people who obeyed God."
-
-
+  * **his people**  - This could be translated as, "his people, the Israelites" or "his people, the Jews." But only include the added information if it is not clearly understood who these people were.
+  * **watu wake**  - Hii inaweza kutafsiriwa kama, "watu wake, Waisraeli" ama "watu wake, Wayahudi." Lakini ongezea habari zaidi kama haieleweki vizuri hawa watu walikuwa akina nani."
+  * **400 years went by**  - Another way to say this would be, "400 years passed" or "there were 400 years." 400 years had passed since the last Old Testament prophet, Malachi.
+  * **Miaka 400 ilipita**  - Njia ingine ya kusema hii inaweza kuwa, "miaka 400 ilipita" ama, "kulikuwa na miaka 400." Miaka 400 ilikuwa imepita kutoka wakati wa nabii wa mwishi wa Agano la Kale, Malaki.
+  * **when he did not speak to them**  - That is, "during which God did not give any messages to the prophets for his people."
+  * **wakati hakunena nao**  - Hiyo ni, "wakati ambao Mungu hakuleta ujumbe wowote kwa manabii kwa niaba ya watu wake.
+  * **godly people**  - That is, "people who obeyed God."
+  * **watu wacha Mungu**  - Hiyo ni, "watu ambao walimtii Mungu."
 **[[:sw:obs:notes:frames:21-15|<<]] | [[:sw:obs:notes:22|Up]] | [[:sw:obs:notes:frames:22-02|>>]]**
