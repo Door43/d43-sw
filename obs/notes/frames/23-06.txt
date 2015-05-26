@@ -1,26 +1,25 @@
-===== The Angel and the Shepherds [23-06] =====
+===== The Angel and the Shepherds [23-06] Malaika na Wachungaji =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink&}}
 
 That night, there were some **shepherds** in a nearby field **guarding their flocks**. Suddenly, **a shining angel** appeared to them, and **they were terrified**. The angel said, “**Do not be afraid**, because I have some good news for you. The **Messiah**, the **Master**, has been born in **Bethlehem**!”
 
+Usiku huo, kulikuwa na **wachungaji** fulani katika shamba iliyo karibu **wanalinda mifugo yao**. Ghafla, **malaika alieangaza** akawatokea, na **wakawa na hofu**. Malaika akasema, "**Msiogope**, kwa sababu niko na habari njema kwenu. **Masihi**, yule **Bwana**, amezaliwa **Bethlehemu**!"
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:shepherd|shepherds (wachungaji)]]**
+  * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
+  * **[[:sw:obs:notes:key-terms:bethlehem|Bethlehem (Bethlehemu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-  * **[[:sw:obs:notes:key-terms/shepherd|shepherds]]**
-  * **[[:sw:obs:notes:key-terms/angel|angel]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/lord|Master]]**
-  * **[[:sw:obs:notes:key-terms/bethlehem|Bethlehem]]**
-
-
-===== Translation Notes: =====
-
-  * **guarding their flocks** - A "flock" is a group of sheep. The shepherds were caring for their sheep, and protecting them from harm or theft.
-  * **a shining angel** - This could also be translated as, "an angel surrounded by a bright light." The shining light would have seemed even brighter in contrast to the darkness of the night.
-  * **they were terrified** - The appearance of the supernatural angel was extremely frightening.
-  * **Do not be afraid** - This often means, "stop being afraid." The shepherds were very afraid when they saw the angel so he was telling them they did not need to be afraid.
-
-
+  * **guarding their flocks**  - A "flock" is a group of sheep. The shepherds were caring for their sheep, and protecting them from harm or theft.
+  * **wanalinda mifugo yao**  - Hii "Mifugo" ilikuwa kundi la kondoo. Wachungaji walikuwa wanalisha kondoo, na kuwalinda kutoka kwa madhara ama uizi.
+  * **a shining angel**  - This could also be translated as, "an angel surrounded by a bright light." The shining light would have seemed even brighter in contrast to the darkness of the night.
+  * **malaika alieangaza**  - Hii inaweza kutafsiriwa kama, "malaika aliezungukwa na mwanga mkali." Mwanga ulioangaza ingeonekana inang'aa hata zaidi kiunyume na ngiza iliyikuweko usiku.
+  * **they were terrified**  - The appearance of the supernatural angel was extremely frightening.
+  * **wakawa na hofu**  - Kuonekana kwa malaika kimuujiza ilileta hofu kubwa.
+  * **Do not be afraid**  - This often means, "stop being afraid." The shepherds were very afraid when they saw the angel so he was telling them they did not need to be afraid.
+  * **Msiogope**  - Hii kwa kawaida humaanisha, "wacha kuwa na uoga." Wachungaji waliogopa sana wakati waliona malaika kwa hivyo alikuwa anawaambia hawakuwa na haja kuogopa.
 **[[:sw:obs:notes:frames:23-05|<<]] | [[:sw:obs:notes:23|Up]] | [[:sw:obs:notes:frames:23-07|>>]]**
