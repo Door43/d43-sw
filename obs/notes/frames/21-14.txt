@@ -1,29 +1,27 @@
-===== Resurrection of the Messiah [21-14] =====
+===== Resurrection of the Messiah [21-14] Kufufuka kwa Masihi =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-14.jpg?nolink&}}
 
 The **prophets** foretold that the **Messiah** would **die** and that **God** would also **raise him from the dead**. **Through the Messiah’s death and resurrection**, **God would** accomplish his plan to **save sinners** and **start the New Covenant**.
-===== Important Terms: =====
 
+**Manabii** walitabiri kuwa **Masihi** **atakufa** na kuwa **Mungu** **atamfufua kutoka kwa wafu**. Kupitia kwa kifo na kufufuka kwa Masihi, **Mungu atatimiza** mpango wake wa **kuokoa wenye dhambi** na **kuanzisha Agano Jipya. **
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:sw:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms:death|die]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:raise|raise]]**
-  * **[[:sw:obs:notes:key-terms:resurrection|resurrection]]**
-  * **[[:sw:obs:notes:key-terms:save|save]]**
-  * **[[:sw:obs:notes:key-terms:sin|sinners]]**
-  * **[[:sw:obs:notes:key-terms:covenant-new|New Covenant]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:death|die (kufa)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:raise|raise (kuinua)]]**
+  * **[[:sw:obs:notes:key-terms:resurrection|resurrection (kufufuka)]]**
+  * **[[:sw:obs:notes:key-terms:save|save (okoa)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinners (wenye dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:covenant-new|New Covenant (Agano Jipya)]]**
+==== Translation Notes (Maelezo ya Tafsiri): ====
 
-
-==== Translation Notes: ====
-
-
-  * **raise him from the dead** - That is, "cause him to be alive again."
-  * **Through the Messiah's death and resurrection, God would** - This could also be translated as, "God would use the Messiah's death and resurrection to" or "The Messiah's death and resurrection would be the way that God would."
-  * **start the New Covenant** – That is, "put the New Covenant into effect."
-
-
+  * **raise him from the dead**  - That is, "cause him to be alive again."
+  * **amufufue kutoka kwa wafu**  - Hiyo ni, "amfanye awe hai tena."
+  * **Through the Messiah's death and resurrection, God would**  - This could also be translated as, "God would use the Messiah's death and resurrection to" or "The Messiah's death and resurrection would be the way that God would."
+  * **Kupitia kwa kifo na kufufuka kwa Masihi, Mungu atatenda**  - Hii inaweza kutafsiriwa kama, "Mungu atatumia kifo na kufufuka kwa Masihi kutimiza" ama, "Kifo na kufufuka kwa Masihi itakuwa njia ambayo Mungu atatumia."
+  * **start the New Covenant**  – That is, "put the New Covenant into effect."
+  * **anzisha Agano Jipya**  - Hiyo ni, "kuitekeleza Agano Jipya."
 **[[:sw:obs:notes:frames:21-13|<<]] | [[:sw:obs:notes:21|Up]] | [[:sw:obs:notes:frames:21-15|>>]]**
