@@ -1,9 +1,11 @@
-===== The Birth of John [22-07] =====
+===== The Birth of John [22-07] Kuzaliwa kwa Yohana =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?nolink&}}
 
 After **Elizabeth** gave birth to her baby boy, **Zechariah** and Elizabeth named the baby **John**, as the **angel** had commanded. Then **God** allowed **Zechariah** to speak again. Zechariah said, “**Praise God**, because he has remembered his people! You, my son, **will be called the prophet** of the **Most High God** who will tell the people how they can receive **forgiveness** for their **sins**!”
+
+Baada ya **Elisabeti** kujifungua mtoto wa kiume, **Zakaria** na Elisabeti wakamuita yule mtoto **Yohana**, kama vile **malaika** walikuwa wameamuru. Kisha Mungu akaruhusu **Zakaria** kunena tena. Zakaria akasema, "**Sifu Mungu**, kwa sababu amekumbuka watu wake! Wewe, mwanangu, **utaitwa** nabii wa **Mungu aliye juu zaidi** ambaye ataambia watu jinsi ya kupokea **msamaha** wa dhambi zao!"
+
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:zechariah-nt|Zechariah (Zakaria)]]**
