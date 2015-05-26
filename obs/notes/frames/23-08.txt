@@ -1,21 +1,20 @@
-===== The Shepherds Visited Jesus [23-08] =====
+===== The Shepherds Visited Jesus [23-08] Wachungaji Walimtembelea Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink&}}
 
 The **shepherds** soon arrived at the place where **Jesus** was and they found him lying in a feeding trough, just as the **angel** had told them. They were very excited. **Mary** was very happy, too. The shepherds returned to the fields where their sheep were, **praising God** for **all they had heard and seen**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/shepherd|shepherds]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/angel|angel]]**
-  * **[[:sw:obs:notes:key-terms/mary|Mary]]**
-  * **[[:sw:obs:notes:key-terms/praise|praising]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
+Wale **wachungaji** kwa haraka walifika mahali **Yesu** alikuwa na wakamkuta amelazwa horini, kama vile **malaika** alikuwa amewaambia. Walijawa na msisimko. **Mariamu** pia, alifurahi sana. Wachungaji walirudi kwa shamba mahali kondoo zao zilikuwa, **wakisifu Mungu** kwa **yale yote walisikia na kuona**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:shepherd|shepherds (wachungaji)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
+  * **[[:sw:obs:notes:key-terms:mary|Mary (Mariamu)]]**
+  * **[[:sw:obs:notes:key-terms:praise|praising (kusifu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **all they had heard and seen** - That is, "for everything they had heard and seen." This included the glorious angels and their amazing message, as well as seeing the newborn Messiah himself.
-
-
+  * **all they had heard and seen**  - That is, "for everything they had heard and seen." This included the glorious angels and their amazing message, as well as seeing the newborn Messiah himself.
+  * **kile walicho sikia na kuona**  - Hiyo ni, "kwa sababu ya kila kitu walisikia na kuona." Hii ikiwa pamoja na malaika waliojaa utukufu na ujumbe wao wa ajabu, na pia kuona Masihi mwenyewe aliye kuwa tu amezaliwa.
 **[[:sw:obs:notes:frames:23-07|<<]] | [[:sw:obs:notes:23|Up]] | [[:sw:obs:notes:frames:23-09|>>]]**
