@@ -1,28 +1,29 @@
-===== An Angel Spoke to Mary [22-04] =====
+===== An Angel Spoke to Mary [22-04] Malaika alinena na Mariamu =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?nolink&}}
 
 When **Elizabeth** was **six months pregnant**, the same **angel** suddenly appeared to **Elizabeth’s relative**, whose name was **Mary**. She was a **virgin** and **was engaged** to be married to a man named **Joseph**. The angel said, “You will become pregnant and give birth to a son. You are to name him **Jesus**. He will be the **Son** of the **Most High God** and will rule forever.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/angel|angel]]**
-  * **[[:sw:obs:notes:key-terms/mary|Mary]]**
-  * **[[:sw:obs:notes:key-terms/virgin|virgin]]**
-  * **[[:sw:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son]]**
-  * **[[:sw:obs:notes:key-terms/god-father|Most High God]]**
+Wakati **Elisabeti** alikuwa **mja mzito miezi sita**, malaika yule yule ghafla akamtokea mtu wa **jamii ya Elisabeti**, anyeitwa **Mariamu**. Alikuwa **bikira** na **alikuwa amechumbiwa** ili kuolewa na mwanaume anayeitwa **Yosefu**. Malaika akasema, "utakuwa mja mzito na kumzaa mtoto wa kiume. Utamuita jina lake **Yesu**. Atakuwa **Mwana** wa **Mungu aliye juu zaidi** na atatawala milele."
+===== Important Terms (Maneno ya Muhimu): =====
 
-
+  * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
+  * **[[:sw:obs:notes:key-terms:mary|Mary (Mariamu)]]**
+  * **[[:sw:obs:notes:key-terms:virgin|virgin (bikira)]]**
+  * **[[:sw:obs:notes:key-terms:joseph-nt|Joseph (Yosefu)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son (Mwana)]]**
+  * **[[:sw:obs:notes:key-terms:god-father|Most High God (Mungu aliye juu zaidi)]]**
 ===== Translation Notes: =====
 
-  * **six months pregnant** - Either she had already been pregnant for six months or she was in the sixth month of her pregnancy.
-  * **pregnant** - Different languages have different idioms to talk about pregnancy, such as "she was with child" or, "she had one in her body" or, "she had belly." Some languages have special ways of speaking about it politely, such as "she was expecting." Use an expression that will not be embarrassing to readers.
-  * **Elizabeth** - She was Zechariah's wife. An angel told Zechariah that Elizabeth would give birth to a son.
-  * **Elizabeth's relative** - Many translations say, "cousin" here but we don't know exactly how these two women were related. A general term like, "relative," "kin" or, "cousin" could be used.
-  * **was engaged** - That is, "was promised."
-
-
+  * **six months pregnant**  - Either she had already been pregnant for six months or she was in the sixth month of her pregnancy.
+  * **mja mzito miezi sita**  - Aitha alikuwa amepitisha miezi sita akiwa mja mzito ama alikuwa katika mwezi wake wa sita akiwa mja mzito.
+  * **pregnant**  - Different languages have different idioms to talk about pregnancy, such as "she was with child" or, "she had one in her body" or, "she had belly." Some languages have special ways of speaking about it politely, such as "she was expecting." Use an expression that will not be embarrassing to readers.
+  * **mja mzito**  - Lugha tofauti ziko na nahau tofauti zakuongea kuhusu kuwa na mimba, kama hivi, "alikuwa na mtoto" ama, "alikuwa na mmoja katika mwili wake" ama, "alikuwa na tumbo." Lugha zingine zina njia ya adabu ya kuisema, kama "alikuwa anatarajia." Tumia msemo ambao hautaleta aibu kwa wanaosoma.
+  * **Elizabeth**  - She was Zechariah's wife. An angel told Zechariah that Elizabeth would give birth to a son.
+  * **Elisabeti**  - Alikuwa mke wa Zakaria. Malaika alimuambia Zakaria kuwa Elisabeti atajifungua mtoto wa kiume.
+  * **Elizabeth's relative**  - Many translations say, "cousin" here but we don't know exactly how these two women were related. A general term like, "relative," "kin" or, "cousin" could be used.
+  * **mmoja wa jamii ya Elisabeti**  - Tafsiri nyingi huwa zinasema, "binamu" hapa lakini hatujui hasa walivohusiana hawa wanawake wawili. Jina kama, "jamaa," ama "binamu" laweza tumika hapa.
+  * **was engaged**  - That is, "was promised."
+  * **alikuwa amechumbiwa **- Hiyo ni, "alikuwa ameahidiwa."
 **[[:sw:obs:notes:frames:22-03|<<]] | [[:sw:obs:notes:22|Up]] | [[:sw:obs:notes:frames:22-05|>>]]**
