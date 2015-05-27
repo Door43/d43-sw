@@ -1,21 +1,22 @@
-===== A Call to Repent [24-02] =====
+===== A Call to Repent [24-02] Mwito wa Kutubu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink&}}
 
 Many people came out to the **wilderness** to listen to **John**. He **preached** to them, saying, “**Repent**, for **the kingdom of God is near**!”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:sw:obs:notes:key-terms/preach|preached]]**
-  * **[[:sw:obs:notes:key-terms/repent|Repent]]**
-  * **[[:sw:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
+Watu wengi walikuja **nyikani ** kumukikiliza **Yohana**. **Alihubiri** kwao, akisema, "**Tumbuni**, kwa sababu **ufalme wa Mungu umekaribia**!"
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:john-baptist|John (Yohana)]]**
+  * **[[:sw:obs:notes:key-terms:preach|preached (alihubiri)]]**
+  * **[[:sw:obs:notes:key-terms:repent|Repent (Tumbuni)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom of God (ufalme wa Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **wilderness** - See how you translated this word in **[[:sw:obs:notes:frames:24-01|[24-01]]]**.
-  * **Repent** - It might be better to say, "Repent from your sins."
-  * **the kingdom of God is near** - That is, "the kingdom of God is ready to appear" or, "the kingdom of God will arrive soon." This refers to God's ruling over people. This can also be translated as, "God's reign is about to begin" or, "God will soon rule over us as king."
-
-
+  * **wilderness**  - See how you translated this word in **[[:sw:obs:notes:frames:24-01|[24-01]]]**.
+  * **nyikani**  - Ona vile ulivyotafsiri neno hili pale **[24-01]**.
+  * **Repent**  - It might be better to say, "Repent from your sins."
+  * **Tumbuni**  - Inaweza kuwa vyema zaidi kusema, "Tumbuni kutoka kwa dhambi zenu."
+  * **the kingdom of God is near**  - That is, "the kingdom of God is ready to appear" or, "the kingdom of God will arrive soon." This refers to God's ruling over people. This can also be translated as, "God's reign is about to begin" or, "God will soon rule over us as king."
+  * **ufalme wa Mungu umekaribia**  - Hiyo ni, "ufalme wa Mungu uko tayari kuonekana" ama, "ufalme wa Mungu utafika hivi karibuni." Hii inaeleza kuhusu utawala wa Mungu juu ya watu. Hii pia inaweza kutafsiriwa kama, "Utawala wa Mungu umekaribia" ama, "Mungu hivi karibuni atatawala kama mfalme."
 **[[:sw:obs:notes:frames:24-01|<<]] | [[:sw:obs:notes:24|Up]] | [[:sw:obs:notes:frames:24-03|>>]]**
