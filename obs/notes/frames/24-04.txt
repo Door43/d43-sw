@@ -1,27 +1,33 @@
-===== Preparing the Way [24-04] =====
+===== Preparing the Way [24-04] Kuandaa Njia =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&}}
 
 **John** said to the **religious leaders**, “**You poisonous snakes**! **Repent** and change your behavior. **Every tree that does not bear good fruit will be cut down and thrown into the fire**.” **John fulfilled** what the **prophets** said, “**See**, I send **my messenger ahead of you**, who will **prepare your way**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:sw:obs:notes:key-terms/repent|Repent]]**
-  * **[[:sw:obs:notes:key-terms/fulfill|fulfilled]]**
-  * **[[:sw:obs:notes:key-terms/prophet|prophets]]**
+**Yohana** akasema kwa **viongozi wa kindini**, "**Enyi nyoka wenye sumu! Tumbuni** na mbadilishe tabia zenu. **Kila mti ambao hauzai matunda mema utakatwa na kutupwa kwa moto.**" **Yohana akatimiza** kile **manabii ** walisema, "**Ona**, ninatuma **mjumbe wangu mbele yako**, ambaye **atakutengenezea njia.**"
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:john-baptist|John (Yohana)]]**
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leaders (viongozi wa kindini)]]**
+  * **[[:sw:obs:notes:key-terms:repent|Repent (Tumbu)]]**
+  * **[[:sw:obs:notes:key-terms:fulfill|fulfilled (alitimiza)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **You poisonous snakes** - This could be translated as, "You are like lying poisonous snakes!" John was calling them poisonous snakes because they were dangerous and deceptive.
-  * **Every tree that does not bear good fruit** - John is not really talking about trees. This is an expression that compares good fruit to good actions and attitudes that come from God.
-  * **will be cut down and thrown into the fire** - This means, "will be judged and punished by God."
-  * **John fulfilled** - That is, "John was doing" what the prophet said God's messenger would do.
-  * **See** - This could be translated as "Look and see" or, "Pay attention!"
-  * **my messenger** - That is, "I, Yahweh, will send my messenger." In some languages it would be more natural to use an indirect quote for this sentence, such as: "what the prophet Isaiah predicted when he said that God would send his messenger."
-  * **ahead of you** - In this phrase, the word "you" refers to the Messiah.
-  * **prepare your way** - God's messenger will prepare the people to listen to the Messiah.
-
-
+  * **You poisonous snakes**  - This could be translated as, "You are like lying poisonous snakes!" John was calling them poisonous snakes because they were dangerous and deceptive.
+  * **Enyi nyoka wenye sumu**  - Hii inaweza kutafsiriwa kama, "Nyinyi ni kama nyoka wandanganyifu na wenye sumu!" Yohana alikuwa anawaita nyoka wenye sumu kwa sababu walikuwa hatari na wandanganyifu.
+  * **Every tree that does not bear good fruit**  - John is not really talking about trees. This is an expression that compares good fruit to good actions and attitudes that come from God.
+  * **Kila mti usiozaa matunda mema**  - Yohana haongei haswa kuhusu miti. Hii ni msemo ambao unalinganisha matunda mema na matendo mazuri na mwelekeo unaotoka kwa Mungu.
+  * **will be cut down and thrown into the fire**  - This means, "will be judged and punished by God."
+  * **itakatwa na kutupwa motoni **- Hii inamaanisha, "itahukumiwa na kuadhibiwa na Mungu."
+  * **John fulfilled**  - That is, "John was doing" what the prophet said God's messenger would do.
+  * **Yohana alitimiza**  - Hiyo ni, "Yohana alikuwa anafanya" kile nabii alisema mjumbe wa Mungu atafanya.
+  * **See**  - This could be translated as "Look and see" or, "Pay attention!"
+  * **Ona**  - Hii inaweza kutafsiriwa kama, "tazama na uone" ama, "kuwa makini!"
+  * **my messenger**  - That is, "I, Yahweh, will send my messenger." In some languages it would be more natural to use an indirect quote for this sentence, such as: "what the prophet Isaiah predicted when he said that God would send his messenger."
+  * **mjumbe wangu**  - Hiyo ni, "Mimi Yehova, nitatuma mjumbe wangu. "Katika lugha zingine itakuwa ya asili zaidi kutumia msemo usiyo wa moja kwa moja kwa sentensi hii kama: "Kile nabii Isaya alitabiri aliposema kuwa Mungu atatuma mjumbe wake."
+  * **ahead of you**  - In this phrase, the word "you" refers to the Messiah.
+  * **mbele yako**  - Katika msemo huu, neno "wewe" linanena kuhusu Masihi.
+  * **prepare your way**  - God's messenger will prepare the people to listen to the Messiah.
+  * **kuandaa njia yako**  - Mjumbe wa Mungu ataandaa watu kusikiliza kwa Masihi.
 **[[:sw:obs:notes:frames:24-03|<<]] | [[:sw:obs:notes:24|Up]] | [[:sw:obs:notes:frames:24-05|>>]]**
