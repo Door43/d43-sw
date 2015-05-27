@@ -1,23 +1,25 @@
-===== John the Prophet [24-01] =====
+===== John the Prophet [24-01] Nabii Yohana =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&}}
 
 **John**, the son of **Zechariah** and Elizabeth, grew up and became a **prophet**. He lived in the **wilderness**, ate **wild honey** and **locusts**, and wore **clothes made from camel hair**.
-===== Important Terms: =====
 
+**Yohana**, mwana wa **Zakaria** na Elisabeti, alikua na akawa **nabii**. Aliishi katika **nyikani**, alikuwa anakula **asali ya mwituni ** na **nzige**, na kuvaa **mavazi yaliyotengenezwa na nywele ya ngamia**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:sw:obs:notes:key-terms/zechariah-nt|Zechariah]]**
-  * **[[:sw:obs:notes:key-terms/prophet|prophet]]**
+  * **[[:sw:obs:notes:key-terms:john-baptist|John (Yohana)]]**
+  * **[[:sw:obs:notes:key-terms:zechariah-nt|Zechariah (Zakaria)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-  * **wilderness** - That is, "the desert" or, "a remote, desert-like place." There were few people living out in this area.
-  * **wild honey** - This honey was the natural product of bees in the wilderness; it was not cultivated by people. If that is what people would understand by the word "honey," you may not need to call it "wild."
-  * **locusts** - These were large, hopping insects with wings, like very large grasshoppers. Some people who live in the desert eat them.
-  * **camel hair** - A camel is an animal that has very rough hair. People could make clothing out of it. This could be translated as "rough animal hair."
-  * **clothes made from camel hair** - That is, "coarse clothes made of camel hair." These clothes would not quickly wear out in the wilderness as other clothes would.
-
-
+  * **wilderness**  - That is, "the desert" or, "a remote, desert-like place." There were few people living out in this area.
+  * **nyikani**  - Hiyo ni, "jangwa" ama, "mashambani, mahali kuna upungufu wa watu." Kulikuwa na watu wachache wanaishi sehemu hiyo.
+  * **wild honey**  - This honey was the natural product of bees in the wilderness; it was not cultivated by people. If that is what people would understand by the word "honey," you may not need to call it "wild."
+  * **asali ya msitu**  - Hii asali ilikuwa bidhaa ya asili ya nyuki kule nyikani; haikulimwa na watu. Kama hiyo ndiyo itaeleweka na neno asali, haina haja kuongezea neno "ya msitu."
+  * **locusts**  - These were large, hopping insects with wings, like very large grasshoppers. Some people who live in the desert eat them.
+  * **nzige**  - Hizi zilikuwa wadudu, wakubwa wenye mabawa kama panzi kubwa sana. Watu wengine wanaoishi jangwani wanazikula.
+  * **camel hair**  - A camel is an animal that has very rough hair. People could make clothing out of it. This could be translated as "rough animal hair."
+  * **Nywele ya ngamia**  - Ngamia ni mnyama aliye na nywele kakamavu. Watu wanaweza kutengeneza mavazi nayo. Hii inaweza kutafsiriwa kama "nywele kakamavu ya mnyama."
+  * **clothes made from camel hair**  - That is, "coarse clothes made of camel hair." These clothes would not quickly wear out in the wilderness as other clothes would.
+  * **Mavazi zimetengenezwa na nywele ya ngamia**  - Hiyo ni, "mavazi inayokwaruza ambayo imetengenezwa na nywele ya ngamia." Hizi mavazi hazingeraruka haraka kule jangwani kama mavazi zingine.
 **[[:sw:obs:notes:frames:23-10|<<]] | [[:sw:obs:notes:24|Up]] | [[:sw:obs:notes:frames:24-02|>>]]**
