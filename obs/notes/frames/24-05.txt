@@ -1,19 +1,19 @@
-===== Not the Messiah [24-05] =====
+===== Not the Messiah [24-05] Siyo Masihi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
 Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am not the Messiah, but there is someone coming after me. **He is so great** that I am **not even worthy to untie his sandals**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jew|Jews]]**
-  * **[[:sw:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
+**Wayahudi** wengine waliuliza **Yohana** kama yeye alikuwa **Masihi**. Yohana akajibu, "Mimi si Masihi, lakini kuna mmoja atakayekuja baada yangu. **Yeye ni mkuu** **kiasi kuwa** hata **sistahili kufungua kamba za viatu vyake."**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jew|Jews (Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:john-baptist|John (Yohana)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **He is so great** - This could be translated as, "He is so important."
-  * **not even worthy to untie his sandals** - In other words, "compared to him, I am not important enough to do even the most menial task for him." Untying sandals was a very low job, something a slave would do.
-
-
+  * **He is so great**  - This could be translated as, "He is so important."
+  * **Yeye ni mkuu sana**  - Hii inaweza kutafsiriwa kama, "Yeye ni wa muhimu sana."
+  * **not even worthy to untie his sandals**  - In other words, "compared to him, I am not important enough to do even the most menial task for him." Untying sandals was a very low job, something a slave would do.
+  * **Hata sistahili kufungua kamba ya viatu vyake**  - Kwa maneno mengine, "nikilinganishwa na yeye, mimi si muhimu hata niweze kufanya kazi yake iliyo ya chini zaidi."  Kufungua kamba za viatu ilikuwa kazi ya chini, ni mtumwa angeifanya.
 **[[:sw:obs:notes:frames:24-04|<<]] | [[:sw:obs:notes:24|Up]] | [[:sw:obs:notes:frames:24-06|>>]]**
