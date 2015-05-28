@@ -1,24 +1,29 @@
-===== Worship Only God [25-07] =====
+===== Worship Only God [25-07] - Abudu Mungu Pekee =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink&}}
 
-**Jesus** replied, “**Get away from me**, **Satan**! **In God’s word he commands his people**, ‘**Worship only the Lord your God and only serve him**.’”
-===== Important Terms: =====
+**Jesus** replied, “**Get away from me**, **Satan**! **In God’s word he commands his people**, ‘**Worship only the Lord your God and only serve him**.
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/satan|Satan]]**
-  * **[[:sw:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:sw:obs:notes:key-terms/worship|Worship]]**
-  * **[[:sw:obs:notes:key-terms/lord|Lord]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
+**Yesu ** alijibu ”**enda**** mbali na mimi, Shetani! Katika neno la Mungu yeye huamuru watu wake, "Abudu pekee Bwana Mungu wenu na kumtumikia yeye pekee**."
 
+,
 
-===== Translation Notes: =====
+===== Important Terms: (Maneno ya Muhimu) =====
 
-  * **Get away from me** - This may also be translated as, "Leave me" or, "Leave me alone."
-  * **In God's word he commands his people, "Worship only the Lord your God and only serve him"** - This could be written as an indirect quote, "In God's word, he commands us that we must worship and serve only the Lord God, who rules over us."
-  * **Lord your God** - Translate this phrase the same way as you did in **[[:sw:obs:notes:frames:25-05|[25-05]]]**.
-  * **and only serve him** - Another way to say this would be, "He is the only one you should serve."
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus(Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:satan|Satan(Shetani)]]**
+  * **[[:sw:obs:notes:key-terms:word-of-god|God's word(neno la Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:worship|Worship(Abudu)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Lord(Bwana)]]**
+  * **[[:sw:obs:notes:key-terms:god|God(Mungu)]]**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-
+  * **Get away from me**  - This may also be translated as, "Leave me" or, "Leave me alone."
+  * Enda mbali na mimi - Hii pia inaweza tafsiriwa kama, "wachana na mimi" ama, wachana na mimi pekee yangu."
+  * **In God's word he commands his people, "Worship only the Lord your God and only serve him"**  - This could be written as an indirect quote, "In God's word, he commands us that we must worship and serve only the Lord God, who rules over us."
+  * **Katika neno la Mungu yeye huamurisha watu wake, "Abudu pekee Bwana Mungu wenu na kumtumikia yeye pekee.**" - Hii inaweza kuandikwa kwa nukuu isiyo ya moja kwa moja kama, "Katika neno la Mungu, yeye huamurisha sisi ya kwamba lazima tumuabudu na kutumikia Bwana Mungu pekee, ambaye hutawala juu yetu."
+  * **Lord your God**  - Translate this phrase the same way as you did in **[[:sw:obs:notes:frames:25-05|[25-05]]]**.
+  * Bwana Mungu wenu -
+  * **and only serve him**  - Another way to say this would be, "He is the only one you should serve."
+  * **na kutumikia yeye pekee**  - Njia ingine ya kusema hii inaweza kuwa, "Yeye ndiye wa pekee mnaweza kutumikia."
 **[[:sw:obs:notes:frames:25-06|<<]] | [[:sw:obs:notes:25|Up]] | [[:sw:obs:notes:frames:25-08|>>]]**
