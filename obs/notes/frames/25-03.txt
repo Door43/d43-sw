@@ -1,19 +1,19 @@
-===== God's Word Gives Life [25-03] =====
+===== God's Word Gives Life [25-03] Neno la Mungu Linatoa Uhai =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink&}}
 
 **Jesus** replied, “It is written in **God’s word**, ‘People do not only need **bread** in order to live, **but they need every word that God speaks**!’”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
+**Yesu** akajibu, "imeandikwa kwa **neno la Mungu**, 'Watu hawahitaji tu **mkate ** peke yake ili kuishi, **lakini wanahitaji kila neno ambalo Mungu ananena!'"**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **bread** - Make sure that you use the same word to translate "bread" here as you did in **[[:sw:obs:notes:frames:25-02|[25-02]]]**.
-  * **but they need every word that God speaks!** - Another way to translate this would be, "Rather, people need to listen to and obey everything God says" or, "Rather, people have real life by believing and obeying what God says."
-
-
+  * **bread**  - Make sure that you use the same word to translate "bread" here as you did in **[[:sw:obs:notes:frames:25-02|[25-02]]]**.
+  * **mkate**  - Hakikisha kuuwa utatumia neno sawa kutafsiri "mkate" hapa na lile ulitumia pale** [25-02]. **
+  * **but they need every word that God speaks!**  - Another way to translate this would be, "Rather, people need to listen to and obey everything God says" or, "Rather, people have real life by believing and obeying what God says."
+  * **lakini wanahitaji kila neno ambalo Mungu ananena**  - Njia ingine ya kutafsiri hii yaweza kuwa, "badala ya hiyo, watu wanahitaji kusikiliza na kutii kila kitu anapokisema Mungu" ama, "badale ya hiyo, watu wanapata maisha halisi kwa kuamini na kutii kile Mungu anasema."
 **[[:sw:obs:notes:frames:25-02|<<]] | [[:sw:obs:notes:25|Up]] | [[:sw:obs:notes:frames:25-04|>>]]**
