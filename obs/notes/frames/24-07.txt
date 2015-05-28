@@ -5,14 +5,16 @@
 **John** said to **Jesus**, “**I am not worthy to baptize you**. You should baptize me instead.” But Jesus said, “You should baptize me, because **it is the right thing to do**.” So John baptized him, even though Jesus had never **sinned**.
 
 **Yohana** akamwambia **Yesu**, "**Mimi sistahili kukubatiza wewe**. Wewe ndiye ungenibatiza." Lakini Yesu akasema, "Inabidi unibatize, kwa sababu **hili ndilo jambo la haki kufanya.**" Kwa hivyo Yohana akambatiza, hata ingawa Yesu hakuwa amewahi **kutenda dhambi**.
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:john-baptist|John]]**
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms:baptize|baptize]]**
-  * **[[:sw:obs:notes:key-terms:sin|sinned]]**
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:john-baptist|John (Yohana)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:baptize|baptize (batiza)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinned (kutenda dhambi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **I am not worthy to baptize you**  - This could be translated as, "I am not good enough to baptize you" or, "I am sinful, so I should not baptize you."
+  * **Mimi sistahili kukubatiza wewe**  - Hii inaweza kutafsiriwa kama, "Mimi si mwema ya kutosha kukubatiza wewe" ama, "Mimi ni mwenye dhambi, kwa hivyo si sawa nikubatize."
   * **it is the right thing to do**  - This might also be translated as, "it is the proper thing to do" or, "this is what God wants me to do."
+  * **Hili jambo ndio sawa kulifanya**  - Hii inaweza kutafsiriwa kama, "Hili ndilo jambo sahihi la kufanya" ama, "Hili ndilo Mungu anataka nifanye."
 **[[:sw:obs:notes:frames:24-06|<<]] | [[:sw:obs:notes:24|Up]] | [[:sw:obs:notes:frames:24-08|>>]]**
