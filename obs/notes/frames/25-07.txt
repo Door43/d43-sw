@@ -8,14 +8,15 @@
 
 ,
 
-===== Important Terms: (Maneno ya Muhimu) =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus(Yesu)]]**
-  * **[[:sw:obs:notes:key-terms:satan|Satan(Shetani)]]**
-  * **[[:sw:obs:notes:key-terms:word-of-god|God's word(neno la Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:worship|Worship(Abudu)]]**
-  * **[[:sw:obs:notes:key-terms:lord|Lord(Bwana)]]**
-  * **[[:sw:obs:notes:key-terms:god|God(Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:satan|Satan (Shetani)]]**
+  * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:worship|Worship (Abudu)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Lord (Bwana)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
 ===== Translation Notes: (Maelezo ya Tafsiri) =====
 
   * **Get away from me**  - This may also be translated as, "Leave me" or, "Leave me alone."
