@@ -1,25 +1,24 @@
-===== Jesus Is the Son of God [24-09] =====
+===== Jesus Is the Son of God [24-09] Yesu ni Mwana wa Mungu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&}}
 
 **God had told John**, “**The Holy Spirit will come down and rest on** someone you **baptize**. That person is the **Son of God**.” There is only one God. But when John baptized Jesus, he heard **God the Father** speak, he saw God the Son, who is **Jesus**, and he saw God the Holy Spirit.
-===== Important Terms: =====
 
+**Mungu alikuwa amemwambia Yohana**, "**Roho Mtakatifu atashuka na kutua kwa** mmoja wa wale **utabatiza**. Huyo mtu ndiye **Mwana wa Mungu**." Kuna Mungu mmoja tu. Lakini wakati Yohana alibatiza Yesu, alisikia **Mungu Baba** akinena, akaona Mungu Mwana, ambaye ni **Yesu**, na akaona Mungu Roho Mtakatifu.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:sw:obs:notes:key-terms/baptize|baptize]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:sw:obs:notes:key-terms/god-father|God the Father]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:john-baptist|John (Yohana)]]**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
+  * **[[:sw:obs:notes:key-terms:baptize|baptize (batiza)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:god-father|God the Father (Mungu Baba)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son (Mwana)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-  * **God had told John** - That is, "Before this, God had told John" or, "Before Jesus came to be baptized, God had told John."
+  * **God had told John**  - That is, "Before this, God had told John" or, "Before Jesus came to be baptized, God had told John."
+  * **Mungu alikuwa amemwambia Yohana**  - Hiyo ni, "Kabla ya hii, Mungu alikuwa amemwambia Yohana" ama, "Kabla ya Yesu kuja kubatizwa, Mungu alikuwa ameambia Yohana."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:24-08|<<]] | [[:sw:obs:notes:24|Up]] | [[:sw:obs:notes:frames:25-01|>>]]**
