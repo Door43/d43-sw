@@ -1,24 +1,26 @@
-===== Jesus in Nazareth [26-02] =====
+===== Jesus in Nazareth [26-02] Yesu kule Nazareti =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
 **Jesus** went to the town of **Nazareth** where he had lived during his childhood. On the **Sabbath**, he went to the **place of worship**. They handed him the **scroll of the prophet Isaiah** so that he would read from it. Jesus **opened up the scroll** and read part of it to the people.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/nazareth|Nazareth]]**
-  * **[[:sw:obs:notes:key-terms/sabbath|Sabbath]]**
-  * **[[:sw:obs:notes:key-terms/worship|worship]]**
-  * **[[:sw:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:sw:obs:notes:key-terms/isaiah|Isaiah]]**
+**Yesu ** aliteremka hadi mji wa **Nazareti ** mahali alipoishi siku za utoto wake. Siku ya **Sabato**, alienda **pahali pa ibada**. Wakampa **kitabu cha nabii Isaya** ili asome kutoka kwake. Yesu **akafungua kile kitabu na** kusoma sehemu yake kwa watu.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:nazareth|Nazareth (Nazareti)]]**
+  * **[[:sw:obs:notes:key-terms:sabbath|Sabbath (Sabato)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worship (abudu)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
+  * **[[:sw:obs:notes:key-terms:isaiah|Isaiah (Isaya)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **place of worship** - That is, "the building where the Jews gathered to worship God." This can also be translated as, "worship building."
-  * **scroll** - A scroll was a long sheet of paper or leather that was rolled up and had writing on it.
-  * **the scroll of the prophet Isaiah** - That is, "the scroll that had the words that the prophet Isaiah had written." Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
-  * **opened up the scroll** - This could be translated as, "rolled open the scroll" or, "unrolled the scroll."
-
-
+  * **place of worship**  - That is, "the building where the Jews gathered to worship God." This can also be translated as, "worship building."
+  * **pahali pa ibada**  - Hiyo ni, "jengo lile Wayahudu walikuwa wanakusanyika ili kuabudu Mungu." Hii pia inaweza kutafsiriwa kama, "nyumba ya ibada."
+  * **scroll**  - A scroll was a long sheet of paper or leather that was rolled up and had writing on it.
+  * **kitabu**  - Kitabu siku zile ilikuwa kartasi mrefu au ngozi iliyokunjwa na iko na maandishi ndani yake.
+  * **the scroll of the prophet Isaiah**  - That is, "the scroll that had the words that the prophet Isaiah had written." Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
+  * **kitabu cha nabii Isaya**  - Hiyi ni, "kitabu kilichokuwa na maneno ambayo Nabii Isaya alikuwa ameandika." Isaya alikuwa ameandika kitabu mamia ya miaka iliyopita. Hii ilikuwa nakala ya kitabu hicho.
+  * **opened up the scroll**  - This could be translated as, "rolled open the scroll" or, "unrolled the scroll."
+  * **alifungua kile kitabu**  - Hii inaweza kutafsiriwa kama, "viringisha kile kitabu" ama, "zongoa kitabu."
 **[[:sw:obs:notes:frames:26-01|<<]] | [[:sw:obs:notes:26|Up]] | [[:sw:obs:notes:frames:26-03|>>]]**
