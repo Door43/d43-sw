@@ -1,23 +1,26 @@
-===== Jesus Read the Scriptures [26-03] =====
+===== Jesus Read the Scriptures [26-03] Yesu Anasoma Maandiko =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink&}}
 
 Jesus read, “**God** has given me his **Spirit** so that I can **proclaim good news to the poor**, **freedom to captives, recovery of sight for the blind**, and **release to the oppressed**. This is **the year of the Lord's favor**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Spirit]]**
-  * **[[:sw:obs:notes:key-terms/good-news|good news]]**
-  * **[[:sw:obs:notes:key-terms/lord|Lord's]]**
+Yesu akasoma, "**Mungu** amenipa **Roho** wake ili **nikatangaze habari njema kwa maskini, uhuru kwa wafungwa, kupata kuona kwa vipofu**, na **ukombozi kwa waliokandamizwa**. Huu ni **mwaka wa kibali cha bwana.**"
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Spirit (Roho)]]**
+  * **[[:sw:obs:notes:key-terms:good-news|good news (habari njema)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Lord's (ya Bwana)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **proclaim good news to the poor** - That is, "to tell poor and needy people the good message that God will help them."
-  * **freedom to captives** - That is, "to tell people who are wrongfully in prison that they will be released."
-  * **recovery of sight for the blind** - This could be translated as, "that those who are blind will receive their sight."
-  * **release to the oppressed** - That is, "freedom for those who are mistreated in life."
-  * **the year of the Lord's favor** - This may be translated as, "the time when the Lord will be merciful to us" or, "the time when the Lord will be very gracious to us."
-
-
+  * **proclaim good news to the poor**  - That is, "to tell poor and needy people the good message that God will help them."
+  * **tangaza habari njema kwa maskini **- Hiyo ni, "kuambia watu ambao wana umaskini na mahitaji habari njema kuwa Mungu atawasaidia."
+  * **freedom to captives**  - That is, "to tell people who are wrongfully in prison that they will be released."
+  * **uhuru kwa wafungwa**  - Hiyo ni, "kuwambia watu waliowekwa kwa jela mbila hatia kuwa watafunguliwa."
+  * **recovery of sight for the blind**  - This could be translated as, "that those who are blind will receive their sight."
+  * **kufunguliwa macho kwa vipofu**  - Hii inaweza kutafsiriwa kama, "kuwa wale walio vipofu wataweza kuona tena."
+  * **release to the oppressed**  - That is, "freedom for those who are mistreated in life."
+  * **kufunguliwa kwa waliokandamizwa**  - Hiyo ni, "uhuru kwa wale wanaofanyiwa mabaya katika maisha."
+  * **the year of the Lord's favor**  - This may be translated as, "the time when the Lord will be merciful to us" or, "the time when the Lord will be very gracious to us."
+  * **mwaka wa kibali cha Bwana **- Hii inaweza kutafsiriwa kama, "wakati ambao Bwana atatuonea huruma" ama, "wakati ule tutapata  neema kwa wingi kutoka kwa Bwana."
 **[[:sw:obs:notes:frames:26-02|<<]] | [[:sw:obs:notes:26|Up]] | [[:sw:obs:notes:frames:26-04|>>]]**
