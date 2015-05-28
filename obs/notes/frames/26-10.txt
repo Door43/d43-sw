@@ -1,18 +1,18 @@
-===== The Twelve Disciples [26-10] =====
+===== The Twelve Disciples [26-10] Wanafunzi Kumi na Wawili =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink&}}
 
 Then **Jesus** chose twelve men **who were called his apostles**. The apostles traveled with Jesus and **learned from him**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/apostle|apostles]]**
+Kisha **Yesu** alichagua wanamme kumi na wawili **walioitwa mitume wake**. Hawa mitume walisafiri pamoja na Yesu na **kujifunza kutoka kwake.**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:apostle|apostles (mitume)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **learned from him** - That is, "learned from what he taught them" or, "learned from everything he said and did."
+  * **learned from him**  - That is, "learned from what he taught them" or, "learned from everything he said and did."
+  * **walijifunza kutoka kwake**  - Hiyo ni, "walijifunza kutoka kwa kile aliwafundisha" ama, "walijifunza kupitia kwa kila kitu alisema na kufanya."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:26-09|<<]] | [[:sw:obs:notes:26|Up]] | [[:sw:obs:notes:frames:27-01|>>]]**
