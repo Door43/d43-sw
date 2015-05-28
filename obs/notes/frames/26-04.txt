@@ -1,22 +1,22 @@
-===== The Prophesy about Jesus [26-04] =====
+===== The Prophesy about Jesus [26-04] Unabii kuhusu Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink&}}
 
 Then **Jesus** sat down. Everybody watched him closely. They knew the passage of **scripture** that he had just read referred to the **Messiah**. Jesus said, “**The words I just read to you are happening right now**.” All the people were **amazed**. “**Isn’t this the son of Joseph**?” they said.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/word-of-god|scripture]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/joseph-nt|Joseph]]**
+Kisa **Yesu** akaketi. Kila mtu akamtazama kwa karibu. Walijua sehemu ya **maandiko ** aliyokuwa tu amemaliza kuisoma ilikuwa inanena kuhusu **Masihi**. Yesu akasema, **"Maneno ambayo nimemaliza tu kuyasoma yanatendeka sasa hivi.**" Watu wote **wakashangaa**. **"Si huyu ni mwana wa** **Yusufu**?" wakasema.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:word-of-god|scripture (maandiko)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:joseph-nt|Joseph (Yusufu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **The words I just read to you are happening right now** - Other ways to translate this would be, "The words you just heard me read are being fulfilled right now" or, "Today the words I read to you came true as you heard them."
-  * **amazed** - Translate the word "amazed" with a term that means that they were surprised, shocked, and confused about how this could be possible.
-  * **Isn't this the son of Joseph?** - This could also be translated as, "This man is only the son of Joseph!" or, "Everyone knows he is just Joseph's son!" The people were not asking if he was Joseph's son or not. They were wondering how he could be the Messiah since they thought he was only the son of an ordinary man.
-
-
+  * **The words I just read to you are happening right now**  - Other ways to translate this would be, "The words you just heard me read are being fulfilled right now" or, "Today the words I read to you came true as you heard them."
+  * **Maneno ambayo nimamaliza tu kuyasoma wanafanyika sasa hivi **- Njia zingine za kutafsiri hii yaweza kuwa, "Maneno yale umesikia nikisoma saa hii yanatimia sasa hivi" ama, "Leo maneno niliyoyasomea yalitimia mlipoyasikiliza."
+  * **amazed**  - Translate the word "amazed" with a term that means that they were surprised, shocked, and confused about how this could be possible.
+  * **wakashangaa**  - Tafsiri neno la "kushangaa" na neno ambalo linamaanisha walijawa na mshangao, wakatishika, na kuchanganyikiwa vile hayo wangewezekana.
+  * **Isn't this the son of Joseph?**  - This could also be translated as, "This man is only the son of Joseph!" or, "Everyone knows he is just Joseph's son!" The people were not asking if he was Joseph's son or not. They were wondering how he could be the Messiah since they thought he was only the son of an ordinary man.
+  * **Si huyu ni mwana wa Yusufu?**  - Hii inaweza kutafsiriwa kama, "Huyu mwanamme ni tu mwana wa Yusufu!" ama, "Kila mtu anajua kuwa yeye ni mwana tu wa Yusufu!" Watu hawakuwa wanauliza kama yeye ni mwana wa Yusufu ama sivyo. Walikuwa wanastaajabu vile anaweza kuwa Masihi kwa maana walifikiri yeye ni mwana wa mtu aliye wa kawaida.
 **[[:sw:obs:notes:frames:26-03|<<]] | [[:sw:obs:notes:26|Up]] | [[:sw:obs:notes:frames:26-05|>>]]**
