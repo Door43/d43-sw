@@ -1,25 +1,28 @@
-===== Jesus in Galilee [26-01] =====
+===== Jesus in Galilee [26-01] Yesu Kule Galilaya =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink&}}
 
 **After overcoming Satan's temptations**, **Jesus returned in the power of the Holy Spirit** to the region of **Galilee** where he lived. Jesus **went from place to place teaching**. **Everyone spoke well of him**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/satan|Satan's]]**
-  * **[[:sw:obs:notes:key-terms/tempt|temptations]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/power|power]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:sw:obs:notes:key-terms/galilee|Galilee]]**
+**Baada ya kushinda majaribu ya Shetani, Yesu alirudi akiwa amejaa nguvu za Roho Mtakatifu** katika eneo la Galilaya mahali alipoishi. Yesu **akaenda kutoka mahali pamoja hadi ingine akifundisha. Watu wote walinena mazuri kumhusu**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:satan|Satan's (ya Shetani)]]**
+  * **[[:sw:obs:notes:key-terms:tempt|temptations (majaribu)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
+  * **[[:sw:obs:notes:key-terms:galilee|Galilee (Galilaya)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **After overcoming Satan's temptations, Jesus returned** - You may prefer to make this into two sentences and say, "Jesus did not do the wrong things Satan tried to get him to do and so defeated him. After that, Jesus returned." The word "overcoming" can also be translated with "resisting" or, "rejecting" or, "refusing."
-  * **in the power of the Holy Spirit** - This may be translated as, "as the power of the Holy Spirit worked through him" or, "and the Holy Spirit was powerfully guiding him."
-  * **went from place to place teaching** - That is, he "traveled to different towns and other places and taught the people there."
-  * **Everyone** - That is, "Everyone who knew him or heard about him."
-  * **spoke well of him** - That is, "said good things about him."
-
-
+  * **After overcoming Satan's temptations, Jesus returned**  - You may prefer to make this into two sentences and say, "Jesus did not do the wrong things Satan tried to get him to do and so defeated him. After that, Jesus returned." The word "overcoming" can also be translated with "resisting" or, "rejecting" or, "refusing."
+  * **Baada ya kushinda majaribu ya Shetani, Yesu alirudi**  - Unaweza pendelea kuifanya hii sentensi mbili na kusema, "Yesu hakufanya yale mambo mabaya Shetani alijaribu kumuingiza ndani yake na kwa hivyo alimshinda. Baadaye, Yesu alirudi." Neno "kushinda" laweza pia kutafsiriwa kama "kupinga" ama,  "kukana" ama, "kukataa."
+  * **in the power of the Holy Spirit**  - This may be translated as, "as the power of the Holy Spirit worked through him" or, "and the Holy Spirit was powerfully guiding him."
+  * **Katika nguvu za Roho Mtakatifu**  - Hii inaweza kutafsiriwa kama, "na nguvu za Roho Mtakatifu zilitenda kazi kupitia kwake" ama, "naye Roho Mtakatifu alimuongoza kwa nguvu."
+  * **went from place to place teaching**  - That is, he "traveled to different towns and other places and taught the people there."
+  * **Alienda kutoka sehemu moja hadi ingine akifundisha**  - Hiyo ni, "alisafiri miji tofauti na maeneo mengine na akafundisha watu huko."
+  * **Everyone**  - That is, "Everyone who knew him or heard about him."
+  * **watu wote**  - Hiyo ni, "Kila mtu aliyemjua ama aliyesikia kumhusu."
+  * **spoke well of him**  - That is, "said good things about him."
+  * **walinena mazuri kumhusu**  - Hiyo ni, "walisema mambo mazuri kumuhusu."
 **[[:sw:obs:notes:frames:25-08|<<]] | [[:sw:obs:notes:26|Up]] | [[:sw:obs:notes:frames:26-02|>>]]**
