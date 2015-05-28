@@ -1,23 +1,24 @@
-===== The Ministry of Elisha [26-06] =====
+===== The Ministry of Elisha [26-06] Huduma ya Elisha =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink&}}
 
 **Jesus** continued saying, “And during the time of the **prophet Elisha**, there were many people in **Israel** with skin diseases. But Elisha did not **heal** any of them. He only healed the skin disease of **Naaman**, **a commander** of Israel’s enemies.” The people who were listening to Jesus were **Jews**. So when they heard him say this, **they were furious at him**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:sw:obs:notes:key-terms/israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms/heal|heal]]**
-  * **[[:sw:obs:notes:key-terms/naaman|Naaman]]**
-  * **[[:sw:obs:notes:key-terms/jew|Jews]]**
+**Yesu** akaendelea na kusema, "Na katika siku za **nabii Elisha**, kulikuwa na watu wengi **Israeli** waliokuwa na magonjwa ya ngozi. Lakini Elisha **hakuponya** mmoja wao. Aliponya tu ugonjwa wa ngozi wa **Namani, kamanda** wa maadui wa Israeli." Watu waliokuwa wanamsikiliza Yesu walikuwa **Wayahudu**. Kwa hivyo walipomsikia akisema hayo, walimkasirikia sana.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:heal|heal (ponya)]]**
+  * **[[:sw:obs:notes:key-terms:naaman|Naaman (Namani)]]**
+  * **[[:sw:obs:notes:key-terms:jew|Jews (Wayahudi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **Elisha** - Elisha was God's prophet who came after Elijah. Like Elijah, Elisha confronted Israelite kings who were sinning against God and he did miracles that God gave him power to do.
-  * **a commander** - That is, "a military leader."
-  * **they were furious at him** - The Jews did not want to hear that God had blessed any people group besides themselves, so they were very angry at what Jesus said.
-
-
+  * **Elisha**  - Elisha was God's prophet who came after Elijah. Like Elijah, Elisha confronted Israelite kings who were sinning against God and he did miracles that God gave him power to do.
+  * **Elisha**  - Elisha alikuwa nabii anbaye alikuja nyuma ya Elia. Kama Elia, Elisha alikabiliana na wafalme wa Israeli waliokuwa wana tenda dhambi kinyume na Mungu na alifanya miujiza ambazo Mungu alimuwezesha kufanya.
+  * **a commander**  - That is, "a military leader."
+  * **kamanda**  - Hiyo ni, "kiongozi wa kijeshi."
+  * **they were furious at him**  - The Jews did not want to hear that God had blessed any people group besides themselves, so they were very angry at what Jesus said.
+  * **walimkasirikia sana**  - Wayahudi hawakutaka kusikia kuwa Mungu amebariki kikundi cha watu wengine isipokuwa wao, kwa hivyo walikasilishwa sana na kile Yesu alisema.
 **[[:sw:obs:notes:frames:26-05|<<]] | [[:sw:obs:notes:26|Up]] | [[:sw:obs:notes:frames:26-07|>>]]**
