@@ -8,10 +8,11 @@
 
 ===== Important Terms: (Maneno ya Muhimu) =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus(Yesu)]]**
-  * **[[:sw:obs:notes:key-terms:satan|Satan's(ya Shetani)]]**
-  * **[[:sw:obs:notes:key-terms:tempt|temptations(Majaribu)]]**
-  * **[[:sw:obs:notes:key-terms:angel|angels(Malaika)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:satan|Satan's (ya Shetani)]]**
+  * **[[:sw:obs:notes:key-terms:tempt|temptations (majaribu)]]**
+  * **[[:sw:obs:notes:key-terms:angel|angels (malaika)]]**
+
 ===== Translation Notes: Maelezo ya Tafsiri =====
 
   * **did not give in to**  - This could be translated as, "did not do the things that Satan was tempting him to do."
