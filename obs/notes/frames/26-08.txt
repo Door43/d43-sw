@@ -1,18 +1,17 @@
-===== Jesus Healed the Sick [26-08] =====
+===== Jesus Healed the Sick [26-08] Yesu Aliponya Wagonjwa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink&}}
 
 Then **Jesus went throughout the region of Galilee**, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/galilee|Galilee]]**
-  * **[[:sw:obs:notes:key-terms/heal|healed]]**
+Kisha **Yesu akaenda kila mahali Galilaya,** na umati mkubwa wa watu ukaja kwake. Walileta watu wengi waliokuwa wagonjwa au walemavu, ikiwemo wale hawawezi kuona, kutembea, kusikia ama kuongea, na Yesu **akawaponya**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:galilee|Galilee (Galilaya)]]**
+  * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **went throughout the region of Galilee** - That is, "all around in Galilee" or, "from place to place in Galilee."
-
-
+  * **went throughout the region of Galilee**  - That is, "all around in Galilee" or, "from place to place in Galilee."
+  * **alienda kila mahali kule sehemu ya Galilaya**  - Hiyo ni, "kila mahali kule Galilaya" au, "toka pahali moja hadi ingine kule Galilaya."
 **[[:sw:obs:notes:frames:26-07|<<]] | [[:sw:obs:notes:26|Up]] | [[:sw:obs:notes:frames:26-09|>>]]**
