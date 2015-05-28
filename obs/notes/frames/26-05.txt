@@ -1,21 +1,20 @@
-===== The Ministry of Elijah [26-05] =====
+===== The Ministry of Elijah [26-05] Huduma ya Elia =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink&}}
 
 Then **Jesus** said, “It is **true** that **no prophet is accepted in his own hometown**. During the time of the prophet **Elijah**, there were many widows in **Israel**. But when it did not rain for three and a half years, **God** did not send Elijah to help a widow from Israel, but rather to a widow from a different nation.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/true|true]]**
-  * **[[:sw:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:sw:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:sw:obs:notes:key-terms/israel|Israel]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
+Kisha **Yesu** akasema, "Ni **kweli** kuwa **hakuna nabii anayekubaliwa kwa mji wa kwao nyumbani**. Wakati wa nabii **Elia**, kulikuwa na wajane wengi **Israeli**. Lakini wakati mvua haikunyesha kwa miaka mitatu na nusu, **Mungu** hakutuma Elia kusaidia mjane wa Israeli, lakini badala ya hiyo alimtuma kwa mjane kutoka taifa lingine."
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:true|true (kweli)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
+  * **[[:sw:obs:notes:key-terms:elijah|Elijah (Elia)]]**
+  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **no prophet is accepted in his hometown** - This phrase means, "people do not recognize the authority of a prophet that has grown up among them."
-
-
+  * **no prophet is accepted in his hometown**  - This phrase means, "people do not recognize the authority of a prophet that has grown up among them."
+  * **hakuna nabii anayekubaliwa katika mjii wa kwao nyumbani **- Huu msemo unamaanisha, "watu hawatambui mamlaka ya nabii ambaye amekua pamoja nao."
 **[[:sw:obs:notes:frames:26-04|<<]] | [[:sw:obs:notes:26|Up]] | [[:sw:obs:notes:frames:26-06|>>]]**
