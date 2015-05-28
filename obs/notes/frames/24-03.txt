@@ -1,21 +1,21 @@
-===== A Baptism of Repentance [24-03] Ubatizo wa Tomba =====
+===== A Baptism of Repentance [24-03] Ubatizo wa Toba =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
 When people heard **John's** message, many of them **repented from their sins**, and John **baptized** them. Many **religious leaders** also came to be baptized by John, but they **did not repent** or **confess their sins**.
 
-Wakati watu walisikia ujumbe wa **Yohana**, wengi **walitubu dhambi zao**, na Yohana **aliwabatiza**. Wengi wa **viongozi wa ndini** pia walikuja kubatizwa na Yohana, lakini **hawakutubu** wala **kukiri dhambi zao**.
+Wakati watu walisikia ujumbe wa **Yohana**, wengi **walitubu dhambi zao**, na Yohana **aliwabatiza**. Wengi wa **viongozi wa kindini** pia walikuja kubatizwa na Yohana, lakini **hawakutubu** wala **kukiri dhambi zao**.
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:john-baptist|John's (ya Yohana)]]**
   * **[[:sw:obs:notes:key-terms:repent|repented (walitubu)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:baptize|baptized (walibatizwa)]]**
-  * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leaders (voingozi wa ndini)]]**
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leaders (voingozi wa kindini)]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **repented from their sins**  - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
-  * **walitubu dhambi zao**  - Hii inaweza kutafsiriwa kama, "walitubu juu ya dhambi zao" ama, "walibadilisha mawazo yao kuhusu dhambi zao" ama, "waligeuka mbali na dhambi zao."
+  * **walitubu dhambi zao**  - Hii inaweza kutafsiriwa kama, "walitubu kuhusu dhambi zao" ama, "walibadilisha mawazo yao kuhusu dhambi zao" ama, "waligeuka mbali na dhambi zao."
   * **did not repent**  - That is, "did not turn away from their sins."
   * **hawakutubu**  - Hiyo ni, "hawakugeukia dhambi zao."
   * **confess their sins**  - To confess is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as, "confess that they had sinned."
