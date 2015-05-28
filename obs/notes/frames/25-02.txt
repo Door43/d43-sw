@@ -1,21 +1,20 @@
-===== The First Temptation [25-02] =====
+===== The First Temptation [25-02] Jaribio la Kwanza =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
 **Satan tempted Jesus** by saying, “If you are the **Son of God**, **turn these rocks into bread** so you can eat!”
-===== Important Terms: =====
 
+**Shetani alimjaribu Yesu** kwa kusema, "Kama wewe ni **Mwana wa Mungu, badilisha mawe haya yawe mkate** ili ukaweze kula!"
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/satan|Satan]]**
-  * **[[:sw:obs:notes:key-terms/tempt|tempted]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son of God]]**
+  * **[[:sw:obs:notes:key-terms:satan|Satan (Shetani)]]**
+  * **[[:sw:obs:notes:key-terms:tempt|tempted (alijaribu)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
-
-
+  * **turn these rocks into bread**  - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
+  * **badilisha mawe haya yawe mkate**  - Hii inaweza kutafsiriwa kama, "fanya mawe haya yawe mkate" ama, "kimuujiza badilisha haya mawe yawe mkate."
+  * **bread**  - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
+  * **mkate**  - Hii inaweza kutafsiriwa kama, "chakula" katika lugha ambazo mkate si chakula ya kila siku. Katika desturi ya Wayahudi, mkate ndiyo ilikuwa chakula kikuu.
 **[[:sw:obs:notes:frames:25-01|<<]] | [[:sw:obs:notes:25|Up]] | [[:sw:obs:notes:frames:25-03|>>]]**
