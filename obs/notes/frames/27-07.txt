@@ -1,21 +1,23 @@
-===== The Levite [27-07] =====
+===== The Levite [27-07] Mlawi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
 “Not long after that, a Levite **came down the road**. (**Levites were a tribe of Jews** who helped the **priests** at the Temple.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jew|Jews]]**
-  * **[[:sw:obs:notes:key-terms/priest|priests]]**
-  * **[[:sw:obs:notes:key-terms/temple|Temple]]**
+Baada ya muda mfupi, Mlawi **akawa anateremka katika ile barabara**. (**Walawi lilikuwa kabila la Wayahudi ** ambalo lilisaidia **makuhani** katika hekalu). Yule Mlawi pia akavuka pande ile ingine ya barabara na **akapuuza ** yule mtu ambaye alikuwa ameimbiwa na kupigwa.
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jew|Jews (Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:priest|priests (kuhani)]]**
+  * **[[:sw:obs:notes:key-terms:temple|Temple (hekalu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to tell the story.)
-  * **came down the road** - That is, "was traveling down that same road."
-  * **Levites were a tribe of Jews** - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
-  * **ignored** - That is, "did not help."
-
-
+  * (Yesu anaendelea kueleza ile mfano.)
+  * **came down the road**  - That is, "was traveling down that same road."
+  * **aliteremka katika ile barabara**  - Hiyo ni, "alikuwa anasafiri na kuteremka katika barabara hio hio."
+  * **Levites were a tribe of Jews**  - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
+  * **Walawi walikuwa kabila la Wayahudi**  - Hiyo ni, "Walawi walikuwa wametoka kwa kabila la Levi" ama, "Walawi walikuwa wa kutoka kwa ukoo wa Israeli wa Walawi."
+  * **ignored**  - That is, "did not help."
+  * **alipuuza**  - Hiyo ni, "hakumsuaidia."
 **[[:sw:obs:notes:frames:27-06|<<]] | [[:sw:obs:notes:27|Up]] | [[:sw:obs:notes:frames:27-08|>>]]**
