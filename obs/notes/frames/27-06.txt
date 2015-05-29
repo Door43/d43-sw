@@ -1,21 +1,23 @@
-===== The Priest [27-06] =====
+===== The Priest [27-06] Kuhani =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink&}}
 
 “Soon after that, a **Jewish priest happened to walk down** that same road. When this **religious leader** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jew|Jewish]]**
-  * **[[:sw:obs:notes:key-terms/priest|priest]]**
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|religious leader]]**
+Baadaye, **Kuhani Myahudi alikuwa anateremka** katika hiyo barabara.  Wakati huyu **kiongozi wa kindini ** alimuona aliyekuwa ameimbiwa na kupigwa, alipitia upande ule mwingine wa barabara, **akampuuza mtu** yule aliyehitaji msaada, na **akaendelea na safari**."
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jew|Jewish (Myahudi)]]**
+  * **[[:sw:obs:notes:key-terms:priest|priest (kuhani)]]**
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leader (kiongozi wa kindini)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to tell the story.)
-  * **happened to walk down** - That is, "happened to be traveling along." For some languages it may be necessary to use a word like "travel" rather than "walk" since the priest was not just walking on the road but was traveling to get to another city.
-  * **ignored the man** - That is, "did not help the man" or, "showed no concern for the man."
-  * **kept on going** - That is, "continued traveling down the road."
-
-
+  * (Yesu anaendelea na kuelezea ule mfano.)
+  * **happened to walk down**  - That is, "happened to be traveling along." For some languages it may be necessary to use a word like "travel" rather than "walk" since the priest was not just walking on the road but was traveling to get to another city.
+  * **Akawa anateremka**  - Hiyo ni, "akawa anasafiri pamoja naye." Katika lugha zingine itabidi utumie neno kama "safiri" badala ya "tembea" kwa sababu yule kuhani hakuwa tu anatembea katika ile barabara lakini alikuwa anasafiri akielekea mji mwingine.
+  * **ignored the man**  - That is, "did not help the man" or, "showed no concern for the man."
+  * **alipuuza yule mwanamme**  - Hiyo ni, "hakumsaidia yule mwanamme" ama, "hakushugulika na yule mwanamme."
+  * **kept on going**  - That is, "continued traveling down the road."
+  * **aliendelea tu na safari **- Hiyo ni, "aliendelea na kuteremka."
 **[[:sw:obs:notes:frames:27-05|<<]] | [[:sw:obs:notes:27|Up]] | [[:sw:obs:notes:frames:27-07|>>]]**
