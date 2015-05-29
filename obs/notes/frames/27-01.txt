@@ -1,26 +1,29 @@
-===== The Lawyer's Question [27-01] =====
+===== The Lawyer's Question [27-01] Swali la Wakili =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink&}}
 
 **One day**, an **expert in the Jewish law** came to **Jesus to test him**, saying, “**Teacher**, what must I do **to inherit eternal life**?” Jesus answered, “**What is written in God's law**?”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/teacher|Teacher]]**
-  * **[[:sw:obs:notes:key-terms/inherit|inherit]]**
-  * **[[:sw:obs:notes:key-terms/eternal-life|eternal life]]**
-  * **[[:sw:obs:notes:key-terms/gods-law|God's law]]**
+**Siku moja**, **mtaalam katika sheria za kiyahudi** alikuja kwa **Yesu kumjaribu**, akiseema, "**Mwalimu**, nitafanya nini ili **nirithi uzima wa milele**?" Yesu akajibu, **"Imeandikwa nini kwa sheria za Mungu?"**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:teacher|Teacher (Mwalimu)]]**
+  * **[[:sw:obs:notes:key-terms:inherit|inherit (kurithi)]]**
+  * **[[:sw:obs:notes:key-terms:eternal-life|eternal life (uzima wa milele)]]**
+  * **[[:sw:obs:notes:key-terms:gods-law|God's law (sheria za Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **expert in the Jewish law** - This man was someone who studied and taught the laws God had given the Israelites, as well as other Jewish laws.
-  * **to test him** - That is, "to see if Jesus would give a good answer."
-  * **to inherit eternal life** - That is, "to have life with God forever" or, "so that God will give me life with him forever" or, "to receive eternal life from God." The law expert was asking how he could be worthy to receive eternal life as an inheritance from God the Father.
-  * **eternal life** - This refers to life forever with God after the mortal body dies. See the key term page for eternal life.
-  * **What is written in God's law?** - That is, "What is written in God's law about this?" Jesus asked this question because he wanted the man to think about what God's law really teaches.
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **Siku moja**  - Hii msemo inatanguliza tukio katika siku zilizopita, lakini hailezi wakati haswa. Lugha nyingi ziko na njia sawa ya kuanzia hadithi iliyo ya kweli.
+  * **expert in the Jewish law**  - This man was someone who studied and taught the laws God had given the Israelites, as well as other Jewish laws.
+  * **mtaalamu wa sheria za Kiyahudi **- Huyu alikuwa mtu aliyesoma na kufundisha sheria ambazo Mungu aliwapa Waisraeli, na pia sheria zingine za Kiyahudi.
+  * **to test him**  - That is, "to see if Jesus would give a good answer."
+  * **ili amjaribu**  - Hiyo ni, "kuona kama Yesu atajibu vizuri."
+  * **to inherit eternal life**  - That is, "to have life with God forever" or, "so that God will give me life with him forever" or, "to receive eternal life from God." The law expert was asking how he could be worthy to receive eternal life as an inheritance from God the Father.
+  * **kurithi uzima wa milele**  - Hiyo ni, "kuishi na Mungu milele" ama, "ili Mungu anipe maisha pamoja naye milele" ama, "kupokea uzima wa milele kutoka kwa Mungu." Yule mtaalam wa sheria alikuwa anauliza jinsi ya kua anayestahili kupokea uzima wa milele kutoka kwa Mungu Baba.
+  * **eternal life**  - This refers to life forever with God after the mortal body dies. See the key term page for eternal life.
+  * **uzima wa milele**  - Hii inaeleza kuhusu maisha milele na Mungu baada ya mwili unaoharibika kufa. Angilia maelezo katika orodha ya maneno ya muhimu.
+  * **What is written in God's law?**  - That is, "What is written in God's law about this?" Jesus asked this question because he wanted the man to think about what God's law really teaches.
+  * **kilicho andikwa katika sheria za Mungu**  - Hiyo ni, "Kilicho andikwa katika sheria ya Mungu kuhusu jambo hili?" Yesu aliuliza kwa sababu alikuwa anataka yule mtu afikirie kwa umakini kile sheria ya Mungu inafundisha.
 **[[:sw:obs:notes:frames:26-10|<<]] | [[:sw:obs:notes:27|Up]] | [[:sw:obs:notes:frames:27-02|>>]]**
