@@ -1,19 +1,21 @@
-===== Help for the Victim [27-09] =====
+===== Help for the Victim [27-09] Msaada kwa muathiriwa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink&}}
 
 “The **Samaritan** then lifted the man onto **his own donkey** and took him to a **roadside inn where he took care of him**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/samaria|Samaritan]]**
+"Yule **Msamaria** alimuweka yule mwanamme kwa punda yake na akampeleka kwa **nyumba ya wageni iliyo kando ya barabara na akamtuunza pale**."
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:samaria|Samaritan (Msamaria)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to tell the story.)
-  * **his own donkey** - Make sure it is clear that "his" refers to the Samaritan.
-  * **roadside inn** - That is, "a lodging place." This is a place where travelers could get food and stay overnight.
-  * **where he took care of him** - This could also be translated as, "where he continued to take care of him."
-
-
+  * (Yesu anaendelea kueleza ile mfano.)
+  * **his own donkey**  - Make sure it is clear that "his" refers to the Samaritan.
+  * **punda yake mwenyewe**  - Hakikisha ni wazi kuwa, "yake" inaeleza kuhusu yule Msamaria.
+  * **roadside inn**  - That is, "a lodging place." This is a place where travelers could get food and stay overnight.
+  * **nyumba ya wageni iliyo kando ya barabara**  - Hiyo ni, "makaazi ya wageni." Hapa ni pahali ambapo wasafiri wanaweza pata chakula na kulala.
+  * **where he took care of him**  - This could also be translated as, "where he continued to take care of him."
+  * **ambapo alimutunza**  - Hii inaweza kutafsiriwa kama, "mahali ambapo aliendelea na kumtunza."
 **[[:sw:obs:notes:frames:27-08|<<]] | [[:sw:obs:notes:27|Up]] | [[:sw:obs:notes:frames:27-10|>>]]**
