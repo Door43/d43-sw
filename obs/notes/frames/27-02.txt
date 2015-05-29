@@ -1,31 +1,36 @@
-===== Obey the Commandments [27-02] =====
+===== Obey the Commandments [27-02] Zitii Amri =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?nolink}}
-
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?nolink&}}
 
 The **law expert** replied that **God's law** says, “**Love the Lord your God with all your heart, soul, strength, and mind**. And **love your neighbor as yourself**.” **Jesus** answered, “You are correct! Do this and you will **live**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/gods-law|God's law]]**
-  * **[[:sw:obs:notes:key-terms/love|Love]]**
-  * **[[:sw:obs:notes:key-terms/lord|Lord]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/life|live]]**
+Yule **mtaalamu wa sheria** akajibu kuwa **Sheria ya Mungu** inasema, "**Mpende Bwana Mungu wako na moyo wako wote, nafsi, nguvu, na mawazo.** Na **umpende jirani yako kama unavyojipenda wewe."** **Yesu ** akajibu, "Umejibu vyema! Fanya hivyo na **utaishi.**"
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:gods-law|God's law (sheria ya Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:love|Love (penda)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Lord (Bwana)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:life|live (kuishi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:sw:obs:notes:frames:27-01|[27-01]]]**.
-  * **Love the Lord your God** - You may choose to say, "We must love the Lord our God." Make sure it does not sound like the man is commanding Jesus. Rather, he is quoting what God's law commands people to do.
-  * **with all your heart, soul, strength, and mind** - That is, "with your whole self" or, "with every part of yourself." In some languages this might be translated as, "with all your liver, breath, strength, and thoughts." The focus is not on each of these parts, but on all of us. Use the concepts in your language that make up the whole person.
-  * **heart** - The heart refers to the part of a person that has desires and emotions.
-  * **soul** - The soul refers to the nonphysical, spiritual part of a person.
-  * **strength** - Strength refers to the physical body and all of its abilities.
-  * **mind** - The mind refers to the part of a person that thinks, plans, and has ideas.
-  * **neighbor** - The word "neighbor" normally refers to a person who lives near us. The Jews applied the term to someone who was neither a close relative nor a foreigner or enemy.
-  * **love your neighbor as yourself** - That is, "love your neighbor to the same extent that you love yourself."
-
-
+  * **law expert**  - That is, "an expert in the Jewish law." See how you translated this term in **[[:sw:obs:notes:frames:27-01|[27-01]]]**.
+  * **mtaalam wa sheria**  - Hiyo ni, "mtaalam katika sheria za Kiyahudi." Ona ulivyotafsiri hili neno pale **[27-01]. **
+  * **Love the Lord your God**  - You may choose to say, "We must love the Lord our God." Make sure it does not sound like the man is commanding Jesus. Rather, he is quoting what God's law commands people to do.
+  * **Mpende Bwana Mungu wako**  - Unaweza chagua kusema, "Lazima tumpende Bwana Mungu wetu." Hakikisha haitatoka kana kwamba huyu mtu anaamrisha Yesu. Badala ya hiyo, ananukuu kile sheria ya Mungu inaamrisha watu kufanya.
+  * **with all your heart, soul, strength, and mind**  - That is, "with your whole self" or, "with every part of yourself." In some languages this might be translated as, "with all your liver, breath, strength, and thoughts." The focus is not on each of these parts, but on all of us. Use the concepts in your language that make up the whole person.
+  * **na moyo wako wote, nafsi, nguvu, na mawazo**  - Hiyo ni, "na ubinafsi wako wote" ama, "na kila sehemu yako." Katika lugha zingine hii inaweza kutafsiriwa kama, "na maini yako, pumzi, nguvu na mawazo." Lengo si kwa kila ya hizi viungo, lakini kwa kila kiungo chetu. Tumia misemo katika lugha yako inayoonyesha kila kiungu cha mwanadamu."
+  * **heart**  - The heart refers to the part of a person that has desires and emotions.
+  * **moyo**  - Moyo unamaanisha sehemu ya mwanadamu iliyo na tamaa na hisia.
+  * **soul**  - The soul refers to the nonphysical, spiritual part of a person.
+  * nafsi - Nafsi inaeleza kuhusu sehemu isioonekana, ya kiroho ya mwanadamu.
+  * **strength**  - Strength refers to the physical body and all of its abilities.
+  * **nguvu**  - Nguvu inaeleza kuhusu mwili na uwezo wake.
+  * **mind**  - The mind refers to the part of a person that thinks, plans, and has ideas.
+  * **mawazo**  - Mawazo ni sehemu ya mwanadamu inayofikiri, kupanga na kupeana mawazo.
+  * **neighbor**  - The word "neighbor" normally refers to a person who lives near us. The Jews applied the term to someone who was neither a close relative nor a foreigner or enemy.
+  * **jirani **- Neno "jirani" kawida linamaanisha mtu anayeishi karibu nasi. Wayahudi walitumia hili neno kwa mtu ambaye hakuwa jamaa wa karibu, mgeni ama adui.
+  * **love your neighbor as yourself**  - That is, "love your neighbor to the same extent that you love yourself."
+  * **mpende jirani yako kama unavyo jipenda**  - Hiyo ni, "penda jirani yako na kiwango kile unajipenda nacho."
 **[[:sw:obs:notes:frames:27-01|<<]] | [[:sw:obs:notes:27|Up]] | [[:sw:obs:notes:frames:27-03|>>]]**
