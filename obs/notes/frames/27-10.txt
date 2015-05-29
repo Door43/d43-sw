@@ -1,20 +1,23 @@
-===== Generous Help [27-10] =====
+===== Generous Help [27-10] Msaada wa Ukarimu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink&}}
 
 “The next day, the **Samaritan** needed to **continue his journey**. He gave some money to the person **in charge of** the inn and said, ‘**Take care of hi**m, and if you spend any more money than this, I will **repay those expenses** when I return.’”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/samaria|Samaritan]]**
+Siku iliyofuata, ilibidi yule **Msamaria** **aendelee na safari yake**. Alipeana kiasi cha pesa kwa yule mtu **anayesimamia** ile nyumba ya wageni na kusema, "**mtunze**, na ukitumia pesa zaidi ya hii, **nitarundisha hiyo gharama ** nitakaporudi.'"
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:samaria|Samaritan (Msamaria)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to tell the story.)
-  * **continue his journey** - This could be translated as, "continue traveling toward his destination."
-  * **in charge of** - That is, "who managed." It could be that this person also owned this lodging place.
-  * **Take care of him** - For some languages it may be preferable to say, "Please take care of him" in order for it to be clear that this was a polite request, not an order.
-  * **repay those expenses** - This could also be translated as, "repay you" or, "repay that money" or, "repay it."
-
-
+  * (Yesu anaendelea na keuleza yule mfano.)
+  * **continue his journey**  - This could be translated as, "continue traveling toward his destination."
+  * **kuendelea na safari yake**  - Hii inaweza kutafsiriwa kama, "kuendelea kusafiri akielekea alipokuwa anaenda."
+  * **in charge of**  - That is, "who managed." It could be that this person also owned this lodging place.
+  * **anayesimamia**  - Hiyo ni, "aliyesimamia." Inaweza kuwa huyu mtu pia ndiye alikuwa mwenya ile nyumba ya wageni."
+  * **Take care of him**  - For some languages it may be preferable to say, "Please take care of him" in order for it to be clear that this was a polite request, not an order.
+  * **kumtunza**  - Katika lugha zingine yaweza kuwa vyema zaidi kusema, "tafadhali tunza yeye" ili iwe wazi kuwa lilikuwa ombi la heshima na si amri.
+  * **repay those expenses**  - This could also be translated as, "repay you" or, "repay that money" or, "repay it."
+  * **nitarundisha hiyo gharama**  - Hii inaweza kutafsiriwa kama, "nitakulipa" ama, "nitakulipa hiyo pesa" ama, "nitailipa."
 **[[:sw:obs:notes:frames:27-09|<<]] | [[:sw:obs:notes:27|Up]] | [[:sw:obs:notes:frames:27-11|>>]]**
