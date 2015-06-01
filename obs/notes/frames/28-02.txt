@@ -1,19 +1,19 @@
-===== God's Commandments [28-02] =====
+===== God's Commandments [28-02] Amri za Mungu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-02.jpg?nolink&}}
 
 “**Which ones do I need to obey**?” he asked. **Jesus** replied, “Do not murder. Do not commit **adultery**. Do not steal. Do not lie. Honor your father and mother, and love your neighbor **as you love yourself**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/adultery|adultery]]**
-  * **[[:sw:obs:notes:key-terms/love|love]]**
+**"Nina haja kutii zipi?**" akauliza. **Yesu** akajibu, "Usiue. Usifanye **uasherati**. usiimbe. usiongee uongo. Heshimu baba yako na mama yako, na penda jirani yako **kama vile unavyojipenda mwenyewe."**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:adultery|adultery (uasherati)]]**
+  * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **Which ones do I need to obey?** - That is, "Which laws will be enough for me to receive eternal life?"
-  * **as you love yourself** - That is, "as much as you love yourself" or, "to the same degree that you love yourself."
-
-
+  * **Which ones do I need to obey?**  - That is, "Which laws will be enough for me to receive eternal life?"
+  * **Nina haja ya kutii zipi**  - Hiyo ni, "Sheria zipi zitatosha ili niweze kupata uzima wa milele?"
+  * **as you love yourself**  - That is, "as much as you love yourself" or, "to the same degree that you love yourself."
+  * **kama unavyojipenda mwenyewe**  - Hiyo ni, "sawa na vile unavyojipenda" ama, "kwa kiwango sawa na unavyojipenda mwenyewe."
 **[[:sw:obs:notes:frames:28-01|<<]] | [[:sw:obs:notes:28|Up]] | [[:sw:obs:notes:frames:28-03|>>]]**
