@@ -5,15 +5,16 @@
 **One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
 
 **Siku moja**, **kijana** **mtawala aliyekuwa tajiri** akaja kwa Yesu na akamuuliza, "**Mwalimu mwema**, nifanye nini **ili nipate uzima wa milele?"** Yesu akamwambia, **"Kwa nini unaniita 'mwema'?** **Kuna mmoja tu aliye mwema, na ni Mungu**. Lakini kama unataka kuwa na uzima wa milele, **tii sheria za Mungu."**
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms:good|Good]]**
-  * **[[:sw:obs:notes:key-terms:teacher|teacher]]**
-  * **[[:sw:obs:notes:key-terms:eternal-life|eternal life]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:obey|obey]]**
-  * **[[:sw:obs:notes:key-terms:gods-law|God's laws]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:good|Good (Mwema)]]**
+  * **[[:sw:obs:notes:key-terms:teacher|teacher (mwalimu)]]**
+  * **[[:sw:obs:notes:key-terms:eternal-life|eternal life (uzima wa milele)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
+  * **[[:sw:obs:notes:key-terms:gods-law|God's laws (sheria za Mungu)]]**
+
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
