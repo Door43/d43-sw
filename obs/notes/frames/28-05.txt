@@ -1,18 +1,15 @@
-===== Not Willing to Obey [28-05] =====
+===== Not Willing to Obey [28-05] Hakuwa Tayari Kutii =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink&}}
 
 When the young man **heard what Jesus said**, he became very sad, because he was very rich and did not want to give away all the things he possessed. He turned and went away from Jesus.
 
+Wakati yule kijana **alisikia kile Yesu alisema**, alikasirika sana, kwa sababu alikuwa tajiri sana, na hakutaka kutoa zile vitu vyote alikuwa anamiliki. Akageuka na akaenda mbali na Yesu.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-
-
-===== Translation Notes: =====
-
-  * **heard what Jesus said** - That is, "heard Jesus tell him to give away what he owned."
-
-
+  * **heard what Jesus said**  - That is, "heard Jesus tell him to give away what he owned."
+  * **alisikia kile Yesu alisema**  - Hiyo ni, "alisikia Yesu akimwambia apeana kile anamiliki."
 **[[:sw:obs:notes:frames:28-04|<<]] | [[:sw:obs:notes:28|Up]] | [[:sw:obs:notes:frames:28-06|>>]]**
