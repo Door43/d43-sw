@@ -1,22 +1,22 @@
-===== What Else Must I Do? [28-03] =====
+===== What Else Must I Do? [28-03] Kitu Gani Kingine Lazima Nifanye? =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?nolink&}}
 
 But the young man said, “I have **obeyed** all these **laws ever since I was a boy**. **What do I still need to do** in order to live forever?” **Jesus** looked at him and **loved him**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/obey|obeyed]]**
-  * **[[:sw:obs:notes:key-terms/gods-law|laws]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/love|loved]]**
+Lakini yule kijana akasema, "**Nimetii ** sheria hizi zote **tangu nikiwa kijana mdogo**. **Je! Bado nina haja ya kufanya nini** ili niiishi milele?" **Yesu** akamtazama na **akampenda**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:obey|obeyed (alitii)]]**
+  * **[[:sw:obs:notes:key-terms:gods-law|laws (sheria)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:love|loved (akampenda)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **ever since I was a boy** - Another way to say this would be, "from the time I was a child until now."
-  * **What do I still need to do?** - That is, "What else do I need to do" or, "What do I need to do in addition to these?"
-  * **loved him** - Jesus had compassion on him. Choose a word for love that is consistent with the kind of love God has for people.
-
-
+  * **ever since I was a boy**  - Another way to say this would be, "from the time I was a child until now."
+  * **tangu nilipokuwa kijana mdogo**  - Njia ingine ya kusema hii inaweza kuwa, "tangu nilipokuwa mtoto hadi sasa."
+  * **What do I still need to do?**  - That is, "What else do I need to do" or, "What do I need to do in addition to these?"
+  * **Ninabidi bado nifanye nini?**  - Hiyo ni, "Kitu gani kingine nina haja ya kufanya" ama, "Ninahitaji kufanya nini pamoja na haya."
+  * **loved him**  - Jesus had compassion on him. Choose a word for love that is consistent with the kind of love God has for people.
+  * **akampenda**  - Yesu alimuonea huruma. Tafuta neno la upendo ambalo linaonyesha vyema upendo Mungu alio nao kwa watu wake.
 **[[:sw:obs:notes:frames:28-02|<<]] | [[:sw:obs:notes:28|Up]] | [[:sw:obs:notes:frames:28-04|>>]]**
