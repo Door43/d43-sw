@@ -1,19 +1,19 @@
-===== All Things Are Possible [28-08] =====
+===== All Things Are Possible [28-08] Mambo Yote Yawezekana =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink&}}
 
 **Jesus** looked at the **disciples** and said, “**With people this is impossible**, but **with God**, **all things are possible**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
+**Yesu** aliwatazama** wanafunzi** na kusema, **"Kwa wanadamu hii haiwezekani,** lakini **kwa Mungu, mambo yote yawezekana."**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **With people this is impossible** - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
-  * **with God, all things are possible** - This could also be translated as, "God is able to do anything, even save a rich person" or, "God is able to do impossible things, so he can save even a rich person."
-
-
+  * **With people this is impossible**  - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
+  * **Kwa wanadamu hiyo haiwezekani**  - Hiyo ni, "haiwezekani watu kufanya hivi" ama, "binadamu tu hawawezi kujiokoa."
+  * **with God, all things are possible**  - This could also be translated as, "God is able to do anything, even save a rich person" or, "God is able to do impossible things, so he can save even a rich person."
+  * **kwa Mungu, mambo yote yawezekana**  - Hii inaweza kutafsiriwa kama, "Mungu anaweza kufanya lolote, hata kuokoa tajiri" ama, "Mungu anaweza mambo ambayo hayawezekani, kwa hivyo anaweza kukoa hata mtu aliye tajiri."
 **[[:sw:obs:notes:frames:28-07|<<]] | [[:sw:obs:notes:28|Up]] | [[:sw:obs:notes:frames:28-09|>>]]**
