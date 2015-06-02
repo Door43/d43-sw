@@ -1,19 +1,20 @@
-===== Who Can Be Saved? [28-07] =====
+===== Who Can Be Saved? [28-07] Nani Anaweza Kuokoka? =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink&}}
 
 When the **disciples** heard what Jesus said, they were **shocked** and said, “Then **who can be saved**?”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/save|saved]]**
+Wakati **wanafunzi** walisikia kile Yesu alisema, **walishangaa** na kusema, "**Nani basi anaweza Kuokolewa?**"
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:save|saved (kuokolewa)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **shocked** - That is, "greatly astonished."
-  * **who can be saved** - This could also be translated as, "If even rich people cannot be saved, how can anyone else be saved?" Many people believed that being rich was a sign of God's favor.
-  * **saved** - Here it refers to being saved from God's judgment and condemnation for sin and being allowed to be a citizen in God's kingdom.
-
-
+  * **shocked**  - That is, "greatly astonished."
+  * **walishangaa**  - Hiyo ni, "walitishika sana."
+  * **who can be saved**  - This could also be translated as, "If even rich people cannot be saved, how can anyone else be saved?" Many people believed that being rich was a sign of God's favor.
+  * **nani anweza kuokolewa**  - Hii inaweza kutafsiriwa kama, "Kama hata watu matajiri hawawezi kuokolewa, itawezekana je mtu mwingine kuokolewa?"
+  * **saved**  - Here it refers to being saved from God's judgment and condemnation for sin and being allowed to be a citizen in God's kingdom.
+  * **kuokolewa**  - Hii inaeleza kuhusu kuokolewa kutoka kwa hukumu na lawama ya Mungu kwa sababu ya dhambi na kuruhusiwa kuwa raia wa katika ufalme wa Mungu.
 **[[:sw:obs:notes:frames:28-06|<<]] | [[:sw:obs:notes:28|Up]] | [[:sw:obs:notes:frames:28-08|>>]]**
