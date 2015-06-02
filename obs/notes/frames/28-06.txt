@@ -1,20 +1,21 @@
-===== The Camel and the Needle [28-06] =====
+===== The Camel and the Needle [28-06] Ngamia na Sindano =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
 Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
+Kisha **Yesu** akaambia **wanafunzi** wake, "Ni ngumu sana kwa watu matajiri **kuingia ufalme wa Mungu!** Ndio, ni rahisi **ngamia** kupitia kwa **tundu la sindano** kuliko tajiri kuingia ufalme wa Mungu."
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom of God (ufalme wa Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **enter the kingdom of God** - This can also be translated as, "become a citizen in God's kingdom."
-  * **camel** - Camels are very large animals that are often used to carry heavy loads. If camels are not known in your language area, a phrase such as, "very large animal" or, "beast of burden" could be used. If you choose to substitute the name of some other large animal, make sure that the animal would have been known by the people Jesus was talking to, such as, "ox" or, "donkey."
-  * **eye of a needle** - This refers to the tiny hole in the end of a sewing needle. The idea of something as large as a camel going through the eye of a needle is intended to represent something that is impossible.
-
-
+  * **enter the kingdom of God**  - This can also be translated as, "become a citizen in God's kingdom."
+  * **kuingia ufalme wa Mungu**  - Hii inaweza kutafsiriwa kama, "kuwa raia katika ufalme wa Mungu."
+  * **camel**  - Camels are very large animals that are often used to carry heavy loads. If camels are not known in your language area, a phrase such as, "very large animal" or, "beast of burden" could be used. If you choose to substitute the name of some other large animal, make sure that the animal would have been known by the people Jesus was talking to, such as, "ox" or, "donkey."
+  * **ngamia**  - Ngamia ni mnyama aliye mkubwa sana na anabeba mizigi mizito. Kama ngamia hazijulikani katika lugha inayotumika eneo la kwenu, msemo kama hivi, "mnyama mkubwa sana" ama, "mnyama wa kubeba mizigo" inaweza tumika. Ukichagua kutumia jina la mnyama mwingine mkubwa, hakikisha huyo mnyama angejulikana na watu ambao Yesu alikuwa anawaongelesha, kama, "ng'ombe" au, "punda."
+  * **eye of a needle**  - This refers to the tiny hole in the end of a sewing needle. The idea of something as large as a camel going through the eye of a needle is intended to represent something that is impossible.
+  * **tundu la sindano**  - Hii inaongea kuhusu shimo ndogo katika sehemu ya mwisho ya sindano la kushona. Wazo la mnyama aliyemkubwa kama ngamia kupitia kwa tundu la sindano ina nia ya kuakilisha kitu ambacho hakiwezekani.
 **[[:sw:obs:notes:frames:28-05|<<]] | [[:sw:obs:notes:28|Up]] | [[:sw:obs:notes:frames:28-07|>>]]**
