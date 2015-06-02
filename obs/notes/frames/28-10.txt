@@ -12,10 +12,15 @@
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **has left**  - That is, "has left behind" or, "has given up" or, "has counted as less important than God."
-  * ameacha - Hiyo ni, "ameacha nyuma" ama, "
+  * **ameacha**  - Hiyo ni, "ameacha nyuma" ama, "walisalimisha" ama, "wamehesabu kuwa si ya muhimu kuliko Mungu."
   * **for my sake**  - This may also be translated as, "because of me" or, "on my account."
+  * **kwa ajili yangu **- Hii inaweza kutafsiriwa kama, "kwa sababu yangu" ama, "kwa ajili yangu."
   * **100 times more**  - That is, "very much more than he had before."
+  * **mara 100 zaidi **- Hiyo ni, "nyingi zaidi kuliko ile walikuwa nayo mbeleni."
   * **many who are first will be last**  - That is, "many people who are important now, will not be important then."
+  * **wengi waliyo mbele watakuwa nyuma**  - Hiyo ni, "watu wengi ambao ni wa muhimu sasa, hawatakuwa wa muhimu wakati ule."
   * **many who are last will be first**  - That is, "many people who are considered to not be very important on earth will be considered very important in heaven" or, "Many people who are considered now to be of little value on earth will be highly valued in heaven."
+  * **wengi walio nyuma watakuwa mbele**  - Hiyo ni, "watu wengi wasiohesabiwa kuwa wa muhimu sana katika dunia watahesabiwa wa muhimu sana mbinguni" ama, "Watu wengi ambao sasa wanahesabiwa kuwa wa dhamani kidogo duniani watadhaminiwa sana mbinguni."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * //Hadithi ya Biblia kutoka kwa//  - Marejeleo haya yaweza kuwa na tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:28-09|<<]] | [[:sw:obs:notes:28|Up]] | [[:sw:obs:notes:frames:29-01|>>]]**
