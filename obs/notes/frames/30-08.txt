@@ -1,19 +1,20 @@
-===== Everyone Ate [30-08] =====
+===== Everyone Ate [30-08] Kila Mtu Alikula =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
 Then **Jesus broke the bread and the fish** into pieces. He gave the pieces to his **disciples** to give to the people. The disciples kept passing out the food, and **it never ran out**! All the people ate and were satisfied.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
+Kisha **Yesu akamega ule mkate na samaki ** ikawa vipande vipande. Akawapa zile vipande **wanafunzi** wake ili waweze kuwapa watu. Wanafunzi waliendelea na kupitisha ile chakula, **na haikuisha! ** Watu wote walikula na wakashiba.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **broke the bread and the fish** - That is, "tore the bread and the fish."
-  * **it never ran out** - Another way to say this would be, "there was always more left."
-  * **were satisfied** - That is, "were no longer hungry" or, "were not hungry any more."
-
-
+  * **broke the bread and the fish**  - That is, "tore the bread and the fish."
+  * **alimega ile mkate na ile samaki**  - Hiyo ni, "alikata kat ile mkate na samaki."
+  * **it never ran out**  - Another way to say this would be, "there was always more left."
+  * **haikuisha**  - Njia ingine ya kusema hii inaweza kuwa, "kila wakati kulikuwa na mabaki."
+  * **were satisfied**  - That is, "were no longer hungry" or, "were not hungry any more."
+  * **walishiba **- Hiyo ni, "hawakuwa na njaa tena" ama, "njaa yao ikafika mwisho."
 **[[:sw:obs:notes:frames:30-07|<<]] | [[:sw:obs:notes:30|Up]] | [[:sw:obs:notes:frames:30-09|>>]]**
