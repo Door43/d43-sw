@@ -1,20 +1,22 @@
-===== The King Heard [29-07] =====
+===== The King Heard [29-07] Mfalme Alisikia =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&}}
 
 “Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/servant|servants]]**
-  * **[[:sw:obs:notes:key-terms/king|king]]**
+"Wengine wa **watumishi** waliona **kile kilifanyika** na **wakasumbuliwa sana**. Walienda kwa **mfalme** na kumuambia **kila kitu.**"
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
+  * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **what had happened** - That is, "that the servant had refused to cancel the other servant's debt and had put him into prison."
-  * **were greatly disturbed** - That is, "deeply grieved" or, "very distressed."
+  * (Yesu anaendelea na hadithi.)
+  * **what had happened**  - That is, "that the servant had refused to cancel the other servant's debt and had put him into prison."
+  * **kile kilifanyika**  - Hiyo ni, "Kuwa yule mtumishi alikataa kufutilia mbali deni aliyo kuwa anadai yule mtumishi mwingine na akamuweka gerezani."
+  * **were greatly disturbed**  - That is, "deeply grieved" or, "very distressed."
+  * **walisumbuliwa****sana**  - Hiyo ni, "kuwa na huzuni kubwa" ama, "wakawa na shinda sana."
   * **everything**–That is, "they told the king what the servant had done to his fellow servant."
-
-
+  * **kila kitu**  - Hiyo ni, "walimuambia mfalme kile yule mtumishi alifanya na mtumishi mwenzake."
 **[[:sw:obs:notes:frames:29-06|<<]] | [[:sw:obs:notes:29|Up]] | [[:sw:obs:notes:frames:29-08|>>]]**
