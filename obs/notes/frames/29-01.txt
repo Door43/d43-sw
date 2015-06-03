@@ -1,24 +1,27 @@
-===== How Many Times? [29-01] =====
+===== How Many Times? [29-01] Ni Mara Ngapi? =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
 **One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/lord|Master]]**
-  * **[[:sw:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:sw:obs:notes:key-terms/sin|sins]]**
+**Siku moja**, **Petero** alimuuliza **Yesu, "Bwana**, ni mara ngapi **nitasamehe ndugu yangu** **anaponitendea dhambi?** Mpaka mara saba? Yesu akasema, "**Sio mara saba, lakini saba mara saba!" Kwa hii Yesu alimanisha ** kuwa inatupasa kusamehe kila wakati. Kisha Yesu akapeana hadithi inayofuata.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgive (kusamehe)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **my brother** - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
-  * **sins against me** - This could also be translated as, "does something wrong against me."
-  * **Not seven times, but seventy times seven!** - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us.
-  * **By this, Jesus meant** - That is, "When Jesus said this he meant."
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **Siku moja**  - Huu msemo inatanguliza tukio lililofanyika siku zilizopita, lakini halisemi wakati wake haswa. Lugha nyingi ziko na njia sawa ya kuanzia hadithi ya kweli.
+  * **my brother**  - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
+  * **ndugu yangu**  - Hili neno wakati mwingine lilijumulisha watu ambao wandugu kabisa, lakini watu walio na uhusiano mkubwa kama wa kindini, kabila, na kadhalika.
+  * **sins against me**  - This could also be translated as, "does something wrong against me."
+  * **tenda dhambi kinyume nami**  - Hii inaweza kutafsiriwa kama, "tenda kitu kibaya kwangu."
+  * **Not seven times, but seventy times seven!**  - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us.
+  * **Sio mara saba, lakini saba mara saba!**  - Hii inaweza kutafsiriwa kama, "Haupaswi kusamehe mara saba tu, lakini unastahili kusamehe mara sabini ukijumuisha na saba." Yesu hakuwa anaongea kuhusu nambari halisi. Alikuwa anasema inatupasa kusamehe kila wakati wanapotenda dhambi kinyume yetu.
+  * **By this, Jesus meant**  - That is, "When Jesus said this he meant."
+  * **Kwa hii, Yesu alimanisha**  - Hiyo ni, "Wakati Yesu alisema hii alimaanisha."
 **[[:sw:obs:notes:frames:28-10|<<]] | [[:sw:obs:notes:29|Up]] | [[:sw:obs:notes:frames:29-02|>>]]**
