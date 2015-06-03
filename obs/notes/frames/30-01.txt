@@ -1,20 +1,17 @@
-===== A Quiet Place [30-01] =====
+===== A Quiet Place [30-01] Mahali pa Utulivu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink&}}
 
 **Jesus** sent his **apostles** to **preach** and to teach people in many different villages. When they returned to where Jesus was, they told him what they had done. Then Jesus invited them to go with him to a **quiet place** across the lake to rest for a while. So, they got into a boat and went to the other side of the lake.
 
+**Yesu** aliwatuma **mitume** wake **kuhubiri** na kufundisha watu kwa vijiji tofauti. Wakati walirudi pahali Yesu alikuwa, walimwambia kile wamefanya. Kisha Yesu akawaalika waende pamoja naye **mahali pa utulivu** pande ile ingine ya bahari ili mapumzike kwa muda. Kwa hivyo, wakaingia kwa mashua na kuenda pande ile ingine ya bahari.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:apostle|apostles (mitume)]]**
+  * **[[:sw:obs:notes:key-terms:preach|preach (kuhubiri)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:sw:obs:notes:key-terms/preach|preach]]**
-
-
-===== Translation Notes: =====
-
-  * **quiet place** - This refers to a place with few people where they could be by themselves.
-
-
+  * **quiet place**  - This refers to a place with few people where they could be by themselves.
+  * **mahali pa utulivu **- Hii inaeleza kuhusu mahali kuna watu wachache mahali ambapo wanweza kua peke yao.
 **[[:sw:obs:notes:frames:29-09|<<]] | [[:sw:obs:notes:30|Up]] | [[:sw:obs:notes:frames:30-02|>>]]**
