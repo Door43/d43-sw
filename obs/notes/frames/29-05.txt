@@ -1,17 +1,17 @@
-===== The Small Debt [29-05] =====
+===== The Small Debt [29-05] Ndeni iliyo Ndogo =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&}}
 
 “But when the **servant** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/servant|servant]]**
+"Lakini wakati yule **mtumishi** alitoka kwa mfalme, alienda kwa **mtumishi mwenzake** aliyekuwa na deni yake iliyotoshana na mshahara wa miezi minne. Yule mtumishi alimkamata mtumishi mwenzake na kusema, 'Lipa deni ambayo ninakudai!'"
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **fellow servant** - This refers to another man who was also a servant of the king.
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **fellow servant**  - This refers to another man who was also a servant of the king.
+  * **mtumishi mwenzake**  - Hii inaeleza kuhusu mwanamme mwingine ambaye pia alikuwa mtumishi wa yule mfalme.
 **[[:sw:obs:notes:frames:29-04|<<]] | [[:sw:obs:notes:29|Up]] | [[:sw:obs:notes:frames:29-06|>>]]**
