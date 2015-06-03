@@ -1,17 +1,16 @@
-===== Five Loaves and Two Fish [30-05] =====
+===== Five Loaves and Two Fish [30-05] Mikate Tano na Samaki Mbili =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&}}
 
 But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How can we do that**? We only have five loaves of bread and two small fish.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
+Lakini **Yesu** akawambia **wanafunzi,** "Nyinyi wapeni kitu wakule!" Wakajibu, "**Tutaweza je kufanya hivyo**?  Tuko na mikate mitano na samaki mbili ndogo peke yake."
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **How can we do that?** - This could be translated as, "We cannot do that!" or, "It is impossible to do that!" The disciples were not asking an actual question. Rather, they were strongly expressing that they did not think this was possible.
-
-
+  * **How can we do that?**  - This could be translated as, "We cannot do that!" or, "It is impossible to do that!" The disciples were not asking an actual question. Rather, they were strongly expressing that they did not think this was possible.
+  * **Tutaweza je kufanya hivyo?**  - Hii inaweza kutafsiriwa kama, "Hatuwezi kufanya hivyo!" ama, "Haiwezekani kufanya hivyo!" Wanafunzi hawakuwa wanauliza swali hasa. Lakini, walikuwa wanaeleza kwa uzito kuwa hawaamini hiyo inawezekana.
 **[[:sw:obs:notes:frames:30-04|<<]] | [[:sw:obs:notes:30|Up]] | [[:sw:obs:notes:frames:30-06|>>]]**
