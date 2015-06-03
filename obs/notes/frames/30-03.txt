@@ -1,21 +1,22 @@
-===== Jesus Taught and Healed People [30-03] =====
+===== Jesus Taught and Healed People [30-03] Yesu Alifundisha na Kuponya Watu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink&}}
 
 The crowd had over 5,000 men in it, **not counting the women and children**. **Jesus** felt great compassion towards the people. **To Jesus**, these people were **like sheep without a shepherd**. So he taught them and **healed** the people among them who were sick.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/sheep|sheep]]**
-  * **[[:sw:obs:notes:key-terms/shepherd|shepherd]]**
-  * **[[:sw:obs:notes:key-terms/heal|healed]]**
+Ule umati ulikuwa zaidi ya watu 5,000, **bila kuhesabu wanawake na watoto.** **Yesu** aliwaona huruma kwa ajili ya hawa watu. **Kwa Yesu**, hawa watu walikuwa **kama kondoo ambaye hana mchungaji**. Kwa hivyo alifundisha na **kuponya** watu waliokuwa wagonjwa kati yao.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:sheep|sheep (kondoo)]]**
+  * **[[:sw:obs:notes:key-terms:shepherd|shepherd (mchungaji)]]**
+  * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **not counting the women and children** - That is, "not counting the women and children who were with them" or, "and there were also women and children in addition to the men." Another way to translate this could also be, "in addition, there were many women and children."
-  * **To Jesus** - That is, "Jesus knew that" or, "Jesus understood that."
-  * **like sheep without a shepherd** - This could be translated as, "vulnerable and lost, just like sheep are when they have no shepherd to take care of them."
-
-
+  * **not counting the women and children**  - That is, "not counting the women and children who were with them" or, "and there were also women and children in addition to the men." Another way to translate this could also be, "in addition, there were many women and children."
+  * **Bila kuhesabu wanawake na watoto**  - Hiyo ni, "bila kuhesabu wanawake na watoto waliokuwa nao" ama, "na pia kulikuwa na wanawake na watoto pamoja na wale wanamme." Njia ingine ya kutafsiri hii inaweza kuwa, "pamoja nao kulikuwa na wanawake wengi na watoto."
+  * **To Jesus**  - That is, "Jesus knew that" or, "Jesus understood that."
+  * **Kwa Yesu**  - Hiyo ni, "Yesu alijua kuwa" ama, "Yesu alielewa hivyo."
+  * **like sheep without a shepherd**  - This could be translated as, "vulnerable and lost, just like sheep are when they have no shepherd to take care of them."
+  * **kama kondoo bila mchungaji **- Hii inaweza kutafsiriwa kama, "inaishi katika mazingira magumu na imepotea, kama kondoo ambao hawana mchungaji wa kuwashugulikia.
 **[[:sw:obs:notes:frames:30-02|<<]] | [[:sw:obs:notes:30|Up]] | [[:sw:obs:notes:frames:30-04|>>]]**
