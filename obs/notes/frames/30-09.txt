@@ -1,16 +1,15 @@
-===== More than Enough [30-09] =====
+===== More than Enough [30-09] Zaidi ya Kutosha =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink&}}
 
 After that, the **disciples** collected the food that had not been eaten and it was enough to fill twelve baskets! All the food came from the five loaves of bread and two fish.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
+Baadaye, **wanafunzi** walichukua chakula iliyobaki na ilikuwa inatosha kujaa vikapu kumi na mbili! Chakula hiyo yote ilitoka kwa ile mikate tano na samaki mbili.
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka //- Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:30-08|<<]] | [[:sw:obs:notes:30|Up]] | [[:sw:obs:notes:frames:31-01|>>]]**
