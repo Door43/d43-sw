@@ -1,20 +1,17 @@
-===== Jesus Blessed the Food [30-07] =====
+===== Jesus Blessed the Food [30-07] Yesu Alibariki ile Chakula =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink&}}
 
 Then **Jesus** took the five loaves of bread and the two fish, looked up to **heaven**, and thanked **God** for the food.
 
+Kisha **Yesu** akachukua ile mikate mitano na samaki mbili, akatazama juu **binguni**, na kumshukuru **Mungu** kwa sababu hiyo chakula.
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven (binguni)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
+  * //(Hakuna maelezo katika hii sehemu.)//
 **[[:sw:obs:notes:frames:30-06|<<]] | [[:sw:obs:notes:30|Up]] | [[:sw:obs:notes:frames:30-08|>>]]**
