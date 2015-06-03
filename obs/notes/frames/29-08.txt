@@ -1,24 +1,27 @@
-===== The Wicked Servant [29-08] =====
+===== The Wicked Servant [29-08] Mtumishi Mbaya =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
 “The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/king|king]]**
-  * **[[:sw:obs:notes:key-terms/servant|servant]]**
-  * **[[:sw:obs:notes:key-terms/forgive|forgave]]**
-  * **[[:sw:obs:notes:key-terms/beg|begged]]**
-  * **[[:sw:obs:notes:key-terms/evil|wicked]]**
+"**Mfalme alimuita yule mtumishi ** na kusema, 'Wewe mtumishi mbaya! **Nilikusamehe** deni yako kwa sababu **uliniomba**. **Ulipaswa kufanya hivyo hivyo.' ** Mfalme akawa na hasira kiasi kwamba **alimtupa** yule mtumishi **mbaya** gerezani mpaka wakati atamlipa deni yake yote."
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+  * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgave (alimsamehe)]]**
+  * **[[:sw:obs:notes:key-terms:beg|begged (aliomba)]]**
+  * **[[:sw:obs:notes:key-terms:evil|wicked (mbaya)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **called the servant** - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
-  * **begged me** - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
-  * **You should have done the same** - That is, "You should have forgiven the man who owed you, just as I forgave you."
-  * **threw** - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:sw:obs:notes:frames:29-06|[29-06]]]**.
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **called the servant**  - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
+  * **alimuita yule mtumishi **- Hiyo ni, "aliamuru mtumishu yule aje kwake" ama, "aliamuru walinzi wake wamlete yule mtumishi kwake."
+  * **begged me**  - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
+  * **aliniomba **- Hii inaweza kutafsiriwa kama, "alinisihi mimi" ama, "upesi akaniuliza nione huruma."
+  * **You should have done the same**  - That is, "You should have forgiven the man who owed you, just as I forgave you."
+  * **ungefanya hivyo hivyo**  - Hiyo ni, "Ungemsamehe huyo mwanamme uliyekuwa unadai, kama tu vile nilikusamehe."
+  * **threw**  - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:sw:obs:notes:frames:29-06|[29-06]]]**.
+  * **alimtupa**  - Hiyo ni, "aliamuru walinzi wake wamuweke." Angalia vile "tupa" ilitafsiriwa pale **[29-06]. **
 **[[:sw:obs:notes:frames:29-07|<<]] | [[:sw:obs:notes:29|Up]] | [[:sw:obs:notes:frames:29-09|>>]]**
