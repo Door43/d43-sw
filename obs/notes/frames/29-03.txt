@@ -1,20 +1,21 @@
-===== Not Able to Repay [29-03] =====
+===== Not Able to Repay [29-03]  Kukosa Uwezo wa Kulipa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&}}
 
 “Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/servant|servant]]**
-  * **[[:sw:obs:notes:key-terms/king|king]]**
-  * **[[:sw:obs:notes:key-terms/servant|slaves]]**
+"Kwa sababu yule **mtumishi** hangeweza **kulipa ile deni**, **mfalme** akasema, 'Muuze huyu mtu na jamii yake **wawe watumwa ili ukalipe hii deni.'"**
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
+  * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+  * **[[:sw:obs:notes:key-terms:servant|slaves (mtumwa)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **pay the debt** - That is, "pay back the money he owed to the king."
-  * **to make payment on his debt** - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **pay the debt**  - That is, "pay back the money he owed to the king."
+  * **lipa deni **- Hiyo ni, "arundishe pesa ile inadaiwa na mfalme."
+  * **to make payment on his debt**  - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
+  * **iwe malipo ya deni yake**  - Hii inaweza kutafsiriwa kama, "na utumie pesa itakayopatikana kutoka kwa kuziuza ili ilipe sehemu ya kile ninamdai."
 **[[:sw:obs:notes:frames:29-02|<<]] | [[:sw:obs:notes:29|Up]] | [[:sw:obs:notes:frames:29-04|>>]]**
