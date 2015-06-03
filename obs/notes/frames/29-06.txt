@@ -1,19 +1,21 @@
-===== To Prison [29-06] =====
+===== To Prison [29-06] Gerezani =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&}}
 
 “The **fellow servant fell on his knees** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But instead, the servant **threw his fellow servant into prison** until he could pay the debt.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/servant|servant]]**
+"Yule **mtumishi mwenzake alianguka kwa magoti** na kusema, 'Tafadhali nivumilie, na nitakulipa kile unacho nidai.' Lakini badala ya hiyo, yule mtumishi a**limuweka**** mtumishi mwenzake gerezani ** mpaka wakati atalipa ile deni."
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **fellow servant** - Translate this phrase in the same way as in **[[:sw:obs:notes:frames:29-05|[29-05]]]**.
-  * **fell on his knees** - This phrase has the same meaning as in **[[:sw:obs:notes:frames:29-04|[29-04]]]**.
-  * **threw his fellow servant into prison** - This could also be translated as, "had the man put into prison." The word "threw" is figurative and means it was done in a forceful way.
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **fellow servant**  - Translate this phrase in the same way as in **[[:sw:obs:notes:frames:29-05|[29-05]]]**.
+  * **mtumishi mwenzake**  - Tafsiri hii msemo sawa na uvyotafsiri pale **[29-05]. **
+  * **fell on his knees**  - This phrase has the same meaning as in **[[:sw:obs:notes:frames:29-04|[29-04]]]**.
+  * **alianguka kwa mabega yake **- Huu msemo ina maana sawa na pale **[29-04]. **
+  * **threw his fellow servant into prison**  - This could also be translated as, "had the man put into prison." The word "threw" is figurative and means it was done in a forceful way.
+  * **alitupa mtumishi mwenzake gerezani **- Hii inaweza kutafsiriwa kama, "akafanya yule mwanamme awekwe gerezani." Neno "alitupa" linatumiwa kama mfano na linamaanisha ilifanywa kwa njia ya fujo.
 **[[:sw:obs:notes:frames:29-05|<<]] | [[:sw:obs:notes:29|Up]] | [[:sw:obs:notes:frames:29-07|>>]]**
