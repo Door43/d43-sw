@@ -1,18 +1,18 @@
-===== The Man Was Healed [32-09] =====
+===== The Man Was Healed [32-09] Yule Mtu Alipona =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink&}}
 
 When the people who took care of the pigs saw **what happened**, they ran into the town and told everyone that they met what **Jesus** had done. The people from the town came and saw the man **who used to have the demons**. He was sitting calmly, wearing clothes, and acting like a normal person.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/demon|demons]]**
+Wakati watu waliokuwa wanalinda zile nguruwe waliona **kile kimefanyika,** walikimbia mjini na kuambia kila mtu kile **Yesu** amefanya. Watu kutoka mjini walikuja na wakamuona yule mtu **ambaye alikuwa na mapepo**. Alikuwa anaketi kwa utulivu, amevaa manguo na anatenda kama mtu wa kawaida.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:demon|demons (mapepo)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **what happened** - That is, "how Jesus sent the demons out of the man and into the pigs."
-  * **who used to have the demons** - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
-
-
+  * **what happened**  - That is, "how Jesus sent the demons out of the man and into the pigs."
+  * **kile kilifanyika**  - Hiyo ni, "vile Yesu alifukuza zile mapepo kutoka kwa yule mtu na kuzituma kwa nguruwe."
+  * **who used to have the demons**  - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
+  * **Aliyekuwa na mapepo**  - Hiyo ni, "ambaye ndani yake mapepo yalikuwa yanaishi" ama, "aliyekuwa anaongozwa na mapepo."
 **[[:sw:obs:notes:frames:32-08|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:32-10|>>]]**
