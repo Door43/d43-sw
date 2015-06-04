@@ -1,24 +1,21 @@
-====== Peter Sank [31-07] ======
+====== Peter Sank [31-07] Petero Alizama ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink&}}
 
 Then **Peter** became afraid and began to sink in the water. He cried out, “**Master**, **save** me!” **Jesus** reached out right away and grabbed him. Then he said to Peter, “**You man of little faith**, **why did you doubt**?”
 
+Kisha **Petero** akaogopa na akaanza kuzama kwa maji. Akapasa sauti, **"Bwana, niokoe** mimi!" Yesu akanyoosha mkono wake na akamshika. Kisha akamwambia Petero, **"Ewe mtu wa imani haba, kwa nini ulitia shaka?"**
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
+  * **[[:sw:obs:notes:key-terms:save|save (niokoe)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:faith|faith (imani)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **[[:sw:obs:notes:key-terms:peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms:lord|Master]]**
-  * **[[:sw:obs:notes:key-terms:save|save]]**
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms:faith|faith]]**
-
-
-===== Translation Notes: =====
-
-  * **You man of little faith** - This may also be translated as, "You have so little faith in me!" or, "You do not trust me very much!"
-  * **why did you doubt?** - That is, "You should not have doubted me!" or, "You should have trusted me completely." This isn't a real question, but a way in this language to make a strong point. In many languages, it works better to express this as a statement.
-
-  
-
+  * **You man of little faith**  - This may also be translated as, "You have so little faith in me!" or, "You do not trust me very much!"
+  * **Ewe mtu wa imani haba**  - Hii inaweza kutafsiriwa kama, "Wewe uko na imani kidogo sana na mimi!" ama, "Wewe hauna tumaini na mimi sana!"
+  * **why did you doubt?**  - That is, "You should not have doubted me!" or, "You should have trusted me completely." This isn't a real question, but a way in this language to make a strong point. In many languages, it works better to express this as a statement.
+  * **kwa nini ulitia shaka**  - Hiyo ni, "hukupaswa kuwa na mashaka nami!" ama, "ulipaswa unitumainie kabisa." Hili si swali hasa, lakini ni njia katika lugha hii ya kueleza fikra vizuri. Katika lugha zingine, itakuwa vyema kuifanya hii kuwa msemo.
 **[[:sw:obs:notes:frames:31-06|<<]] | [[:sw:obs:notes:31|Up]] | [[:sw:obs:notes:frames:31-08|>>]]**
