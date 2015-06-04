@@ -1,18 +1,17 @@
-===== Go Home [32-11] =====
+===== Go Home [32-11] Enda Nyumbani =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink&}}
 
 But **Jesus** said to him, “No, I want you to go home and tell your friends and family about everything that **God** has done for you and **how he has had mercy on you**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/mercy|mercy]] on you**."
+Lakini **Yesu** akawaambia, "Hapana, nataka uende nyumbani na kuwaambia marafiki na jamii kuhusu kila kitu **Mungu** amekufanyia na **vile amekuonea huruma."**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:mercy|mercy (huruma)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **how he has had mercy on you** - This can be translated as, "how he has shown mercy to you" or, "that he has been merciful to you."
-
-
+  * **how he has had mercy on you**  - This can be translated as, "how he has shown mercy to you" or, "that he has been merciful to you."
+  * **na vile amekuonea huruma**  - Hii inaweza kutafsiriwa kama, "vile amekuonyesha huruma" ama, "kuwa amekuonyesha huruma."
 **[[:sw:obs:notes:frames:32-10|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:32-12|>>]]**
