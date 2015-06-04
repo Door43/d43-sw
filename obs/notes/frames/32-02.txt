@@ -1,18 +1,18 @@
-===== A Man with Evil Spirits [32-02] =====
+===== A Man with Evil Spirits [32-02] Mtu mwenye Maroho Chafu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink&}}
 
 When they reached the other side of the lake, **a demon-possessed man came running up to Jesus**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/demon-possessed|demon-possessed]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
+Walipofika upande ule mwingine wa bahari, **mtu aliyepagawa na mapepo akaja kwa Yesu anakimbia. **
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:demon-possessed|demon-possessed (aliyepagawa mapepo)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **a demon-possessed man** - That is, "a man who had demons in him" or, "a man who was controlled by evil spirits."
-  * **came running up to** - That is, "ran to" or, "ran and stopped in front of."
-
-
+  * **a demon-possessed man**  - That is, "a man who had demons in him" or, "a man who was controlled by evil spirits."
+  * **mtu aliyepagawa mapepo**  - Hiyo ni, "mtu ambaye alikuwa na mapepo ndani yake" ama, "mtu aliyeongozwa na maroho baya."
+  * **came running up to**  - That is, "ran to" or, "ran and stopped in front of."
+  * **akaja kwake anakimbia**  - Hiyo ni, "akakimbia kwa" ama, "akakimbia na kusimama mbele yake."
 **[[:sw:obs:notes:frames:32-01|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:32-03|>>]]**
