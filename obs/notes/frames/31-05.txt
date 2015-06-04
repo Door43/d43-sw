@@ -1,19 +1,19 @@
-===== Jesus Called Peter [31-05] =====
+===== Jesus Called Peter [31-05] Yesu Alimuita Petero =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&}}
 
-Then **Peter** said to **Jesus**, “**Master****Bold Text**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
-===== Important Terms: =====
+Then **Peter** said to **Jesus**, “**Master**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
 
-  * **[[:sw:obs:notes:key-terms/peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/lord|Master]]**
+Kisha **Petero** akamwambia **Yesu, "Bwana, kama ni wewe**, niamuru nije kwako juu ya maji." Yesu akamwambia Petero, **"Njoo!"**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **if it is you** - That is, "if it is really you, and not a ghost."
-  * **Come!** - That is, "Come here" or, "Come to me" or, "Come, walk to me."
-
-
+  * **if it is you**  - That is, "if it is really you, and not a ghost."
+  * **kama ni wewe**  - Hiyo ni, "kama kweli ni wewe, na si mzimu."
+  * **Come!**  - That is, "Come here" or, "Come to me" or, "Come, walk to me."
+  * **Njoo! **- Hiyo ni, "Kuja hapa" ama, "Kuja kwangu" ama, "Kuja, tembea uje kwangu."
 **[[:sw:obs:notes:frames:31-04|<<]] | [[:sw:obs:notes:31|Up]] | [[:sw:obs:notes:frames:31-06|>>]]**
