@@ -1,20 +1,22 @@
-===== Jesus Left [32-10] =====
+===== Jesus Left [32-10] Yesu Aliondoka =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-10.jpg?nolink&}}
 
 The **people** were very **afraid** and asked **Jesus** to leave. So Jesus got into the boat and **prepared** to leave. The man who used to have the demons **begged to go along with Jesus**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/beg|begged]]**
+**Watu waliogopa** sana na wakamuuliza **Yesu** aondoke. Kwa hivyo Yesu akaingia kwa mashua na **akajiandaa** kuondoka. Yule mtu ambaye aliwekwa huru kutoka kwa mapepo **akaomba aende na Yesu.**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:beg|begged (aliomba)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **people** - Some languages may prefer to say, "people from that region" or, "the Gerasene people."
-  * **afraid** - It may be better to say, "afraid because of what Jesus had done."
-  * **prepared** - That is, "was getting ready."
-  * **begged to go along with Jesus** - That is, "begged Jesus to let him go with him" or, "earnestly asked Jesus if he could go with him."
-
-
+  * **people**  - Some languages may prefer to say, "people from that region" or, "the Gerasene people."
+  * **watu**  - Lugha zingine zinaweza pendelea kusema, "watu wa eneo hilo" ama, "Watu wa Gesari."
+  * **afraid**  - It may be better to say, "afraid because of what Jesus had done."
+  * **waliogopa**  - Inaweza kuwa bora kusema, "waliogopa kwa sababu ya kile Yesu alifanya."
+  * **prepared**  - That is, "was getting ready."
+  * **alijiandaa**  - Hiyo ni, "alikuwa anajitayarisha."
+  * **begged to go along with Jesus**  - That is, "begged Jesus to let him go with him" or, "earnestly asked Jesus if he could go with him."
+  * **aliomba kwenda pamoja na Yesu**  - Hiyo ni, "alisihi Yesu amruhusu aende naye" ama, "kwa bidii aliuliza Yesu kama anaweza kuenda na yeye."
 **[[:sw:obs:notes:frames:32-09|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:32-11|>>]]**
