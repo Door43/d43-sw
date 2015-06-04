@@ -1,24 +1,26 @@
-===== The Son of God [31-08] =====
+===== The Son of God [31-08] Mwana wa Mungu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink&}}
 
 **When Peter and Jesus got into the boat**, **the wind** immediately stopped blowing and the water became calm. The **disciples** were amazed. They **worshiped** Jesus, saying to him, “**Truly, you are the Son of God**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/worship|worshiped]]**
-  * **[[:sw:obs:notes:key-terms/true|Truly]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son of God]]**
+**Wakati Petero na Yesu waliingia ndani ya mashua, ile upepo ** kwa ghafla ikakoma na maji ikatulia. **Wanafunzi ** wakashangaa. **Walimuabudu ** Yesu, wakisema kwake, **"Kweli, wewe ni Mwana wa Mungu."**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worshiped (waliabudu)]]**
+  * **[[:sw:obs:notes:key-terms:true|Truly (Kweli)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **When Peter and Jesus got into the boat, the wind** - It may be better to say, "Peter and Jesus got into the boat, and then the wind."
-  * **worshiped Jesus** - This could be translated as, "bowed down and worshiped Jesus." This word has the idea of physically bowing down in front of someone out of respect and reverence.
-  * **Truly you are the Son of God** - Other ways to say this would be, "You really are the Son of God" or, "It really is true that you are the Son of God."
+  * **When Peter and Jesus got into the boat, the wind**  - It may be better to say, "Peter and Jesus got into the boat, and then the wind."
+  * **Wakati Petero na Yesu waliingia kwa mashua, upepo**  - Yaweza kuwa vyema zaidi kusema, "Petero na Yesu waliingia kwa mashua, na kisha upepo."
+  * **worshiped Jesus**  - This could be translated as, "bowed down and worshiped Jesus." This word has the idea of physically bowing down in front of someone out of respect and reverence.
+  * **walimuabudu Yesu**  - Hii inaweza kutafsiriwa kama, "waliinama chini na kumuabudu Yesu." Hili neno lina maana ya kuinama chini mbele ya mtu kwa sababu ya kumcha na kumheshimu.
+  * **Truly you are the Son of God**  - Other ways to say this would be, "You really are the Son of God" or, "It really is true that you are the Son of God."
+  * **Kweli wewe ni Mwana wa Mungu**  - Njia zingine za kusema hii inaweza kuwa, "Wewe kweli ni Mwana wa Mungu" ama, "Ni kweli kabisa kuwa wewe ni Mwana wa Mungu."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:31-07|<<]] | [[:sw:obs:notes:31|Up]] | [[:sw:obs:notes:frames:32-01|>>]]**
