@@ -1,16 +1,14 @@
-===== The Pigs Drowned [32-08] =====
+===== The Pigs Drowned [32-08] Nguruwe Walizama =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink&}}
 
 The **demons** came out of the man and entered the pigs. The pigs ran down a steep bank into the lake and drowned. There were about 2,000 pigs in the **herd**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/demon|demons]]**
+Yale **mapepo ** yalitoka ndani ya yule mtu na kuingia kwa nguruwe. Zile nguruwe zilitelemka kwa ukingo wa bahari na kuzama. Zile nguruwe zilikuwa 2,000 katika **kikundi ** kile.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:demon|demons (mapepo)]]**
+===== Translation Notes (Maelezo ya Muhimu): =====
 
-===== Translation Notes: =====
-
-  * **herd** - That is, "herd of pigs" or, "group of pigs." Many languages have specific names for groups of animals, such as "flock of sheep," "herd of cattle," "pack of dogs," and "school of fish." Use a word that can appropriately be used for a large group of pigs.
-
-
+  * **herd**  - That is, "herd of pigs" or, "group of pigs." Many languages have specific names for groups of animals, such as "flock of sheep," "herd of cattle," "pack of dogs," and "school of fish." Use a word that can appropriately be used for a large group of pigs.
 **[[:sw:obs:notes:frames:32-07|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:32-09|>>]]**
