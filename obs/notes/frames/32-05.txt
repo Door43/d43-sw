@@ -1,17 +1,16 @@
-===== Jesus Commanded the Demons [32-05] =====
+===== Jesus Commanded the Demons [32-05] Yesu Aliamuru Mapepo =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-05.jpg?nolink&}}
 
 When the man came to **Jesus**, he **fell on his knees** in front of him. Jesus said to the **demon**, “Come out of this man!”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/demon|demon]]**
+Wakati huyu mtu alikuja kwa **Yesu**, **alianguka kwa magoti yake** mbele yake. Yesu akaambia ile pepo, "Toka ndani ya huyu mtu!"
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:demon|demon (pepo)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **fell on his knees** - That is, "quickly knelt down on the ground."
-
-
+  * **fell on his knees**  - That is, "quickly knelt down on the ground."
+  * **alianguka kwa magoti yake**  - Hiyo ni, "kwa haraka akapiga magoti kwa ardhi."
 **[[:sw:obs:notes:frames:32-04|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:32-06|>>]]**
