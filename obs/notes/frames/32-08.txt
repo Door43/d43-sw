@@ -11,4 +11,5 @@ Yale **mapepo ** yalitoka ndani ya yule mtu na kuingia kwa nguruwe. Zile nguruwe
 ===== Translation Notes (Maelezo ya Muhimu): =====
 
   * **herd**  - That is, "herd of pigs" or, "group of pigs." Many languages have specific names for groups of animals, such as "flock of sheep," "herd of cattle," "pack of dogs," and "school of fish." Use a word that can appropriately be used for a large group of pigs.
+  * **kundi **- Hiyo ni, "kundi la nguruwe." Lugha nyingi ziko na majina haswa ya vikundi vya wanyama, kama "kundi la kondoo," "kundi la ng'ombe," "kundi la mbwa," na "kundi la samaki." Tumia neno ambalo litaonyesha vyema kuwa ni kikundi kikubwa cha nguruwe.
 **[[:sw:obs:notes:frames:32-07|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:32-09|>>]]**
