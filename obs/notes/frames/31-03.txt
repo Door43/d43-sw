@@ -1,18 +1,17 @@
-===== Jesus Walked on the Water [31-03] =====
+===== Jesus Walked on the Water [31-03] Yesu Alitembea Juu ya Maji =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink&}}
 
 Then **Jesus** finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/pray|pray]]**
+Halafu **Yesu** akamaliza kuomba na akaenda kwa wanafunzi. Alitembea juu ya maji akivuka bahari akiendelea karibu na mashua yao!
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:pray|pray (kuomba)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
+  * //(Hakuna maelezo katika sehemu hii.)//
 **[[:sw:obs:notes:frames:31-02|<<]] | [[:sw:obs:notes:31|Up]] | [[:sw:obs:notes:frames:31-04|>>]]**
