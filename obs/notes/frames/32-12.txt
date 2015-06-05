@@ -1,17 +1,17 @@
-===== The Testimony of the Man [32-12] =====
+===== The Testimony of the Man [32-12] Ushuhuda wa yule Mtu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-12.jpg?nolink&}}
 
 So the man went away and told everyone about what **Jesus** had done for him. Everyone who **heard his story was filled with wonder and amazement**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
+Kwa hivyo yule mtu aliondoka na kuambia kila mtu kuhusu kile **Yesu** alimtendea. Kila mtu **aliyesikia hadithi yake alijawa na mshangao na kustaajabu. **
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **heard his story** - That is, "heard the man tell what had happened to him."
-  * **was filled with wonder and amazement** - The words "amazement" and "wonder" are similar in meaning. They are used together to emphasize how amazed the people were. This could be translated as, "completely astonished about what he told them."
-
-
+  * **heard his story**  - That is, "heard the man tell what had happened to him."
+  * **walisikia hadithi yake**  - Hiyo ni, "walisikia yule mtu akieleza kile kilitendeka kwake."
+  * **was filled with wonder and amazement**  - The words "amazement" and "wonder" are similar in meaning. They are used together to emphasize how amazed the people were. This could be translated as, "completely astonished about what he told them."
+  * **walijawa na mshangao na kustaajabu**  - Maneno "kushangaa" na "kustaajabu" ziko na maana sawa. Zinatumiwa pamoja kusisitiza vile watu walivyoshangaa. Hii inaweza kutafsiriwa kama, "walishangazwa kabisa na yale mambo aliwaambia."
 **[[:sw:obs:notes:frames:32-11|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:32-13|>>]]**
