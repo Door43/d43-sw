@@ -1,18 +1,18 @@
-===== The Sick Woman [32-13] =====
+===== The Sick Woman [32-13] Mwanamke Aliyekuwa Mgonjwa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
 **Jesus** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **heal** her, but **she only got worse**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/heal|heal]]**
+**Yesu** akarudi upande ule mwingine wa bahari. Baada ya kufika pale, umati mkubwa ukakusanyika, wakamzunguka na **wakawa wanamfinya.** Katika ule umati kulikuwa na mwanamke aliyeteseka kwa shinda ya kuvunja damu kwa miaka kumi na miwili. Alikuwa amelipa pesa yake yote kwa madaktari ili **waweze kumponya**, lakini **aliendelea na kuadhirika**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:heal|heal (ponya)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **pressed in on him** - That is, "pushed tightly against him" or, "crowded in tightly around him."
-  * **she only got worse** - That is, "her condition only got worse" or, " her health got worse instead of better" or, "instead she became more sick."
-
-
+  * **pressed in on him**  - That is, "pushed tightly against him" or, "crowded in tightly around him."
+  * **wakawa wanamfinya**  - Hiyo ni, "kusukuma kwa mkazo dhidi yake" ama, "wakamzunguka kwa karibu."
+  * **she only got worse**  - That is, "her condition only got worse" or, " her health got worse instead of better" or, "instead she became more sick."
+  * **aliendelea na kuadhirika**  - Hiyo ni, "hali yake iliendelea kuwa mbaya" ama, "afya yake ilizorota badala ya kuwa bora" ama, "badala ya hiyo alikuwa mgonjwa zaidi."
 **[[:sw:obs:notes:frames:32-12|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:32-14|>>]]**
