@@ -1,14 +1,16 @@
-===== The Seed on the Rocks [33-03] =====
+===== The Seed on the Rocks [33-03] Mbegu Juu ya Miamba =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink&}}
 
 “Other seeds fell on **rocky ground**, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died.”
-===== Important Terms: =====
 
-===== Translation Notes: =====
+"Mbegu zingine zilianguka kwa **ardhi yenye miamba**, mahali ambapo kulikuwa na mchanga kindogo. Zile mbegu kwa ardhi yenye miamba ziliota kwa haraka, lakini mizizi yake haikuingia kwa kina katika undongo. Wakati jua lilichomoka na kukawa na joto, mimea ile ilinyauka na kukauka."
+===== Important Terms (Maneno ya Muhimu): =====
+
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **rocky ground** - That is, "ground that was full of rocks."
-
-
+  * (Yesu anaendelea na ile hadithi.)
+  * **rocky ground**  - That is, "ground that was full of rocks."
+  * **ardhi yenye miamba**  - Hiyo ni, "ardhi iliyo jaa miamba."
 **[[:sw:obs:notes:frames:33-02|<<]] | [[:sw:obs:notes:33|Up]] | [[:sw:obs:notes:frames:33-04|>>]]**
