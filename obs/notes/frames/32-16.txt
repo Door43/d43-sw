@@ -1,24 +1,28 @@
-===== Healed by Faith [32-16] =====
+===== Healed by Faith [32-16] Aliponywa kwa Imani =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
 The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your faith has healed you**. Go in **peace**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/faith|faith]]**
-  * **[[:sw:obs:notes:key-terms/heal|healed]]**
-  * **[[:sw:obs:notes:key-terms/peace|peace]]**
+Yule mwanamke **alianguka kwa mabega yake mbele ya Yesu, akitetemeka na akiwa na hofu sana**. Kisha akamwambia kile alifanya, na kuwa ameponywa. Yesu akamwambia, "**Imani yako imekuponya.** Enda kwa **amani.**"
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:faith|faith (imani)]]**
+  * **[[:sw:obs:notes:key-terms:heal|healed (aliponywa)]]**
+  * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **fell on her knees** - That is, "quickly knelt down."
-  * **before Jesus** - That is, "in front of Jesus."
-  * **shaking and very afraid** - That is, "shaking with fear" or, "trembling because she was afraid."
-  * **Your faith has healed you.** - This could also be translated as, "You have been healed because of your faith."
-  * **Go in peace.** - People spoke this traditional blessing when they left each other. Other languages may say something similar such as, "Go well", "Go with God" or, "Peace." Other ways of translating it could be, "May you have peace as you go" or, "Go and know that all is well between us."
+  * **fell on her knees**  - That is, "quickly knelt down."
+  * **alianguka kwa magoti yake**  - Hiyo ni, "kwa haraka alipiga magoti."
+  * **before Jesus**  - That is, "in front of Jesus."
+  * **mbele ya Yesu **- Hiyo ni, "pande ya mbele ya yesu."
+  * **shaking and very afraid**  - That is, "shaking with fear" or, "trembling because she was afraid."
+  * **akitetemeka na akiwa na hofu sana**  - Hiyo ni, "akitetemeka kwa sababu ya uoga" ama, "akitetemeka kwa sababu alikuwa anaogopa."
+  * **Your faith has healed you**  - This could also be translated as, "You have been healed because of your faith."
+  * **Imani yako imekuponya**  - Hii inaweza kutafsiriwa kama, "Umeponywa kwa sababu ya imani yako."
+  * **Go in peace**  - People spoke this traditional blessing when they left each other. Other languages may say something similar such as, "Go well", "Go with God" or, "Peace." Other ways of translating it could be, "May you have peace as you go" or, "Go and know that all is well between us."
+  * **Enda kwa amani **- Watu waliongea hii baraka hii kama desturi wanapoachana. Lugha zingine zaweza sema jambo sawa kama, "Enda vizuri", "Enda na Mungu" ama, "Amani." Njia zingine za kutafsiri hii zaweza kuwa, "Uwe na amani unapoenda" ama, "Enda na ujue kuwa mambo ni sawa kati yangu na wewe."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:32-15|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:33-01|>>]]**
