@@ -1,16 +1,20 @@
-===== The Seed in the Thorns [33-04] =====
+===== The Seed in the Thorns [33-04] Mbegu katika Miiba =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink&}}
 
 “Still other seeds fell among thorn bushes. Those seeds began to grow, but **the thorns choked them out**. So the plants that grew from the seeds in the **thorny ground** did not produce any grain.”
-===== Important Terms: =====
 
-===== Translation Notes: =====
+"Bado mbegu zingine zikaanguka kati ya miiba. Zile mbegu zikaanza kukua, lakini **miiba ikazisonga**. Kwa hivyo mimea yenye ilikua kutoka kwa hizi mbegu za **ardhi iliyo kati ya miiba** haikuzaa nafaka yoyote."
+===== Important Terms (Maneno ya Muhimu): =====
+
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **the thorns** - That is, "the thorn plants" or, "the thorn bushes."
-  * **choked them out** - This can also be translated as, "overshadowed them" or, "crowded them out."
-  * **thorny ground** - That is, "ground that was covered with thorny bushes."
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **the thorns**  - That is, "the thorn plants" or, "the thorn bushes."
+  * **miiba **- Hiyo ni, "miti ya miiba" ama, "vichaka via miti ya miiba."
+  * **choked them out**  - This can also be translated as, "overshadowed them" or, "crowded them out."
+  * **kuisonga**  - Hii inaweza kutafsiriwa kama, "ikazifunika" ama, "ikaimaliza kwa kuisonga."
+  * **thorny ground**  - That is, "ground that was covered with thorny bushes."
+  * **ardhi yenye miiba**  - Hiyo ni, "ardhi ambayo ilifunikwa na vichaka vya miti ya miiba."
 **[[:sw:obs:notes:frames:33-03|<<]] | [[:sw:obs:notes:33|Up]] | [[:sw:obs:notes:frames:33-05|>>]]**
