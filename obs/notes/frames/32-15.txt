@@ -1,19 +1,19 @@
-===== Who Touched Me? [32-15] =====
+===== Who Touched Me? [32-15] Nani Alinigusa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
 Immediately, **Jesus** realized that **power had gone out from him**. So he turned around and asked, “Who touched me?” The **disciples** replied, “There are many people crowding around you and bumping into you. **Why did you ask, ‘Who touched me?’**”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/power|power]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
+Mara moja, **Yesu** alitambua kuwa **nguvu imetoka ndani yake**. Kwa hivyo akageuka na kuuliza, "Nani amenigusa?" **Wanafunzi ** wakajibu, "Kuna umati mkubwa wa watu ambao wanakuzunguka na kukusukuma. **Kwa nini unauliza, "Nani amekugusa?"**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **power had gone out from him** - This may be translated as, "healing power had flowed from him into someone else" or, "his power had healed someone." Jesus did not lose any power because of this.
-  * **Why did you ask, 'Who touched me?'** - In some languages it may be better to use an indirect quote here such as, "Why did you ask who was touching you?" or, "Why you are wondering who touched you?"
-
-
+  * **power had gone out from him**  - This may be translated as, "healing power had flowed from him into someone else" or, "his power had healed someone." Jesus did not lose any power because of this.
+  * **nguvu ilikuwa imetoka ndani yake**  - Hii inaweza kutafsiriwa kama, "nguvu ya uponyaji imetiririka kutoka kwake kwenda kwa mtu mwingine" ama "nguvu zake zimeponya mtu fulani."  Yesu hakupoteza nguvu yeyote kwa sababu ya hiyo.
+  * **Why did you ask, 'Who touched me?'**  - In some languages it may be better to use an indirect quote here such as, "Why did you ask who was touching you?" or, "Why you are wondering who touched you?"
+  * **Kwa nini unauliza, 'Nani amekugusa?'**  - Katika lugha zingine itakuwa bora kutumia msemo usiyo wa moja kwa moja kama, "Kwa nini unauliza nani amekugusa?" ama, "Kwa nini unashangaa ni nani amekugusa?"
 **[[:sw:obs:notes:frames:32-14|<<]] | [[:sw:obs:notes:32|Up]] | [[:sw:obs:notes:frames:32-16|>>]]**
