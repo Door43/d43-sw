@@ -4,7 +4,8 @@
 
 “The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
 
-"**Ardhi yenye miamba ni mtu** ambaye anaskia **neno la Mungu** na **kulikumbali kwa furaha.** Lakini wakati anakutana na ugumu wa maisha na **mateso**, yeye **huanguka.**"
+"**Ardhi yenye miamba ni mtu** ambaye anaskia **neno la Mungu** na **kulikubali kwa furaha.** Lakini wakati anakutana na ugumu wa maisha na **mateso**, yeye **huanguka.**"
+
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
