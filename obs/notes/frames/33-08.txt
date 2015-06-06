@@ -1,25 +1,31 @@
-===== The Desire for Riches [33-08] =====
+===== The Desire for Riches [33-08] Hamu ya Utajiri =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink&}}
 
 “The **thorny ground is a person** who hears **God’s word**, but as time passes, the **cares**, **riches**, and **pleasures of life choke out** his **love** for **God**. As a result, the teaching he heard **does not produce fruit**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:sw:obs:notes:key-terms/love|love]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
+"Ile **ardhi iliyo na miti yenye miiba ni mtu** ambaye anasikia **neno la Mungu**, lakini muda unapopita, **shuguli, utajiri,** na **raha za maisha husonga upendo** wake kwa **Mungu.** Kitokana na hiyo, mafundishi aliyopata **haizai matunda."**
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to explain the story.)
-  * **thorny ground** - See how you translated this term in **[[:sw:obs:notes:frames:33-04|[33-04]]]**.
-  * **is a person** - See how you translated this comparison in **[[:sw:obs:notes:frames:33-06|[33-06]]]**.
-  * **cares** - That is, "concerns" or, "needs" or, "problems."
-  * **riches** - That is, "desire for wealth."
-  * **pleasures of life** - This could also be translated as, "doing things to get pleasure" or, "focusing on things that give pleasure."
-  * **choke out** - That is, "squelch" or, "destroy" or, "overcome." This phrase could also be translated as, "cause him to stop loving God."
-  * **does not produce fruit** - That is, "does not produce spiritual fruit" or "does not behave in a way that shows God's Spirit is working in him."
-
-
+  * (Yesu anaendelea na kuelezea ile hadithi.)
+  * **thorny ground**  - See how you translated this term in **[[:sw:obs:notes:frames:33-04|[33-04]]]**.
+  *
+  * **is a person**  - See how you translated this comparison in **[[:sw:obs:notes:frames:33-06|[33-06]]]**.
+  *
+  * **cares**  - That is, "concerns" or, "needs" or, "problems."
+  * **shuguli **- Hiyo ni, "wasi wasi" ama, "mahitaji" ama, "shinda."
+  * **riches**  - That is, "desire for wealth."
+  * **utajiri -**  Hiyo ni, "hamu ya utajiri."
+  * **pleasures of life**  - This could also be translated as, "doing things to get pleasure" or, "focusing on things that give pleasure."
+  * **raha za maisha**  - Hii inaweza kutafsiriwa kama, "kufanya mambo ili upate furaha" ama, "kulekeza nguvu kwa mambo yanayokupa furaha."
+  * **choke out**  - That is, "squelch" or, "destroy" or, "overcome." This phrase could also be translated as, "cause him to stop loving God."
+  * **husonga**  - Hiyo ni, "finya" ama, "haribu" ama, "shinda." Hii msemo inaweza kutafsiriwa kama, "kumfanya aache kumpenda Mungu."
+  * **does not produce fruit**  - That is, "does not produce spiritual fruit" or "does not behave in a way that shows God's Spirit is working in him."
+  * **haizai matunda**  - Hiyo ni, "haizai matunda ya kiroho" ama, "hatendi kwa njia inaoonyesha kuwa Roho wa Mungu anafanya kazi ndani yake."
 **[[:sw:obs:notes:frames:33-07|<<]] | [[:sw:obs:notes:33|Up]] | [[:sw:obs:notes:frames:33-09|>>]]**
