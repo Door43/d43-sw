@@ -4,7 +4,8 @@
 
 “Other seeds fell into **good soil**. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. **He who has ears, let him hear**!”
 
-"Mbegu zingine zilianguka kwa **mchanga uliyo mzuri**. Hizi mbegu zikazaa mara 30, 60 na hata 100 ya mbegu zilizopandwa. **Aliye na maskio, akaweze kuskia!"**
+"Mbegu zingine zilianguka kwa **mchanga uliyo mzuri**. Hizi mbegu zikazaa mara 30, 60 na hata 100 ya mbegu zilizopandwa. **Aliye na maskio, na akaweze kuskia!"**
+
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:good|good (mzuri)]]**
