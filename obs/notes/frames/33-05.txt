@@ -1,18 +1,19 @@
-===== The Seed in Good Soil [33-05] =====
+===== The Seed in Good Soil [33-05] Mbegu katika Udongo Mzuri =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&}}
 
 “Other seeds fell into **good soil**. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. **He who has ears, let him hear**!”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/good|good]]**
+"Mbegu zingine zilianguka kwa **mchanga uliyo mzuri**. Hizi mbegu zikazaa mara 30, 60 na hata 100 ya mbegu zilizopandwa. **Aliye na maskio, akaweze kuskia!"**
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:good|good (mzuri)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **good soil** - That is, "fertile soil" or, "soil that was good for growing plants."
-  * **He who has ears, let him hear!** - This saying means, "Everyone who hears what I am saying should listen to me carefully" or, "If anyone hears what I have said, he should pay attention to what I mean." This can also be translated as a command. "Since you have ears to hear, listen carefully to what I am saying."
-
-
+  * (Yesu anaendelea na ile hadithi.)
+  * **good soil**  - That is, "fertile soil" or, "soil that was good for growing plants."
+  * **mchanga uliyo mzuri **- Hiyo ni, "mchanga mwenye rotuba" ama, "mchanga uliyo kuwa mzuri wa kupanda mimea."
+  * **He who has ears, let him hear!**  - This saying means, "Everyone who hears what I am saying should listen to me carefully" or, "If anyone hears what I have said, he should pay attention to what I mean." This can also be translated as a command. "Since you have ears to hear, listen carefully to what I am saying."
+  * **Aliye na maskio, na aweze kuskia!**  - Huu msemo unamaanisha, "Kila mtu ambaye anaskia kile ninasema anastahili kusikiliza kwa makini" ama, "kama kuna yeyote ambaye anaskia kile nimesema, anastahili awaze kile maana yake." Hii inaweza kutafsiriwa kama amri. "Kwa sababu mnayo maskio ya kusikia, sikilizeni kwa makini kile ninasema."
 **[[:sw:obs:notes:frames:33-04|<<]] | [[:sw:obs:notes:33|Up]] | [[:sw:obs:notes:frames:33-06|>>]]**
