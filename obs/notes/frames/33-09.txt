@@ -1,22 +1,25 @@
-===== Spiritual Fruit [33-09] =====
+===== Spiritual Fruit [33-09] Matunda ya Kiroho =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&}}
 
 “But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/good|good]]**
-  * **[[:sw:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:sw:obs:notes:key-terms/believe|believes]]**
+"Lakini **mchanga iliyo nzuri ni mtu** ambaye anaskia **neno la Mungu, analiamini**, na **anazaa matunda."**
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
+  * **[[:sw:obs:notes:key-terms:word-of-god|word of God (neno la Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believes (kuamini)]]**
+===== Translation Notes (Malezo ya Tafsiri): =====
 
   * (Jesus continues to explain the story.)
-  * **good soil** - See how you translated this term in **[[:sw:obs:notes:frames:33-05|[33-05]]]**.
-  * **is a person** - See how you translated this comparison in **[[:sw:obs:notes:frames:33-06|[33-06]]]**.
-  * **produce fruit** - See how you translated this phrase in **[[:sw:obs:notes:frames:33-08|[33-08]]]**.
+  * (Yesu anaendelea na kuelezea ile hadithi.)
+  * **good soil**  - See how you translated this term in **[[:sw:obs:notes:frames:33-05|[33-05]]]**.
+  * **mchanga nzuri**  - Ona vile ulivyotafsiri hili neno pale **[33-05]. **
+  * **is a person**  - See how you translated this comparison in **[[:sw:obs:notes:frames:33-06|[33-06]]]**.
+  * **ni mtu **- Ona vile ulivyotafsiri huu ulinganishi pale **[33-06]. **
+  * **produce fruit**  - See how you translated this phrase in **[[:sw:obs:notes:frames:33-08|[33-08]]]**.
+  * **kuzaa matunda **- Ona vile ulivyotafsiri msemo huu pale **[33-08]**.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:33-08|<<]] | [[:sw:obs:notes:33|Up]] | [[:sw:obs:notes:frames:34-01|>>]]**
