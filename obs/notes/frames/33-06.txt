@@ -1,22 +1,22 @@
-===== The Seed Is the Word [33-06] =====
+===== The Seed Is the Word [33-06] Mbegu ni Neno =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink&}}
 
 **This story confused the disciples**. So **Jesus** explained, “The seed is the **word of God**. The path **is a person** who hears God’s word, but does not understand it, and the **devil takes the word away from him**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:sw:obs:notes:key-terms/satan|devil]]**
+**Hadithi hii iliwafanya wanafunzi wachanganyikiwe**. Kwa hivyo **Yesu** akaelezea, "Mbegu ni **neno la Mungu**. Njia **ni mtu** ambaye anasikia neno la Mungu na halielewi, **na ibilisi anawapokonya lile neno."**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:word-of-god|word of God (neno la Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:satan|devil (ibilisi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **This story confused the disciples.** - That is, "The disciples did not understand this story."
-  * **is a person** - This comparison can also be translated as, "is like a person" or, "represents a person" or, "refers to a person" or, "is speaking about a person."
-  * **takes the word away from him** - This may also be translated as, "takes God's word away, causing him to forget it" or, "steals the word from his heart so he won't believe it and be saved." You may also add the following: "just as birds eat up the seeds that fall on a path."
-
-
+  * **This story confused the disciples.**  - That is, "The disciples did not understand this story."
+  * **Hadithi hii ilifanya wanafunzi wachanganyikiwe**  - Hiyo ni, "Wanafunzi hawakuelewa ile hadithi."
+  * **is a person**  - This comparison can also be translated as, "is like a person" or, "represents a person" or, "refers to a person" or, "is speaking about a person."
+  * **ni mtu**  - kulinganisha hii inaweza kutafsiriwa kama, "ni kama mtu" ama, "inaakilisha mtu" ama, "inahusu mtu" ama, "inaongea kuhusu mtu."
+  * **takes the word away from him**  - This may also be translated as, "takes God's word away, causing him to forget it" or, "steals the word from his heart so he won't believe it and be saved." You may also add the following: "just as birds eat up the seeds that fall on a path."
+  * **anawapokonya lile neno**  - Hii pia inaweza kutafsiriwa kama, "anachukua neno la Mungu kutoka kwao, na kuwafanya wasahau" ama, "anaimba neno kutoka kwa moyo wake ili asiliamini na kuokoka." Unaweza pia kuongezea yafuatayo: "kama vile ndege wanakula mbegu zinazoanguka kwa njia."
 **[[:sw:obs:notes:frames:33-05|<<]] | [[:sw:obs:notes:33|Up]] | [[:sw:obs:notes:frames:33-07|>>]]**
