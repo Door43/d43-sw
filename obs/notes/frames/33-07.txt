@@ -1,22 +1,25 @@
-===== Persecution and Hardship [33-07] =====
+===== Persecution and Hardship [33-07] Mateso na Ugumu wa Maisha =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
 “The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:sw:obs:notes:key-terms/joy|joy]]**
-  * **[[:sw:obs:notes:key-terms/persecute|persecution]]**
+"**Ardhi yenye miamba ni mtu** ambaye anaskia **neno la Mungu** na **kulikumbali kwa furaha.** Lakini wakati anakutana na ugumu wa maisha na **mateso**, yeye **huanguka.**"
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:joy|joy (furaha)]]**
+  * **[[:sw:obs:notes:key-terms:persecute|persecution (mateso)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to explain the story.)
-  * **rocky ground** - See how you translated this term in **[[:sw:obs:notes:frames:33-03|[33-03]]]**.
-  * **is a person** - See how you translated this comparison in **[[:sw:obs:notes:frames:33-06|[33-06]]]**.
-  * **accepts it with joy** - That is, "believes it joyfully" or, "joyfully agrees that it is true."
-  * **falls away** - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
-
-
+  * (Yesu anaendelea na ile hadithi.)
+  * **rocky ground**  - See how you translated this term in **[[:sw:obs:notes:frames:33-03|[33-03]]]**.
+  * **ardhi yenye miamba **- Ona vile ulivyotafsiri hili neno pale **[33-03]. **
+  * **is a person**  - See how you translated this comparison in **[[:sw:obs:notes:frames:33-06|[33-06]]]**.
+  * **ni mtu**  - Ona vile ulivyotafsiri hii ulinganishi pale **[33-06]. **
+  * **accepts it with joy**  - That is, "believes it joyfully" or, "joyfully agrees that it is true."
+  * **anaikubali kwa furaha **- Hiyo ni, "anaiamini kwa furaha" ama, "kwa furaha anakumbali kuwa ni kweli."
+  * **falls away**  - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
+  * **anaanguka**  - Hiyo ni, "hafuati Mungu tena wala kumtii" ama, "anaacha kumfuata au kumtii Mungu."
 **[[:sw:obs:notes:frames:33-06|<<]] | [[:sw:obs:notes:33|Up]] | [[:sw:obs:notes:frames:33-08|>>]]**
