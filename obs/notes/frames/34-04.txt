@@ -1,21 +1,25 @@
-===== The Treasure in the Field [34-04] =====
+===== The Treasure in the Field [34-04] Hazina katika Shamba =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&}}
 
 “The **kingdom of God** is also like **treasure** that someone hid in a field. Another man found the treasure and then **buried it again**. He was so **filled with joy** that he went and sold everything he had and used the money to **buy that field**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-  * **[[:sw:obs:notes:key-terms/joy|joy]]**
+**"Ufalme wa Mungu** pia ni kama **hazina** ambayo mtu aliificha kwa shamba. Mtu akaipata ile hazina na **akaizika tena**. Akawa **amejawa na furaha kiasi ** ya kuwa alienda na akauza kila kitu alichokuwa nacho na akatumia ile pesa **kununua hiyo shamba."**
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom of God (ufalme wa Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:joy|joy (furaha)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus told another story.)
-  * **treasure** - That is, "something that is very valuable."
-  * **buried it again** - It is also possible to add, "so that no one else would find it."
-  * **filled with joy** - Another way to say this is, "very happy" or, "excited."
-  * **buy that field** - Some people may want to add, "so that the treasure would be his."
-
+  * (Yesu akapeana hadithi ingine.)
+  * **treasure**  - That is, "something that is very valuable."
+  * **hazina**  - Hiyo ni, "kitu ambacho ni cha dhamana kubwa."
+  * **buried it again**  - It is also possible to add, "so that no one else would find it."
+  * **aliizika tena **- Pia unaweza kungezea, "ili mtu mwingine asije akaipata."
+  * **filled with joy**  - Another way to say this is, "very happy" or, "excited."
+  * **akajawa na furaha**  - Njia ingine ya kusema hii, "akawa na furaha sana" ama, "akawa na musisimuko."
+  * **buy that field**  - Some people may want to add, "so that the treasure would be his."
+  * a**kanunua**** ile shamba**  - Inaweza pendeza watu wengine kuongeza, "ili ile hazina iwe yake."
 
 **[[:sw:obs:notes:frames:34-03|<<]] | [[:sw:obs:notes:34|Up]] | [[:sw:obs:notes:frames:34-05|>>]]**
