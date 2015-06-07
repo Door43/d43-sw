@@ -1,25 +1,27 @@
-===== The Tax Collector's Prayer [34-09] =====
+===== The Tax Collector's Prayer [34-09] Maombi ya Mtoza Ushuru =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
 “But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/tax-collector|tax collector]]**
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|religious leader]]**
-  * **[[:sw:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:sw:obs:notes:key-terms/pray|prayed]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/mercy|merciful]]**
-  * **[[:sw:obs:notes:key-terms/sin|sinner]]**
+"Lakini yule **mtoza ushuru alisimama mbali** na yule **kiongozi wa kindini**, na **hata hakutazama juu binguni.** Badala ya hiyo, **alijipiga kifua kwa mkona wake** na **akaomba**, '**Mungu**, tafadhali **nionee huruma ** kwa sababu mimi ni **mwenye dhambi.'**"
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:tax-collector|tax collector (mtoza ushuru)]]**
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leader (kiongozi wa kindini)]]**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven (binguni)]]**
+  * **[[:sw:obs:notes:key-terms:pray|prayed (aliomba)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:mercy|merciful (mwenye huruma)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinner (mwenye dhambi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **stood far away ** - This can also be translated as, "stood at a distance" or, "stayed separate."
-  * **did not even look up to heaven** - The word "even" indicates that people normally looked up to heaven when praying to God, but that this man did not because he was so ashamed of his sin.
-  * **he pounded on his chest with his fist** - This could also be translated as, "because of his grief, he hit his chest with his fist" or, "he pounded his chest in sorrow." If people would find this hard to understand because they beat their chest for other reasons, you could translate this as, "he showed his despair."
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **stood far away **  - This can also be translated as, "stood at a distance" or, "stayed separate."
+  * **alisimama mbali**  - Hii inaweza kutafsiriwa kama, "alisimama kwa umbali" ama, "alikaa kando."
+  * **did not even look up to heaven**  - The word "even" indicates that people normally looked up to heaven when praying to God, but that this man did not because he was so ashamed of his sin.
+  * **hata hakutazama juu binguni **- Neno "hata" linaonyesha kuwa watu kwa kawaida walitazama juu wakiomba Mungu, lakini huyu mtu hangeweza kwa sababu aliona aibu kwa sababu ya dhambi.
+  * **he pounded on his chest with his fist**  - This could also be translated as, "because of his grief, he hit his chest with his fist" or, "he pounded his chest in sorrow." If people would find this hard to understand because they beat their chest for other reasons, you could translate this as, "he showed his despair."
+  * **alijipiga kifua na mkono wake **- Hii pia inaweza kutafsiriwa kama, "kwa sababu ya huzuni yake, alipiga kifua chake na mkono wake" ama, "alipigpiga kifua chake kwa huzuni." Kama itakuwa ngumu kwa watu kuelewa kwa sababu huwa wanapiga vifua vyao kwa sababu zingine, unaweza kutafsiri hii kama, "alionyesha kukata tamaa kwake."
 **[[:sw:obs:notes:frames:34-08|<<]] | [[:sw:obs:notes:34|Up]] | [[:sw:obs:notes:frames:34-10|>>]]**
