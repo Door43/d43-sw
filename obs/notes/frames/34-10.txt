@@ -1,28 +1,31 @@
-===== The Proud Will Be Humbled [34-10] =====
+===== The Proud Will Be Humbled [34-10] Wenye Kiburi Watashushwa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink}}
+**{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink&}}**
 
 Then **Jesus** said, “I tell you the **truth**, **God** heard the **tax collector's prayer** and **declared him to be righteous**. But he did not like the **religious leader's** prayer. God **will humble** everyone who is **proud**, and he will lift up whoever **humbles himself**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/true|truth]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/tax-collector|tax collector's]]**
-  * **[[:sw:obs:notes:key-terms/pray|prayer]]**
-  * **[[:sw:obs:notes:key-terms/righteous|righteous]]**
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|religious leader's]]**
-  * **[[:sw:obs:notes:key-terms/humble|humble]]**
-  * **[[:sw:obs:notes:key-terms/proud|proud]]**
+Kisha **Yesu** akasema, "Nawambieni **ukweli**, **Mungu** alisikia **maombi ya yule mtoza ushuru** na **kumtangaza mwenye haki.** Lakini hakupendezwa na maombi ya yule **kiongozi wa kindini.** Mungu **atashusha** kila mtu ambaye ni mwenye **kiburi**, na atainua kila mtu **ambaye ananyenyekea."**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:true|truth (ukweli)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:tax-collector|tax collector's (mtoza ushuru)]]**
+  * **[[:sw:obs:notes:key-terms:pray|prayer (maombi)]]**
+  * **[[:sw:obs:notes:key-terms:righteous|righteous (mwenye haki)]]**
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leader's (kiongozi wa kindini)]]**
+  * **[[:sw:obs:notes:key-terms:humble|humble (mnyenyekevu)]]**
+  * **[[:sw:obs:notes:key-terms:proud|proud (mwenye kiburi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **declared him to be righteous** - That is, "considered him to be a righteous person." Even though the tax collector was a sinner, God was merciful to him because of his humility and repentance.
-  * **will humble** - This could also be translated as, "will give a lower status to" or, "will cause to not be important." It could be translated figuratively as, "will bring down."
-  * **will lift up** - That is, "will give a higher position to" or, "will honor."
-  * **humbles himself** - That is, "chooses to behave in a humble way" or, "has a humble attitude about himself."
+  * **declared him to be righteous**  - That is, "considered him to be a righteous person." Even though the tax collector was a sinner, God was merciful to him because of his humility and repentance.
+  * **alitangaza kuwa ni mwenye haki **- Hiyo ni, "alitambua yeye kuwa mwenye haki." Hata ingawa mtoza ushuru alikuwa mwenye dhambi, Mungu alimuonea huruma kwa sababu ya unyenyekevu na kutubu kwake.
+  * **will humble**  - This could also be translated as, "will give a lower status to" or, "will cause to not be important." It could be translated figuratively as, "will bring down."
+  * **atashusha**  - Hii inaweza kutafsiriwa kama, "atawapa kiwango cha chini" ama, "atawafanya wasiwe wa muhimu." Inweza kutafsiriwa kwa mfano kama, "ataleta chini."
+  * **will lift up**  - That is, "will give a higher position to" or, "will honor."
+  * **atainua**  - Hiyo ni, "atampa nafasi ya juu" ama, "atamheshimu."
+  * **humbles himself**  - That is, "chooses to behave in a humble way" or, "has a humble attitude about himself."
+  * **anaye nyenyekea **- Hiyo ni, "anachagua kuishi katika njia ya unyenyekevu" ama, "anajitazama kwa unyenyekevu."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:34-09|<<]] | [[:sw:obs:notes:34|Up]] | [[:sw:obs:notes:frames:35-01|>>]]**
