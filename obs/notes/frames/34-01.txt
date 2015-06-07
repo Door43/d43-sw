@@ -12,7 +12,7 @@
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **stories**  - Jesus used these stories to teach truths about God's kingdom. It is not clear if the events actually happened or not. If your language has a term that includes both fictional and real stories, you should use it here.
-  * **hadithi**  - Yesu alitumia hizi hadithi kufundisha ukweli kuhusu ufalme wa Mungu. Si wazi, kama mambo haya yalifanyika ama hayakufanyika. Kama lugha yako ina neno itakayojumulisha hadithi za kweli na za kutunga, tumia hiyo hapa.
+  * **hadithi**  - Yesu alitumia hizi hadithi kufundisha ukweli kuhusu ufalme wa Mungu. Si wazi, kama mambo haya yalifanyika ama hayakufanyika. Kama lugha yako ina neno inayo jumuisha hadithi za kweli na za kutunga, tumia hiyo hapa.
   * **mustard seed**  - This probably refers to the seed of the black mustard plant, which has tiny seeds that rapidly grow into very large plants. If there is a word for this plant in your language, you should use it. If not, you may need to substitute the name of another plant which has the same characteristics.
   * **mbegu ya haradali **- Hii pengine inaelezea kuhusu mbegu ya mti mweusi wa haradali, ambayo ina mbegu ndogo sana ambazo upesi huwa zinakua na kufanyika mimea mikubwa sana. Kama kuna neno la huu mumea kwa lugha yako itumie. Kama sivyo, unaweza tumia jina la mumea ingine inayofanana nayo.
   * **the smallest seed of all**  - That is, "the smallest of all the seeds that people plant."
