@@ -1,23 +1,25 @@
-===== The Religious Leader's Prayer [34-07] =====
+===== The Religious Leader's Prayer [34-07] Maombi ya Yule Kiongozi wa Kindini =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&}}
 
 “The **religious leader prayed like this**, ‘Thank you, **God**, that **I am not a sinner like** other men—such as robbers, **unjust men**, **adulterers**, or even like that **tax collector**.’”
+
+"Yule **kiongozi wa kindini akaomba hivi**, "Asante, **Mungu**, kuwa **mimi si mwenye dhambi kama** watu wengine--kama wezi, **watu wenye kudhulumu, wazinifu**, au hata kama huyu **mtoza** **ushuru." **
 ===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|religious leader]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/sin|sinner]]**
-  * **[[:sw:obs:notes:key-terms/adultery|adulterers]]**
-  * **[[:sw:obs:notes:key-terms/tax-collector|tax collector]]**
-
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leader (kiongozi wa kindini)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinner (mwenye dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:adultery|adulterers (wazinifu)]]**
+  * **[[:sw:obs:notes:key-terms:tax-collector|tax collector (mtoza ushuru)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **The religious leader prayed like this** - Another way to say this would be, "This is how the religious leader prayed" or, "The religious leader prayed in this way."
-  * **I am not a sinner like** - That is, "I am not sinful like" or, "I am righteous, not like."
-  * **unjust men** - That is, "men who are not righteous" or, "people who do evil things" or, "law breakers."
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **The religious leader prayed like this**  - Another way to say this would be, "This is how the religious leader prayed" or, "The religious leader prayed in this way."
+  * **Yule kiongozi wa kindini aliomba hivi **- Njia ingine ya kusema hili inaweza kuwa, "Hivi ndivyo yule kiongozi wa kindini aliomba" ama, "Yule kiongozi wa kindini aliomba hivi."
+  * **I am not a sinner like**  - That is, "I am not sinful like" or, "I am righteous, not like."
+  * **mimi si mwenya dhambi kama**  - Hiyo ni, "Mimi si mwenye dhambi kama" ama, "mimi ni mwenye haki, siyo kama."
+  * **unjust men**  - That is, "men who are not righteous" or, "people who do evil things" or, "law breakers."
+  * **watu wa kudhulumu**  - Hiyo ni, "watu wasiyo wenye haki" ama, "watu wanaotenda maovu" ama, "wavunjaji sheria."
 **[[:sw:obs:notes:frames:34-06|<<]] | [[:sw:obs:notes:34|Up]] | [[:sw:obs:notes:frames:34-08|>>]]**
