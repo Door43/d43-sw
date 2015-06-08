@@ -1,20 +1,19 @@
-===== The Father's Welcome [35-07] =====
+===== The Father's Welcome [35-07] Karibisho la Baba =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?nolink&}}
 
 “So the younger **son** started back towards his father's home. When he was **still far away**, his father saw him and **felt compassion** for him. He ran to his son and hugged him and kissed him.”
 
+"Kwa hivyo **mwana** mdogo akaanza kurudi nyumbani kwa baba yake. Alipokuwa **bado yuko mbali**, baba yake alimuona na **akamuonea huruma**. Alikimbia kwa mwanaye, akamkubatia na kumbusu."
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
-
-  * **[[:sw:obs:notes:key-terms/son|son]]**
-
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **still far away** - This can also be translated as, "within sight of his father's home, but still a distance away." The son was getting close to his father's house but was still far enough away that most people in the house would not have seen him. Make sure it does not sound like he was still in a different country.
-  * **felt compassion** - That is, "felt deep love and pity."
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **still far away**  - This can also be translated as, "within sight of his father's home, but still a distance away." The son was getting close to his father's house but was still far enough away that most people in the house would not have seen him. Make sure it does not sound like he was still in a different country.
+  * **bado yuko mbali **- Hii inaweza kutafsiriwa kama, "mbele ya nyumba ya baba yake, lakini bado kwa umbali." Yule mwana alikuwa anakaribia nyumba ya baba yake lakini bado alikuwa mbali kiasi kuwa watu wengi kule nyumbani hawangemuona. Hakikisha haitaonekana kama bado alikuwa kwa nchi ingine.
+  * **felt compassion**  - That is, "felt deep love and pity."
+  * **aliona huruma**  - Hiyo ni, "aliona upendo mzito na huruma."
 **[[:sw:obs:notes:frames:35-06|<<]] | [[:sw:obs:notes:35|Up]] | [[:sw:obs:notes:frames:35-08|>>]]**
