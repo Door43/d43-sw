@@ -1,20 +1,21 @@
-===== I Have Sinned [35-08] =====
+===== I Have Sinned [35-08] Nimetenda Dhambi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink&}}
 
 “The **son** said, ‘Father, I have **sinned against God and against you**. **I am not worthy** to be your son.’”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/son|son]]**
-  * **[[:sw:obs:notes:key-terms/sin|sinned]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
+"Yule **mwana ** akasema, 'Baba, **nimetendea Mungu dhambi na pia wewe nimekutendea dhambi.** Sistahili kuwa mwanao.'"
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinned (kutenda dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **sinned against God and against you** - This could be translated as, "sinned against God, and I have also sinned against you."
-  * **I am not worthy** - It is also possible to say, "So I am not worthy" or, "As a result, I am not worthy."
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **sinned against God and against you**  - This could be translated as, "sinned against God, and I have also sinned against you."
+  * **nimetendea Mungu dhambi nawe nimekutendea dhambi**  - Hii inaweza kutafsiriwa kama, "nimetendea Mungu dhambi na wewe pia nimekutendea dhambi."
+  * **I am not worthy**  - It is also possible to say, "So I am not worthy" or, "As a result, I am not worthy."
+  * **Sistahili **- Inawezekana pia kusema, "Kwa hivyo sistahili" ama, "kwa hivyo, sistahili."
 **[[:sw:obs:notes:frames:35-07|<<]] | [[:sw:obs:notes:35|Up]] | [[:sw:obs:notes:frames:35-09|>>]]**
