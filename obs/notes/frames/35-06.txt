@@ -4,7 +4,8 @@
 
 “Finally, the younger son said to himself, ‘**What am I doing**? All my father’s **servants** have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
 
-"Hatimaye, mwana aliye mdogo akijiambia, **'Nina fanya nini?** **Watumishi** wote wa baba yangu wana chakula ya kutosha, na bado mimi hapa ninakufa njaa. Nitarudi kwa baba yangu na nimuulize nifanyike mmoja wa watumishi wake.'"
+"Hatimaye, mwana aliye mdogo akijiambia, **'Nina fanya nini?** **Watumishi** wote wa baba yangu wana chakula ya kutosha, na bado mimi hapa ninakufa njaa. Nitarudi kwa baba yangu na kumuuliza nifanyike mmoja wa watumishi wake.'"
+
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
