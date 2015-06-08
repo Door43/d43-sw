@@ -1,17 +1,17 @@
-===== The Son Repented [35-06] =====
+===== The Son Repented [35-06] Yule Mwana Alitubu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&}}
 
 “Finally, the younger son said to himself, ‘**What am I doing**? All my father’s **servants** have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/servant|servants]]**
+"Hatimaye, mwana aliye mdogo akijiambia, **'Nina fanya nini?** **Watumishi** wote wa baba yangu wana chakula ya kutosha, na bado mimi hapa ninakufa njaa. Nitarudi kwa baba yangu na nimuulize nifanyike mmoja wa watumishi wake.'"
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **What am I doing?** - That is, "Why am I living like this?" or, " I should not be living like this!" or, "It doesn't make sense for me to live like this." The son isn't really asking a question, so some languages will have to translate this as a statement.
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **What am I doing?**  - That is, "Why am I living like this?" or, " I should not be living like this!" or, "It doesn't make sense for me to live like this." The son isn't really asking a question, so some languages will have to translate this as a statement.
+  * **Ninafanya nini? **- Hiyo ni, "Kwa nini ninaishi hivi?" ama, "Si sawa kuishi hivi!" ama, "haionyeshi akili sawa mimi kuishi hivi."  Yule mwana haulizi swali haswa, kwa hivyo itabidi lugha zingine kutafsiri hii kama tamko.
 **[[:sw:obs:notes:frames:35-05|<<]] | [[:sw:obs:notes:35|Up]] | [[:sw:obs:notes:frames:35-07|>>]]**
