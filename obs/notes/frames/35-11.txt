@@ -1,17 +1,17 @@
-===== The Brother Is Angry [35-11] =====
+===== The Brother Is Angry [35-11] Ndugu ana Hasira =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink&}}
 
 “When the older **son** found out that they were celebrating because his brother had come home, he was very angry and would not go into the house. His father came out and **begged** him to come and celebrate with them, but he refused.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/son|son]]**
-  * **[[:sw:obs:notes:key-terms/beg|begged]]**
+"Wakati mwana aliye mkubwa aligundua kuwa wanasherehekea kwa sababu nduguye amerudi nyumbani, akwa na hasira sana na alikataa kuingia kwa nyumba. Baba yake akaja nje na **kumsihi ** aingie na kusherehekea nao, lakini akakataa."
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+  * **[[:sw:obs:notes:key-terms:beg|begged (alisihi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-
+  * (Yesu anaendelea na hadithi.)
 
 **[[:sw:obs:notes:frames:35-10|<<]] | [[:sw:obs:notes:35|Up]] | [[:sw:obs:notes:frames:35-12|>>]]**
