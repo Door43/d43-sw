@@ -1,22 +1,24 @@
-===== Prepare the Feast [35-09] =====
+===== Prepare the Feast [35-09] Andaa Sikukuu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink&}}
 
 “But his father told one of his **servants**, ‘Go quickly and bring the best clothes and put them on my **son**! Put a ring on his finger and put sandals on his feet. Then kill the **best calf** so we can have a feast and celebrate, because **my son was dead**, **but now he is alive**! **He was lost**, **but now he is found**!’”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/servant|servants]]**
-  * **[[:sw:obs:notes:key-terms/son|son]]**
-  * **[[:sw:obs:notes:key-terms/death|dead]]**
-  * **[[:sw:obs:notes:key-terms/life|alive]]**
+"Lakini baba yake akamwambia mmoja wa **watumishi** wake, 'Enda haraka, leta nguo zilizo bora zaidi, valisha **mwanangu!** Weka pete kwa kidole yake na viatu kwa miguu yake. Kisha chinja **ndama**** aliye bora** ili tuwe na karama na kusherehekea, kwa sababu **mwanangu alikuwa amekufa, lakini sasa yu hai! Alikuwa amepotea, lakini sasa a amepatikana!'"**
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
+  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+  * **[[:sw:obs:notes:key-terms:death|dead (amekufa)]]**
+  * **[[:sw:obs:notes:key-terms:life|alive (yu hai)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
-  * **the best calf** - This could also be translated as, "the fattest calf." This was the calf that had been fattened so that when cooked it would taste the best.
-  * **My son was dead, but now he is alive!** - That is, "This is like my son was dead and is alive again!" or, "I grieved as if my son had died, but now I rejoice because it is as if he has come back to life!" The father is using this expression to show how happy he is that his son has come home.
-  * **He was lost, but now he is is found!** - That is, "This is like I had lost him but now I have found him." This expression also shows how happy the father is about having his son at home again.
-
-
+  * (Yesu anaendelea na hadithi.)
+  * **the best calf**  - This could also be translated as, "the fattest calf." This was the calf that had been fattened so that when cooked it would taste the best.
+  * **ndama aliye bora**  - Hii inaweza kutafsiriwa kama, "ndama aliyenona kuliko wengine." Huu ni ndama aliyenoneshwa ili akipikwa ladha yake iwe bora.
+  * **My son was dead, but now he is alive!**  - That is, "This is like my son was dead and is alive again!" or, "I grieved as if my son had died, but now I rejoice because it is as if he has come back to life!" The father is using this expression to show how happy he is that his son has come home.
+  * **mwanangu alikuwa amekufa, lakini sasa yu hai!**  - Hiyo ni, "Ni kana kwamba mwanangu alikuwa amekufa na sasa yuko hai tena!" ama, "niliomboleza kana kuwa mwanangu alikufa, lakini sasa nina furaha ni kana kwamba amerudi uhai!" Baba anatumia huu msemo kuonyesha jinshi alivyo na furaha kuwa mwanaye amerudi nyumbani.
+  * **He was lost, but now he is is found!**  - That is, "This is like I had lost him but now I have found him." This expression also shows how happy the father is about having his son at home again.
+  * **alikuwa amepotea, lakini sasa amepatikana!**  - Hiyo ni, "Nilikuwa nimempoteza lakini sasa nimempata." Huu msemo pia unaonyesha vile baba alivyo na furaha kwa sababu ya mwanawe kuwa nyumbani tena.
 **[[:sw:obs:notes:frames:35-08|<<]] | [[:sw:obs:notes:35|Up]] | [[:sw:obs:notes:frames:35-10|>>]]**
