@@ -1,23 +1,24 @@
-===== Moses and Elijah [36-03] =====
+===== Moses and Elijah [36-03] Musa na Elia =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&}}
 
 Then **Moses** and the prophet **Elijah appeared**. These men had lived on the earth hundreds of years before this. They talked with **Jesus** about **his death**, **which would soon happen in Jerusalem**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms/[prophet|prophet]]**
-  * **[[:sw:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/death|death]]**
-  * **[[:sw:obs:notes:key-terms/jerusalem|Jerusalem]]**
+Kisha **Musa** na Nabii **Elia** **walijitokeza**. Watu hawa waliishi duniani mamia ya miaka kabla ya jambo hili. Walizungumza na **Yesu** kuhusu **kifo chake**, **ambacho hivi karibuni itafanyika kule Yerusalemu**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
+  * **[[:sw:obs:notes:key-terms:elijah|Elijah (Elia)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:death|death (kifo)]]**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **appeared** - It is also possible to say, "appeared out of nowhere." They suddenly were there.
-  * **his death, which would soon happen** - This could be translated as, "how he would soon die" or, "how he would soon be killed."
-  * **in Jerusalem** - Some languages may prefer to say, "in the city of Jerusalem."
-
-
+  * **appeared**  - It is also possible to say, "appeared out of nowhere." They suddenly were there.
+  * **walijitokeza**  - Inawezekana pia kusema, "walitokea bila ya kutarajia." Kwa ghafla wakawa huko.
+  * **his death, which would soon happen**  - This could be translated as, "how he would soon die" or, "how he would soon be killed."
+  * **kifo chake , ambacho hivi karibuni kitatokea**  - Hii inaweza kutafsiriwa kama,  "jinsi yeye atakufa hivi karibuni," au,  "jinsi hivi karibuni yeye atauawa."
+  * **in Jerusalem**  - Some languages may prefer to say, "in the city of Jerusalem."
+  * **Yerusalemu**  - Baadhi ya lugha zaweza kupendelea kusema, "katika mji wa Yerusalemu."
 **[[:sw:obs:notes:frames:36-02|<<]] | [[:sw:obs:notes:36|Up]] | [[:sw:obs:notes:frames:36-04|>>]]**
