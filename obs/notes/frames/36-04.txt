@@ -1,22 +1,20 @@
-===== Peter's Comments [36-04] =====
+===== Peter's Comments [36-04] Maoni ya Petero =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&}}
 
 As **Moses** and **Elijah** were talking with **Jesus**, **Peter** said to Jesus, “It is **good** for us to be here. Let us make three **shelters**, one for you, one for Moses, and one for Elijah.” Peter **did not know what he was saying**.
 
-===== Important Terms: =====
+**Musa** na **Elia** walipokuwa wakizungumza na **Yesu , Petro** alimwambia Yesu, "Ni **vizuri** kuwa tuko hapa. Na tutengeneze  **vibanda** vitatu, kimoja chako, kimoja cha Musa, na kimoja cha Elia." Petro **hakujua anasema nini.**
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/moses|Moses]]**
-  * **[[:sw:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms/good|good]]**
+  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+  * **[[:sw:obs:notes:key-terms:elijah|Elijah (Elia)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-  * **shelters** - This can also be translated as, "lean-tos" or, "garden huts" or, "tents." It refers to small, individual, temporary shelters, like the Jews made from tree branches during an annual Jewish holiday.
-  * **did not know what he was saying** - That is, "was speaking without understanding what was happening" or, "spoke without thinking clearly because he was so excited."
-
-
+  * **shelters**  - This can also be translated as, "lean-tos" or, "ga tree branches during an annual Jewish holiday.rden huts" or, "tents." It refers to small, individual, temporary shelters, like the Jews made from
+  * **did not know what he was saying**  - That is, "was speaking without understanding what was happening" or, "spoke without thinking clearly because he was so excited."
+  * **hakujua anasema nini **- Hiyo ni, "alikuwa akiongea bila kuelewa nini kinafanyika" au , "aliongea bila kufikiri kwa uwazi kwa sababu alikuwa na msisimko."
 **[[:sw:obs:notes:frames:36-03|<<]] | [[:sw:obs:notes:36|Up]] | [[:sw:obs:notes:frames:36-05|>>]]**
