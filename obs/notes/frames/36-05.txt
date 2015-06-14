@@ -1,22 +1,20 @@
-===== This Is My Son [36-05] =====
+===== This Is My Son [36-05] Huu ni Mwanangu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink&}}
 
 As **Peter** was talking, a bright cloud came down and surrounded them and **a voice from the cloud said**, “This is my **Son** whom I **love**. I am pleased with him. **Listen to him**.” The three **disciples** were **terrified** and **fell on the ground**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son]]**
-  * **[[:sw:obs:notes:key-terms/love|love]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
+**Petero** alipokuwa akizungumza, wingu nyeupe lilishuka na kuwazunguka, **na sauti kutoka kwa wingu ikasema**, "Huyu ndiye **Mwanangu** **nimpendaye**. Ninafurahishwa naye. **Sikilizeni yeye**." Wale **wanafunzi** watatu wakawa na **hofu** na **wakaanguka chini.**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son (Mwana)]]**
+  * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **a voice from the cloud said** - This can also be translated as, "a voice spoke from the cloud saying" or, "God spoke from the cloud and said."
-  * **Listen to him** - This could be translated as, "He is the one you must listen to."
+  * **a voice from the cloud said**  - This can also be translated as, "a voice spoke from the cloud saying" or, "God spoke from the cloud and said."
+  * **Listen to him**  - This could be translated as, "He is the one you must listen to."
   * **terrified**–That is, "extremely scared."
-  * **fell on the ground** - That is, "quickly bowed to the ground" or, "immediately got down on the ground." Make sure the translation of "fell" does not sound like an accident. They probably did this intentionally out of awe and fear.
-
-
+  * **fell on the ground**  - That is, "quickly bowed to the ground" or, "immediately got down on the ground." Make sure the translation of "fell" does not sound like an accident. They probably did this intentionally out of awe and fear.
 **[[:sw:obs:notes:frames:36-04|<<]] | [[:sw:obs:notes:36|Up]] | [[:sw:obs:notes:frames:36-06|>>]]**
