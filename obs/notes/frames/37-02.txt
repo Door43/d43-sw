@@ -1,20 +1,20 @@
-===== Back to Judea [37-02] =====
+===== Back to Judea [37-02] Kurudi Yuda =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink&}}
 
 After the two days had passed, **Jesus** said to his **disciples**, “Let’s go back to **Judea**.” “But **Teacher**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **Lazarus has fallen asleep**, **and I must wake him**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/teacher|Teacher]]**
-  * **[[:sw:obs:notes:key-terms/lazarus|Lazarus]]**
+Baada ya siku mbili kupita, **Yesu** akawaambia **wanafunzi** wake, "Twendeni tena Yuda." "Lakini **Mwalimu**, "wanafunzi akajibu, "Muda mfupi uliopita watu huko walikuwa wanataka kuua wewe!" Yesu akasema, "Rafiki wetu **Lazaro amelala, na mimi lazima nimuamshe kwake."**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:teacher|Teacher (Mwalimu)]]**
+  * **[[:sw:obs:notes:key-terms:lazarus|Lazarus (Lazaro)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **Judea** - This refers to the southern section of Israel, which was settled by the tribe of Judah. Some languages will prefer to say, "the region of Judea."
-  * **has fallen asleep, and I must wake him.** - Translate this phrase with the normal words for "asleep" and "wake" in your language. Although Jesus was using these words with a different meaning, the disciples did not understand that yet.
-
-
+  * **Judea**  - This refers to the southern section of Israel, which was settled by the tribe of Judah. Some languages will prefer to say, "the region of Judea."
+  * **Yuda**  - Hii inamaanisha sehemu ya kusini ya Israeli, ambayo ilikuwa makazi ya kabila la Yuda. Baadhi ya lugha wanapendelea kusema, "kanda ya Yudea."
+  * **has fallen asleep, and I must wake him.**  - Translate this phrase with the normal words for "asleep" and "wake" in your language. Although Jesus was using these words with a different meaning, the disciples did not understand that yet.
+  * **amelala, na mimi lazima nimuamshe **- Tafsiri msemo huu kwa maneno ya kawaida kwa ajili ya "usingizi" na "amusha" katika lugha yako. Ingawa Yesu alikuwa akitumia maneno haya na maana tofauti, wanafunzi hawakuwa wameelewa hayo bado.
 **[[:sw:obs:notes:frames:37-01|<<]] | [[:sw:obs:notes:37|Up]] | [[:sw:obs:notes:frames:37-03|>>]]**
