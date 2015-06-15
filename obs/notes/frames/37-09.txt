@@ -1,21 +1,19 @@
-===== Jesus' Prayer [37-09] =====
+===== Jesus' Prayer [37-09] Maombi ya Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
 Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **hearing me**. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will **believe** you sent me.” Then Jesus shouted, “**Lazarus**, **come out**!”
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:sw:obs:notes:key-terms/god-father|Father]]**
-  * **[[:sw:obs:notes:key-terms/believe|believe]]**
-  * **[[:sw:obs:notes:key-terms/lazarus|Lazarus]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven (bingu)]] **
+  * **[[:sw:obs:notes:key-terms:god-father|Father (Baba)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
+  * **[[:sw:obs:notes:key-terms:lazarus|Lazarus (Lazaro)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-  * **hearing me** - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
-  * **come out** - Some languages may prefer to say, "come out of the tomb."
-
-
+  * **hearing me**  - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
+  * **Kunisikia**  - Hiyo ni, "kunisikiliza mimi." Inaweza kuwa na manufaa kwa kuongeza, "kama ninapokuomba wewe" ama, "wakati mimi ninazungumza na wewe."
+  * **come out**  - Some languages may prefer to say, "come out of the tomb."
+  * **kutoka nje**  - Baadhi ya lugha zinaweza kupendelea kusema, "kuja nje ya kaburi."
 **[[:sw:obs:notes:frames:37-08|<<]] | [[:sw:obs:notes:37|Up]] | [[:sw:obs:notes:frames:37-10|>>]]**
