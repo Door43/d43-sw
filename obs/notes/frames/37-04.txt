@@ -6,14 +6,15 @@ When **Jesus** arrived at **Lazarus**' hometown, Lazarus had already been **dead
 
 Yesu alipofika katika mji Lazaro, Lazaro amekwisha kufa kwa siku nne. Martha akatoka kwenda kumlaki Yesu akasema, "Mwalimu, kama ungalikuwa hapa, kaka yangu hangalikufa. Lakini naamini Mungu nitakupa chochote utakachomwomba kutoka kwake."
 
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms:lazarus|Lazarus']]**
-  * **[[:sw:obs:notes:key-terms:death|dead]]**
-  * **[[:sw:obs:notes:key-terms:lord|Master]]**
-  * **[[:sw:obs:notes:key-terms:believe|believe]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]] **
+  * **[[:sw:obs:notes:key-terms:lazarus|Lazarus' (ya Lazaro)]] **
+  * **[[:sw:obs:notes:key-terms:death|dead (amekufa)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
 ===== Translation Notes: =====
 
   * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:sw:obs:notes:frames:37-01|[37-01]]]**.
