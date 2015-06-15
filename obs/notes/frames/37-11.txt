@@ -1,21 +1,22 @@
-===== The Leaders Were Jealous [37-11] =====
+===== The Leaders Were Jealous [37-11] Viongozi Walikuwa na Wivu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink&}}
 
 But the **religious leaders** of the **Jews** were **jealous**, so they **gathered together** to plan how they could kill **Jesus** and **Lazarus**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:sw:obs:notes:key-terms/jew|Jews]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/lazarus|Lazarus]]**
+Lakini **viongozi wa kidini** wa **Wayahudi** walikuwa na **wivu**, hivyo **walikusanyika pamoja** kupanga jinsi ya  kuua **Yesu** na **Lazaro**.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leaders (viongozi wa kidini)]] **
+  * **[[:sw:obs:notes:key-terms:jew|Jews (Wayahudi)]] **
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]] **
+  * **[[:sw:obs:notes:key-terms:lazarus|Lazarus (Lazaro)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **jealous** - That is, "jealous of Jesus' power and popularity" or, "jealous that so many Jews were believing in Jesus."
-  * **gathered together** - That is, "met together" or, "joined together." This was a not a casual meeting, but a meeting for a specific purpose–to plan how to kill Jesus.
+  * **jealous**  - That is, "jealous of Jesus' power and popularity" or, "jealous that so many Jews were believing in Jesus."
+  * **kuwa na wivu**  - Hiyo ni, "wivu kwa sababu ya nguvu za Yesu na umaarufu" ama, "wivu kuwa Wayahudi wengi walikuwa wanamwamini Yesu."
+  * **gathered together**  - That is, "met together" or, "joined together." This was a not a casual meeting, but a meeting for a specific purpose–to plan how to kill Jesus.
+  * **walikusanyika pamoja**  - Hiyo ni, "walikutana pamoja" ama, "walijiunga pamoja. "Hii haikuwa mkutano wa kawaida, lakini mkutano kwa ajili ya  kusudi maalum - kupanga jinsi ya kumuua Yesu.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya inaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:37-10|<<]] | [[:sw:obs:notes:37|Up]] | [[:sw:obs:notes:frames:38-01|>>]]**
