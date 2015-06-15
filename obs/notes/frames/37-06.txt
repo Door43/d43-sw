@@ -1,22 +1,20 @@
-===== Mary Met Jesus [37-06] =====
+===== Mary Met Jesus [37-06] Mariamu Alikutana na Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink&}}
 
 Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**.” Jesus asked them, “Where have you put **Lazarus**?” They told him, “In the **tomb**. Come and see.” Then Jesus wept.
+
+Basi, **Mariamu** alifika. **Alipiga magoti karibu na Yesu** akasema, "**Bwana**, kama ungalikuwa hapa, **ndugu yangu hangalikufa.** "Yesu akawauliza, "Ni wapi mumeweka **Lazaro?**" Wakamwambia, "Katika **kaburi.** Kuja uona." Yesu akalia.
 ===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/lord|Master]]**
-  * **[[:sw:obs:notes:key-terms/death|died]]**
-  * **[[:sw:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:sw:obs:notes:key-terms/tomb|tomb]]**
-
-
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:sw:obs:notes:key-terms:lord|Master]]**
+  * **[[:sw:obs:notes:key-terms:death|died]]**
+  * **[[:sw:obs:notes:key-terms:lazarus|Lazarus]]**
+  * **[[:sw:obs:notes:key-terms:tomb|tomb]]**
 ===== Translation Notes: =====
 
-  * **Mary** - This was the same woman as in **[[:sw:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
-  * **fell at the feet of Jesus** - That is, "knelt down at Jesus' feet" as a sign of respect.
-  * **my brother would not have died.** - That is, "you could have kept my brother from dying" or, "you could have prevented my brother's death" or, "my brother would still be alive."
-
-
+  * **Mary**  - This was the same woman as in **[[:sw:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
+  * **fell at the feet of Jesus**  - That is, "knelt down at Jesus' feet" as a sign of respect.
+  * **my brother would not have died.**  - That is, "you could have kept my brother from dying" or, "you could have prevented my brother's death" or, "my brother would still be alive."
 **[[:sw:obs:notes:frames:37-05|<<]] | [[:sw:obs:notes:37|Up]] | [[:sw:obs:notes:frames:37-07|>>]]**
