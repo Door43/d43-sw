@@ -10,16 +10,18 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]] **
   * **[[:sw:obs:notes:key-terms:resurrection|Resurrection (Ufufuo)]]**
   * **[[:sw:obs:notes:key-terms:life|Life (Uzima)]]**
-  * **[[:sw:obs:notes:key-terms:believe|believes (anaamini)]] **
-  * **[[:sw:obs:notes:key-terms:death|dies (anakufa)]] **
+  * **[[:sw:obs:notes:key-terms:believe|believes (anaamini)]]**
+  * **[[:sw:obs:notes:key-terms:death|dies (anakufa)]]**
   * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
-  * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]] **
+  * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **I am the Resurrection and the Life**  - This is one of several very powerful "I am" statements in which Jesus says something about his essential nature. In this one, Jesus indicated that he is the "provider" or, "source" of resurrection and life. If possible, translate this phrase in a way that makes it clear that this is his essential nature. This can also be translated as, "I am the one who resurrects people and causes them to live."
   * **will live, even though he dies.**  - That is, "will live forever, even if he dies." The English word, "he" does not only refer to men. Women who believe in Jesus will also live forever.
+  * **ataishi, hata akifa**  - Hiyo ni, "ataishi milele, hata kama yeye atakufa. "Neno la Kiingereza, "yeye" halimaanishi tu wanaume. Wanawake ambao wanaamini Yesu pia wataishi milele.
   * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:sw:obs:notes:frames:37-01|[37-01]]]**.
+  * **Martha**  - Martha alikuwa dada ya Lazaro na Mariamu. Angalia **[37-01].**
   * **will never die**  - This can also be translated as, "will live forever."
   * **kamwe hatakufa**  - ii pia inaweza kutafsiriwa kama, "ataishi milele.
 **[[:sw:obs:notes:frames:37-04|<<]] | [[:sw:obs:notes:37|Up]] | [[:sw:obs:notes:frames:37-06|>>]]**
