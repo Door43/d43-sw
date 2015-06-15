@@ -5,13 +5,14 @@
 Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**.” Jesus asked them, “Where have you put **Lazarus**?” They told him, “In the **tomb**. Come and see.” Then Jesus wept.
 
 Basi, **Mariamu** alifika. **Alipiga magoti karibu na Yesu** akasema, "**Bwana**, kama ungalikuwa hapa, **ndugu yangu hangalikufa.** "Yesu akawauliza, "Ni wapi mumeweka **Lazaro?**" Wakamwambia, "Katika **kaburi.** Kuja uona." Yesu akalia.
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms:lord|Master]]**
-  * **[[:sw:obs:notes:key-terms:death|died]]**
-  * **[[:sw:obs:notes:key-terms:lazarus|Lazarus]]**
-  * **[[:sw:obs:notes:key-terms:tomb|tomb]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
+  * **[[:sw:obs:notes:key-terms:death|died (alikufa)]] **
+  * **[[:sw:obs:notes:key-terms:lazarus|Lazarus (Lazaro)]] **
+  * **[[:sw:obs:notes:key-terms:tomb|tomb (kaburi)]]**
+
 ===== Translation Notes: =====
 
   * **Mary**  - This was the same woman as in **[[:sw:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
