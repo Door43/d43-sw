@@ -6,13 +6,14 @@ Then **Jesus** picked up a cup and said, “**Drink this**. **It is my blood of 
 
 Wakati huo **Yesu** ilichukua kikombe na kusema, **"kunyweni hii. Ni damu yangu ya agano jipya inayomwagwa kwa ajili ya msamaha wa dhambi.** Fanyeni hii ili **kunikumbuka** kila wakati mnapokunywa."
 
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms:blood|blood]]**
-  * **[[:sw:obs:notes:key-terms:covenant-new|New Covenant]]**
-  * **[[:sw:obs:notes:key-terms:forgive|forgiveness]]**
-  * **[[:sw:obs:notes:key-terms:sin|sins]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:blood|blood (damu)]]**
+  * **[[:sw:obs:notes:key-terms:covenant-new|New Covenant (Agano Jipya)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgiveness (msamaha)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
+
 ===== Translation Notes: =====
 
   * **a cup**  - That is, "a cup of wine" or, "a cup full of a drink made from grapes."
