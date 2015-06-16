@@ -1,21 +1,20 @@
-===== Thirty Pieces of Silver [38-03] =====
+===== Thirty Pieces of Silver [38-03] Vipande Thelathini vya Fedha =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink&}}
 
 The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver coins** to **betray Jesus**. This happened just as the **prophets** had predicted. Judas agreed, took the money, and went away. He began looking for an opportunity to help them arrest Jesus.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:sw:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:sw:obs:notes:key-terms/judas|Judas]]**
-  * **[[:sw:obs:notes:key-terms/betray|betray]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/prophet|prophets]]**
+**Viongozi wa Wayahudi,** wakiongozwa na **kuhani mkuu**, wakalipa **Yuda sarafu thelathini za fedha** ili **amsaliti Yesu. ** Hii ilitokea kama vile **manabii ** walivyotabiri. Yuda akakubali, akachukua fedha, na akaenda zake.​ ​Alianza kutafuta nafasi ya kuwasaidia kumtia Yesu nguvuni.​
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mkuu)]]**
+  * **[[:sw:obs:notes:key-terms:judas|Judas (Yuda)]]**
+  * **[[:sw:obs:notes:key-terms:betray|betray (kusaliti)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **thirty silver coins** - Each of these coins were worth about four days' wages.
-
-
+  * **thirty silver coins**  - Each of these coins were worth about four days' wages.
+  * **sarafu thelathini za fedha**  - Kila moja ya sarafu hizi ilikuwa yenye thamani ya kama mshahara wa siku nne.
 **[[:sw:obs:notes:frames:38-02|<<]] | [[:sw:obs:notes:38|Up]] | [[:sw:obs:notes:frames:38-04|>>]]**
