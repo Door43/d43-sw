@@ -1,24 +1,28 @@
-===== You Will Be Scattered [38-08] =====
+===== You Will Be Scattered [38-08] Nyinyi Mtatawanyika =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink&}}
 
 After the meal, **Jesus** and his **disciples** walked to the **Mount of Olives**. Jesus said, “You will all **abandon me** tonight. **It is written**, ‘**I will strike the shepherd and all the sheep will be scattered**.’”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/shepherd|shepherd]]**
-  * **[[:sw:obs:notes:key-terms/sheep|sheep]]**
+Baada ya chakula, **Yesu** na **wanafunzi** wake walitembea katika **mlima wa Mizeituni**. Yesu alisema, "Wote **mtaniacha mimi** usiku wa leo. **Imeandikwa, 'Nitampiga mchungaji,** **na kondoo wote watatawanyika.'"**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:shepherd|shepherd (muchungaji)]]**
+  * **[[:sw:obs:notes:key-terms:sheep|sheep (kondoo)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **Mount of Olives** - This is the name of a hill covered with olive trees, just outside the walls of the city of Jerusalem. It can also be translated as, "Olive Tree Hill."
-  * **abandon me** - That is, "desert me" or, "leave me."
-  * **It is written** - That is, "It is written in God's word" or, "It is written in the scriptures" or, "One of God's prophets wrote." It is also possible to say, "What is written will happen" or, "It will be like what is written." This prophecy refers to Jesus' death and his followers running away.
-  * **I will strike** - That is, "I will kill."
-  * **the shepherd and all the sheep** - Do not use Jesus' name in this quote because the prophet who first wrote it would not have known the shepherd's name. Also, do not refer to the sheep being the disciples. It is best to use words that mean "shepherd" and "sheep" in your translation.
-  * **will be scattered** - That is, "will go away in different directions."
-
-
+  * **Mount of Olives**  - This is the name of a hill covered with olive trees, just outside the walls of the city of Jerusalem. It can also be translated as, "Olive Tree Hill."
+  * **Mlima wa Mizeituni**  - Hii ni jina la mlima uliyofunikwa na miti ya mizeituni, nje kidogo ya kuta za mji wa Yerusalemu. Hii pia inaweza kutafsiriwa kama, "Mlima wa miti ya mizeituni."
+  * **abandon me**  - That is, "desert me" or, "leave me."
+  * **mtaniacha mimi**  - Hiyo ni, "mtaenda mbali na mimi" ama, "mtaniacha mimi."
+  * **It is written**  - That is, "It is written in God's word" or, "It is written in the scriptures" or, "One of God's prophets wrote." It is also possible to say, "What is written will happen" or, "It will be like what is written." This prophecy refers to Jesus' death and his followers running away.
+  * **Maana imeandikwa **-  Hiyo ni, "Imeandikwa katika neno la Mungu " ama, "Imeandikwa katika maandiko " ama, "mmoja wa manabii wa Mungu aliandika."  Pia kuna uwezekano wa kusema, "kile kimeandikwa kitatokea " ama, "Itakuwa kama yale yaliyoandikwa." Unabii huu inahusu kifo cha Yesu na wafuasi wake kumtoroka.
+  * **I will strike**  - That is, "I will kill."
+  * **Nitampiga**  - Hiyo ni, "Mimi nitaua."
+  * **the shepherd and all the sheep**  - Do not use Jesus' name in this quote because the prophet who first wrote it would not have known the shepherd's name. Also, do not refer to the sheep being the disciples. It is best to use words that mean "shepherd" and "sheep" in your translation.
+  * **mchungaji na kondoo wote**  - Usitumie jina la Yesu katika nukuu hii kwa sababu nabii ambaye kwanza aliandika hangalijua jina la mchungaji. Pia, usitaje kondoo kuwa ni wafuasi. Ni bora kutumia maneno ambayo maana yake ni "mchungaji" na "kondoo" katika tafsiri yako.
+  * **will be scattered**  - That is, "will go away in different directions."
+  * **watatawanyika**  - Hiyo ni, "watakwenda zao katika mwelekeo tofauti."
 **[[:sw:obs:notes:frames:38-07|<<]] | [[:sw:obs:notes:38|Up]] | [[:sw:obs:notes:frames:38-09|>>]]**
