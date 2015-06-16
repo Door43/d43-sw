@@ -6,12 +6,13 @@ Then **Jesus** said to the **disciples**, “One of you will **betray** me.” T
 
 Kisha **Yesu** akawaambia **wanafunzi** wake, "Mmoja wenu **atanisaliti**." Wanafunzi walishtuka, na wakauliza ni nani ambaye angefanya jambo kama hilo. Yesu alisema, "mtu ambaye nitampa kipande cha mkate ndiye **msaliti**." Kisha akampa **Yuda** mkate.
 
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms:disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms:betray|betray]]**
-  * **[[:sw:obs:notes:key-terms:judas|Judas]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:betray|betray (kusaliti)]]**
+  * **[[:sw:obs:notes:key-terms:judas|Judas (Yuda)]]**
+
 ===== Translation Notes: =====
 
   * **give this piece of bread**  - That is, "hand this piece of bread."
