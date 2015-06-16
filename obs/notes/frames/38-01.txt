@@ -1,25 +1,24 @@
-===== The Passover [38-01] =====
+===== The Passover [38-01] Pasaka =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
 Every year, the **Jews** celebrated the **Passover**. This was a celebration of how **God** had **saved** their ancestors from **slavery** in **Egypt many centuries earlier**. About three years after **Jesus** first began **preaching** and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jew|Jews]]**
-  * **[[:sw:obs:notes:key-terms/passover|Passover]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/save|saved]]**
-  * **[[:sw:obs:notes:key-terms/servant|slavery]]**
-  * **[[:sw:obs:notes:key-terms/egypt|Egypt]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/preach|preaching]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/jerusalem|Jerusalem]]**
+Kila mwaka, **Wayahudi** walisherehekea **Pasaka**.Hii ilikuwa ni maadhimisho ya jinsi **Mungu** **alivyowaokoa** mababu zao kutoka **utumwani** **Misri karne nyingi zilizopita**. Miaka mitatu baada ya **Yesu** kwanza **kuhubiri** na kufundisha hadharani, Yesu aliwaambia **wanafunzi** wake kwamba alitaka kusherehekea Pasaka hii pamoja nao kule **Yerusalemu**, na kwamba atauawa huko.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jew|Jews (Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:passover|Passover (Pasaka)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:save|saved (aliokoa)]] **
+  * **[[:sw:obs:notes:key-terms:servant|slavery (utumwa)]]**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:preach|preaching (Kuhubiri)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (Wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **many centuries earlier** - That is, "hundreds of years earlier" or, "a very long time before."
-
-
+  * **many centuries earlier**  - That is, "hundreds of years earlier" or, "a very long time before."
+  * **karne nyingi zilizopita - ** Hiyo ni, ** **"mamia ya miaka mbele" ama, "muda mrefu sana kabla."
 **[[:sw:obs:notes:frames:37-11|<<]] | [[:sw:obs:notes:38|Up]] | [[:sw:obs:notes:frames:38-02|>>]]**
