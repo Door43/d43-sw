@@ -1,27 +1,25 @@
-===== I Am the Son of God [39-04] =====
+===== I Am the Son of God [39-04] Mimi ni Mwana wa Mungu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink&}}
 
 Jesus said, “**I am**, and you will see me **seated with God and coming from heaven**.” The **high priest tore his clothes in anger** and shouted to the other **religious leaders**, “We do not need any more **witnesses**! You have heard him say that he is the **Son of God**. **What is your judgment**?”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:sw:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:sw:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:sw:obs:notes:key-terms/judge|judgment]]**
+Yesu akasema, **"Mimi ndiye**, na utaniona mimi **nimeketi na Mungu na ninakuja kutoka mbinguni.**" Kuhani Mkuu akararua nguo zake kwa hasira na kupasa sauti **viongozi** wengine **wa kidini**, "Hatuna haja tena ya **mashahidi! ** Mumesikia akisema eti yeye ni **Mwana wa Mungu.** **Uamuzi wenu ni gani?"**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven (mbinguni)]]**
+  * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mkuu)]]**
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leaders (viongozi wa kidini)]]**
+  * **[[:sw:obs:notes:key-terms:witness|witnesses (mashahidi)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:judge|judgment (uamuzi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **I am** - That is, "I am as you said" or, "I am the Messiah and the Son of God." "I am" is also the name of God (See **[[:sw:obs:notes:frames:09-14|[09-14]]]**). By saying simply, "I am" Jesus was also saying that he is God. If possible, translate this so that people will see a similarity between Jesus' answer and the name of God.
-  * **seated with God** - This could be translated as, "reigning with God." Because God is the ruler over all, people talk about him as sitting on a throne in heaven. By saying that he would be seated with God, Jesus claimed that he had authority to rule with the Father.
-  * **seated with God and coming from heaven** - This could be translated as, "sitting beside God and then coming from heaven."
-  * **tore his clothes in anger** - The Jews would tear their clothes to show grief or anger. If tearing the clothes means something else in your language, you may want to substitute a phrase such as, "he was extremely angry."
-  * **What is your judgment?** - That is, "What is your decision?" or, "Tell us what have you decided: Is he innocent or guilty?" The chief priest wanted the religious leaders to condemn Jesus for claiming to be equal with God.
-
-
+  * **I am**  - That is, "I am as you said" or, "I am the Messiah and the Son of God." "I am" is also the name of God (See **[[:sw:obs:notes:frames:09-14|[09-14]]]**). By saying simply, "I am" Jesus was also saying that he is God. If possible, translate this so that people will see a similarity between Jesus' answer and the name of God.
+  * **seated with God**  - This could be translated as, "reigning with God." Because God is the ruler over all, people talk about him as sitting on a throne in heaven. By saying that he would be seated with God, Jesus claimed that he had authority to rule with the Father.
+  * **seated with God and coming from heaven**  - This could be translated as, "sitting beside God and then coming from heaven."
+  * **tore his clothes in anger**  - The Jews would tear their clothes to show grief or anger. If tearing the clothes means something else in your language, you may want to substitute a phrase such as, "he was extremely angry."
+  * **What is your judgment?**  - That is, "What is your decision?" or, "Tell us what have you decided: Is he innocent or guilty?" The chief priest wanted the religious leaders to condemn Jesus for claiming to be equal with God.
 **[[:sw:obs:notes:frames:39-03|<<]] | [[:sw:obs:notes:39|Up]] | [[:sw:obs:notes:frames:39-05|>>]]**
