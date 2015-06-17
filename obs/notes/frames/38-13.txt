@@ -1,19 +1,20 @@
-===== The Disciples Slept [38-13] =====
+===== The Disciples Slept [38-13] Wanafunzi Walilala =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink&}}
 
 **After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/pray|prayer]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/betray|betrayer]]**
+**Baada ya kila wakati wa maombi, Yesu** alirudi kwa **wanafunzi** wake, lakini wao walikuwa wamelala. Aliporudi mara ya tatu, Yesu akasema, "Amka! **Msaliti ** wangu yu hapa."
+===== Important Terms (Maneno ya Muhimu): =====
 
-
+  * **[[:sw:obs:notes:key-terms:pray|prayer (maombi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:betray|betrayer (msaliti)]]**
 ===== Translation Notes: =====
 
-  * **After each time of prayer** - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:sw:obs:notes:frames:38-12|[38-12]]]**.
-
+  * **After each time of prayer**  - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:sw:obs:notes:frames:38-12|[38-12]]]**.
+  * **Baada ya kila wakati wa maombi**
+ - Hiyo ni, "Kila wakati Yesu aliomba hilo ombai." Hii ina maana ya mara tatu akaomba, kama ilivyoelezwa pale **[38-12].**
 
 **[[:sw:obs:notes:frames:38-12|<<]] | [[:sw:obs:notes:38|Up]] | [[:sw:obs:notes:frames:38-14|>>]]**
