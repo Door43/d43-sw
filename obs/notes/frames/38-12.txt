@@ -1,25 +1,25 @@
-===== Your Will Be Done [38-12] =====
+===== Your Will Be Done [38-12] Mapenzi Yako Yafanyike =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink&}}
 
 **Jesus prayed** three times, “**My Father**, if it is possible, please let me not have to **drink this cup of suffering**. But if there is no other way for people’s **sins** to be **forgiven**, then **let your will be done**.” Jesus was very troubled and **his sweat was like drops of blood**. **God** sent an **angel** to strengthen him.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/pray|prayed]]**
-  * **[[:sw:obs:notes:key-terms/god-father|My Father]]**
-  * **[[:sw:obs:notes:key-terms/suffer|suffering]]**
-  * **[[:sw:obs:notes:key-terms/sin|sins]]**
-  * **[[:sw:obs:notes:key-terms/forgive|forgiven]]**
-  * **[[:sw:obs:notes:key-terms/blood|blood]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/angel|angel]]**
+**Yesu aliomba** mara tatu, "**Baba yangu**, kama inawezekana, tafadhali niondolee ili nisikunywe **kikombe hiki cha mateso**. Lakini kama hakuna njia nyingine ya watu kupata **msamaha** kwa ajili ya **dhambi**, basi, **mapenzi yako yafanyike**." Yesu alifadhaika sana na **jasho lake likawa kama matone ya damu.** **Mungu** akatuma **malaika** kumtia nguvu.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:pray|prayed (aliomba)]]**
+  * **[[:sw:obs:notes:key-terms:god-father|My Father (Baba Yangu)]]**
+  * **[[:sw:obs:notes:key-terms:suffer|suffering (kuteseka)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgiven (kusamehewa)]]**
+  * **[[:sw:obs:notes:key-terms:blood|blood (damu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **drink this cup of suffering** - That is, "go through this suffering" or, "suffer what is about to happen" or, "endure this suffering."
-  * **let your will be done** - This expression means, "do what you have planned" or, "do what needs to be done."
-
-
+  * **drink this cup of suffering**  - That is, "go through this suffering" or, "suffer what is about to happen" or, "endure this suffering."
+  * **kunywa kikombe hiki cha mateso**  - Hiyo ni, "kupitia kwa mateso haya" ama, "kuteseka na kile kinaenda kutokea" ama, "kuvumilia mateso haya."
+  * **let your will be done**  - This expression means, "do what you have planned" or, "do what needs to be done."
+  * **basi, mapenzi yako yafanyike**  - Msemo huu unamanisha, "fanya kile umepanga" ama,"fanya kile kinahitajika."
 **[[:sw:obs:notes:frames:38-11|<<]] | [[:sw:obs:notes:38|Up]] | [[:sw:obs:notes:frames:38-13|>>]]**
