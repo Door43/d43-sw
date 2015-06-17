@@ -1,21 +1,22 @@
-===== They Mocked Jesus [39-05] =====
+===== They Mocked Jesus [39-05] Walimdhihaki Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink&}}
 
 The **Jewish leaders** all answered the **high priest**, “He deserves to **die**!” Then **they blindfolded Jesus**, **spit on him**, hit him, and **mocked** him.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:sw:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:sw:obs:notes:key-terms/death|die]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/mock|mocked]]**
+**Viongozi wa<font inherit/inherit;;inherit;;inherit></font> Wayahudi**wote<font inherit/inherit;;inherit;;inherit></font> wakamjibu **kuhani<font inherit/inherit;;inherit;;inherit></font> mkuu** <font inherit/inherit;;inherit;;inherit>, "</font> Anastahili<font inherit/inherit;;inherit;;inherit></font> kufa<font inherit/inherit;;inherit;;inherit>!"</font> Kisha<font inherit/inherit;;inherit;;inherit>** wakamfunika Yesu macho **</font> <font inherit/inherit;;inherit;;inherit>,  ** wakamtemea mate ** ,</font> <font inherit/inherit;;inherit;;inherit>wa</font> kamtwanga<font inherit/inherit;;inherit;;inherit>, na</font> **kumdhihaki** <font inherit/inherit;;inherit;;inherit>.</font>
 
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mkuu)]]**
+  * **[[:sw:obs:notes:key-terms:death|die (kufa)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:mock|mocked (walidhihaki)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **they blindfolded Jesus** - That is. "they covered Jesus' eyes so that he could not see."
-  * **spit on him** - This could also be translated as, "spit on him to insult him" or, "spit on him in order to say that he was worthless." This was a way of showing contempt for someone.
-
-
+  * **they blindfolded Jesus**  - That is. "they covered Jesus' eyes so that he could not see."
+  * **walimfunika Yesu macho**  - Hiyo ni, "walifunika Yesu macho ili asiweze kuona."
+  * **spit on him**  - This could also be translated as, "spit on him to insult him" or, "spit on him in order to say that he was worthless." This was a way of showing contempt for someone.
+  * **walimtemea mate**  - Hii inaweza pia kutafsiriwa kama "walimtemea mate ikiwa matusi" ama, "walimtemea mate ili kuonyesha kwamba alikuwa hana maana." Hii ilikuwa ni njia ya kuonyesha madharau kwa mtu.
 **[[:sw:obs:notes:frames:39-04|<<]] | [[:sw:obs:notes:39|Up]] | [[:sw:obs:notes:frames:39-06|>>]]**
