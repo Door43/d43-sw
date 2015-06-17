@@ -1,27 +1,27 @@
-===== Peter Fought for Jesus [38-15] =====
+===== Peter Fought for Jesus [38-15] Petero Alipigana kwa Ajili ya Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink&}}
 
 **As the soldiers arrested Jesus**, **Peter pulled out his sword** and cut off the ear of a **servant** of the **high priest**. Jesus said, “Put the sword away! I could ask the **Father** for an army of **angels** to defend me. But I **must obey my Father**.” Then Jesus **healed** the man’s ear. After Jesus was arrested, all the **disciples** ran away.
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms/servant|servant]]**
-  * **[[:sw:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:sw:obs:notes:key-terms/god-father|Father]]**
-  * **[[:sw:obs:notes:key-terms/angel|angels]]**
-  * **[[:sw:obs:notes:key-terms/obey|obey]]**
-  * **[[:sw:obs:notes:key-terms/heal|healed]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-
-
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
+  * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mkuu)]]**
+  * **[[:sw:obs:notes:key-terms:god-father|Father (Baba)]]**
+  * **[[:sw:obs:notes:key-terms:angel|angels (malaika)]]**
+  * **[[:sw:obs:notes:key-terms:obey|obey (tii)]]**
+  * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
 ===== Translation Notes: =====
 
-  * **As the soldiers arrested Jesus** - That is, "While the soldiers were arresting Jesus."
-  * **pulled out his sword** - That is, "pulled out his sword from the place where he was carrying it."
-  * **I must obey my Father** - That is, "I won't do that because I must obey my Father's will and allow myself to be arrested."
+  * **As the soldiers arrested Jesus**  - That is, "While the soldiers were arresting Jesus."
+  * **Askari walipokuwa wanamkamata Yesu**  - Hiyo ni, "Wakati askari walikuwa wakimkamata Yesu."
+  * **pulled out his sword**  - That is, "pulled out his sword from the place where he was carrying it."
+  * **akatoa upanga wake**  - Hiyo ni, "kutoa upanga wake kutoka mahali alipokuwa anaibebea."
+  * **I must obey my Father**  - That is, "I won't do that because I must obey my Father's will and allow myself to be arrested."
+  * **Mimi lazima nimtii Baba yangu**  - Hiyo ni, "Mimi sitafanya hivyo kwa sababu ni lazima nitii mapenzi ya Baba yangu na kuruhusu nikamatwe."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:38-14|<<]] | [[:sw:obs:notes:38|Up]] | [[:sw:obs:notes:frames:39-01|>>]]**
