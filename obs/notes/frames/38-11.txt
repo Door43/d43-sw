@@ -6,12 +6,13 @@ Then **Jesus** went with his **disciples** to **a place called Gethsemane**. Jes
 
 Kisha **Yesu** akaenda pamoja na **wanafunzi** wake **mahali panaitwa bustanini ya Gethsemane**. Yesu aliwaambia wanafunzi wake **kuomba** kwamba **hawataingia kwa majaribu**. Kisha Yesu alikwenda kuomba **peke yake**.
 
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms:disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms:pray|pray]]**
-  * **[[:sw:obs:notes:key-terms:tempt|temptation]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:pray|pray (kuomba)]]**
+  * **[[:sw:obs:notes:key-terms:tempt|temptation (majaribu)]]**
+
 ===== Translation Notes: =====
 
   * **a place called Gethsemane**  - This could be translated as, "a nearby place called Gethsemane" or, "a place called Gethsemane at the foot of the Mount of Olives."
