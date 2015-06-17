@@ -1,23 +1,25 @@
-===== Judas Betrayed Jesus [38-14] =====
+===== Judas Betrayed Jesus [38-14] Yuda Alimsaliti Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink&}}
 
 **Judas** came with the **Jewish leaders**, soldiers, and a large crowd. They were carrying swords and clubs. Judas **came to Jesus** and said, “**Greetings**, **Teacher**,” and kissed him. This was **the sign** for the Jewish leaders to know whom to arrest. Then Jesus said, “Judas, **do you betray me with a kiss**?”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/judas|Judas]]**
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/teacher|Teacher]]**
-  * **[[:sw:obs:notes:key-terms/betray|betray]]**
+**Yuda** akaenda pamoja **viongozi wa Kiyahudi**, askari, na mkutano mkubwa. Wao walikuwa wakifanya mapanga na marungu . Yuda walimwendea Yesu, akamwambia, " Salamu, Mwalimu, "Kisha akambusu. Hii ilikuwa ni ishara kwa ajili ya viongozi wa Kiyahudi kujua nani wa kumkamata. Wakati huo Yesu alisema, "Yuda! Je, atanisaliti kwa kumbusu?"
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:judas|Judas (Yuda)]]**
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:teacher|Teacher (Mwalimu)]]**
+  * **[[:sw:obs:notes:key-terms:betray|betray (saliti)]]**
+===== Translation Notes (Maelezo ya Tafsiri: =====
 
-===== Translation Notes: =====
-
-  * **came to** - Some languages may prefer to say, "went to."
-  * **Greetings** - This can also be translated as, "Hello" or, "Peace" or, "Good evening."
-  * **the sign** - That is, "the signal."
-  * **do you betray me with a kiss?** - That is, "are you really going to betray me with a kiss?" Jesus is not looking for an answer to this question. So some languages would translate it as a statement, such as, "you are betraying me by kissing me!" or, "you make your betrayal even worse by kissing me!"
-
-
+  * **came to**  - Some languages may prefer to say, "went to."
+  * **alikuja**  - Baadhi ya lugha zinaweza kupendelea kusema, "alikwenda."
+  * **Greetings**  - This can also be translated as, "Hello" or, "Peace" or, "Good evening."
+  * **Salamu**  - Hii pia inaweza kutafsiriwa kama, "Habari" ama, "Amani" ama, "Habari za jioni."
+  * **the sign**  - That is, "the signal."
+  * **ishara**  - Hiyo ni, "ishara."
+  * **do you betray me with a kiss?**  - That is, "are you really going to betray me with a kiss?" Jesus is not looking for an answer to this question. So some languages would translate it as a statement, such as, "you are betraying me by kissing me!" or, "you make your betrayal even worse by kissing me!"
+  * **Je, unamsaliti yangu kwa kumbusu?**  - Hiyo ni, "kweli unaenda kunisaliti kwa kunibusu?" Yesu hatafuti jibu la swali hili. Kwa hivyo baadhi ya lugha inaweza kutafsiri kama sentensi, kama vile, "unanisaliti kwa kunibusu mimi!" ama, "unafanya usaliti wako hata mbaya zaidi kwa kunibusu mimi!"
 **[[:sw:obs:notes:frames:38-13|<<]] | [[:sw:obs:notes:38|Up]] | [[:sw:obs:notes:frames:38-15|>>]]**
