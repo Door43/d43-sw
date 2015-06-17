@@ -1,22 +1,24 @@
-===== The False Witnesses [39-02] =====
+===== The False Witnesses [39-02] Mashahidi wa Uwongo =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink&}}
 
 Inside the house, the **Jewish leaders put Jesus on trial**. They brought many false **witnesses** who **lied about him**. However, **their statements did not agree with each other**, so the Jewish leaders could not prove **he was guilty of anything**. Jesus did not say anything.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:sw:obs:notes:key-terms/guilt|guilty]]**
+Ndani ya nyumba, **viongozi wa Wayahudi wakaweka Yesu katika kesi**. Wakaleta **mashahidi** wengi wa uongo ambao **walinena uongo juu yake**. Hata hivyo, **taarifa zao hazikukubaliana ya moja na mwingine**, kwa hivyo viongozi wa Wayahudi hawakuweza kuthibitisha kuwa **alikuwa na hatia** ya kitu chochote. Yesu hakusema chochote.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:witness|witnesses (mashahidi)]]**
+  * **[[:sw:obs:notes:key-terms:guilt|guilty (hatia)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **put Jesus on trial** - This could be translated as, "had a formal meeting to accuse Jesus of doing something wrong." Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
-  * **lied about him** - That is, "told lies about him" or, "falsely accused him of doing something wrong."
-  * **their statements did not agree with each other** - This could be translated as, "they said things about Jesus that were very different from each other" or, "the witnesses said things about Jesus that contradicted each other."
-  * **he was guilty of anything** - That is, "that he had done anything wrong."
-
-
+  * **put Jesus on trial**  - This could be translated as, "had a formal meeting to accuse Jesus of doing something wrong." Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
+  * **kuweka Yesu kwa kesi**  - Hii inaweza kutafsiriwa kama, "wakawa na mkutano rasmi ili kumshtaki Yesu wa kufanya kitu kibaya." Kwa kawaida kesi inafanywa ili kujua kama mtu ana hatia au la ya uhalifu fulani. Katika kesi hiyo, viongozi walikuwa nia ya kufanya Yesu kuonekana na hatia .
+  * **lied about him**  - That is, "told lies about him" or, "falsely accused him of doing something wrong."
+  * **uongo juu yake**  - Hiyo ni, "waliongea uongo juu yake" ama, "kwa uongo walimshtaki kuwa amefanya kitu kibaya."
+  * **their statements did not agree with each other**  - This could be translated as, "they said things about Jesus that were very different from each other" or, "the witnesses said things about Jesus that contradicted each other."
+  * **taarifa zao hazikukubaliana kati ya moja na mwingine**  - Hii inaweza kutafsiriwa kama, "walisema mambo kuhusu Yesu yaliokuwa tofauti sana kati ya moja na mwingine" ama, "mashahidi walisema mambo kuhusu Yesu yaliokuwa kinyume kati ya moja na mwingine."
+  * **he was guilty of anything**  - That is, "that he had done anything wrong."
+  * **alikuwa na hatia ya kitu chochote**  - Hiyo ni, "kuwa alitenda chochote kibaya."
 **[[:sw:obs:notes:frames:39-01|<<]] | [[:sw:obs:notes:39|Up]] | [[:sw:obs:notes:frames:39-03|>>]]**
