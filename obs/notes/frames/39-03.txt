@@ -1,19 +1,18 @@
-===== Are You the Son of God? [39-03] =====
+===== Are You the Son of God? [39-03] Je, Wewe ni Mwana wa Mungu? =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink&}}
 
 Finally, the **high priest** looked directly at **Jesus** and said, “Tell us, are you the **Messiah**, the **Son of the living God**?”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son of the living God]]**
+Hatimaye, **kuhani mkuu** akamtazama Yesu moja kwa moja na kusema, "Twambie, wewe ndiye **Masihi**, **Mwana wa Mungu aliye hai**?"
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mkuu)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son of the living God (Mwana wa Mungu aliye hai)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **Finally** - That is, "After they were unable to find any evidence against him" or, "After they were unable to prove that he was guilty."
-
-
+  * **Finally**  - That is, "After they were unable to find any evidence against him" or, "After they were unable to prove that he was guilty."
+  * **Hatimaye -** Hiyo ni, "Baada yakushindwa kupata ushahidi wowote dhidi yake" ama, "Baada yao kushindwa kuthibitisha kwamba yeye yuko na hatia."
 **[[:sw:obs:notes:frames:39-02|<<]] | [[:sw:obs:notes:39|Up]] | [[:sw:obs:notes:frames:39-04|>>]]**
