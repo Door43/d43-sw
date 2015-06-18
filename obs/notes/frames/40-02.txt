@@ -1,22 +1,22 @@
-===== Jesus Was Nailed to the Cross [40-02] =====
+===== Jesus Was Nailed to the Cross [40-02] Yesu Kuwekwa Misumari kwa Msalaba =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink&}}
 
 The soldiers brought **Jesus** to a place called “**the Skull**” and nailed his hands and feet to the **cross**. But Jesus said, “**Father**, **forgive them**, **because they do not know what they are doing**.” **Pilate** commanded that they write, “**King of the Jews**” on a sign and put it on the cross above Jesus’ head.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/cross|cross]]**
-  * **[[:sw:obs:notes:key-terms/god-father|Father]]**
-  * **[[:sw:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:sw:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:sw:obs:notes:key-terms/king-of-jews|King of the Jews]]**
+Askari wakaleta **Yesu** mpaka pahali palipoitwa **"fuvu"** na wakapigilia misumari kwa mikono na miguu yake kwa **msalaba**. Lakini Yesu akasema, "**Baba, wasamehe, kwa sababu hawajui kile wanachokifanya."** **Pilato** akaamuru waandike, **"Mfalme wa Wayahudi"** kwa kibao na akaiweka kwa msalaba juu ya kichwa cha Yesu.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:cross|cross (msalaba)]]**
+  * **[[:sw:obs:notes:key-terms:god-father|Father (Baba)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgive (samehe)]]**
+  * **[[:sw:obs:notes:key-terms:pilate|Pilate (Pilato)]]**
+  * **[[:sw:obs:notes:key-terms:king-of-jews|King of the Jews (Mfalme wa Wayahudi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **the Skull** - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
-  * **forgive them, because they do not know what they are doing** - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
-
-
+  * **the Skull**  - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
+  * **fuvu**  - mlima uliyo karibu na Yerusalemu na iliyo na kilele cheupe, kiliyo na umbo ambayo kiasi inafanana na juu ya fuvu.
+  * **forgive them, because they do not know what they are doing**  - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
+  * **uwasamehe, kwa sababu hawajui kile wanachokifanya**  - Hiyo ni, "hawaelewi maana ya kile wanachokifanya, kwa hivyo tafadhali wasamehe makosa yao." Askari walidhani Yesu alikuwa tu mhalifu ambaye alistahili kufa. Hawakuelewa kuwa yeye alikuwa Mwana wa Mungu.
 **[[:sw:obs:notes:frames:40-01|<<]] | [[:sw:obs:notes:40|Up]] | [[:sw:obs:notes:frames:40-03|>>]]**
