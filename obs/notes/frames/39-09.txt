@@ -1,21 +1,22 @@
-===== Jesus and Pilate [39-09] =====
+===== Jesus and Pilate [39-09] Yesu na Pilato =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&}}
 
 Early the next morning, the **Jewish leaders** brought **Jesus** to **Pilate**, the **Roman governor**. They hoped that Pilate would condemn Jesus as guilty and **sentence him to be killed**. Pilate asked Jesus, “Are you the **king of the Jews**?”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:sw:obs:notes:key-terms/rome|Roman]]**
-  * **[[:sw:obs:notes:key-terms/king-of-jews|king of the Jews]]**
+Mapema asubuhi iliyofuata, **viongozi wa Wayahudi** wakaleta **Yesu ** kwa **Pilato**, **gavana wa Kirumi**. Walitumaini Pilato ataamua kuwa Yesu yuko na hatia na **kutoa hukumu yake ili auawe**. Pilato akamwuliza Yesu, "Je, wewe ni **mfalme wa Wayahudi?"**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:pilate|Pilate (Pilato)]]**
+  * **[[:sw:obs:notes:key-terms:rome|Roman (Roma)]]**
+  * **[[:sw:obs:notes:key-terms:king-of-jews|king of the Jews (mfalme wa Wayahudi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **Roman governor** - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
-  * **sentence him to be killed** - As governor, Pilate had the authority to condemn Jesus to death and to give approval for his crucifixion, or to set him free. The Jewish religious leaders did not have the authority to have someone killed.
-
+  * **Roman governor**  - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
+  * Gavana wa Kirumi - Yaani, "afisa wa Kirumi serikali." Serikali ya Kirumi walipanga Pilato kutawala mkoa wa Yudea katika Israeli.
+  * **sentence him to be killed**  - As governor, Pilate had the authority to condemn Jesus to death and to give approval for his crucifixion, or to set him free. The Jewish religious leaders did not have the authority to have someone killed.
+  * hukumu yake wauawe - Akiwa gavana , Pilato alikuwa na mamlaka kumhukumu Yesu hadi kufa na kutoa kibali kwa ajili ya kusulubiwa kwake , au ilimwachia huru . Viongozi wa kidini Wayahudi hawakuwa na mamlaka ya kuwa na mtu kuuawa.
 
 **[[:sw:obs:notes:frames:39-08|<<]] | [[:sw:obs:notes:39|Up]] | [[:sw:obs:notes:frames:39-10|>>]]**
