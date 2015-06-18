@@ -1,21 +1,21 @@
-===== He Is Not Guilty [39-11] =====
+===== He Is Not Guilty [39-11] Yeye Hana Hatia =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink&}}
 
 After speaking with **Jesus**, **Pilate** went out to the crowd and said, “**I find no guilt in this man**.” But the **Jewish leaders** and the crowd shouted, “**Crucify** him!” Pilate replied, “**He is not guilty**.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:sw:obs:notes:key-terms/guilt|guilt]]**
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:sw:obs:notes:key-terms/crucify|Crucify]]**
+Baada ya kuongea na **Yesu**, **Pilato** alienda nje kwa umati na kusema, **"Sioni kosa lolote kwa mtu huyu.**" Lakini viongozi wa Wayahudi na umati wa watu wakasema kwa sauti: "**Msulubishe**! "Pilato akajibu, **"Yeye hana hatia."** Lakini waliinua sauti zao hata zaidi. Hivyo Pilato akasema kwa mara ya tatu, "Yeye hana hatia! "
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:pilate|Pilate (Pilato)]]**
+  * **[[:sw:obs:notes:key-terms:guilt|guilt (hatia)]]**
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:crucify|Crucify (sulubisha)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **I find no guilt in this man** - That is, "I do not find this man to be guilty" or, "I have examined this man, and I do not see that he has done anything wrong."
-  * **He is not guilty** - That is, "He has done nothing wrong!"
-
-
+  * **I find no guilt in this man**  - That is, "I do not find this man to be guilty" or, "I have examined this man, and I do not see that he has done anything wrong."
+  * **Mimi sioni hatia na mtu huyu**  - Hiyo ni, "Sioni mtu huyu akiwa na hatia" ama, "Mimi nimechunguza mtu huyu, na sioni kwamba amefanya chochote kibaya."
+  * **He is not guilty**  - That is, "He has done nothing wrong!"
+  * **Hana hatia**  - Hiyo ni, "Yeye hakufanya chochote kibaya!"
 **[[:sw:obs:notes:frames:39-10|<<]] | [[:sw:obs:notes:39|Up]] | [[:sw:obs:notes:frames:39-12|>>]]**
