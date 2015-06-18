@@ -1,29 +1,32 @@
-===== The King of the Jews [39-12] =====
+===== The King of the Jews [39-12] Mfalme wa Wayahudi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?nolink&}}
 
 **Pilate** became afraid that the crowd would begin to **riot**, so **he agreed to have** his soldiers **crucify Jesus**. The **Roman** soldiers whipped Jesus and put **a royal robe** and a **crown made of thorns** on him. Then they **mocked** him by saying, “**Look**, **the King of the Jews**!”
 
+**Pilato** akawa na hofu kuwa umati itaanza kutoa **ghasia**, hivyo **alikubali ** kuwa askari wake **wasulubishe Yesu**. Askari wa **Kirumi ** wakachapa Yesu na kuweka **vazi la kifalme** na **taji iliyotengenezwa na miiba ** kwake. Kisha **walimdhihaki** kwa kusema, "**Angalia, Mfalme wa Wayahudi!"**
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:pilate|Pilate (Pilato)]]**
+  * **[[:sw:obs:notes:key-terms:crucify|crucify (sulubisha)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:rome|Roman (ya Kirumi)]]**
+  * **[[:sw:obs:notes:key-terms:mock|mocked (kudhihaki)]]**
+  * **[[:sw:obs:notes:key-terms:king-of-jews|King of the Jews (Mfalme wa Wayahudi)]]**
+===== Translation Notes (Maelezo y: =====
 
-  * **[[:sw:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:sw:obs:notes:key-terms/crucify|crucify]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/rome|Roman]]**
-  * **[[:sw:obs:notes:key-terms/mock|mocked]]**
-  * **[[:sw:obs:notes:key-terms/king-of-jews|King of the Jews]]**
-
-
-===== Translation Notes: =====
-
-  * **riot** - That is, "start doing violent things in their anger."
-  * **he agreed to have** - Pilate did not want to kill Jesus because he believed that Jesus was innocent. But he was forced to tell his soldiers to crucify Jesus because of his fear of the crowd. If possible, translate this phrase in a way that shows his reluctance.
-  * **a royal robe** - That is, "a robe like a king's robe." This robe had a bright color, so it looked like the kind of robe that a king would wear.
-  * **crown made of thorns** - This means that they tied thorn branches into a circle to look like a crown. A crown is an ornament that a king wears on his head to show his authority. But the crown that they put on Jesus' head had sharp, dangerous thorns on it.
-  * **Look** - That is, "Look at" or, "Here is."
-  * **the King of the Jews** - Since the soldiers were mocking Jesus, this could be translated as, "the so-called King of the Jews."
+  * **riot**  - That is, "start doing violent things in their anger."
+  * **kutoa ghasia**  - Hiyo ni, "kuanza kufanya mambo ya vurugu katika hasira yao."
+  * **he agreed to have**  - Pilate did not want to kill Jesus because he believed that Jesus was innocent. But he was forced to tell his soldiers to crucify Jesus because of his fear of the crowd. If possible, translate this phrase in a way that shows his reluctance.
+  * **alikubali kuwa na**  - Pilato hakutaka kumuua Yesu kwa sababu aliamini kwamba Yesu hakuwa na hatia . Lakini alilazimika kuwaambia askari wake wamsulibishe Yesu kwa sababu ya hofu yake ya umati wa watu. Kama inawezekana, tafsiri maneno haya kwa njia ambayo inaonyesha kusita kwake.
+  * **a royal robe**  - That is, "a robe like a king's robe." This robe had a bright color, so it looked like the kind of robe that a king would wear.
+  * **vazi la kifalme**  - Hiyo ni, "vazi kama la mfalme." Vazi hilo lilikuwa na rangi yenye kung'aa, kwa hivyo lilikuwa inaonekana kama aina ya vazi lile ambalo mfalme angevaa.
+  * **crown made of thorns**  - This means that they tied thorn branches into a circle to look like a crown. A crown is an ornament that a king wears on his head to show his authority. But the crown that they put on Jesus' head had sharp, dangerous thorns on it.
+  * **taji iliyo tengenezwa na miiba**  - Hii ina maana kwamba wao walifunga matawi ya mwiba katika mduara ili ikae kama taji. Taji ni pambo ambalo mfalme anavaa juu ya kichwa chake kuonyesha mamlaka yake. Lakini taji walioweka juu ya kichwa cha Yesu ilikuwa na miiba mikali na hatari juu yake.
+  * **Look**  - That is, "Look at" or, "Here is."
+  * **Angalia **- Yaani, "Tazama" ama, "Hapa ni."
+  * **the King of the Jews**  - Since the soldiers were mocking Jesus, this could be translated as, "the so-called King of the Jews."
+  * **mfalme wa Wayahudi**  - Kwa sababu askari walikuwa wanadhihaki Yesu, hii inaweza kutafsiriwa kama "anyejulikana kama Mfalme wa Wayahudi."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya inaweza kuwa tofauti kiasi katika tafsiri zingine  za Biblia.
 **[[:sw:obs:notes:frames:39-11|<<]] | [[:sw:obs:notes:39|Up]] | [[:sw:obs:notes:frames:40-01|>>]]**
