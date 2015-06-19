@@ -1,23 +1,24 @@
-===== The Burial of Jesus [40-09] =====
+===== The Burial of Jesus [40-09] Mazishi ya Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
 Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was the **Messiah**, **asked Pilate for Jesus’ body**. They wrapped his body in cloth and placed it in a **tomb** cut out of rock. Then they rolled a large stone in front of the tomb to block the opening.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:sw:obs:notes:key-terms/believe|believed]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:sw:obs:notes:key-terms/tomb|tomb]]**
+Kisha **Yusufu** na Nikodemu, **viongozi ** wawili **Wayahudi** walio **amini Yesu** alikuwa **Masihi**, **wakaitisha Pilato mwili wa Yesu.** Walifunga mwili wake na nguo na kuiweka katika **kaburi ** iliyo katwa kwa mwamba. Kisha wakavingirisha jiwe kubwa mbele ya kaburi kufunga ufunguzi.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (vingozi wa Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believed (waliamini)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:pilate|Pilate (Pilato)]]**
+  * **[[:sw:obs:notes:key-terms:tomb|tomb (kaburi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **Joseph** - This was not Mary's husband. It was another man named Joseph.
-  * **asked Pilate for Jesus' body** - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
+  * **Joseph**  - This was not Mary's husband. It was another man named Joseph.
+  * **Yusufu**  - Huyu hakuwa mume wa Mariamu. Alikuwa ni mtu mwingine aitwaye Yusufu.
+  * **asked Pilate for Jesus' body**  - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
+  * **waliitisha Pilato mwili wa Yesu**  - Hiyo ni, "waliuliza Pilato awaruhusu kutoa mwili wa Yesu juu ya msalaba."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yanaweza kuwa na tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:40-08|<<]] | [[:sw:obs:notes:40|Up]] | [[:sw:obs:notes:frames:41-01|>>]]**
