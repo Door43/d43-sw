@@ -3,16 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink}}
 
 The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They said to him, “If you are the **Son of God**, come down from the **cross** and **save** yourself! Then we will **believe** you.”
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:sw:obs:notes:key-terms/mock|mocked]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:sw:obs:notes:key-terms/cross|cross]]**
-  * **[[:sw:obs:notes:key-terms/save|save]]**
-  * **[[:sw:obs:notes:key-terms/believe|believe]]**
-
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:mock|mocked (walidhihaki)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:cross|cross (musalaba)]]**
+  * **[[:sw:obs:notes:key-terms:save|save (okoa)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
 
 ===== Translation Notes: =====
 
