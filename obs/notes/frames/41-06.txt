@@ -1,21 +1,20 @@
-===== Tell the Disciples [41-06] =====
+===== Tell the Disciples [41-06] Wambie Wanafunzi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&}}
 
 Then the **angel** told the women, “Go and tell the **disciples**, '**Jesus** has **risen** from the dead and **he will go to Galilee ahead of you**.'”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/angel|angel]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/raise|risen]]**
-  * **[[:sw:obs:notes:key-terms/death|dead]]**
-  * **[[:sw:obs:notes:key-terms/galilee|Galilee]]**
+Kisha **malaika** aliwaambia wale wanawake, "Nendeni mkawaambie **wanafunzi**, **'Yesu amefufuka** kutoka wafu **naye ataenda Galilaya mbele yenu.'"**
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:raise|risen (amefufuka)]]**
+  * **[[:sw:obs:notes:key-terms:death|dead (wafu)]]**
+  * **[[:sw:obs:notes:key-terms:galilee|Galilee (Galilaya)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **he will go to Galilee ahead of you **- That is, "he will meet you in Galilee" or, "he will be in Galilee when you get there." "You" here is plural, including the apostles and other disciples.
-
-
+  * **ataenda Galilaya mbele yenu**  - Hiyo ni, "atakutana nanyi kule Galilaya" ama, "yeye atakuwa Galilaya wakati mtafika huko." "Wewe" hapa ni wingi, ikijumuisha mitume na wanafunzi wengine.
 **[[:sw:obs:notes:frames:41-05|<<]] | [[:sw:obs:notes:41|Up]] | [[:sw:obs:notes:frames:41-07|>>]]**
