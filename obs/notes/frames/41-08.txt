@@ -1,20 +1,20 @@
-===== Jesus Appeared to the Women [41-08] =====
+===== Jesus Appeared to the Women [41-08]  Yesu Alionekana kwa Wanawake =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink&}}
 
 As the women were on their way to tell the **disciples** the good news, **Jesus** appeared to them, and they **worshiped** him. Jesus said, “Do not be afraid. Go and tell my disciples to go to **Galilee**. They **will see me** there.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/worship|worshiped]]**
-  * **[[:sw:obs:notes:key-terms/galilee|Galilee]]**
+Kama wanawake walipokuwa wanaenda zao kuwaambia **wanafunzi** ile habari njema, **Yesu** alionekana, nao wakamuabudu. Yesu akawaambia, "Msiogope. Endeni muwaambie wanafunzi wangu waenda **Galilaya** na **wataniona** huko."
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worshiped (waliabudu)]]**
+  * **[[:sw:obs:notes:key-terms:galilee|Galilee (Galilaya)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **will see me** - That is, "will meet me" or, "can meet with me."
+  * **will see me**  - That is, "will meet me" or, "can meet with me."
+  * **wataniona**  - Hiyo ni, "watakutana na mimi" ama, "wanaweza kukutana na mimi."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yanaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:41-07|<<]] | [[:sw:obs:notes:41|Up]] | [[:sw:obs:notes:frames:42-01|>>]]**
