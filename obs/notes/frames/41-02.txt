@@ -1,18 +1,18 @@
-===== The Tomb Was Sealed [41-02] =====
+===== The Tomb Was Sealed [41-02] Kaburi hilo Liliwekwa Muhuri =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink&}}
 
 **Pilate** said, “Take some soldiers and make the **tomb** as secure as you can.” So **they placed a seal on the stone** at the entrance of the tomb and put the soldiers there to make sure no one could steal the body.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:sw:obs:notes:key-terms/tomb|tomb]]**
+**Pilato** akawaambia, "Wachukueni baadhi ya askari na kulinda **kaburi** ili liwe salama iwezekanavyo." Kwa hivyo **wakaweka jiwe lililo kuwa kwa mlango wa kaburi mhuri ** na wakaweka askari huko ili kuhakikisha hakuna mtu anaweza kuiba mwili.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:pilate|Pilate (Pilato)]]**
+  * **[[:sw:obs:notes:key-terms:tomb|tomb (kaburi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **they placed** - That is, "the religious leaders and the soldiers placed."
-  * **a seal on the stone** - They put a soft material like clay or wax between the stone and the tomb and marked it with an official seal. If anyone moved the stone, the material would break and show that someone had entered the tomb. This could also be translated as, "a mark on the stone to forbid people from moving it."
-
-
+  * **they placed**  - That is, "the religious leaders and the soldiers placed."
+  * **wakaweka**  - Hiyo ni, "viongozi wa kidini na askari waliweka."
+  * **a seal on the stone**  - They put a soft material like clay or wax between the stone and the tomb and marked it with an official seal. If anyone moved the stone, the material would break and show that someone had entered the tomb. This could also be translated as, "a mark on the stone to forbid people from moving it."
+  * **mhuri katika jiwe**  - Waliweka dutu iliyo laini kama udongo au nta kati ya mawe na kaburi na kuweka alama kwa muhuri rasmi. Kama mtu angeondoa jiwe, ile dutu ingevunjika na kuonyesha kwamba mtu aliingia kwa kaburi. Hii inaweza pia kutafsiriwa kama "alama juu ya jiwe kuzuilia kulisongeza."
 **[[:sw:obs:notes:frames:41-01|<<]] | [[:sw:obs:notes:41|Up]] | [[:sw:obs:notes:frames:41-03|>>]]**
