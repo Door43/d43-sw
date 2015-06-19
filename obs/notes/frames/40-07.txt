@@ -1,25 +1,26 @@
-===== Jesus Died [40-07] =====
+===== Jesus Died [40-07] Yesu Alikufa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink&}}
 
 Then **Jesus** cried out, “**It is finished**! **Father**, I give my **spirit into your hand**s.” Then he **bowed his head** and **gave up his spirit**. When he **died**, there was an earthquake and the **large curtain** that separated the people from the presence of **God** in the **Temple** was torn in two, from the top to the bottom.
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god-father|Father]]**
-  * **[[:sw:obs:notes:key-terms/spirit|spirit]]**
-  * **[[:sw:obs:notes:key-terms/death|died]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/temple|Temple]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:god-father|Father (Baba)]]**
+  * **[[:sw:obs:notes:key-terms:spirit|spirit (roho)]]**
+  * **[[:sw:obs:notes:key-terms:death|died (alikufa)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:temple|Temple (Hekalu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-  * **It is finished!** - This could also be translated as, "It is completed" or, "I have finished it" or, "I have completed the work." This means that Jesus' work of salvation was complete.
-  * **into your hands** - That is, "into your care."
-  * **bowed his head** - That is, "lowered his head."
-  * **gave up his spirit** - That is, "gave up his spirit to God" or, "released his spirit to God and died."
-  * **large curtain** - This was a large, strong fabric hung in the temple. It was like a wall separating one room from another. It can also be translated as "thick curtain" or, "hanging fabric" or, "screen."
-
-
+  * **It is finished!**  - This could also be translated as, "It is completed" or, "I have finished it" or, "I have completed the work." This means that Jesus' work of salvation was complete.
+  * **Imekwisha!**  - Hii pia inaweza kutafsiriwa kama, "Imekamilika" ama, "Nimeimaliza" ama, "Mimi nimemaliza kazi." Hii ina maana kwamba kazi ya Yesu ya ukombozi ilikuwa kamilifu.
+  * **into your hands**  - That is, "into your care."
+  * **kwa mikono yako**  - Hiyo ni, "kwa utunzaji wako."
+  * **bowed his head**  - That is, "lowered his head."
+  * **akainamisha kichwa chake**  - Hiyo ni, "akapeleka kichwa chake chini."
+  * **gave up his spirit**  - That is, "gave up his spirit to God" or, "released his spirit to God and died."
+  * **akatoa roho**  - Hiyo ni, "akatoa roho yake kwa Mungu" ama, "alitoa roho yake kwa Mungu na kufa."
+  * **large curtain**  - This was a large, strong fabric hung in the temple. It was like a wall separating one room from another. It can also be translated as "thick curtain" or, "hanging fabric" or, "screen."
+  * **pazia kubwa**  - Hii ilikuwa ni kitambaa kumbwa na nzito iliyo ning'inizwa katika hekalu. Ilikuwa ni kama ukuta inayotenganisha chumba kimoja na kingine. Pia inaweza kutafsiriwa kama "pazia nene" ama, "kitambaa kinachoning'inia" ama, "kiwambo."
 **[[:sw:obs:notes:frames:40-06|<<]] | [[:sw:obs:notes:40|Up]] | [[:sw:obs:notes:frames:40-08|>>]]**
