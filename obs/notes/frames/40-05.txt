@@ -1,8 +1,10 @@
-===== Come Down from the Cross [40-05] =====
+===== Come Down from the Cross [40-05] Shuka kutoka kwa Msalaba =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink&}}
 
 The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They said to him, “If you are the **Son of God**, come down from the **cross** and **save** yourself! Then we will **believe** you.”
+
+**Viongozi wa Wayahudi ** na watu wengine katika umati **walimdhihaki Yesu**. Wakamwambia, "Kama wewe ni **Mwana wa Mungu**, basi shuka **msalabani ** na **kujiokoa**! Kisha **tutakuamini.**"
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]]**
@@ -12,7 +14,6 @@ The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They 
   * **[[:sw:obs:notes:key-terms:cross|cross (musalaba)]]**
   * **[[:sw:obs:notes:key-terms:save|save (okoa)]]**
   * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
-
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **believe you**  - That is, "believe in you" or, "believe that you are the Messiah."
