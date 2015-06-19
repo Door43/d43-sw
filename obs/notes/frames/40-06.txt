@@ -1,13 +1,15 @@
-===== The Darkness [40-06] =====
+===== The Darkness [40-06] Ngiza =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink&}}
 
 Then the sky over the whole region became completely dark, even though it was the middle of the day. It became dark at noon and stayed dark for three hours.
-===== Important Terms: =====
 
-===== Translation Notes: =====
+Kisha anga katika eneo hilo lote ikawa kabisa na giza, hata ingawa ilikuwa katikati ya mchana. Kulikuwa na giza saa sita mchana na giza ikakaa kwa masaa matatu .
 
-  * //(There are no notes in this frame.)// 
+===== Important Terms (Maneno ya Muhimu): =====
 
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
+  * //(There are no notes in this frame.)//
+  * //(Hakuna maelezo katika sehemu hii.)//
 **[[:sw:obs:notes:frames:40-05|<<]] | [[:sw:obs:notes:40|Up]] | [[:sw:obs:notes:frames:40-07|>>]]**
