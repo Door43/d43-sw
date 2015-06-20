@@ -1,27 +1,25 @@
-===== Make Disciples [42-10] =====
+===== Make Disciples [42-10] Fanyeni Wanafunzi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink&}}
 
 Jesus said to his **disciples**, “**All authority in heaven and on earth has been given to me**. So go, **make disciples of all people groups** by **baptizing** them **in the name of** the **Father**, the **Son**, and the **Holy Spirit**, and by teaching them to **obey** everything I have commanded you. Remember, I will be with you always.”
 
+Yesu akawaambia wanafunzi wake, "mimi nimepewa mamlaka yote mbinguni na duniani. Basi nendeni, mkawafanye makundi yote ya watu wanafunzi wangu, mkiwabatiza kwa jina la Baba, Mwana, na Roho Mtakatifu, na  kuwafundisha kuyashika yote niliyowaamuru ninyi. Kumbuka, nami nitakuwa pamoja nanyi siku zote."
+
 ===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:sw:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:sw:obs:notes:key-terms/baptize|baptizing]]**
-  * **[[:sw:obs:notes:key-terms/god-father|Father]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:sw:obs:notes:key-terms/obey|obey]]**
-
-
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven]]**
+  * **[[:sw:obs:notes:key-terms:people-group|people groups]]**
+  * **[[:sw:obs:notes:key-terms:baptize|baptizing]]**
+  * **[[:sw:obs:notes:key-terms:god-father|Father]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son]]**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
+  * **[[:sw:obs:notes:key-terms:obey|obey]]**
 ===== Translation Notes: =====
 
-  * **All authority in heaven and on earth has been given to me** - This can also be translated as, "God has given me all authority in heaven and on earth" or, "God has given me complete authority over everyone in heaven and on earth" or, "I have all authority in heaven an on earth."
-  * **make disciples of all people groups** - That is, "help people from every people group become my disciples."
-  * **in the name of** - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language. This phrase can also be repeated as in, "in the name of the Father, in the name of the Son, and in the name of the Holy Spirit."
-
-
+  * **All authority in heaven and on earth has been given to me**  - This can also be translated as, "God has given me all authority in heaven and on earth" or, "God has given me complete authority over everyone in heaven and on earth" or, "I have all authority in heaven an on earth."
+  * **make disciples of all people groups**  - That is, "help people from every people group become my disciples."
+  * **in the name of**  - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language. This phrase can also be repeated as in, "in the name of the Father, in the name of the Son, and in the name of the Holy Spirit."
 **[[:sw:obs:notes:frames:42-09|<<]] | [[:sw:obs:notes:42|Up]] | [[:sw:obs:notes:frames:42-11|>>]]**
