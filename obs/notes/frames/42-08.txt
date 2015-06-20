@@ -11,11 +11,12 @@
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:repent|repent (tubu)]]**
   * **[[:sw:obs:notes:key-terms:receive|receive (pokea)]]**
-  * **[[:sw:obs:notes:key-terms:forgive|forgivenesS (msamaha)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgivenes (msamaha)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
   * **[[:sw:obs:notes:key-terms:people-group|people groups (vikundi vya watu)]]**
   * **[[:sw:obs:notes:key-terms:witness|witnesses (mashahidi)]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **proclaim**  - That is, "announce" or, "preach."
