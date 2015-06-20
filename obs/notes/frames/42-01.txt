@@ -1,21 +1,20 @@
-===== The Two Disciples [42-01] =====
+===== The Two Disciples [42-01] Wanafunzi Wawili =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
 On the day that **Jesus** was **raised** from the dead, two of his **disciples** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **Messiah**, but then he was killed. Now the women said he was **alive** again. They did not know what to **believe**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/raise|raised]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/life|alive]]**
-  * **[[:sw:obs:notes:key-terms/believe|believe]]**
+Siku ile **Yesu** **alifufuka** kutoka wafu, **wanafunzi** wake wawili walikuwa wanaenda mji ulio karibu. Walipokuwa wanatembea, walizungumzia mambo yaliyofanyika kwa Yesu. Walikuwa na matumaini kwamba yeye ndiye **Masihi**, lakini sasa yeye aliuawa. Sasa wanawake walisema kuwa yuko **hai ** tena. Hawakujua nini cha kuamini.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:raise|raised (amefufuka)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:life|alive (yu hai)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
+  * //(Hakuna maelezo katika sehemu hii.)//
 **[[:sw:obs:notes:frames:41-08|<<]] | [[:sw:obs:notes:42|Up]] | [[:sw:obs:notes:frames:42-02|>>]]**
