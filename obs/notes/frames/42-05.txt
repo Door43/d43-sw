@@ -1,20 +1,19 @@
-===== Jesus Is Alive [42-05] =====
+===== Jesus Is Alive [42-05] Yesu yu Hai =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink&}}
 
 The two men said to each other, “That was **Jesus**! That is why **our hearts were burning** when he explained **God’s word** to us!” Immediately, they went back to **Jerusalem**. When they arrived, they told the **disciples**, “Jesus is **alive**! We have seen him!”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:sw:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/life|alive]]**
+Watu wale wawili wakaambiana, "Huyo alikuwa ni **Yesu**! Ndiyo sababu **mioyo yetu ilichomeka** wakati alitueleza **neno la Mungu**!" Mara moja, walirudi **Yerusalemu**. Walipofika, waliwaambia **wanafunzi**: "Yesu yu **hai**! Sisi tulimuona! "
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:life|alive (hai)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **our hearts were burning** - That is, "we were getting excited" or, "we were beginning to hope" or, "we felt joy." Some languages have ways of expressing it such as, "our hearts were stirred" or, "our hearts were warmed." If you use an expression that refers to the heart burning, make sure it does not indicate that they were upset or angry.
-
-
+  * **our hearts were burning**  - That is, "we were getting excited" or, "we were beginning to hope" or, "we felt joy." Some languages have ways of expressing it such as, "our hearts were stirred" or, "our hearts were warmed." If you use an expression that refers to the heart burning, make sure it does not indicate that they were upset or angry.
+  * **mioyo yetu ilichomeka**  - Hiyo ni, "tulipatwa na msisimko" ama, "sisi tulianza kuwa na matumaini" ama, "sisi tulipata furaha." Baadhi ya lugha na njia za kueleza haya kama vile, "mioyo yetu ilikuwa inachochwa" ama, "mioyo yetu ilipata joto." Ukieleza jambo hili ukitumia neno ambali linasema moyo unachomeka, hakikisha haitaonyesha kwamba walisikitika ama walikasirika.
 **[[:sw:obs:notes:frames:42-04|<<]] | [[:sw:obs:notes:42|Up]] | [[:sw:obs:notes:frames:42-06|>>]]**
