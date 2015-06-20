@@ -1,22 +1,22 @@
-===== Jesus Explained the Prophets [42-03] =====
+===== Jesus Explained the Prophets [42-03] Yesu Alielezea Manabii =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-03.jpg?nolink&}}
 
 Then **Jesus** explained to them what **God’s word** said about the **Messiah**. He reminded them that the **prophets** said the Messiah would **suffer** and be killed, but would **rise** again **on the third day**. When they arrived at the town where the two men planned to stay, **it was almost evening**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/prophet|prophets]]**
-  * **[[:sw:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:sw:obs:notes:key-terms/raise|rise]]**
+Kisha **Yesu ** aliwaelezea kile **neno la Mungu** linasema kuhusu **Masihi**. Aliwakumbusha kwamba **manabii** walisema Masihi **atateswa** na kuuawa, lakini **atafufuka** **siku ya tatu**. Walipofika mjini ambapo watu wale wawili walipanga kukaa, **ilikuwa karibu jioni.**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+  * **[[:sw:obs:notes:key-terms:suffer|suffer (kuteseka)]]**
+  * **[[:sw:obs:notes:key-terms:raise|rise (fufuka)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **on the third day** - Some languages may prefer to say, "on the third day after his death."
-  * **it was almost evening** - This can also be translated as, "the day was ending" or, "the sun was going down" or, "it was starting to get dark."
-
-
+  * **on the third day**  - Some languages may prefer to say, "on the third day after his death."
+  * **siku ya tatu**  - Baadhi ya lugha zinaweza kupendelea kusema, "siku ya tatu baada ya kifo chake."
+  * **it was almost evening**  - This can also be translated as, "the day was ending" or, "the sun was going down" or, "it was starting to get dark."
+  * **ilikuwa karibu jioni**  - Hii pia inaweza kutafsiriwa kama, "siku ilikuwa inasha" ama, "jua lilikuwa likichwa" ama, "giza ilikuwa inaanza kuingia."
 **[[:sw:obs:notes:frames:42-02|<<]] | [[:sw:obs:notes:42|Up]] | [[:sw:obs:notes:frames:42-04|>>]]**
