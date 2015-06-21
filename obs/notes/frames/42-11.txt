@@ -1,27 +1,30 @@
-===== Jesus Went to Heaven [42-11] =====
+===== Jesus Went to Heaven [42-11] Yesu Alienda Mbinguni =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
 Forty days after **Jesus** rose from the dead, he told his **disciples**, “Stay in **Jerusalem** until my **Father** gives you **power** when the **Holy Spirit comes on you**.” Then Jesus went up to **heaven**, and **a cloud hid him from their sight**. Jesus sat down **at the right hand of God** to rule **over all things**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:sw:obs:notes:key-terms/god-father|Father]]**
-  * **[[:sw:obs:notes:key-terms/power|power]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:sw:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
+Siku arobaini baada ya **Yesu** kufufuka kutoka kwa wafu, akawaambia **wanafunzi** wake, "Kaeni huko **Yerusalemu** mpaka **Baba** yangu awapee ninyi **nguvu** wakati **Roho Mtakatifu** **atakapowashukieni ninyi.**" Yesu alipaa **mbinguni,** na **wingu likampokea kutoka machoni pao.** Yesu akaketi **upande wa kulia wa Mungu** kutawala **juu ya kila kitu.**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+  * **[[:sw:obs:notes:key-terms:god-father|Father (Baba)]]**
+  * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven (mbinguni)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **comes on you** - That is, "comes down upon you" or, "comes onto you."
-  * **a cloud hid him from their sight** - This could also be translated as, "he disappeared into a cloud."
-  * **at the right hand of God** - This could also be translated as, "at the right side of God."
-  * **over all things** - That is, "over everything."
+  * **comes on you**  - That is, "comes down upon you" or, "comes onto you."
+  * **kuwajilia juu yenu**  - Hiyo ni, "atashuka juu yenu" ama, "atakuja ndani yenu."
+  * **a cloud hid him from their sight**  - This could also be translated as, "he disappeared into a cloud."
+  * **wingu likampokea kutoka machoni pao **- Hii inaweza pia kutafsiriwa kama, "alitoweka kwa kuingia katika wingu."
+  * **at the right hand of God**  - This could also be translated as, "at the right side of God."
+  * **upande wa kulia wa Mungu**  - Hii inaweza pia kutafsiriwa kama, "upande wa kulia wa Mungu."
+  * **over all things**  - That is, "over everything."
+  * **juu ya vitu vyote**  - Hiyo ni, "juu ya kila kitu."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yanaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:42-10|<<]] | [[:sw:obs:notes:42|Up]] | [[:sw:obs:notes:frames:43-01|>>]]**
