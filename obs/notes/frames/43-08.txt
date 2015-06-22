@@ -1,22 +1,25 @@
-===== The Holy Spirit [43-08] =====
+===== The Holy Spirit [43-08] Roho Mtakatifu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?nolink&}}
 
 “**Jesus is now exalted to the right hand of God the Father**. And Jesus has sent the **Holy Spirit** just as he **promised** he would do. The Holy Spirit is **causing** the things that you are now seeing and hearing.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god-father|God the Father]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:sw:obs:notes:key-terms/promise|promised]]**
+"Yesu sasa ameinuliwa kwa mkono wa kuume wa Mungu baba. Naye Yesu ametuma Roho Mtakatifu kama vile tu alivyoahidi kufanya.  Roho Mtakatifu anasababisa mambo yale ambayo mnaona na kusikia."
 
+===== Important Terms:(Maneno ya Muhimu) =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:key-terms:god-father|God the Father]](Mungu Baba)**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit]](Roho Mtakatifu)**
+  * **[[:sw:obs:notes:key-terms:promise|promised]](Aliahidi)**
+===== Translation Notes:(Maelezo ya Tafsiri) =====
 
   * (Peter continues preaching to the crowd.)
-  * **Jesus is now exalted** - This could also be translated as, "Jesus is now lifted up" or, "Jesus is now raised up" or, "God has exalted Jesus."
-  * **the right hand of** - This could also be translated as, "the most important position with" or, "the place of highest honor next to."
-  * **causing** - That is, "enabling the believers to do" or, "giving these people the power to do."
-
-
+  * (Petero anaendelea kuhubiria umati.)
+  * **Jesus is now exalted**  - This could also be translated as, "Jesus is now lifted up" or, "Jesus is now raised up" or, "God has exalted Jesus."
+  * **Yesu sasa ameinuliwa**  - Hii inaweza kutafsiriwa kama, "Yesu sasa ameinuliwa juu" ama, "Yesu sasa ameinuliwa juu" ama, "Mungu amempandisha yesu."
+  * **the right hand of**  - This could also be translated as, "the most important position with" or, "the place of highest honor next to."
+  * **mkono wa kuume wa**  - Hii inaweza pia kutafsiriwa kama, "cheo iliyo ya muhimu zaidi pamoja" ama "pahali pa heshima zaidi karibu na."
+  * **causing**  - That is, "enabling the believers to do" or, "giving these people the power to do."
+  * **Kusababisha **- Hio ni, "kuwezesha waaminio kufanya" ama, Kupatia hawa watu nguvu za kufanya."
 **[[:sw:obs:notes:frames:43-07|<<]] | [[:sw:obs:notes:43|Up]] | [[:sw:obs:notes:frames:43-09|>>]]**
