@@ -1,22 +1,20 @@
-===== The Disciples in Jerusalem [43-01] =====
+===== The Disciples in Jerusalem [43-01] - Wanafunzi Katika Yerusalemu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink&}}
 
 After **Jesus returned to heaven**, the **disciples stayed in Jerusalem** as Jesus had commanded them to do. The **believers** there constantly gathered together to **pray**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:sw:obs:notes:key-terms/believer|believers]]**
-  * **[[:sw:obs:notes:key-terms/pray|pray]]**
+Baada ya **Yesu kurudi mbinguni**, **wanafunzi walikaa Yerusalemu** kama vile Yesu alikuwa amewaamulu kufanya.  Waaminio pale walikutanika pamoja mara kwa mara **kuomba**.
+===== Important Terms: Maneno ya Muhimu =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus - ]]Yesu**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven]]- mbinguni**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples]] - wanafunzi**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem]] - Yerusalemu**
+  * **[[:sw:obs:notes:key-terms:believer|believers]]- waaminio**
+  * **[[:sw:obs:notes:key-terms:pray|pray]]- Kuomba**
+===== Translation Notes: Maelezo ya  =====
 
-===== Translation Notes: =====
-
-  * **returned to heaven** - That is, "went back to heaven."
-  * **stayed in Jerusalem** - That is, "stayed in Jerusalem for awhile." They didn't stay there permanently.
-
-
+  * **returned to heaven**  - That is, "went back to heaven."
+  * **stayed in Jerusalem**  - That is, "stayed in Jerusalem for awhile." They didn't stay there permanently.
 **[[:sw:obs:notes:frames:42-11|<<]] | [[:sw:obs:notes:43|Up]] | [[:sw:obs:notes:frames:43-02|>>]]**
