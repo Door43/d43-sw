@@ -10,7 +10,7 @@
 
   * **[[:sw:obs:notes:key-terms:rome|Roman (wa Kirumi)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
-  * **[[:sw:obs:notes:key-terms:life|life (uhai)]]**
+  * **[[:sw:obs:notes:key-terms:life|life (maisha)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:raise|raised (alifufua)]]**
   * **[[:sw:obs:notes:key-terms:death|dead (wafu)]]**
@@ -20,6 +20,7 @@
   * **[[:sw:obs:notes:key-terms:suffer|suffer (kuteseka)]]**
   * **[[:sw:obs:notes:key-terms:repent|repent (kutubu)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Peter continues to preach to the crowd.)
