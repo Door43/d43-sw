@@ -1,19 +1,18 @@
-===== The Crippled Man Was Healed [44-03] =====
+===== The Crippled Man Was Healed [44-03] Mtu yule Kilema Alipona =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink&}}
 
 Immediately, **God healed** the lame man, and he began to walk and jump around, and to **praise** God. The people in the **courtyard of the Temple** were amazed.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/heal|healed]]**
-  * **[[:sw:obs:notes:key-terms/praise|praise]]**
-  * **[[:sw:obs:notes:key-terms/temple|Temple]]**
+Mara moja, **Mungu akamponya** yule mtu kilema, naye akaanza kutembea na kurukaruka, na **kumsifu ** Mungu. Watu katika **uwanja wa hekalu** wakashangaa.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)]]**
+  * **[[:sw:obs:notes:key-terms:praise|praise (kumsifu)]]**
+  * **[[:sw:obs:notes:key-terms:temple|Temple (Hekalu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **courtyard of the Temple** - Only priests could enter the Temple, but ordinary Jews were allowed to come into this area that surrounded the Temple.
-
-
+  * **courtyard of the Temple**  - Only priests could enter the Temple, but ordinary Jews were allowed to come into this area that surrounded the Temple.
+  * **uwanja wa hekalu**  - Makuhani peke yao ndio waliweza kuingia hekaluni, lakini Wayahudi wa kawaida waliruhusiwa kuja katika eneo hili ambalo linazunguka Hekalu.
 **[[:sw:obs:notes:frames:44-02|<<]] | [[:sw:obs:notes:44|Up]] | [[:sw:obs:notes:frames:44-04|>>]]**
