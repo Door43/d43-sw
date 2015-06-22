@@ -1,31 +1,29 @@
-===== Peter Preached [44-05] =====
+===== Peter Preached [44-05] Petero Alihubiri =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&}}
 
 “You are the ones who told the **Roman** governor to kill **Jesus**. You killed the **author of life**, but **God raised** him from the **dead**. Although you did not understand what you were doing, God used **your actions** to **fulfill** the prophecies that the **Messiah** would **suffer** and die. So now, **repent** and **turn to God** so that **your sins will be washed away**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/rome|Roman]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/life|life]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/raise|raised]]**
-  * **[[:sw:obs:notes:key-terms/death|dead]]**
-  * **[[:sw:obs:notes:key-terms/fulfill|fulfill]]**
-  * **[[:sw:obs:notes:key-terms/prophet|prophecies]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:sw:obs:notes:key-terms/repent|repent]]**
-  * **[[:sw:obs:notes:key-terms/sin|sins]]**
+"Nyinyi ndio mliiambia gavana wa **Kirumi** amuue **Yesu**. Nyinyi  mliua **mwanzilishi wa maisha**, lakini **Mungu akamfufua** kutoka kwa **wafu**. Ingawa hamukuelewa nini mlikuwa mnafanya, Mungu alitumia **matendo yenu kutimiza** unabii kuwa **Masihi atateswa** na kufa. Kwa hivyo sasa, **tubuni** na **kumgeukia Mungu ** ili dhambi zenu zikatupiliwe mbali."
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:rome|Roman (wa Kirumi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:life|life (uhai)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:raise|raised (alifufua)]]**
+  * **[[:sw:obs:notes:key-terms:death|dead (wafu)]]**
+  * **[[:sw:obs:notes:key-terms:fulfill|fulfill (kutimiza)]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophecies (unabii)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:suffer|suffer (kuteseka)]]**
+  * **[[:sw:obs:notes:key-terms:repent|repent (kutubu)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Peter continues to preach to the crowd.)
-  * **author of life** - That is, "the one who created life" or, "the one who gives us life" or, "the one who causes people to live." This refers to Jesus.
-  * **your actions ** - This can also be translated as, "the things you did." This refers to their asking Pilate to kill Jesus.
-  * **turn to God** - That is, "decide to obey God."
-  * **your sin will be washed away** - This could be translated as, "God will wash away your sins" or, "God will take away your sins and make you clean." This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
-
-
+  * **author of life**  - That is, "the one who created life" or, "the one who gives us life" or, "the one who causes people to live." This refers to Jesus.
+  * **your actions **  - This can also be translated as, "the things you did." This refers to their asking Pilate to kill Jesus.
+  * **turn to God**  - That is, "decide to obey God."
+  * **your sin will be washed away**  - This could be translated as, "God will wash away your sins" or, "God will take away your sins and make you clean." This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
 **[[:sw:obs:notes:frames:44-04|<<]] | [[:sw:obs:notes:44|Up]] | [[:sw:obs:notes:frames:44-06|>>]]**
