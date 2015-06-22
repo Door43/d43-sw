@@ -1,21 +1,23 @@
-===== Jesus Is the Messiah [43-09] =====
+===== Jesus Is the Messiah [43-09] Yesu ndiye Masihi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink&}}
 
 “You **crucified** this man, **Jesus**. **But know for certain that God** has caused Jesus to become both **Lord** and **Messiah**!”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/lord|Lord]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
+"Nyinyi **Mlisulubisha** mtu huyu, **Yesu**. ** Lakini jueni kwa uhakika ya kwamba Mungu** amemfanya Yesu kufanyika **Bwana ** na Masihi
+===== Important Terms:(Maneno ya Muhimu) =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:crucify|crucified]](sulubisha)**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:key-terms:god|God]](Mungu)**
+  * **[[:sw:obs:notes:key-terms:lord|Lord]](Bwana)**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah]](Masihi)**
+===== Translation Notes:(Maelezo ya Tafsiri) =====
 
   * (Peter continues preaching to the crowd.)
-  * **But know for certain that** - This could also be translated as, "But you can know that it is true that" or, "But you can be sure that."
-
+  * Petero aendelea kuhubiria umati.)
+  * **But know for certain that**  - This could also be translated as, "But you can know that it is true that" or, "But you can be sure that."
+  * **Lakini jueni kwa uhakika ya kwamba**
+ - Hii inaweza kutafsiriwa kama, "Lakini mnaweza kujua ya kuwa ni ya ukweli kwamba" ama, "Lakini mnaweza kuwa na uhakika ya kwamba."
 
 **[[:sw:obs:notes:frames:43-08|<<]] | [[:sw:obs:notes:43|Up]] | [[:sw:obs:notes:frames:43-10|>>]]**
