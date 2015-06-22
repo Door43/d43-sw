@@ -4,17 +4,20 @@
 
 After **Jesus returned to heaven**, the **disciples stayed in Jerusalem** as Jesus had commanded them to do. The **believers** there constantly gathered together to **pray**.
 
-Baada ya **Yesu kurudi mbinguni**, **wanafunzi walikaa Yerusalemu** kama vile Yesu alikuwa amewaamulu kufanya.  Waaminio pale walikutanika pamoja mara kwa mara **kuomba**.
-===== Important Terms: Maneno ya Muhimu =====
+Baada ya **Yesu kurudi mbinguni**, **wanafunzi walikaa Yerusalemu** kama vile Yesu alikuwa amewaamulu kufanya. Waaminio pale walikutanika pamoja mara kwa mara **kuomba**.
+===== Important Terms: (Maneno ya Muhimu) =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus - ]]Yesu**
-  * **[[:sw:obs:notes:key-terms:heaven|heaven]]- mbinguni**
-  * **[[:sw:obs:notes:key-terms:disciple|disciples]] - wanafunzi**
-  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem]] - Yerusalemu**
-  * **[[:sw:obs:notes:key-terms:believer|believers]]- waaminio**
-  * **[[:sw:obs:notes:key-terms:pray|pray]]- Kuomba**
-===== Translation Notes: Maelezo ya  =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven]](Mbinguni)**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples]](wanafunzi)**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem]](Yerusalemu)**
+  * **[[:sw:obs:notes:key-terms:believer|believers]](waaminio)**
+  * **[[:sw:obs:notes:key-terms:pray|pray]](kuomba)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
   * **returned to heaven**  - That is, "went back to heaven."
+  * Kurudi Mbinguni - Hiyo ni, "Alirudi mbinguni."
   * **stayed in Jerusalem**  - That is, "stayed in Jerusalem for awhile." They didn't stay there permanently.
+  * Walikaa Yerusalemu - Hiyo ni, " Walikaa Yerusalem kwa muda."Hawakudumu pale milele."
+
 **[[:sw:obs:notes:frames:42-11|<<]] | [[:sw:obs:notes:43|Up]] | [[:sw:obs:notes:frames:43-02|>>]]**
