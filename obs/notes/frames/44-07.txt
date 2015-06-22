@@ -1,20 +1,19 @@
-===== Before the Jewish Leaders [44-07] =====
+===== Before the Jewish Leaders [44-07] Mbele ya Viongozi wa Wayahudi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&}}
 
 The next day, the **Jewish leaders** brought **Peter** and **John** to the **high priest** and the other religious leaders. They asked Peter and John, “By what **power** did you heal this crippled man?”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:sw:obs:notes:key-terms/peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms/john|John]]**
-  * **[[:sw:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:sw:obs:notes:key-terms/power|power]]**
+Siku iliyofuata, **viongozi wa Wayahudi ** wakaleta **Petero** na **Yohana** kwa **kuhani mkuu** na viongozi wengine wa kidini. Wakauliza Petero na Yohana, "Kwa **nguvu** gani mmeponya huyu kiwete?"
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]]**
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:john|John (Yohana)]]**
+  * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mkuu)]]**
+  * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
+  * //(Hakuna maelezo katika sehemu hii.)//
 **[[:sw:obs:notes:frames:44-06|<<]] | [[:sw:obs:notes:44|Up]] | [[:sw:obs:notes:frames:44-08|>>]]**
