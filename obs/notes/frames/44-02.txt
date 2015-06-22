@@ -1,19 +1,18 @@
-===== Get Up and Walk [44-02] =====
+===== Get Up and Walk [44-02] Simama na Utembee =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink&}}
 
 **Peter** looked at the lame man and said, “I do not have any money to give you. But I will give you what I do have. **In the name of Jesus**, **get up** and walk!”
-===== Important Terms: =====
 
+**Petero** alimtazama yule mtu kilema na, akasema, "Sina fedha yoyote ya kukupa. Lakini nitakupa nilicho nacho. **Kwa jina la Yesu, inuka** na utembee!"
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-  * **In the name of Jesus** - "Name" here stands for the authority and power of the person. Therefore, this expression here means, "by the authority of Jesus."
-  * **get up** - That is, "stand up."
-
-
+  * **In the name of Jesus**  - "Name" here stands for the authority and power of the person. Therefore, this expression here means, "by the authority of Jesus."
+  * **Kwa jina la Yesu**  - "Jina" hapa linasimamia mamlaka na nguvu ya mtu. Kwa hivyo, msemo huu hapa inamaanisha, "na mamlaka ya Yesu."
+  * **get up**  - That is, "stand up."
+  * **amka **- Hiyo ni, "simama."
 **[[:sw:obs:notes:frames:44-01|<<]] | [[:sw:obs:notes:44|Up]] | [[:sw:obs:notes:frames:44-03|>>]]**
