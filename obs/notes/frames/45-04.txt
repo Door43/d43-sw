@@ -1,17 +1,18 @@
-===== Stephen Was Stoned [45-04] =====
+===== Stephen Was Stoned [45-04] Stefano Alipigwa Mawe =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink&}}
 
 When the **religious leaders** heard this, they were so angry that they **covered their ears** and **yelled loudly**. They dragged Stephen out of the city and threw stones at him in order to kill him.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|religious leaders]]**
+Wakati **viongozi wa dini** waliposikia hivi, walikasilika sana na **wakafunga masikio yao** na **wakapiga kelele kwa sauti kubwa**. Walimvuta Stefano nje ya mji na wakamrushia mawe ili wamuue.
+===== Important Terms:(Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leaders]](viongozi wa dini**
+===== Translation Notes:(Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **covered their ears** - This could also be translated as, "They put their hands over their ears." This was to show that they did not want to hear what Stephen said.
-  * **yelled loudly** - They were yelling in anger. Translate this in a way that communicates that they were very upset.
-
+  * **covered their ears**  - This could also be translated as, "They put their hands over their ears." This was to show that they did not want to hear what Stephen said.
+  * Walifunga masikio yao - Hii inaweza pia kutafsiriwa kama, "Waliweka mikono yao juu ya masikio yao." Hii ilikuwa kuonyesha ya kwamba hawakutaka kusiskia kile Stefano alisema.
+  * **yelled loudly**  - They were yelling in anger. Translate this in a way that communicates that they were very upset.
+  * walipiga kelele kwa sauti kubwa - Walikuwa wakiguruma kwa hasira. Tafsiri hii kwa njia ambayo inawasiliana ya kwamba walikuwa wamekasirika sana.
 
 **[[:sw:obs:notes:frames:45-03|<<]] | [[:sw:obs:notes:45|Up]] | [[:sw:obs:notes:frames:45-05|>>]]**
