@@ -1,24 +1,24 @@
-===== The Miracles of Stephen [45-01] =====
+===== The Miracles of Stephen [45-01] Miujiza ya Stefano =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink&}}
 
 One of the leaders **in the early Church** was a man named Stephen. He **had a good reputation** and **was full of the Holy Spirit and of wisdom**. Stephen did many **miracles** and **reasoned persuasively that** people should **believe** in **Jesus**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/church|Church]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:sw:obs:notes:key-terms/wise|wisdom]]**
-  * **[[:sw:obs:notes:key-terms/miracle|miracles]]**
-  * **[[:sw:obs:notes:key-terms/believe|believe]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
+Mmoja wa viongozi **katika kanisa la kwanza** alikuwa mtu aliyeitwa Stefano.  Alikuwa **mwenye sifa njema **na alikuwa **amejawa na Roho Mtakatifu na hekima**.  Stefano alifanya **miujiza ** mingi na **alijadiliana kwa kusawishi** ya kwamba inawabidi watu **kuamini ** katika **Yesu**.
+===== Important Terms:(Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:church|Church]](Kanisa)**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit]](Roho Mtakatifu)**
+  * **[[:sw:obs:notes:key-terms:wise|wisdom]](hekima)**
+  * **[[:sw:obs:notes:key-terms:miracle|miracles]](miujiza)**
+  * **[[:sw:obs:notes:key-terms:believe|believe]](kuamini)**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **the early Church** - That is, "the Church when it first began."
-  * **had a good reputation** - This could be translated as, "was thought well of by the people." Some languages might translate this as, "had a good name."
-  * **was full of the Holy Spirit and of wisdom** - This could also be translated as, "had power and ability from the Holy Spirit and had much wisdom" or, "was full of the Holy Spirit and was very wise."
-  * **reasoned persuasively that** - That is, "gave convincing reasons why."
-
-
+  * **the early Church**  - That is, "the Church when it first began."
+  * **kaniza la kwanza**  - Hio ni, "Kanisa wakati wa kwanza kuanza."
+  * **had a good reputation**  - This could be translated as, "was thought well of by the people." Some languages might translate this as, "had a good name."
+  * Mwenye sifa njema-  Hii inaweza tafsiriwa kama,
+  * **was full of the Holy Spirit and of wisdom**  - This could also be translated as, "had power and ability from the Holy Spirit and had much wisdom" or, "was full of the Holy Spirit and was very wise."
+  * **reasoned persuasively that**  - That is, "gave convincing reasons why."
 **[[:sw:obs:notes:frames:44-09|<<]] | [[:sw:obs:notes:45|Up]] | [[:sw:obs:notes:frames:45-02|>>]]**
