@@ -1,8 +1,11 @@
-===== No Other Way but Jesus [44-08] =====
+===== No Other Way but Jesus [44-08] Hakuna Njia Ingine ila Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&}}
 
 **Peter** answered them, “This man stands before you **healed** by the **power** of **Jesus** the **Messiah**. You **crucified** Jesus, but **God raised** him to life again! You **rejected him**, **but there is no other way to be saved except through the power of Jesus**!”
+
+**Petero** akawajibu, "Mtu huyu anasimama mbele yenu **akiwa mzima** kwa **uwezo** wa **Yesu, Masihi**. Nyinyi **mlisulubisha** Yesu, lakini **Mungu akamfufua** tena! Nyinyi **mlimkataa, lakini hakuna njia nyingine ya kuokolewa isipokuwa kwa nguvu yake Yesu!"**
+
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
