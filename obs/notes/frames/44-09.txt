@@ -1,27 +1,32 @@
-===== The Disciples Were Released [44-09] =====
+===== The Disciples Were Released [44-09] Wanafunzi Waliachiliwa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&}}
 
 The **leaders were shocked** that **Peter** and **John** spoke so boldly because they could see that these men were **ordinary** men **who were uneducated**. But **then they remembered** that these men **had been with Jesus**. **After they threatened** Peter and John, they **let them go**.
 
-===== Important Terms: =====
+**Viongozi walitishika** kwamba **Petero** na **Yohana** waliongea kwa ujasiri kwa maana waliona kuwa hawa watu walikuwa tu **watu wa kawaida** **ambao walikuwa hawana elimu**. Lakini **kisha** **wakakumbuka** kwamba **watu hawa walikuwa na Yesu.** Baada ya **kuwatisha** na Petero na Yohana, **wakawaachilia**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/jewish-leaders|leaders]]**
-  * **[[:sw:obs:notes:key-terms/peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms/john|John]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:sw:obs:notes:key-terms:jewish-leaders|leaders (viongozi)]]**
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:john|John (Yohana)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-  * **were shocked** - That is, "were very surprised" or, "were amazed."
-  * **ordinary** - That is, "common" or, "lower-class." Peter and John were simple fishermen.
-  * **who were uneducated** - That is, "who did not have a formal education." This could also be translated as, "who had not gone to religious school."
-  * **then they remembered** - This could also be translated as, "But then they thought about the fact that."
-  * **had been with Jesus** - This could also be translated as, "had spend time with Jesus" or, "had been taught by Jesus."
-  * **After they threatened** - The leaders said that they would punish Peter and John if they continued to teach people about Jesus.
-  * **let them go** - That is, "allowed them to leave."
+  * **were shocked**  - That is, "were very surprised" or, "were amazed."
+  * **walitishika**  - Hiyo ni, "walishangaa sana" ama, "wakashangaa."
+  * **ordinary**  - That is, "common" or, "lower-class." Peter and John were simple fishermen.
+  * **kawaida**  - Hiyo ni, "kawaida" ama, "kiwango cha chini." Petero na Yohana walikuwa wavuvi rahisi.
+  * **who were uneducated**  - That is, "who did not have a formal education." This could also be translated as, "who had not gone to religious school."
+  * **waliokuwa hawana elimu **- Hiyo ni, "ambao hawakuwa na elimu rasmi." Hii inaweza pia kutafsiriwa kama, "ambao hakuwa wameingia kwa shule ya dini."
+  * **then they remembered**  - This could also be translated as, "But then they thought about the fact that."
+  * **ndipo walipokumbuka**  - Hii inaweza pia kutafsiriwa kama, "Na hapo wakafikiri kuhusu ukweli kwamba."
+  * **had been with Jesus**  - This could also be translated as, "had spend time with Jesus" or, "had been taught by Jesus."
+  * **walikuwa na Yesu**  - Hii inaweza pia kutafsiriwa kama, "walikuwa wametumia muda na Yesu" ama, "walikuwa wamefundishwa na Yesu."
+  * **After they threatened**  - The leaders said that they would punish Peter and John if they continued to teach people about Jesus.
+  * **Baada ya kutisha**  - Viongozi walisema kuwa wangewaadhibu Petero na Yohana kama wataendelea kufundisha watu kuhusu Yesu.
+  * **let them go**  - That is, "allowed them to leave."
+  * **wakawaachilia waende**  - Yaani, "kuruhusu waondoke."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Marejeleo haya yanaweza kuwa tofauti kiasi katika tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:44-08|<<]] | [[:sw:obs:notes:44|Up]] | [[:sw:obs:notes:frames:45-01|>>]]**
