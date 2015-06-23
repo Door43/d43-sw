@@ -3,19 +3,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink}}
 
 **Peter** answered them, “This man stands before you **healed** by the **power** of **Jesus** the **Messiah**. You **crucified** Jesus, but **God raised** him to life again! You **rejected him**, **but there is no other way to be saved except through the power of Jesus**!”
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/peter|Peter]]**
-  * **[[:sw:obs:notes:key-terms/heal|healed]]**
-  * **[[:sw:obs:notes:key-terms/power|power]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/raise|raised]]**
-  * **[[:sw:obs:notes:key-terms/life|life]]**
-  * **[[:sw:obs:notes:key-terms/save|saved]]**
-
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)d]]**
+  * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:crucify|crucified (kusulubisa)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:raise|raised (kufufua)]]**
+  * **[[:sw:obs:notes:key-terms:life|life (maisha)]]**
+  * **[[:sw:obs:notes:key-terms:save|saved (aliokoa)]]**
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
