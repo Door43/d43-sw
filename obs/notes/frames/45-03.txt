@@ -1,27 +1,26 @@
-===== You Killed the Messiah [45-03] =====
+===== You Killed the Messiah [45-03] Mlimuua Masihi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink&}}
 
 The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
+
+Kuhani mkuu akamuuliza Stefano, "Mambo haya ni ya kweli?" Stefano akajibu kwa kuwakumbusha  mambo mengi makubwa Mungu alikuwa ameyafanya kutoka wakati wa Ibrahimu mpaka wakati wa Yesu, na vile watu wa Mungu waliendelea kumuasi.  Tena akasema, "nyinyi watu wakaidi na waasi kila wakati mnamkataa Roho Mtakatifu, kama vile mababu zenu walivyomkataa Mungu na wakawaaua Manabii.  Lakini mlifanya kitu kibaya zaidi kuliko wao! Mlimuua Masihi!!
+
 ===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:sw:obs:notes:key-terms/true|true]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:sw:obs:notes:key-terms/rebel|rebellious]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:sw:obs:notes:key-terms/prophet|prophets]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-
-
+  * **[[:sw:obs:notes:key-terms:priest-high|high priest]]**
+  * **[[:sw:obs:notes:key-terms:true|true]]**
+  * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:sw:obs:notes:key-terms:disobey|disobeyed]]**
+  * **[[:sw:obs:notes:key-terms:rebel|rebellious]]**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
+  * **[[:sw:obs:notes:key-terms:prophet|prophets]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah]]**
 ===== Translation Notes: =====
 
-  * **Are these things true?** - That is, "Are these accusations against you true?" or, "Are the things these people are saying about you true?" or, "Is it true that you said evil things about Moses and God?"
-  * **always reject the Holy Spirit** - That is, "never obey the Holy Spirit" or, "always refuse to listen to the Holy Spirit."
-  * **your ancestors** - This could be translated as, "your ancestors, the Israelites."
-
-
+  * **Are these things true?**  - That is, "Are these accusations against you true?" or, "Are the things these people are saying about you true?" or, "Is it true that you said evil things about Moses and God?"
+  * **always reject the Holy Spirit**  - That is, "never obey the Holy Spirit" or, "always refuse to listen to the Holy Spirit."
+  * **your ancestors**  - This could be translated as, "your ancestors, the Israelites."
 **[[:sw:obs:notes:frames:45-02|<<]] | [[:sw:obs:notes:45|Up]] | [[:sw:obs:notes:frames:45-04|>>]]**
