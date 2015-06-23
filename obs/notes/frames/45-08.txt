@@ -1,21 +1,23 @@
-===== The Ethiopian Read Isaiah [45-08] =====
+===== The Ethiopian Read Isaiah [45-08] Muethiopia alisoma Isaya =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
 When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/chariot|chariot]]**
-  * **[[:sw:obs:notes:key-terms/isaiah|prophet Isaiah]]**
-  * **[[:sw:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:sw:obs:notes:key-terms/life|life]]**
+Wakati Filipo **alikaribia lile gari la farasi**, alisikia **Muethiopia ** akisoma kutoka kwa kile **nabii Isaya** aliandika.  Huyu mtu alisoma, "Walimchukua kama **mwana kondoo** ndio akauwawe, na **kama vile mwana kondoo hunyamaza**, hakusema neno lolote. **Walimpeleka bila haki na hawakumheshimu**.  Walichukua maisha yake kutoka kwake."
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:chariot|chariot]](gari la farasi)**
+  * **[[:sw:obs:notes:key-terms:isaiah|prophet Isaiah]](nabii Isaya)**
+  * **[[:sw:obs:notes:key-terms:lamb|lamb]](mwana kondoo)**
+  * **[[:sw:obs:notes:key-terms:life|life]](maisha)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **Ethiopian** - That is, a person from the country of Ethiopia. See note on **[[:sw:obs:notes:frames:45-07|[45-07]]]**.
-  * **approached the chariot** - That is, "got close to the chariot" or, "came near to the chariot."
-  * **as a lamb is silent** - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
-
-
+  * **Ethiopian**  - That is, a person from the country of Ethiopia. See note on **[[:sw:obs:notes:frames:45-07|[45-07]]]**.
+  * **Muethiopia**
+ - Hio ni, mtu kutoka nchi ya Ethiopia
+  * **approached the chariot**  - That is, "got close to the chariot" or, "came near to the chariot."
+  * **alipokaribia lile gari la farasi**  - Hio ni, "alikuwa karibu na gari la farasi" ama, alikuja karibu na gari la farasi."
+  * **as a lamb is silent**  - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
+  * **kama vile mwana kondoo hunyamaza **- Hii inaweza kutafsiriwa kama, "kama vile mwana kondoo hunyamaza ata wakati ako karibu kuuwawa.
 **[[:sw:obs:notes:frames:45-07|<<]] | [[:sw:obs:notes:45|Up]] | [[:sw:obs:notes:frames:45-09|>>]]**
