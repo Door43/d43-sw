@@ -1,16 +1,15 @@
-===== The Ethiopian Went Home [45-13] =====
+===== The Ethiopian Went Home [45-13] Muethiopia Alienda Nyumbani =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink&}}
 
 The Ethiopian continued traveling toward his home, happy that he knew **Jesus**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
+Muethiopia aliendelea kusafiri akielekea nyumbani mwake, akiwa na furaha ya kwamba alimjua **Yesu**.
+===== Important Terms: (Maneno ya Muhimu) =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Nukuu hizi zinaweza kutofautiana kidogo na baadhi ya tafsiri za Biblia.
 **[[:sw:obs:notes:frames:45-12|<<]] | [[:sw:obs:notes:45|Up]] | [[:sw:obs:notes:frames:46-01|>>]]**
