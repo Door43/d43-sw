@@ -1,24 +1,26 @@
-===== God Sent Ananias to Saul [46-04] =====
+===== God Sent Ananias to Saul [46-04] Mungu Alimtuma Anania kwa Sauli =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-04.jpg?nolink&}}
 
 There was a **disciple** in Damascus named Ananias. **God** said to him, “Go to the house where **Saul** is staying. Place your hands on him so that he can see again.” **But Ananias said**, “**Master**, I have heard how this man has **persecuted** the believers.” **God answered him**, “Go! I have chosen him **to declare my name** to the Jews and to people from other people groups. He will **suffer** many things **for my name**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/disciple|disciple]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/paul|Saul]]**
-  * **[[:sw:obs:notes:key-terms/lord|Master]]**
-  * **[[:sw:obs:notes:key-terms/persecute|persecuted]]**
-  * **[[:sw:obs:notes:key-terms/suffer|suffer]]**
+Kulikuwa na **mwanafunzi ** katika Damesiki aliyeitwa Anania.  **Mungu ** akamwambia, "Enenda kwa nyumba ambapo **Sauli ** anakaa. Wekelea mikono yako juu yake ndiposa aone tena."**Lakini Anania akasema, "Bwana,** nimesikia vile mtu huyu **aliwatesa ** waaminio.**"Mungu akamjibu**, "Enenda! nimemchagua **atangaze jina langu** kwa Wayahudi na watu kutoka makundi mengine.  **Atateseka ** kwa mambo mengi **kwa ajili ya jina langu**.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:disciple|disciple]](mwanafunzi)**
+  * **[[:sw:obs:notes:key-terms:god|God]](Mungu)**
+  * **[[:sw:obs:notes:key-terms:paul|Saul]](Sauli)**
+  * **[[:sw:obs:notes:key-terms:lord|Master]](Bwana)**
+  * **[[:sw:obs:notes:key-terms:persecute|persecuted]](aliwatesa)**
+  * **[[:sw:obs:notes:key-terms:suffer|suffer]](atateseka)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **But Ananias said** - If it is not clear why the word "But" is used here, this could be translated as, "But Ananias was afraid, so he said."
-  * **God answered him** - This could be translated as, "To reassure Ananias, God said" to make clear why God said this.
-  * **to declare my name** - That is, "to teach about me" or, "to make me known."
-  * **for my name** - That is, "for me" or, "because of me" or, "because he serves me" or, "because he teaches others about me."
-
-
+  * **But Ananias said**  - If it is not clear why the word "But" is used here, this could be translated as, "But Ananias was afraid, so he said."
+  * **Lakini Anania akasema**  - kama si wazi ni kwa nini neno "lakini" linatumika hapa, hii inaweza kutafsiriwa kama, "Lakini Anania alikuwa anaogopa, kwa hyivo akasema."
+  * **God answered him**  - This could be translated as, "To reassure Ananias, God said" to make clear why God said this.
+  * **Mungu akamjibu**  - Hii inaweza kutafsiriwa kama, "kumhakikishia Anania, Mungu alisema" ndio kuifanya wazi Mungu alisema hivi.
+  * **to declare my name**  - That is, "to teach about me" or, "to make me known."
+  * **kutangaza jina langu**  - Hio ni, "kufundisha juu yangu" ama, "kunifanya nijulikane."
+  * **for my name**  - That is, "for me" or, "because of me" or, "because he serves me" or, "because he teaches others about me."
+  * **kwa ajili ya jina langu**  - Hio ni, "kwa ajili yangu" ama, kwa sababu yangu" ama, "kwa sababu ananitumikia" ama, "kwa sababu anafundisha wengine juu yangu."
 **[[:sw:obs:notes:frames:46-03|<<]] | [[:sw:obs:notes:46|Up]] | [[:sw:obs:notes:frames:46-05|>>]]**
