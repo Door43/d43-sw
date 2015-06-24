@@ -1,21 +1,22 @@
-===== Ananias Baptized Saul [46-05] =====
+===== Ananias Baptized Saul [46-05] Anania Alimbatiza Sauli =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink&}}
 
 So Ananias went to **Saul**, placed his hands on him, and said, “**Jesus**, who appeared to you on your way **here**, sent me to you so that you can **regain your sight** and be filled with the **Holy Spirit**.” Saul immediately was able to see again, and Ananias **baptized** him. Then Saul ate some food and **his strength returned**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/paul|Saul]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:sw:obs:notes:key-terms/baptize|baptized]]**
+Hivyo Anania alienda kwa **Sauli**, akawekelea mikono juu yake, na akasema, "**Yesu**, aliyekutokea ukiwa njiani ukija **hapa**, alinituma kwako ili uweze **kurejesha** **kuona kwako ** na ujazwe na **Roho Mtakatifu**."  Mara Sauli akaweza kuona tena, naye Anania **akambatiza**.  Halafu Sauli akala chakula na **nguvu zake zikarudi**.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:paul|Saul]](Sauli)**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit]](Roho Mtakatifu)**
+  * **[[:sw:obs:notes:key-terms:baptize|baptized]](akambatiza)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **here** - That is, "to Damascus."
-  * **regain your sight** - This could also be translated as, "be able to see again."
-  * **his strength returned** - This could also be translated as, "he became strong again" or, "he felt better."
-
-
+  * **here**  - That is, "to Damascus."
+  * **hapa **- Hio ni, "kuelekea Damesiki."
+  * **regain your sight**  - This could also be translated as, "be able to see again."
+  * **kurejesha kuona kwako**  - Hii inaweza kutafsiriwa kama, "uweze kuona tena."
+  * **his strength returned**  - This could also be translated as, "he became strong again" or, "he felt better."
+  * **Nguvu zake zikarudi**  - Hii inaweza pia kutafsiriwa kama, "akawa na nguvu tena" ama, "akajisikia vyema."
 **[[:sw:obs:notes:frames:46-04|<<]] | [[:sw:obs:notes:46|Up]] | [[:sw:obs:notes:frames:46-06|>>]]**
