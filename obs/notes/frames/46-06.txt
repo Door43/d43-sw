@@ -1,23 +1,29 @@
-===== Saul Preached about Jesus [46-06] =====
+===== Saul Preached about Jesus [46-06] Sauli Alihubiri juu ya Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink&}}
 
 **Right away**, **Saul** began **preaching** to the **Jews** in Damascus, saying, “**Jesus** is the **Son of God**!” The Jews were amazed that the man who had tried to destroy the **believers** now also believed in Jesus! Saul **reasoned with the Jews**, proving that Jesus was the **Messiah**.
+
+**Mara moja**, Sauli akaanza **kuhubiria Wayahudi **huko Damesiki, akisema, "**Yesu ** ni **Mwana wa Mungu**!" Wayahudi wakashangaa ya kuwa mtu aliyejaribu kuangamiza **waamino ** pia sasa aliamini Yesu! Sauli **akajadiliana na Wayahudi,** akithibitisha ya kuwa Yesu ni **Masihi**.
+
 ===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/paul|Saul]]**
-  * **[[:sw:obs:notes:key-terms/preach|preaching]]**
-  * **[[:sw:obs:notes:key-terms/jew|Jews]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:sw:obs:notes:key-terms/believer|believers]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
+  *
+===== **[[:sw:obs:notes:key-terms:paul|Saul]](Sauli)**  =====
 
+  *
+===== ******[[:sw:obs:notes:key-terms:preach|preaching]](kuhubiria)** ** **  =====
+  *
+===== ********[[:sw:obs:notes:key-terms:jew|Jews]](Wayahudi)** ** ** **  =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:key-terms:god-son|Son of God]](Mwana wa Mungu)**
+  * **[[:sw:obs:notes:key-terms:believer|believers]](waaminio)**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah]](Masihi)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **Right away** - This can also be translated as, "Immediately" or, "Then."
-  * **reasoned with the Jews** - This could also be translated as, "gave the Jews good reasons for believing in Jesus" or, "spoke persuasively with the Jews."
-
-
+  * **Right away**  - This can also be translated as, "Immediately" or, "Then."
+  * **Mara Moja**
+ - Hii inaweza kutafsiriwa kama, "ghafla" ama, "halafu."
+  * **reasoned with the Jews**  - This could also be translated as, "gave the Jews good reasons for believing in Jesus" or, "spoke persuasively with the Jews."
+  * **alijadiliana na Wayahudi**  - Hii ingeweza kutafsiriwa kama, "aliwapatia Wayahudi sababu za kuamini kakita Yesu", alinena na kuwasawishi Wayahudi."
 **[[:sw:obs:notes:frames:46-05|<<]] | [[:sw:obs:notes:46|Up]] | [[:sw:obs:notes:frames:46-07|>>]]**
