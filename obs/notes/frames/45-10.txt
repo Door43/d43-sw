@@ -1,4 +1,4 @@
-===== Philip Preached about Jesus [45-10] Filipo Alihubiri Kuhusu Yesu =====
+===== Philip Preached about Jesus [45-10] Filipo Alihubiri Juu ya Yesu =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg?nolink&}}
 
@@ -8,12 +8,12 @@ Filipo alielezea mtu yule Muethiopia ya kwamba Isaya alikuwa anaandika juu ya Ye
 
 ===== Important Terms: (Maneno ya Muhimu) =====
 
-  * **[[Isaiah]](Isaya)**
-  * **[[Jesus]](Yesu)**
-  * **[[scriptures]](maandiko)**
-  * **[[good news]](habari njema)**
+  * **[[:sw:obs:notes:frames:isaiah|Isaiah]](Isaya)**
+  * **[[:sw:obs:notes:frames:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:frames:scriptures|scriptures]](maandiko)**
+  * **[[:sw:obs:notes:frames:good-news|good news]](habari njema)**
 ===== Translation Notes: (Maelezo ya Muhimu) =====
 
   * //(There are no notes for this frame.)//
   * //(Hakuna maelezo ya kifungu hiki.)//
-**[[<<]] | [[Up]] | [[>>]]**
+**[[:sw:obs:notes:frames:lt:lt:home|<<]] | [[:sw:obs:notes:frames:up|Up]] | [[:sw:obs:notes:frames:chevronescc|>>]]**
