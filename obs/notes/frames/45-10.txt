@@ -1,21 +1,19 @@
-===== Philip Preached about Jesus [45-10] =====
+===== Philip Preached about Jesus [45-10] Filipo Alihubiri Kuhusu Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg?nolink&}}
 
 Philip explained to the Ethiopian man that **Isaiah** was writing about **Jesus**. Philip also used other **scriptures** to tell him the **good news** about Jesus.
 
+Filipo alielezea mtu yule Muethiopia ya kwamba Isaya alikuwa anaandika juu ya Yesu. Filipo alitumia pia maandiko mengine kumwambia habari njema juu ya yesu.
 
-===== Important Terms: =====
+===== Important Terms: (Maneno ya Muhimu) =====
 
-  * **[[:sw:obs:notes:key-terms/isaiah|Isaiah]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:sw:obs:notes:key-terms/good-news|good news]]**
+  * **[[Isaiah]](Isaya)**
+  * **[[Jesus]](Yesu)**
+  * **[[scriptures]](maandiko)**
+  * **[[good news]](habari njema)**
+===== Translation Notes: (Maelezo ya Muhimu) =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
-**[[:sw:obs:notes:frames:45-09|<<]] | [[:sw:obs:notes:45|Up]] | [[:sw:obs:notes:frames:45-11|>>]]**
+  * //(There are no notes for this frame.)//
+  * //(Hakuna maelezo ya kifungu hiki.)//
+**[[<<]] | [[Up]] | [[>>]]**
