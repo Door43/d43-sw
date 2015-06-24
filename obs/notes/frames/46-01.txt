@@ -1,24 +1,25 @@
-===== Saul Arrested the Believers [46-01] =====
+===== Saul Arrested the Believers [46-01] Sauli Alikamata Waaminio =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink&}}
 
 **Saul** was the young man who **guarded the robes of the men who killed Stephen**. He did not **believe** in **Jesus**, and so he **persecuted** the **believers**. He went **from house to house** in **Jerusalem** to arrest both men and women and to put them in prison. The **high priest** gave Saul permission to go to the city of **Damascus** to arrest Christians there and to bring them back to Jerusalem.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/paul|Saul]]**
-  * **[[:sw:obs:notes:key-terms/believe|believe]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/persecute|persecuted]]**
-  * **[[:sw:obs:notes:key-terms/believer|believers]]**
-  * **[[:sw:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:sw:obs:notes:key-terms/priest-high|high priest]]**
+Sauli alikuwa kijana ambaye **alilinda nguo za watu waliomuua Stefano**.  Hakuwa **akiamini** katika Yesu, na hivyo **aliwatesa waaminio**.  Alienda **nyumba kwa nyumba** katika **Yerusalemu ** kukamata wanaume kwa wanawake na kuwatia gerezani.  K**uhani**** mkuu** alimpatia Sauli ruhusa ya kwenda mji wa **Damesiki ** na kukamata Wakristo pale na kuwaleta Yerusalemu.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:paul|Saul]](Sauli)**
+  * **[[:sw:obs:notes:key-terms:believe|believe]](amini)**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:key-terms:persecute|persecuted]](aliwatesa)**
+  * **[[:sw:obs:notes:key-terms:believer|believers]](waaminio)**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem]](Yerusalemu)**
+  * **[[:sw:obs:notes:key-terms:priest-high|high priest]](kuhani mkuu)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **guarded the robes of the men who killed Stephen** - See **[[:sw:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
-
-
+  * **guarded the robes of the men who killed Stephen**  - See **[[:sw:obs:notes:frames:45-06|[45-06]]]**.
+  * **Alilinda nguo za watu waliomuua Stefano **- [45-06]
+  * **from house to house**  - That is, "into many houses."
+  * **nyumba kwa nyumba **- Hio ni, "kwa nyumba nyingi."
+  * **Damascus**  - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
+  * **Damesiki **- Damesiki sasa ni mji mkuu wa nchi ya Siria. Wakati huo wa Sauli, ulikuwa mji uliokuwa Mali ya Dola ya Kirumi. Watu wengi zaidi huko hawakuwa Wayahudi, lakini baadhi yao walikuwa Wayahudi na baathi ya Wakristo wallishi pale.
 **[[:sw:obs:notes:frames:45-13|<<]] | [[:sw:obs:notes:46|Up]] | [[:sw:obs:notes:frames:46-02|>>]]**
