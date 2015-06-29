@@ -1,23 +1,21 @@
-===== Lydia Was Baptized [47-02] =====
+===== Lydia Was Baptized [47-02] Lydiah Alibatizwa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink&}}
 
 **God opened Lydia's heart** to **believe** the message about **Jesus**, and **she and her family were baptized**. She invited **Paul** and **Silas** to stay at her house, **so they stayed with her and her family**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/believe|believe]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:sw:obs:notes:key-terms/paul|Paul]]**
-  * **[[:sw:obs:notes:key-terms/silas|Silas]]**
+**Mungu alifungua moyo wa Lydiah** akaamini ujumbe wa **Yesu ** na **yeye pamoja na jamii yake ****wakabatizwa**.  Aliwaalika **Paulo ** na **Sila ** wakae kwa nyumba yake, **kwa hivyo walikaa pamoja naye na jamii lake**.
+===== Important Terms: (Maneno ya Muhimu) =====
 
-
+  * **[[:sw:obs:notes:key-terms:god|God]](Mungu)**
+  * **[[:sw:obs:notes:key-terms:believe|believe]](kuamini)**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:key-terms:baptize|baptized]](wakabatizwa**
+  * **[[:sw:obs:notes:key-terms:paul|Paul]](Paulo)**
+  * **[[:sw:obs:notes:key-terms:silas|Silas]](Sila)**
 ===== Translation Notes: =====
 
-  * **opened Lydia's heart** - That is, "enabled Lydia."
-  * **she and her family were baptized** - This can also be translated as, "they baptized Lydia and her family."
-  * **so they stayed with her and her family** - This was the normal custom of the day for people to provide hospitality to visitors in their homes. There were no immoral motives in this arrangement.
-
-
+  * **opened Lydia's heart**  - That is, "enabled Lydia."
+  * **she and her family were baptized**  - This can also be translated as, "they baptized Lydia and her family."
+  * **so they stayed with her and her family**  - This was the normal custom of the day for people to provide hospitality to visitors in their homes. There were no immoral motives in this arrangement.
 **[[:sw:obs:notes:frames:47-01|<<]] | [[:sw:obs:notes:47|Up]] | [[:sw:obs:notes:frames:47-03|>>]]**
