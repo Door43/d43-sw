@@ -1,20 +1,20 @@
-===== The Testimony of the Demon [47-04] =====
+===== The Testimony of the Demon [47-04] Ushuhuda wa Pepo =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?nolink&}}
 
 The **slave girl** kept yelling as they walked, “These men are **servants** of the **Most High God**. They are telling you **the way to be saved**!” She did this so often that **Paul** became annoyed.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/servant|slave girl]]**
-  * **[[:sw:obs:notes:key-terms/servant|servants]]**
-  * **[[:sw:obs:notes:key-terms/god|Most High God]]**
-  * **[[:sw:obs:notes:key-terms/save|saved]]**
-  * **[[:sw:obs:notes:key-terms/paul|Paul]]**
+Yule msichana mtumwa aliendelea kutoa sauti ya juu walipokuwa wakitembea, "Hawa watu ni watumishi wa Mungu aliye juu sana.  Wanawaambia nyinyi njia ya kuokolewa! Alifanya hivi mara nyingi ya kwamba Paulo akakasirika.
 
+===== Important Terms: (Maneno ya Muhimu) =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:servant|slave girl]](msichana mtumwa)**
+  * **[[:sw:obs:notes:key-terms:servant|servants]](watumishi)**
+  * **[[:sw:obs:notes:key-terms:god|Most High God]](Mungu aliye juu sana)**
+  * **[[:sw:obs:notes:key-terms:save|saved]](kuokoka)**
+  * **[[:sw:obs:notes:key-terms:paul|Paul]](Paulo)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-  * **the way to be saved** - That is, "how you can be saved" or, "how God saves people" or, "God's plan for saving people."
-
-
+  * **the way to be saved**  - That is, "how you can be saved" or, "how God saves people" or, "God's plan for saving people."
+  * **njia ya kuokolewa**  - Hio ni, "vile mnaweza kuokoka" ama, "Mpango wa Mungu wa kuokoa watu."
 **[[:sw:obs:notes:frames:47-03|<<]] | [[:sw:obs:notes:47|Up]] | [[:sw:obs:notes:frames:47-05|>>]]**
