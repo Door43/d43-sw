@@ -1,27 +1,28 @@
-===== What Must I Do? [47-11] =====
+===== What Must I Do? [47-11] Nifanye nini? =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink&}}
 
 The jailer trembled as he came to **Paul** and **Silas** and asked, “What must I do **to be saved**?” **Paul** answered, “**Believe in Jesus**, **the Master**, and **you and your family will be saved**.” Then the jailer took Paul and Silas into his home and washed their wounds. Paul **preached** the **good news** about Jesus to everyone in his house.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/paul|Paul]]**
-  * **[[:sw:obs:notes:key-terms/silas|Silas]]**
-  * **[[:sw:obs:notes:key-terms/save|saved]]**
-  * **[[:sw:obs:notes:key-terms/paul|Paul]]**
-  * **[[:sw:obs:notes:key-terms/believe|Believe]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/lord|Master]]**
-  * **[[:sw:obs:notes:key-terms/save|saved]]**
-  * **[[:sw:obs:notes:key-terms/preach|preached]]**
-  * **[[:sw:obs:notes:key-terms/good-news|good news]]**
+Yule askari wa geraza akatetemeka alipokuwa akija kwa **Paulo ** na **Sila ** na akauliza, "nifanye nini **nipate kuokoka**?" Paulo akajibu, **Amini katika Yesu, aliye Bwana,** **na wewe na familia yako mtaokolewa**." Halafu askari wa gereza akawapeleka Paulo na Sila kwa nyumba yake na akaosha majeraha yao.  Paulo **akahubiri habari njema** za Yesu kwa kila mtu katika nyumba yake.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:paul|Paul]](Paulo)**
+  * **[[:sw:obs:notes:key-terms:silas|Silas]](Sila)**
+  * **[[:sw:obs:notes:key-terms:save|saved]](Kuokoka)**
+  * **[[:sw:obs:notes:key-terms:paul|Paul]](Paulo)**
+  * **[[:sw:obs:notes:key-terms:believe|Believe]](Amini)**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:key-terms:lord|Master]](Bwana)**
+  * **[[:sw:obs:notes:key-terms:save|saved]](okolewa)**
+  * **[[:sw:obs:notes:key-terms:preach|preached]](alihubiri)**
+  * **[[:sw:obs:notes:key-terms:good-news|good news]](habari njema)**
+===== Translation Notes:(Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **to be saved** - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake.
-  * **Believe in Jesus, the Master** - This is addressed to both the jailer and his family, who all then believed and were baptized. Some languages may use a form to indicate that Paul is speaking to the group.
-  * **you and your family will be saved** - This can also be translated as, "God will save you and your family from eternal punishment for your sins." Make sure it is clear that the salvation referred to here is spiritual, not physical.
-
-
+  * **to be saved**  - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake.
+  * **niokolewe **- Hii inaweza kutafsiriwa kama, "ndiposa niokolewe kutoka kwa dhambi zangu" ama, "ndio Mungu aniokoe kutoka kwa dhambi zangu." Swali hii inahusu wokovu kutoka kwa kuadhibiwa na Mungu aliyesababisha ule mtetemeko wa ardhi.
+  * **Believe in Jesus, the Master**  - This is addressed to both the jailer and his family, who all then believed and were baptized. Some languages may use a form to indicate that Paul is speaking to the group.
+  * **Amini katika Yesu, aliye Bwana**  - Hii inaelekezwa kwa askari wa geraza na familia yake, ambao wote kisha waliamini na wakabatizwa.  Lugha zingine zinaweza kutumia aina ya kuonyesha ya kwamba Paulo anasema na kikundi.
+  * **you and your family will be saved**  - This can also be translated as, "God will save you and your family from eternal punishment for your sins." Make sure it is clear that the salvation referred to here is spiritual, not physical.
+  * **wewe na familia yako mtaokolewa**  - Hii inaweza kutafsiriwa kama, "Mungu atakuokoa wewe na jamii yako kutokana na adhabu ya milele kwa ajili ya dhambi zenu." Hakikisha imewekwa wazi kuwa wokovu unaoelezewa hapa ni wa kiroho na si wa kimwili.
 **[[:sw:obs:notes:frames:47-10|<<]] | [[:sw:obs:notes:47|Up]] | [[:sw:obs:notes:frames:47-12|>>]]**
