@@ -1,18 +1,19 @@
-===== The People Were Angry [47-06] =====
+===== The People Were Angry [47-06] Watu Walikasirika =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink&}}
 
 The men who owned the **slave girl** became very angry! They realized that **without the demon**, the slave girl could not tell people **the future**. **This meant that** people would no longer pay her owners money so that she would tell them what would happen to them.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/servant|slave girl]]**
+Watu wale waliomliki yule **msichana mtumwa** wakawa na hasira sana! Walitambua ya kwamba **bila ile pepo**, yule msichana mtumwa hangeweza kuwaambia watu **mambo ya siku sijazo**.  **Hii ilimaanisha ya kwamba** watu hawangeweza tena lipa pesa kwa wamiliki wake ndio awaambie mambo itayofanyika kwao.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:servant|slave girl]](msichana mtumwa)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **without the demon** - That is, "without the power from the demon" or, "now that she did not have the demon."
-  * **the future** - That is, "what would happen to them in the future."
-  * **This meant that** - This could also be translated as, "Because of this" or, "Therefore."
-
-
+  * **without the demon**  - That is, "without the power from the demon" or, "now that she did not have the demon."
+  * **bila ile pepo**  - Hio ni, "bila nguvu kutoka kwa ile pepo" ama, "sasa vile hakuwa na ile pepo."
+  * **the future**  - That is, "what would happen to them in the future."
+  * **siku ****sijazo**  - Hio ni, "kile kingefanyika kwa wao katika siku sijazo."
+  * **This meant that**  - This could also be translated as, "Because of this" or, "Therefore."
+  * **Hii ilimaanisha ya kuwa**  - Hii ingeweza pia kutafsiriwa kama, " Kwa sababu hii" ama "kwa sababu hiyo."
 **[[:sw:obs:notes:frames:47-05|<<]] | [[:sw:obs:notes:47|Up]] | [[:sw:obs:notes:frames:47-07|>>]]**
