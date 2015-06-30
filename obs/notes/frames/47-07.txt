@@ -1,19 +1,18 @@
-===== Paul and Silas Were Arrested [47-07] =====
+===== Paul and Silas Were Arrested [47-07] Paulo na Sila Walikamatwa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?nolink&}}
 
 So the owners of the **slave girl** took **Paul** and **Silas** to the **Roman authorities**, who beat them and **threw them** into jail.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/servant|slave girl]]**
-  * **[[:sw:obs:notes:key-terms/paul|Paul]]**
-  * **[[:sw:obs:notes:key-terms/silas|Silas]]**
-  * **[[:sw:obs:notes:key-terms/rome|Roman authorities]]**
+Hivyo wamiliki wa yule **msichana mtumwa** wakawapeleka **Paulo ** na **Sila ** kwa **serikali ya Kirumi**, waliowapiga na **kuwatupa** gerezani
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:servant|slave girl]](msichana mtumwa)**
+  * **[[:sw:obs:notes:key-terms:paul|Paul]](Paulo)**
+  * **[[:sw:obs:notes:key-terms:silas|Silas]](Sila)**
+  * **[[:sw:obs:notes:key-terms:rome|Roman authorities]](serikali ya Kirumi)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **threw them** - That is, "put them."
-
-
+  * **threw them**  - That is, "put them."
+  * **waliwatupa**  - Hio ni, "waliwatia."
 **[[:sw:obs:notes:frames:47-06|<<]] | [[:sw:obs:notes:47|Up]] | [[:sw:obs:notes:frames:47-08|>>]]**
