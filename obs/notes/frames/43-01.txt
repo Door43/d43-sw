@@ -6,14 +6,15 @@ After **Jesus returned to heaven**, the **disciples stayed in Jerusalem** as Jes
 
 Baada ya **Yesu kurudi mbinguni**, **wanafunzi walikaa Yerusalemu** kama vile Yesu alikuwa amewaamrisha kufanya. Waaminio pale walikusanyika pamoja mara kwa mara **kuomba**.
 
-===== Important Terms: (Maneno ya Muhimu) =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
-  * **[[:sw:obs:notes:key-terms:heaven|heaven]](Mbinguni)**
-  * **[[:sw:obs:notes:key-terms:disciple|disciples]](wanafunzi)**
-  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem]](Yerusalemu)**
-  * **[[:sw:obs:notes:key-terms:believer|believers]](waaminio)**
-  * **[[:sw:obs:notes:key-terms:pray|pray]](kuomba)**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven (mbinguni)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+  * **[[:sw:obs:notes:key-terms:believer|believers (waaminio)]]**
+  * **[[:sw:obs:notes:key-terms:pray|pray (kuomba)]]**
+
 ===== Translation Notes: (Maelezo ya Tafsiri) =====
 
   * **returned to heaven**  - That is, "went back to heaven."
