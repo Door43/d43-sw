@@ -1,21 +1,20 @@
-===== The Jailer Was Baptized [47-12] =====
+===== The Jailer Was Baptized [47-12] Askari wa Gereza Alibatizwa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink&}}
 
 The jailer and his whole family **believed** in **Jesus** and were **baptized**. Then the jailer gave **Paul** and **Silas** a meal and they **rejoiced** together.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/believe|believed]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:sw:obs:notes:key-terms/paul|Paul]]**
-  * **[[:sw:obs:notes:key-terms/silas|Silas]]**
-  * **[[:sw:obs:notes:key-terms/joy|rejoiced]]**
+Askari wa gereza na familia yake yote **waliamini ** katika **Yesu ** na **wakabatizwa**.  Halafu yule askari wa gereza akapatia **Paulo ** na **Sila ** chakula na **wakafurahia ** pamoja.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:believe|believed]](waliamini)**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:key-terms:baptize|baptized]](wakabatizwa)**
+  * **[[:sw:obs:notes:key-terms:paul|Paul]](Paulo)**
+  * **[[:sw:obs:notes:key-terms:silas|Silas]](Sila)**
+  * **[[:sw:obs:notes:key-terms:joy|rejoiced]](wakafurahia)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
+  * //(Hakuna maelezo ya sura hii.)//
 **[[:sw:obs:notes:frames:47-11|<<]] | [[:sw:obs:notes:47|Up]] | [[:sw:obs:notes:frames:47-13|>>]]**
