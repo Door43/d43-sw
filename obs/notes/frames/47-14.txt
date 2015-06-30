@@ -1,22 +1,21 @@
-===== Letters to the Churches [47-14] =====
+===== Letters to the Churches [47-14] Barua kwa Makanisa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink&}}
 
 **Paul** and other **Christian** leaders traveled to many cities, **preaching** and teaching people the **good news** about **Jesus**. They also wrote **many letters** to encourage and teach the **believers** in the **churches**. Some of these letters became books of the Bible.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/paul|Paul]]**
-  * **[[:sw:obs:notes:key-terms/christian|Christian]]**
-  * **[[:sw:obs:notes:key-terms/preach|preaching]]**
-  * **[[:sw:obs:notes:key-terms/good-news|good news]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/believer|believers]]**
-  * **[[:sw:obs:notes:key-terms/church|churches]]**
+**Paulo ** na viongozi wengine wa **Kikristo ** walitembea kwa miji mingi, **wakihubiri ** na kufundisha watu **habari njema** za **Yesu**.  Pia waliandika **barua nyingi** za kuhimiza na kufundisha **waaminio ** katika **makanisa**.  Baadhi ya barua hizi zilifanyika vitabu katika Biblia.
+===== Important Terms: (Maneno ya Muhimu) =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:paul|Paul]](Paulo)**
+  * **[[:sw:obs:notes:key-terms:christian|Christian]](Kikristo)**
+  * **[[:sw:obs:notes:key-terms:preach|preaching]](wakihubiri)**
+  * **[[:sw:obs:notes:key-terms:good-news|good news]](habari njema)**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
+  * **[[:sw:obs:notes:key-terms:believer|believers]](waaminio)**
+  * **[[:sw:obs:notes:key-terms:church|churches]](makanisa)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Hadithi ya Biblia kutoka//  - Nukuu hizi zinaweza kuwa na utofauti kidogo kwa baadhi ya tafsiri zingine za Biblia.
 **[[:sw:obs:notes:frames:47-13|<<]] | [[:sw:obs:notes:47|Up]] | [[:sw:obs:notes:frames:48-01|>>]]**
