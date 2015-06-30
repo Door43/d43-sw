@@ -1,23 +1,23 @@
-===== The Slave Girl [47-03] =====
+===== The Slave Girl [47-03] Msichana Mtumwa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink&}}
 
 **Paul** and **Silas** often met with people at the place of **prayer**. Every day as they walked there, a **slave girl possessed by a demon** followed them. By means of this **demon** she predicted the future for people, so she made a lot of money for **her masters as a fortuneteller**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/paul|Paul]]**
-  * **[[:sw:obs:notes:key-terms/silas|Silas]]**
-  * **[[:sw:obs:notes:key-terms/pray|prayer]]**
-  * **[[:sw:obs:notes:key-terms/servant|slave girl]]**
-  * **[[:sw:obs:notes:key-terms/demon-possessed|possessed by a demon]]**
-  * **[[:sw:obs:notes:key-terms/demon|demon]]**
-  * **[[:sw:obs:notes:key-terms/lord|masters]]**
+**Paulo ** na **Sila ** mara nyingi walikutana na watu katika mahali pa **sala**.  Kila siku walipokuwa wakitembea kuelekea pale,** msichana mtumwa aliyepagawa na pepo** aliwafuata.  Kupitia kwa pepo huyu alitabiria watu mambo ya wakati ujao.  hivyo alitengeneza pesa nyingi mno **kwa mabwana wake kama mbashiri.**
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:paul|Paul]](Paulo)**
+  * **[[:sw:obs:notes:key-terms:silas|Silas]](Sila)**
+  * **[[:sw:obs:notes:key-terms:pray|prayer]](sala)**
+  * **[[:sw:obs:notes:key-terms:servant|slave girl]](msichana mtumwa)**
+  * **[[:sw:obs:notes:key-terms:demon-possessed|possessed by a demon]](alipagawa na pepo)**
+  * **[[:sw:obs:notes:key-terms:demon|demon]](pepo)**
+  * **[[:sw:obs:notes:key-terms:lord|masters]](mabwana)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **her masters** - In this case, this could also be translated as, "her owners."
-  * **as a fortuneteller** - That is, "as someone who told people what would happen to them in the future."
-
-
+  * **her masters**  - In this case, this could also be translated as, "her owners."
+  * **mabwana wake**  - katika hali hii, hii inawaeza kutafsiriwa kama, "wamiliki wake."
+  * **as a fortuneteller**  - That is, "as someone who told people what would happen to them in the future."
+  * **kama mbashiri**  - Hio ni, kama mtu ambaye aliwaambia watu kile kingewatendekea katika wakati ujao."
 **[[:sw:obs:notes:frames:47-02|<<]] | [[:sw:obs:notes:47|Up]] | [[:sw:obs:notes:frames:47-04|>>]]**
