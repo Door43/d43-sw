@@ -1,18 +1,18 @@
-===== The Jailer [47-10] =====
+===== The Jailer [47-10] Askari wa Gereza  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink&}}
 
 **The jailer** woke up, and when he saw that the prison doors were open, he was terrified! He thought all the prisoners had escaped, so he planned to kill himself. (He knew the **Roman authorities** would kill him if he allowed the prisoners to escape.) But **Paul** saw him and yelled, “Stop! Do not hurt yourself. **We** are all here.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/rome|Roman authorities]]**
-  * **[[:sw:obs:notes:key-terms/paul|Paul]]**
+**Askari wa gereza** aliamka, na wakati aliona ya kwamba milango ya gereza ilikuwa imefunguliwa, akaogopa sana! Alidhania ya kuwa wafungwa wote walikuwa wametoroka, kwa hivyo akapanga kujiua. (Alifahamu ya kuwa **serikali ya Kirumi** ingemuua kama aliwaruhusu wafungwa kutoroka.) Lakini **Paulo ** alimuona na akapasa sauti, "wacha! usijiumize mwenyewe. **Sisi ** sote tuko hapa."
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:rome|Roman authorities]](serikali ya Kirumi)**
+  * **[[:sw:obs:notes:key-terms:paul|Paul]](Paulo)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
-
-
+  * **The jailer**  - That is, "the official in charge of the jail."
+  * Askari wa gereza - Hio ni, "afisa aliyesimamia gereza."
+  * **We**  - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
+  * **Sisi **- Lugha zingine zina neno spesheli la "sisi" ambayo haihusishi mtu ambaye anayezungumuziwa.  Hapa neno "sisi" haihusishi askari wa geraza, tu ni Paulo na wafungwa wengine.
 **[[:sw:obs:notes:frames:47-09|<<]] | [[:sw:obs:notes:47|Up]] | [[:sw:obs:notes:frames:47-11|>>]]**
