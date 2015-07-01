@@ -1,22 +1,22 @@
-===== Adam and Eve Sinned [48-02] =====
+===== Adam and Eve Sinned [48-02] Adamu na Hawa Walitenda Dhambi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink&}}
 
 **Satan** spoke through the snake in **the garden** in order to **deceive Eve**. Then she and **Adam sinned** against **God**. Because they sinned, everyone on earth gets sick and everyone **dies**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/satan|Satan]]**
-  * **[[:sw:obs:notes:key-terms/eve|Eve]]**
-  * **[[:sw:obs:notes:key-terms/adam|Adam]]**
-  * **[[:sw:obs:notes:key-terms/sin|sinned]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/death|dies]]**
+**Shetani ** aliongea kupitia kwa nyoka **katika bustani** ndiposa **amdanganye Hawa**.  Halafu yeye na **Adamu wakatenda dhambi** dhidi ya **Mungu**.  Kwa sababu walitenda dhambi, kila mtu ulimwenguni hupata magonjwa na kila mtu **hufariki**.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:satan|Satan]](Shetani)**
+  * **[[:sw:obs:notes:key-terms:eve|Eve]](Hawa)**
+  * **[[:sw:obs:notes:key-terms:adam|Adam]](Adamu)**
+  * **[[:sw:obs:notes:key-terms:sin|sinned]](walitenda dhambi)**
+  * **[[:sw:obs:notes:key-terms:god|God]](Mungu)**
+  * **[[:sw:obs:notes:key-terms:death|dies]](hufariki)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **the garden** - This refers to the garden created by God where he placed the first man and woman.
-  * **deceive Eve** - That is, "lie to Eve." Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
-
-
+  * **the garden**  - This refers to the garden created by God where he placed the first man and woman.
+  * **katika bustani**  - Hii inamaanisha ile bustani Mungu aliumba pahali aliwaweka mwanaume na mwanamke wa kwanza.
+  * **deceive Eve**  - That is, "lie to Eve." Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
+  * **amdanganye Hawa**  - Hio ni, "kudanganya Hawa." Shetani alidanganya kwa kumfanya Hawa ashuku kile Mungu alikuwa amesema.  Kwa kufanya hivi, alimdanganya yeye na akumuasi Mungu.
 **[[:sw:obs:notes:frames:48-01|<<]] | [[:sw:obs:notes:48|Up]] | [[:sw:obs:notes:frames:48-03|>>]]**
