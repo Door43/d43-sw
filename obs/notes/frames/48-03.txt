@@ -1,19 +1,18 @@
-===== Enemies of God [48-03] =====
+===== Enemies of God [48-03] Maadui wa Mungu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink&}}
 
 Because **Adam** and **Eve sinned**, something **even more terrible** happened. They became enemies of **God**. As a result, every person since then has been born with a sinful nature and is also an enemy of God. The relationship between God and people was broken by sin. But God had a plan to restore that relationship.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/adam|Adam]]**
-  * **[[:sw:obs:notes:key-terms/eve|Eve]]**
-  * **[[:sw:obs:notes:key-terms/sin|sinned]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
+Kwa sababu **Adamu ** na **Hawa walitenda dhambi**, jambo **hata mbaya zaidi** lilitendeka.  Wao wakafanyika maadui wa **Mungu**.  Kutokana na hiyo, kila mtu tangu wakati ule amezaliwa akiwa na hali ya dhambi na pia ni adui wa Mungu.  Uhusiano katikati ya Mungu na watu ilivunjwa na dhambi.  Lakini Mungu alikuwa na mpango wa kurejesha ule uhusiano.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:adam|Adam]](Adamu)**
+  * **[[:sw:obs:notes:key-terms:eve|Eve]](Hawa)**
+  * **[[:sw:obs:notes:key-terms:sin|sinned]](walitenda dhambi)**
+  * **[[:sw:obs:notes:key-terms:god|God]](Mungu)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **even more terrible** - That is, "much worse" or, "worse yet."
-
-
+  * **even more terrible**  - That is, "much worse" or, "worse yet."
+  * **hata mbaya zaidi**  - Hio ni, "mbaya zaidi" au, mbaya lakini."
 **[[:sw:obs:notes:frames:48-02|<<]] | [[:sw:obs:notes:48|Up]] | [[:sw:obs:notes:frames:48-04|>>]]**
