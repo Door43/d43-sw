@@ -1,18 +1,21 @@
-===== Not All Will Be Saved [49-06] =====
+===== Not All Will Be Saved [49-06] Sio Wote Wataokolewa =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-06.jpg?nolink&}}
 
 **Jesus** taught that some people will **receive** him and be **saved**, but **others will not**. He said that some people are like good soil. They receive the **good news** of Jesus and are saved. Other people are like the hard soil of a path, where the **seed of God's word** does not enter and does not produce any harvest. Those people reject the message about Jesus and will not enter into **his kingdom**.
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms:receive|receive]]**
-  * **[[:sw:obs:notes:key-terms:save|saved]]**
-  * **[[:sw:obs:notes:key-terms:good-news|good news]]**
-  * **[[:sw:obs:notes:key-terms:word-of-god|God's word]]**
-  * **[[:sw:obs:notes:key-terms:kingdom-of-god|his kingdom]]**
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:receive|receive (pokea)]]**
+  * **[[:sw:obs:notes:key-terms:save|saved (kuokolewa)]]**
+  * **[[:sw:obs:notes:key-terms:good-news|good news (habari njema)]]**
+  * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-god|his kingdom (ufalme wake)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **others will not**  - That is, "other people will not receive him and therefore will not be saved."
+  * wengine hawataingia - Hiyo ni, "watu wengine hawatampokea na kwa hivyo hawataokolewa."
   * **seed of God's word**  - This can be translated as, "seed, which can be compared to God's word." This phrase makes a comparison between seed and God's word.
+  * mbegu ya neno la Mungu - Hili linaweza kutafsiriwa kama "mbegu, ambayo inaweza kulinganishwa na neno la Mungu." Msemo huu hufanya kulinganisha kati ya mbegu na neno la Mungu.
+
 **[[:sw:obs:notes:frames:49-05|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-07|>>]]**
