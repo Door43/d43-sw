@@ -1,22 +1,23 @@
-===== God Hates Sin [49-08] =====
+===== God Hates Sin [49-08] Mungu Anachukia Dhambi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-08.jpg?nolink&}}
 
 **Jesus** also told us that **God** hates **sin**. When **Adam** and **Eve sinned**, it affected all of their **descendants**. As a result, every person in the world sins and **is separated from God**. Therefore, everyone has become an enemy of God.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/sin|sin]]**
-  * **[[:sw:obs:notes:key-terms/adam|Adam]]**
-  * **[[:sw:obs:notes:key-terms/eve|Eve]]**
-  * **[[:sw:obs:notes:key-terms/sin|sinned]]**
-  * **[[:sw:obs:notes:key-terms/descendant|descendants]]**
+Yesu pia alituambia kwamba Mungu anachukia dhambi. Wakati Adamu na Hawa walitenda dhambi, ni walioathirika zote za watoto wao. Matokeo yake, kila mtu katika ulimwengu hutenda dhambi na ametengwa na Mungu. Kwa hivyo, kila mtu amekuwa adui wa Mungu.
 
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]**
+  * **[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinned (wametenda dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **is separated from God** - This can also be translated as, "cannot live with God" or, "cannot be near God" or, "cannot have a relationship with God."
-
+  * **is separated from God**  - This can also be translated as, "cannot live with God" or, "cannot be near God" or, "cannot have a relationship with God."
+  * ametengwa na Mungu - Hii pia inaweza kutafsiriwa kama, "hawezi kuishi na Mungu" ama, "hawezi kuwa karibu na Mungu" ama, "haiwezi kuwa na uhusiano na Mungu."
 
 **[[:sw:obs:notes:frames:49-07|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-09|>>]]**
