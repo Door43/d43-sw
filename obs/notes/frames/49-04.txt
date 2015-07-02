@@ -1,17 +1,18 @@
-===== Love God Above All [49-04] =====
+===== Love God Above All [49-04] Penda Mungu Zaidi ya Yote =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-04.jpg?nolink&}}
 
 He also taught that you need to **love God** more than you love anything else, including **your wealth**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/love|love]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
+Pia alifundisha kwamba unahitaji kumpenda Mungu zaidi ya unavyopenda kitu kingine chochote, ikiwa ni pamoja na mali yako.
 
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **your wealth** - This could also be translated as, "your money" or, "your possessions."
-
+  * **your wealth**  - This could also be translated as, "your money" or, "your possessions."
+  * mali yako - Hii pia zainaweza kutafsiriwa kama, "fedha zako" ama, "utajiri wako."
 
 **[[:sw:obs:notes:frames:49-03|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-05|>>]]**
