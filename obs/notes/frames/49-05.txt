@@ -1,19 +1,20 @@
-===== The Value of Salvation [49-05] =====
+===== The Value of Salvation [49-05] Thamani ya Wokovu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-05.jpg?nolink&}}
 
 **Jesus** said that the **kingdom of God** is more valuable than anything else in the world. The most important thing for anyone is to belong to the kingdom of God. To enter into God's kingdom, you must **be saved from your sin**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-  * **[[:sw:obs:notes:key-terms/save|saved]]**
-  * **[[:sw:obs:notes:key-terms/sin|sin]]**
+Yesu alisema kuwa ufalme wa Mungu ni wa thamani kuliko kitu kingine chochote duniani. Jambo muhimu zaidi kwa mtu yeyote ni kuwa sehemu ya Ufalme wa Mungu. Kuingia katika ufalme wa Mungu, lazima uokolewe kutokana na dhambi zako.
 
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom of God (Ufalme wa Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:save|saved (kuokolewa)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **to be saved from your sin** - That is, "to be saved from being punished for your sin" or, "that God would save you from your sin" or, "to receive salvation from your sin."
-
+  * **to be saved from your sin**  - That is, "to be saved from being punished for your sin" or, "that God would save you from your sin" or, "to receive salvation from your sin."
+  * kuokolewa kutoka kwa dhambi zenu - Hiyo ni, "kuokolewa kutoka kuadhibiwa kwa ajili ya dhambi zenu" ama, "Mungu akuokoe kutoka kwa dhambi zako" ama, "kupokea wokovu kutoka kwa dhambi zako."
 
 **[[:sw:obs:notes:frames:49-04|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-06|>>]]**
