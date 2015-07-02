@@ -1,19 +1,19 @@
-===== The Virgin Birth [49-01] =====
+===== The Virgin Birth [49-01] Kuzaliwa na Bikira =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink&}}
 
 An angel told a **virgin** named **Mary** that she would give birth to **God's Son**. So while she was still a virgin, she gave birth to a son and named him **Jesus**. Therefore, Jesus is both God and human.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/virgin|virgin]]**
-  * **[[:sw:obs:notes:key-terms/mary|Mary]]**
-  * **[[:sw:obs:notes:key-terms/god-son|God's Son]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
+Malaika alimwambia bikira aitwaye Mariamu kwamba atamzaa Mwana wa Mungu. Hivyo, wakati yeye alikuwa bado bikira, akajifungua mtoto na akamuita jina lake Yesu. Kwa hivyo, Yesu ni Mungu na binadamu.
 
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:virgin|virgin (bikira)]]**
+  * **[[:sw:obs:notes:key-terms:mary|Mary (Mariamu)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|God's Son (Mwana wa Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
+  * //(Hakuna maelezo katika sehemu hii.)//
 **[[:sw:obs:notes:frames:48-14|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-02|>>]]**
