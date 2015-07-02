@@ -1,23 +1,25 @@
-===== The Miracles [49-02] =====
+===== The Miracles [49-02] Miujiza =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink&}}
 
 **Jesus** did many **miracles** that prove he is **God**. He walked on water, calmed storms, **healed** many sick people, **drove out demons**, **raised the dead to life**, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/miracle|miracles]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/heal|healed]]**
-  * **[[:sw:obs:notes:key-terms/demon|demons]]**
-  * **[[:sw:obs:notes:key-terms/raise|raised]]**
-  * **[[:sw:obs:notes:key-terms/death|dead]]**
+Yesu alifanya miujiza mingi inayo thibitisha kuwa yeye ni Mungu. Alitembea juu ya maji, akatuliza dhoruba, akawaponya wagonjwa wengi, alifukuza mapepo, alifufua wafu, na akageuza mikate mitano na samaki wawili ikawa chakula cha kutosha kwa zaidi ya watu 5,000.
 
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:miracle|miracles (miujiza)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)]]**
+  * **[[:sw:obs:notes:key-terms:demon|demons (mapepo)]]**
+  * **[[:sw:obs:notes:key-terms:raise|raised (alifufua)]]**
+  * **[[:sw:obs:notes:key-terms:death|dead (wafu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **drove out demons** - That is, "made demons come out of people."
-  * **raised the dead to life** - This could also be translated as, "caused dead people to become alive again."
-
+  * **drove out demons**  - That is, "made demons come out of people."
+  * alifukuza mapepo - Hiyo ni, "alifanya mapepo kutoka ndani ya watu."
+  * **raised the dead to life**  - This could also be translated as, "caused dead people to become alive again."
+  * alifufua wafu wakawa hai - Hii inaweza pia kutafsiriwa kama, "alisababisha watu waliokufa kuwa hai tena."
 
 **[[:sw:obs:notes:frames:49-01|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-03|>>]]**
