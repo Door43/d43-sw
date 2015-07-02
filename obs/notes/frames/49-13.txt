@@ -1,22 +1,23 @@
-===== God Loves You [49-13] =====
+===== God Loves You [49-13] Mungu Anakupenda =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-13.jpg?nolink&}}
 
 **God** will **save** everyone who **believes** in **Jesus** and **receives** him as their **Master**. But he will not save anyone who does not believe in him. It does not matter if you are rich or poor, man or woman, old or young, or where you live. God **loves** you and wants you to believe in Jesus so **he can have a close relationship with you**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/save|save]]**
-  * **[[:sw:obs:notes:key-terms/believe|believes]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/receive|receives]]**
-  * **[[:sw:obs:notes:key-terms/lord|Master]]**
-  * **[[:sw:obs:notes:key-terms/love|loves]]**
+Mungu atawaokoa wote wanaomwamini Yesu na kumpokea kama Bwana wao. Lakini yeye hataokoa mtu yeyote ambaye hajamwamini. Haijalishi kama wewe ni tajiri au maskini, mwanamume au mwanamke, mzee au kijana, ama mahali unapoishi. Mungu anakupenda na anataka umwamini Yesu ili aweze kuwa na uhusiano wa karibu na wewe.
 
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:save|save (okoa)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believes (anaamini)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:receive|receives (anapokea)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
+  * **[[:sw:obs:notes:key-terms:love|loves (anapenda)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **he can have a close relationship with you** - This can also be translated as, "so that you can be his child" or, "so that you can be his friend" or, "so you can belong to him."
-
+  * **he can have a close relationship with you**  - This can also be translated as, "so that you can be his child" or, "so that you can be his friend" or, "so you can belong to him."
+  * anaweza kuwa na uhusiano wa karibu na wewe - Hii pia inaweza kutafsiriwa kama, "ili uweze kuwa mtoto wake" ama, "ili uweze kuwa rafiki yake" ama, "ili uweze kuwa wake."
 
 **[[:sw:obs:notes:frames:49-12|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-14|>>]]**
