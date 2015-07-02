@@ -1,26 +1,26 @@
-===== Repent and Be Baptized [43-11] - Tubuni na Mbatizwe =====
+===== Repent and Be Baptized [43-11] Tubuni na Mbatizwe =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink&}}
 
 **Peter** answered them, “Every one of you should **repent** and be **baptized in the name of Jesus Christ** so that **God** will **forgive** your **sins**. Then he will also give you the **gift of the Holy Spirit**.”
 
-**Petero ** akawajibu, "Kila mmoja wenu apaswa **kutubu ** na **kubatizwa katika jina la Yesu Kristo** ili **Mungu awasamehe dhambi ** zenu.  Halafu pia atawapatia **karama ya Roho Mtakatifu**."\\
-===== Important Terms:(Maneno ya Muhimu) =====
+**Petero ** akawajibu, "Kila mmoja wenu apaswa **kutubu ** na **kubatizwa katika jina la Yesu Kristo** ili **Mungu awasamehe dhambi ** zenu. Halafu pia atawapatia **karama ya Roho Mtakatifu**."
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:peter|Peter]](Petero)**
-  * **[[:sw:obs:notes:key-terms:repent|repent]](tubu)**
-  * **[[:sw:obs:notes:key-terms:baptize|baptized]](batizwa)**
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]][[:sw:obs:notes:key-terms:messiah|Christ]](Yesu Kristo)**
-  * **[[:sw:obs:notes:key-terms:god|God]](Mungu)**
-  * **[[:sw:obs:notes:key-terms:forgive|forgive]](samehe)**
-  * **[[:sw:obs:notes:key-terms:sin|sins]](dhambi)**
-  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit]](Roho Mtakatifu)**
-===== Translation Notes: (Maelezo ya Tafsiri) =====
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:repent|repent (tubu)]]**
+  * **[[:sw:obs:notes:key-terms:baptize|baptized (mbatizwe)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]][[:sw:obs:notes:key-terms:messiah|Christ (Yesu Kristo)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgive (samehe)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **in the name of**  - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
-  * **Katika jina la**  - msemo huu unamaanisha, "kwa mamlaka ya" na, "chini ya mamlaka ya." chagua kutafsiri neno "jina" moja kwa moja kama itaeleweka kwa njia hii kwa lugha yako.
+  * **katika jina la**  - Msemo huu unamaanisha, "kwa mamlaka ya" na, "chini ya mamlaka ya."  Fikiria kutafsiri neno "jina" moja kwa moja kama itaeleweka kwa njia hii katika lugha yako.
   * **Christ**  - This is the same meaning as "Messiah." It could be translated as "Anointed One" or, "Chosen One." Instead of translating the meaning, some translators may choose to keep the word "Christ" and spell it using the sounds in their own language.
   * **Kristo **- Hii ni maana sawa na "Masihi." Inaweza kutafsiriwa kama "aliyepakwa mafuta" ama, "aliyechaguliwa." Badala ya kutafsiri maana yake, baadhi ya watafsiri wanaweza chagua kutumia neno "Kristo" na kutumia herufi kulitunga wakitumia sauti katika lugha zao.
   * **Jesus Christ**  - Since "Christ" is a title here, some translators may choose to change the order and say, "Christ Jesus." Both orders are used in the Bible.
-  * **Yesu Kristo**  - Kwa kuwa "Kristo" ni jina la mamlaka hapa, watafsiri wengine wanaweza chagua kubadilisha mpangilio na kusema "Kristo Yesu." pangilio zote mbili zinatumika katika Bibilia
+  * **Yesu Kristo**  - Kwa kuwa "Kristo" ni jina la mamlaka hapa, watafsiri wengine wanaweza chagua kubadilisha mpangilio na kusema "Kristo Yesu." Pangilio zote mbili zinatumika katika Bibilia.
 **[[:sw:obs:notes:frames:43-10|<<]] | [[:sw:obs:notes:43|Up]] | [[:sw:obs:notes:frames:43-12|>>]]**
