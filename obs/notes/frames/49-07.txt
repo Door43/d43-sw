@@ -1,22 +1,20 @@
-===== God Loves Sinners [49-07] =====
+===== God Loves Sinners [49-07] Mungu Anapenda Wenye Dhambi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-07.jpg?nolink&}}
 
 **Jesus** taught that **God loves sinners** very much. He wants to **forgive** them and to make them his children.
 
+Yesu alifundisha kuwa Mungu anapenda wenye dhambi sana. Yeye anataka kuwasamehe na kuwafanya watoto wake.
 
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/love|loves]]**
-  * **[[:sw:obs:notes:key-terms/sin|sinners]]**
-  * **[[:sw:obs:notes:key-terms/forgive|forgive]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:love|loves (anapenda)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinners (wenye dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgive (kusamehe)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
+  * //(Hakuna maelezo katika sehemu hii.)//
 **[[:sw:obs:notes:frames:49-06|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-08|>>]]**
