@@ -1,21 +1,21 @@
-===== 3000 Believe [43-12] Amini =====
+===== 3000 Believe [43-12]  3000 Waamini =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink&}}
 
 About 3,000 people **believed** what **Peter** said and became **disciples** of **Jesus**. They were **baptized** and became part of the **church** at **Jerusalem**.
 
-Karibu watu 3,000 **waliamini ** kile **Petero ** alisema na wakawa **wanafunzi ** wa **Yesu**.  **Wakabatizwa ** na kuwa sehemu ya **kanisa ** ya **Yerusalemu**.
-===== Important Terms: (Maneno ya Muhimu) =====
+Karibu watu 3,000 **waliamini ** kile **Petero ** alisema na wakawa **wanafunzi ** wa **Yesu**. **Wakabatizwa ** na kuwa sehemu ya **kanisa ** ya **Yerusalemu**.
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:believe|believed]](waliamini)**
-  * **[[:sw:obs:notes:key-terms:peter|Peter]](Petero)**
-  * **[[:sw:obs:notes:key-terms:disciple|disciples]](wanafunzi)**
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
-  * **[[:sw:obs:notes:key-terms:baptize|baptized]](walibatizwa)**
-  * **[[:sw:obs:notes:key-terms:church|church]](kanisa)**
-  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem]](Yerusalemu)**
-===== Translation Notes: (Maelezo ya Tafsiri) =====
+  * **[[:sw:obs:notes:key-terms:believe|believed (waliamini)]]**
+  * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:baptize|baptized (walibatizwa)]]**
+  * **[[:sw:obs:notes:key-terms:church|church (kanisa)]]**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //(There are no notes for this frame.)//
-  * //(hakuna maelezo ya hiki kifungu.)//
+  * //(Hakuna maelezo katika hiki kifungu.)//
 **[[:sw:obs:notes:frames:43-11|<<]] | [[:sw:obs:notes:43|Up]] | [[:sw:obs:notes:frames:43-13|>>]]**
