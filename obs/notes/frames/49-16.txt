@@ -1,20 +1,21 @@
-===== Sins Are Forgiven [49-16] =====
+===== Sins Are Forgiven [49-16] Dhambi Zimesamehewa =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&}}
 
 If you are a **Christian**, **God** has **forgiven** your **sins** because of what **Jesus** did. Now, God **considers you to be** a close friend instead of an enemy.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/christian|Christian]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/forgive|forgiven]]**
-  * **[[:sw:obs:notes:key-terms/sin|sins]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
+Kama wewe ni Mkristo, Mungu amekusamehe dhambi zako kwa sababu ya yale Yesu alifanya. Sasa, Mungu anakuchukua kama rafiki wa karibu badala ya adui.
 
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:christian|Christian (Mkristo)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:forgive|forgiven (amesamehewa)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **considers you to be** - That is, "thinks of you as" or, "regards you as" or, "calls you."
-
+  * **considers you to be**  - That is, "thinks of you as" or, "regards you as" or, "calls you."
+  * anakuchukua kuwa - Hiyo ni, "anadhani wewe kuwa" ama, "anakuona kama" ama, "anakuita wewe."
 
 **[[:sw:obs:notes:frames:49-15|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-17|>>]]**
