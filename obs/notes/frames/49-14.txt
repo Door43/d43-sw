@@ -1,31 +1,32 @@
-===== Believe in Jesus [49-14] =====
+===== Believe in Jesus [49-14] Mwamini Yesu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-14.jpg?nolink&}}
 
 **Jesus** invites you to **believe in him** and to **be baptized**. Do you **believe that** Jesus is the **Messiah**, the only **Son of God**? Do you believe that you are a **sinner** and that you deserve for **God** to **punish** you? Do you believe that Jesus **died** on the **cross** to **take away** your sins?
 
+Yesu anakuita umwamini na ili ubatizwe. Je, unaamini kuwa Yesu ni Kristo, Mwana wa Mungu wa pekee? Je, unaamini kuwa wewe ni mwenye dhambi na kwamba unastahili kuadhibiwa na Mungu? Je, unaamini kwamba Yesu alikufa msalabani ili aziondoe dhambi zako?
 
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Important Terms: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
+  * **[[:sw:obs:notes:key-terms:baptize|baptized (kubatizwa)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinner (mwenye dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:punish|punish (adhibu)]]**
+  * **[[:sw:obs:notes:key-terms:death|died (alikufa)]]**
+  * **[[:sw:obs:notes:key-terms:cross|cross (msalaba)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/believe|believe]]**
-  * **[[:sw:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:sw:obs:notes:key-terms/sin|sinner]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/punish|punish]]**
-  * **[[:sw:obs:notes:key-terms/death|died]]**
-  * **[[:sw:obs:notes:key-terms/cross|cross]]**
-
-
-===== Translation Notes: =====
-
-  * **believe in him** - This can also be translated as, "trust in him" or, "trust in him to save you" or, "entrust your whole life to him."
-  * **be baptized** - This could also be translated as, "have someone baptize you" or, "let them baptize you."
-  * **believe that** - This can also be translated as, "acknowledge that" or, "agree that."
-  * **take away** - See note on **[[:sw:obs:notes:frames:49-11|[49-11]]]**.
-
+  * **believe in him**  - This can also be translated as, "trust in him" or, "trust in him to save you" or, "entrust your whole life to him."
+  * kumwamini - Hii pia inaweza kutafsiriwa kama, "uwe na imani kwake" ama, "umwamini ili akuokoe" ama, "uikabidhi maisha yako yote kwake."
+  * **be baptized**  - This could also be translated as, "have someone baptize you" or, "let them baptize you."
+  * ubatizwe - Hii inaweza pia kutafsiriwa kama "mtu akubatize" ama, "waa wakubatize."
+  * **believe that**  - This can also be translated as, "acknowledge that" or, "agree that."
+  * kuamini kwamba - Hii pia inaweza kutafsiriwa kama, "kukiri kwamba" ama, "kukubaliana kwamba."
+  * **take away**  - See note on **[[:sw:obs:notes:frames:49-11|[49-11]]]**.
+  * kuondoa - Angalia maelezo pale [49-11].
 
 **[[:sw:obs:notes:frames:49-13|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-15|>>]]**
