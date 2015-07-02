@@ -1,19 +1,21 @@
-===== Jesus the Teacher [49-03] =====
+===== Jesus the Teacher [49-03] Yesu Mwalimu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink&}}
 
 **Jesus** was also **a great teacher**, and he spoke with authority because he is the **Son of God**. He taught that you need to **love** other people **the same way** you love yourself.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:sw:obs:notes:key-terms/love|love]]**
+Yesu alikuwa pia mwalimu mkuu, na alinena kwa mamlaka kwa sababu yeye ni Mwana wa Mungu. Alifundisha kwamba unahitaji kupenda watu wengine kama vile unavyo jipenda wewe mwenyewe.
 
+===== Important Terms (Maneno ya Muhimu): =====
 
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-  * **a great teacher** - That is, "a very important teacher" or, "an excellent teacher."
-  * **the same way ** - That is, "as much as" or, "the same amount that" or, "to the same degree that."
-
+  * **a great teacher**  - That is, "a very important teacher" or, "an excellent teacher."
+  * mwalimu mkuu - Hiyo ni, "mwalimu wa muhimu sana" ama, "mwalimu aliye bora."
+  * **the same way **  - That is, "as much as" or, "the same amount that" or, "to the same degree that."
+  * Hali kadhalika - Hiyo ni, "kama vile" ama, "kiasi kama hicho kwamba" ama, "kwa kiasi hicho hicho."
 
 **[[:sw:obs:notes:frames:49-02|<<]] | [[:sw:obs:notes:49|Up]] | [[:sw:obs:notes:frames:49-04|>>]]**
