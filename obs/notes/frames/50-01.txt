@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink&}}
 
 For almost 2,000 years, more and more people around the world have been hearing the **good news** about **Jesus** the **Messiah**. **The Church has been growing**. Jesus **promised** he would return **at the end of the world**. Though he has not yet come back, he will keep his promise.
+
+Kwa karibu miaka 2,000 , watu zaidi na zaidi duniani kote wamekuwa wakisikia habari njema za Yesu Masihi. Kanisa limekuwa likiongezeka. Yesu aliahidi kuwa atarudi mwishoni mwa dunia. Ingawa yeye bado hajarudi, atatimiza ahadi zake.
+
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:good-news|good news (habari njema)]]**
