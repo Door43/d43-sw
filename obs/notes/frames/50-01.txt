@@ -1,21 +1,20 @@
-===== The Church Is Growing [50-01] =====
+===== The Church Is Growing [50-01] Kanisa Linaongezeka =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink&}}
 
 For almost 2,000 years, more and more people around the world have been hearing the **good news** about **Jesus** the **Messiah**. **The Church has been growing**. Jesus **promised** he would return **at the end of the world**. Though he has not yet come back, he will keep his promise.
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms/good-news|good news]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/church|Church]]**
-  * **[[:sw:obs:notes:key-terms/promise|promised]]**
+  * **[[:sw:obs:notes:key-terms:good-news|good news (habari njema)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:church|Church (Kanisa)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-
-===== Translation Notes: =====
-
-  * **The Church has been growing** - This could also be translated as, "The number of people in the Church around the world has been increasing" or, "The number of believers in Jesus has been increasing."
-  * **at the end of the world** - This phrase means, "right before the present world comes to an end" or, "in the final days of this world."
-
+  * **The Church has been growing**  - This could also be translated as, "The number of people in the Church around the world has been increasing" or, "The number of believers in Jesus has been increasing."
+  * Kanisa limekuwa likiongezeka - Hii inaweza pia kutafsiriwa kama, "idadi ya watu kanisani imekuwa ikiongezeka duniani kote" ama, "idadi ya wanao amini Yesu imekuwa ikiongezeka."
+  * **at the end of the world**  - This phrase means, "right before the present world comes to an end" or, "in the final days of this world."
+  * mwishoni mwa dunia - Msemo huu una maana, "kabla ya dunia ya sasa kufika mwisho" ama, "katika siku za mwisho za ulimwengu huu."
 
 **[[:sw:obs:notes:frames:49-18|<<]] | [[:sw:obs:notes:50|Up]] | [[:sw:obs:notes:frames:50-02|>>]]**
