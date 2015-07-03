@@ -6,13 +6,14 @@
 
 Mungu anakwambia uombe, ujifunze neno lake, umuabudu pamoja na wakristo wengine, na kuwaambia wengine kile amekutendea. Mambo haya yote inakusaidia kuwa na uhusiano wa undani naye.
 
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]]**
-  * **[[:sw:obs:notes:key-terms:pray|pray]]**
-  * **[[:sw:obs:notes:key-terms:word-of-god|his word]]**
-  * **[[:sw:obs:notes:key-terms:worship|worship]]**
-  * **[[:sw:obs:notes:key-terms:christian|Christians]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:pray|pray (omba)]]**
+  * **[[:sw:obs:notes:key-terms:word-of-god|his word (neno lake)]]**
+  * **[[:sw:obs:notes:key-terms:worship|worship (abudu)]]**
+  * **[[:sw:obs:notes:key-terms:christian|Christians (Wakristo)]]**
+
 ===== Translation Notes: =====
 
   * **to have a deeper relationship with him**  - This could also be translated as, "to love him more" or, "to know him more" or, "to become more faithful to him."
