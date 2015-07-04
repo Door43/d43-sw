@@ -1,25 +1,28 @@
-===== The Passover [48-09] =====
+===== The Passover [48-09] Pasaka =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink&}}
 
 When **God sent the last plague on Egypt**, he told each **Israelite** family to kill **a perfect lamb** and spread **its blood** on the tops and sides of their **door frames**. When God saw the blood, he **passed over** their houses and did not kill their firstborn sons. This event is called the **Passover**.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/egypt|Egypt]]**
-  * **[[:sw:obs:notes:key-terms/israel|Israelite]]**
-  * **[[:sw:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:sw:obs:notes:key-terms/blood|blood]]**
-  * **[[:sw:obs:notes:key-terms/passover|Passover]]**
+Wakati **Mungu alituma pigo la mwisho juu ya Misiri**, aliambia kila familia **ya Israeli**, kuua **kondo mkamilifu** na kueneza **damu yake** juu na pande za **fremu za milango**.  Wakati Mungu aliona damu hiyo, **alipita** nyumba zao na hakuua wana wao wazaliwa wa kwanza. Tukio hili linaitwa **Pasaka**.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:god|God]] (Mungu)**
+  * **[[:sw:obs:notes:key-terms:egypt|Egypt]] (Misiri)**
+  * **[[:sw:obs:notes:key-terms:israel|Israelite]] (ya Israeli)**
+  * **[[:sw:obs:notes:key-terms:lamb|lamb]] (mwana kondoo)**
+  * **[[:sw:obs:notes:key-terms:blood|blood]] (damu)**
+  * **[[:sw:obs:notes:key-terms:passover|Passover]] (Pasaka)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **sent the last plague on Egypt** - That is, "caused the final disaster to come on Egypt." This was the tenth plague when God caused the firstborn sons of the Egyptians to die.
-  * **a perfect lamb** - That is, "a lamb without any defect."
-  * **its blood** - That is, "the lamb's blood."
-  * **door frames** - If door frames are not known, this could be translated as, "doors."
-  * **passed over** - This could also be translated as, "passed by" or, "went by." You may want to connect how this is translated with how "Passover" is translated.
-
-
+  * **sent the last plague on Egypt**  - That is, "caused the final disaster to come on Egypt." This was the tenth plague when God caused the firstborn sons of the Egyptians to die.
+  * **alituma pigo la mwisho juu ya Misiri**  - Hio ni, "alisababisha maafa ya mwisho kuja juu ya Misiri." Hii ilikuwa ni pigo la kumi wakati Mungu alisababisha wana wazaliwa wa kwanza wa Wamisiri kukufa.
+  * **a perfect lamb**  - That is, "a lamb without any defect."
+  * **Mwana kondoo mkamilifu**  - Hio ni, " mwana kondoo bila kasoro."
+  * **its blood**  - That is, "the lamb's blood."
+  * **damu**** yake**  - Hio ni, "damu ya mwana kondoo."
+  * **door frames**  - If door frames are not known, this could be translated as, "doors."
+  * **fremu za milango **- Kama fremu za milango haijulikani, hii inaweza kutafsiriwa kama, "milango."
+  * **passed over**  - This could also be translated as, "passed by" or, "went by." You may want to connect how this is translated with how "Passover" is translated.
+  * **kupita **- Hii inaweza kutafsiriwa kama, "kupita" au, "alipitia" Unaweza linganisha vile hii inatafsiriwa na vile "Pasaka" inatafsiriwa.
 **[[:sw:obs:notes:frames:48-08|<<]] | [[:sw:obs:notes:48|Up]] | [[:sw:obs:notes:frames:48-10|>>]]**
