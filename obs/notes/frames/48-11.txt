@@ -1,21 +1,20 @@
-===== God's New Covenant [48-11] =====
+===== God's New Covenant [48-11] Agano Jipya ya Mungu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-11.jpg?nolink&}}
 
 **God** made a **covenant** with **the Israelites**, **who were his chosen people**. But God has now made a **New Covenant** that is available to everyone. Because of this New Covenant, anyone from any **people group** can become part of God’s people by **believing** in Jesus.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/covenant|covenant]]**
-  * **[[:sw:obs:notes:key-terms/israel|Israelites]]**
-  * **[[:sw:obs:notes:key-terms/covenant-new|New Covenant]]**
-  * **[[:sw:obs:notes:key-terms/people-group|people group]]**
-  * **[[:sw:obs:notes:key-terms/believe|believing]]**
+**Mungu ** alifanya **agano ** na **Waisraeli,** **ambao walikuwa watu wake wateule**. Lakini sasa Mungu amefanya **Agano Jipya** ambalo linapatikana na kila mtu.  Kwa sababu ya hili Agano Jipya, mtu yeyote kutoka kwa kila **kikundi cha watu** anaweza kuwa shehemu ya watu wa Mungu kwa **kuamini ** ndani ya Yesu.
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:god|God]] (Mungu)**
+  * **[[:sw:obs:notes:key-terms:covenant|covenant]] (agano)**
+  * **[[:sw:obs:notes:key-terms:israel|Israelites]] (Waisraeli)**
+  * **[[:sw:obs:notes:key-terms:covenant-new|New Covenant]] (Agano Jipya)**
+  * **[[:sw:obs:notes:key-terms:people-group|people group]] (kikundi ya watu)**
+  * **[[:sw:obs:notes:key-terms:believe|believing]] (kuamini)**
+===== Translation Notes: (Maelezo ya Tafsiri) =====
 
-===== Translation Notes: =====
-
-  * **the Israelites, who were his chosen people** - That is, "the Israelites, the people he had chosen" or, "his chosen people, the Israelites."
-
-
+  * **the Israelites, who were his chosen people**  - That is, "the Israelites, the people he had chosen" or, "his chosen people, the Israelites."
+  * **Waisraeli, ambao walikuwa watu wake wateule**  - Hio ni, "Waisraeli, watu aliokuwa amewachagua" au, watu wake wateule, Waisraeli."
 **[[:sw:obs:notes:frames:48-10|<<]] | [[:sw:obs:notes:48|Up]] | [[:sw:obs:notes:frames:48-12|>>]]**
