@@ -1,27 +1,26 @@
-===== The Lamb of God [48-08] =====
+===== The Lamb of God [48-08] Mwana Kondoo wa Mungu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink&}}
 
 When **God** told **Abraham** to offer his **son**, **Isaac**, as a **sacrifice**, God provided a **lamb** for the sacrifice **instead of his son**, **Isaac**. We all **deserve to die** for our **sins**! But God provided **Jesus**, the **Lamb of God**, as a sacrifice **to die in our place**.
+
+Wakati Mungu alimwambia Abrahamu amtoe mwanawe, Isaka, kama dhabihu, Mungu aloitoa mwana kondoo kwa ajili ya dhabihu badala ya mwanawe, Isaka.  Sisi zote tunastahili kufa kwa ajili ya dhambi zetu! Lakini Mungu alimtoa Yesu, Mwana Kondoo wa Mungu kama dhabihu afe mahali petu.
+
 ===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:sw:obs:notes:key-terms/son|son]]**
-  * **[[:sw:obs:notes:key-terms/isaac|Isaac]]**
-  * **[[:sw:obs:notes:key-terms/sacrifice|sacrifice]]**
-  * **[[:sw:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:sw:obs:notes:key-terms/death|die]]**
-  * **[[:sw:obs:notes:key-terms/sin|sins]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/lamb|Lamb of God]]**
-
-
+  * **[[:sw:obs:notes:key-terms:god|God]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham]]**
+  * **[[:sw:obs:notes:key-terms:son|son]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac]]**
+  * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice]]**
+  * **[[:sw:obs:notes:key-terms:lamb|lamb]]**
+  * **[[:sw:obs:notes:key-terms:death|die]]**
+  * **[[:sw:obs:notes:key-terms:sin|sins]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:sw:obs:notes:key-terms:lamb|Lamb of God]]**
 ===== Translation Notes: =====
 
-  * **instead of his son, Isaac** - This can also be translated as, "in the place of his son, Isaac" or, "in his son Isaac's place" or, "so that he would not have to offer his son Isaac as a sacrifice."
-  * **deserve to die** - That is, "should die."
-  * **to die in our place** - This can also be translated as, "to die in the place of each of us" or, "so that he would not have to kill us."
-
-
+  * **instead of his son, Isaac**  - This can also be translated as, "in the place of his son, Isaac" or, "in his son Isaac's place" or, "so that he would not have to offer his son Isaac as a sacrifice."
+  * **deserve to die**  - That is, "should die."
+  * **to die in our place**  - This can also be translated as, "to die in the place of each of us" or, "so that he would not have to kill us."
 **[[:sw:obs:notes:frames:48-07|<<]] | [[:sw:obs:notes:48|Up]] | [[:sw:obs:notes:frames:48-09|>>]]**
