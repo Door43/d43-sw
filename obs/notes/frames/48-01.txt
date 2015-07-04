@@ -7,7 +7,7 @@ When **God created the world**, everything was **perfect**. **There was no sin**
 Wakati **Mungu aliumba Ulimwengu**, kila kitu kilikuwa **kikamilifu**. **Hakukuwa na dhambi**. **Adamu ** na **Hawa ** walipendana mmoja na mwingine, na walimpenda Mungu. **Hakukuwa na magonjwa au kifo**. Hii ndio njia ambayo Mungu alitaka ulimwengu uwe.
 ===== Important Terms: (Maneno ya Muhimu) =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]](Mungu)**
+  * **[[:sw:obs:notes:key-terms:god|God]] <font inherit/inherit;;#008000;;inherit>(Mungu)</font> **
   * **[[:sw:obs:notes:key-terms:sin|sin]](dhambi)**
   * **[[:sw:obs:notes:key-terms:adam|Adam]](Adamu)**
   * **[[:sw:obs:notes:key-terms:eve|Eve]](Hawa)**
@@ -20,7 +20,7 @@ Wakati **Mungu aliumba Ulimwengu**, kila kitu kilikuwa **kikamilifu**. **Hakukuw
   * **perfect**  - That is, "exactly as it should be" to accomplish all that God intended for it.
   * **Kamilifu **- Hio ni, "hasa vile inatakiwa iwe" ndio kukamilisha yote yale Mungu alikusudia kwa ajili yake.
   * **There was no sin**  - For some languages it is not possible to express "sin" as a thing, rather it is an action. In those cases this could be translated as, "No one ever sinned" or, "People did not sin" or, "Nothing evil had happened."
-  * **Hakukuwa na dhambi**  - Kwa baadhi ya lugha haiwezekani kuelezea "dhambi" kama kitu, badala ni kitendo.  Katika hali hizo hii inaweza kutafsiriwa kama, "hakukuwa na mtu yeyote aliyetenda dhambi" au, Watu hawakutenda dhambi" au, "Hakuna maovu ilikuwa imetendeka."
+  * **Hakukuwa na dhambi**  - Kwa baadhi ya lugha haiwezekani kuelezea "dhambi" kama kitu, badala ni kitendo. Katika hali hizo hii inaweza kutafsiriwa kama, "hakukuwa na mtu yeyote aliyetenda dhambi" au, Watu hawakutenda dhambi" au, "Hakuna maovu ilikuwa imetendeka."
   * **There was no sickness or death**  - That is, "No one got sick and no one died" or, "They did not get sick or die."
   * **Hakukuwa na magonjwa au kifo**  - Hio ni, "hakukuwa na mtu aliyeugua na hakuwa na mtu aliyekufa" ama, "Hawakuwa magonjwa ama kufariki."
 **[[:sw:obs:notes:frames:47-14|<<]] | [[:sw:obs:notes:48|Up]] | [[:sw:obs:notes:frames:48-02|>>]]**
