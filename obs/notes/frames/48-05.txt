@@ -1,20 +1,19 @@
-===== A Way of Salvation [48-05] =====
+===== A Way of Salvation [48-05] Njia ya Wokovu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink&}}
 
 When **God** destroyed the whole earth by the flood, he provided the boat to **save** the people who **believed** in him. In the same way, everyone deserves to be **destroyed because of their sins**, but God provided **Jesus** to save everyone who believes in him.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/save|save]]**
-  * **[[:sw:obs:notes:key-terms/believe|believed]]**
-  * **[[:sw:obs:notes:key-terms/sin|sins]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
+Wakati Mungu aliharibu dunia yote na mafuriko, alipeana mashua ndio iokoe watu walioamini ndani yake.  Katika njia hiyo, kila mtu anastahiri aangamizwe kwa sababu ya dhambi zao, lakini Mungu alipeana Yesu kuokoa kila mtu amwaminie.
 
+===== Important Terms: (Maneno ya Muhimu) =====
 
+  * **[[:sw:obs:notes:key-terms:god|God]](Mungu)**
+  * **[[:sw:obs:notes:key-terms:save|save]](aokoe)**
+  * **[[:sw:obs:notes:key-terms:believe|believed]](waliamini)**
+  * **[[:sw:obs:notes:key-terms:sin|sins]](dhambi)**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
 ===== Translation Notes: =====
 
-  * **destroyed because of their sins** - This could also be translated as, "everyone should be punished eternally by God because they have sinned."
-
-
+  * **destroyed because of their sins**  - This could also be translated as, "everyone should be punished eternally by God because they have sinned."
 **[[:sw:obs:notes:frames:48-04|<<]] | [[:sw:obs:notes:48|Up]] | [[:sw:obs:notes:frames:48-06|>>]]**
