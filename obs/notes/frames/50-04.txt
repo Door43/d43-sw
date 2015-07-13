@@ -3,15 +3,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink&}}
 
 **Jesus** also said, “A **servant** is** not greater than his master**. Just as the authorities of this world have hated me, they will torture and kill you **because of me**. Although **in this world** you will **suffer**, be encouraged because I have defeated **Satan**, the one who rules this world. If you **remain faithful to me to the end**, then **God will save you**!”
-===== Important Terms: =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms:servant|servant]]**
-  * **[[:sw:obs:notes:key-terms:lord|master]]**
-  * **[[:sw:obs:notes:key-terms:suffer|suffer]]**
-  * **[[:sw:obs:notes:key-terms:satan|Satan]]**
-  * **[[:sw:obs:notes:key-terms:faithful|faithful]]**
-  * **[[:sw:obs:notes:key-terms:save|save]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:servant|servant (Mtumishi)]]**
+  * **[[:sw:obs:notes:key-terms:lord|master (bwana)]]**
+  * **[[:sw:obs:notes:key-terms:suffer|suffer (teseka)]]**
+  * **[[:sw:obs:notes:key-terms:satan|Satan (Shetani)]]**
+  * **[[:sw:obs:notes:key-terms:faithful|faithful (mwaminifu)]]**
+  * **[[:sw:obs:notes:key-terms:save|save (okoa)]]**
+
 ===== Translation Notes: =====
 
   * **not greater than**  - That is, "not more important than" or, in this case, "not treated better than."
