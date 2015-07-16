@@ -1,23 +1,21 @@
-===== The Enemy Is the Devil [50-09] =====
+===== The Enemy Is the Devil [50-09] Yule Adui ni Ibilisi =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink&}}
 
 “The weeds represent the people **who belong to the evil one**. The enemy who planted the weeds represents **the devil**. The harvest **represents the end of the world**, and **the harvesters** represent **God's angels**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/evil|evil]]**
-  * **[[:sw:obs:notes:key-terms/satan|devil]]**
-  * **[[:sw:obs:notes:key-terms/god|God's]]**
-  * **[[:sw:obs:notes:key-terms/angel|angels]]**
+"Magugu inawakilisha watu **ambao ni mali ya yule mwovu**. Adui ambaye alipanda Magugu anawakilisha **ibilisi.** Mavuno **inawakilisha mwisho wa dunia**, na **wavunaji** kuwakilisha **malaika wa Mungu."**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:evil|evil (mwovu)]]**
+  * **[[:sw:obs:notes:key-terms:satan|devil (ibilisi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God's (wa Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:angel|angels (malaika)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **who belong to the evil one** - That is, "who obey the evil one" or, "who are ruled by the evil one."
-  * **the evil one** - This is another title for Satan. It could be translated as, "Satan," but the title, "evil one" describes his character.
-  * **the devil** - This could also be translated as, "Satan."
-  * **represents the end of the world** - That is, "represents what will happen to people at the end of the world."
-  * **the harvesters** - This could also be translated as, "the men who harvest the ripe grain" or, "the workers who gather in the ripe grain."
-
-
+  * **who belong to the evil one**  - That is, "who obey the evil one" or, "who are ruled by the evil one."
+  * **the evil one**  - This is another title for Satan. It could be translated as, "Satan," but the title, "evil one" describes his character.
+  * **the devil**  - This could also be translated as, "Satan."
+  * **represents the end of the world**  - That is, "represents what will happen to people at the end of the world."
+  * **the harvesters**  - This could also be translated as, "the men who harvest the ripe grain" or, "the workers who gather in the ripe grain."
 **[[:sw:obs:notes:frames:50-08|<<]] | [[:sw:obs:notes:50|Up]] | [[:sw:obs:notes:frames:50-10|>>]]**
