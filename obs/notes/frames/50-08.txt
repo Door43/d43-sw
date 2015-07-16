@@ -1,20 +1,19 @@
-===== The Field Is the World [50-08] =====
+===== The Field Is the World [50-08] Lile Shamba ni Ulimwengu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink&}}
 
 The **disciples** did not understand the meaning of the story, so they asked **Jesus** to explain it to them. Jesus said, “The man who planted the **good** seed represents the **Messiah**. The field represents the world. The good seed represents **the people of God’s kingdom**.”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/good|good]]**
-  * **[[:sw:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:sw:obs:notes:key-terms/kingdom-of-god|God's kingdom]]**
+**Wanafunzi ** hawakuelewa maana ya ile hadithi, hivyo wakamwuliza **Yesu** awaelezee. Yesu alisema, "mtu ambaye alipanda mbegu **nzuri ** anawakilisha yule **Masihi. ** Lile shamba linawakilisha dunia. Mbegu nzuri inawakilisha **watu wa ufalme wa Mungu."**
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
+  * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+  * **[[:sw:obs:notes:key-terms:kingdom-of-god|God's kingdom (ufalme wa Mungu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **the people of God's kingdom** - This can also be translated as, "the people who live under God's authority" or, "the people who have submitted to God's rule" or, "the people who will live with God in his Kingdom."
-
-
+  * **the people of God's kingdom**  - This can also be translated as, "the people who live under God's authority" or, "the people who have submitted to God's rule" or, "the people who will live with God in his Kingdom."
+  * **Watu wa ufalme wa Mungu**  - Hii pia inaweza kutafsiriwa kama "watu wanaoishi chini ya mamlaka ya Mungu" ama, "watu ambao wamejisalimisha kwa utawala wa Mungu" ama, "watu ambao wataishi na Mungu katika Ufalme wake."
 **[[:sw:obs:notes:frames:50-07|<<]] | [[:sw:obs:notes:50|Up]] | [[:sw:obs:notes:frames:50-09|>>]]**
