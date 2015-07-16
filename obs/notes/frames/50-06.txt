@@ -1,19 +1,19 @@
-===== The Weeds [50-06] =====
+===== The Weeds [50-06] Magugu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
 “When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/servant|servants]]**
-  * **[[:sw:obs:notes:key-terms/lord|Master]]**
-  * **[[:sw:obs:notes:key-terms/good|good]]**
+"Wakati mimea ilikuwa imechipuka, **watumishi ** wa yule mtu wakasema, **'Bwana,** wewe ulipanda mbegu **nzuri ** katika shamba hilo. Hivyo kwa nini pale ndani yake kuna magugu?' Bwana akamjibu, **`Lazima iwe adui alipanda hayo.'"**
+===== Important Terms (Maneno ya Muhimu): =====
 
-
-===== Translation Notes: =====
+  * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
+  * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
+  * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to tell the story.)
-  * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
-
-
+  * (Yesu anaendelea kueleza ile hadithi.)
+  * **An enemy must have planted them**  - If possible, translate this in a way that indicates that the speaker did not see this happen.
+  * **Lazima iwe adui  alipanda hayo**  - Kama inawezekana, tafsiri hii kwa namna ambayo inaonyesha kuwa msemaji hawakuona hili likitokea.
 **[[:sw:obs:notes:frames:50-05|<<]] | [[:sw:obs:notes:50|Up]] | [[:sw:obs:notes:frames:50-07|>>]]**
