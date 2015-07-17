@@ -1,22 +1,22 @@
-===== Our Crown [50-13] =====
+===== Our Crown [50-13] Taji Yetu =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink&}}
 
 **Jesus promised** to give a **crown** to everyone who **believes** in him. They will **live** and reign with **God** in **perfect peace** forever.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:sw:obs:notes:key-terms/promise|promised]]**
-  * **[[:sw:obs:notes:key-terms/believe|believes]]**
-  * **[[:sw:obs:notes:key-terms/life|live]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/peace|peace]]**
+**Yesu aliahidi** kumpa **taji ** kila mtu ambaye **anamwamini.** **Wataishi** na kutawala pamoja na **Mungu** katika **amani kamilifu** milele.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believes (aaminiye)]]**
+  * **[[:sw:obs:notes:key-terms:life|live (kuishi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **crown** - This crown represents our reward for believing in Jesus and serving him in this life.
-  * **perfect** - That is, "complete" or, "total."
-
-
+  * **crown**  - This crown represents our reward for believing in Jesus and serving him in this life.
+  * **Taji **- Hii taji inawakilisha malipo yetu kwa sababu ya kumwamini Yesu na kumtumikia katika maisha haya.
+  * **perfect**  - That is, "complete" or, "total."
+  * **kamilifu **- Hiyo ni, "kamili" ama, "jumla".
 **[[:sw:obs:notes:frames:50-12|<<]] | [[:sw:obs:notes:50|Up]] | [[:sw:obs:notes:frames:50-14|>>]]**
