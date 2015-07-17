@@ -1,20 +1,19 @@
-===== We Will Meet Jesus in the Sky [50-12] =====
+===== We Will Meet Jesus in the Sky [50-12] Sisi Tutakutana na Yesu Angani =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?nolink&}}
 
 Then the **Christians** who are **still alive** will rise up into the sky and join with the other Christians who **rose** from the **dead**. They will all be with **Jesus** there.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/christian|Christians]]**
-  * **[[:sw:obs:notes:key-terms/life|alive]]**
-  * **[[:sw:obs:notes:key-terms/raise|rose]]**
-  * **[[:sw:obs:notes:key-terms/death|dead]]**
-  * **[[:sw:obs:notes:key-terms/jesus|Jesus]]**
+Basi **Wakristo ** ambao **bado wako hai** watatokea angani na kujiunga na wakristo wengine ambao **wamefufuka** kutoka kwa **wafu**. Wote watakuwa  pamoja na **Yesu** kule.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:christian|Christians (Wakristo)]]**
+  * **[[:sw:obs:notes:key-terms:life|alive (hai)]]**
+  * **[[:sw:obs:notes:key-terms:raise|rose (wamefufuka)]]**
+  * **[[:sw:obs:notes:key-terms:death|dead (wafu)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **still alive** - That is, "still alive when Jesus returns."
-
-
+  * **still alive**  - That is, "still alive when Jesus returns."
+  * **bado wako hai **- Hiyo ni, "bado wako hai wakati Yesu anarudi."
 **[[:sw:obs:notes:frames:50-11|<<]] | [[:sw:obs:notes:50|Up]] | [[:sw:obs:notes:frames:50-13|>>]]**
