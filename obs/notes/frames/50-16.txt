@@ -1,24 +1,25 @@
-===== The New Heaven and Earth [50-16] =====
+===== The New Heaven and Earth [50-16] Mbingu Mpya na Dunia Mpya =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink&}}
 
 Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, God **cursed** it and decided to destroy it. But some day God will create **a new heaven** and **a new earth** that will be perfect.
-===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms/adam|Adam]]**
-  * **[[:sw:obs:notes:key-terms/eve|Eve]]**
-  * **[[:sw:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:sw:obs:notes:key-terms/god|God]]**
-  * **[[:sw:obs:notes:key-terms/sin|sin]]**
-  * **[[:sw:obs:notes:key-terms/curse|cursed]]**
-  * **[[:sw:obs:notes:key-terms/heaven|heaven]]**
+Kwa sababu **Adamu** na **Hawa waliasi Mungu** na **wakaleta dhambi katika** dunia hii, Mungu **aliilaani** na aliamua kuiharibu. Lakini  siku moja Mungu ataumba **mbingu mpya** na **nchi mpya** ambayo itakuwa kamilifu.
+===== Important Terms (Maneno ya Muhimu): =====
 
+  * **[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]**
+  * **[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]**
+  * **[[:sw:obs:notes:key-terms:disobey|disobeyed (waliasi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:curse|cursed (alilaani)]]**
+  * **[[:sw:obs:notes:key-terms:heaven|heaven (mbingu)]]**
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
-===== Translation Notes: =====
-
-  * **brought sin into** - This could be translated as, "caused sin to enter."
-  * **a new heaven** - This could also be translated as, "a new sky" or, "a new universe". It refers to a new set of stars and everything else in the sky.
-  * **a new earth** - This current earth on which we live will be replaced by a new and improved one.
-
-
+  * **brought sin into**  - This could be translated as, "caused sin to enter."
+  * **kuleta dhambi katika**  - Hii inaweza kutafsiriwa kama, "walisababisha dhambi kuingia."
+  * **a new heaven**  - This could also be translated as, "a new sky" or, "a new universe". It refers to a new set of stars and everything else in the sky.
+  * **mbingu mpya**  - Hii inaweza pia kutafsiriwa kama "anga mpya" ama, "ulimwengu mpya."  Linamaanisha mkusanyiko mpya wa nyota na kila kitu kingine katika anga.
+  * **a new earth**  - This current earth on which we live will be replaced by a new and improved one.
+  * **dunia mpya**  - Dunia hii ya sasa ambayo tunaishi itabadilishwa na ingine mpya na iliyoboreshwa.
 **[[:sw:obs:notes:frames:50-15|<<]] | [[:sw:obs:notes:50|Up]] | [[:sw:obs:notes:frames:50-17|>>]]**
