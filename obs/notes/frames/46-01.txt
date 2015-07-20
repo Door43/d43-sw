@@ -6,15 +6,16 @@
 
 **Sauli** ndiye kijana ambaye **alilinda nguo za watu waliomuua Stefano**. Hakuwa **akiamwamini** **Yesu**, na kwa hivyo **aliwatesa waaminio**. Alienda **nyumba kwa nyumba** kule **Yerusalemu ** kukamata wanaume kwa wanawake na kuwatia gerezani. K**uhani**** mkuu** alimpatia Sauli ruhusa ya kwenda mji wa **Dameski ** na kukamata Wakristo pale na kuwaleta Yerusalemu.
 
-===== Important Terms: (Maneno ya Muhimu) =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:paul|Saul]](Sauli)**
-  * **[[:sw:obs:notes:key-terms:believe|believe]](amini)**
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus]](Yesu)**
-  * **[[:sw:obs:notes:key-terms:persecute|persecuted]](aliwatesa)**
-  * **[[:sw:obs:notes:key-terms:believer|believers]](waaminio)**
-  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem]](Yerusalemu)**
-  * **[[:sw:obs:notes:key-terms:priest-high|high priest]](kuhani mkuu)**
+  * **[[:sw:obs:notes:key-terms:paul|Saul (Sauli)]]**
+  * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+  * **[[:sw:obs:notes:key-terms:persecute|persecuted (aliwatesa)]]**
+  * **[[:sw:obs:notes:key-terms:believer|believers (waaminio)]]**
+  * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+  * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mKuu)]]**
+
 ===== Translation Notes: (Maelezo ya Tafsiri) =====
 
   * **guarded the robes of the men who killed Stephen**  - See **[[:sw:obs:notes:frames:45-06|[45-06]]]**.
