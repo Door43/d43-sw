@@ -16,12 +16,12 @@
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
   * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mKuu)]]**
 
-===== Translation Notes: (Maelezo ya Tafsiri) =====
+===== Translation Notes (Maelezo ya Tafsiri); =====
 
   * **guarded the robes of the men who killed Stephen**  - See **[[:sw:obs:notes:frames:45-06|[45-06]]]**.
-  * **Alilinda nguo za watu waliomuua Stefano **- [45-06]
+  * **Alilinda nguo za watu waliomuua Stefano **- Tazama <font inherit/inherit;;#008000;;inherit>** [45-06]. **</font>
   * **from house to house**  - That is, "into many houses."
-  * **nyumba kwa nyumba **- Hio ni, "kwa nyumba nyingi."
+  * **nyumba kwa nyumba **- Hiyo ni, "kwa nyumba nyingi."
   * **Damascus**  - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
-  * **Damesiki **- Damesiki sasa ni mji mkuu wa nchi ya Siria. Wakati huo wa Sauli, ulikuwa mji uliokuwa Mali ya Dola ya Kirumi. Watu wengi zaidi huko hawakuwa Wayahudi, lakini baadhi yao walikuwa Wayahudi na baathi ya Wakristo wallishi pale.
+  * **Dameski **- Dameski sasa ni mji mkuu wa nchi ya Siria. Wakati huo wa Sauli, ulikuwa mji uliokuwa Mali ya Dola ya Kirumi. Watu wengi zaidi huko hawakuwa Wayahudi, lakini baadhi yao walikuwa Wayahudi na baadhi ya Wakristo wallishi pale.
 **[[:sw:obs:notes:frames:45-13|<<]] | [[:sw:obs:notes:46|Up]] | [[:sw:obs:notes:frames:46-02|>>]]**
