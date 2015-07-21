@@ -6,12 +6,13 @@ Because **Adam** and **Eve sinned**, something **even more terrible** happened. 
 
 Kwa sababu **Adamu ** na **Hawa walitenda dhambi**, kitu **hata mbaya zaidi** kilitendeka. Walifanyika maadui wa **Mungu**. Matokeo yake, kila mtu tangu wakati huo amezaliwa akiwa na asili ya dhambi na pia ni adui wa Mungu. Uhusiano kati ya Mungu na watu ulivunjwa na dhambi. Lakini Mungu alikuwa na mpango wa kurejesha ule uhusiano.
 
-===== Important Terms: (Maneno ya Muhimu) =====
+===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:adam|Adam]](Adamu)**
-  * **[[:sw:obs:notes:key-terms:eve|Eve]](Hawa)**
-  * **[[:sw:obs:notes:key-terms:sin|sinned]](walitenda dhambi)**
-  * **[[:sw:obs:notes:key-terms:god|God]](Mungu)**
+  * **[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]**
+  * **[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]**
+  * **[[:sw:obs:notes:key-terms:sin|sinned (walitenda dhambi)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
 ===== Translation Notes: (Maelezo ya Tafsiri) =====
 
   * **even more terrible**  - That is, "much worse" or, "worse yet."
