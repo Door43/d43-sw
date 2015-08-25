@@ -15,5 +15,5 @@ Halafu **Mungu** akamwambia **Musa** arushe majivu kwa hewa mbele ya **Farao**. 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God hardened Pharaoh's heart**  - God caused Pharaoh to continue to be stubborn. See also note in **[[:sw:obs:notes:frames:10-04|[10-04]]]**.
-  * **Mungu kafanya moyo wa Farao mugumu**- Mungu alifanya Farao kuendelea kuwa mkaidi. Ona pia maelezo pale **[10-04].**
+  * **Mungu kafanya moyo wa Farao mugumu**- Mungu alifanya Farao kuendelea kuwa mkaidi. Ona pia maelezo pale **[[:sw:obs:notes:frames:10-04|[10-04]]]**.
 **[[:sw:obs:notes:frames:10-06|<<]] | [[:sw:obs:notes:10|Up]] | [[:sw:obs:notes:frames:10-08|>>]]**
