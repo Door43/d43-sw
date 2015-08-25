@@ -13,5 +13,5 @@ Lakini **Farao alitenda** dhambi tena na **akafanya moyo wake mugumu**. Hangewar
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **hardened his heart**  - See note in **[[:sw:obs:notes:frames:10-04|[10-04]]]**.
-  * **alifanya moyo mugumu **- Ona maelezo pale **[10-04]**
+  * **alifanya moyo mugumu **- Ona maelezo pale **[[:sw:obs:notes:frames:10-04|[10-04]]]**.
 **[[:sw:obs:notes:frames:10-08|<<]] | [[:sw:obs:notes:10|Up]] | [[:sw:obs:notes:frames:10-10|>>]]**
