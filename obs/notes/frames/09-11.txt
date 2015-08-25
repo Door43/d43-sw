@@ -13,5 +13,5 @@
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **wilderness**  - See how you translated this in **[[:sw:obs:notes:frames:09-10|[09-10]]]**.
-  * **jangwa**  - Ona vile ulivyotafsiri hii pale **[09-10]**
+  * **jangwa**  - Ona vile ulivyotafsiri hii pale **[[:sw:obs:notes:frames:09-10|[09-10]]]**.
 **[[:sw:obs:notes:frames:09-10|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-12|>>]]**
