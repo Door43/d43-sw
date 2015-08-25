@@ -8,12 +8,12 @@ Mungu akasema, "Mimi ni **Mungu ** Mwenyezi. <font 16px/inherit;;inherit;;inheri
 
 ===== Important Terms: =====
 
-  * **[[:sw:obs:notes:key-terms:god|God]] - Mungu**
-  * **[[:sw:obs:notes:key-terms:covenant|covenant]] - Agano**
-  * **[[:sw:obs:notes:key-terms:abraham|Abram]] - Abramu**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants]] - uzao**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan]] - Kanaani**
-  * **[[:sw:obs:notes:key-terms:circumcise|circumcise]] - Tohara**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:covenant|covenant (Agano)]]**
+  * **[[:sw:obs:notes:key-terms:abraham|Abram (Abramu)]]**
+  * **[[:sw:obs:notes:key-terms:descendant|descendants(uzao)]]**
+  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanaani)]]**
+  * **[[:sw:obs:notes:key-terms:circumcise|circumcise (Tohara)]]**
 ===== Translation Notes: =====
 
   * **father of many nations - ** ​Abram would have many descendants, and they would have their own lands and rule themselves. They and others would remember that Abram was their ancestor and would honor him.
