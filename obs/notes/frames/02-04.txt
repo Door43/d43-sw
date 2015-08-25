@@ -8,9 +8,9 @@ Nyoka akamjibu mwanamke, "Hiyo si **kweli**! **Hautakufa**. Mungu anajua ukiliku
 
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * [[:sw:obs:notes:key-terms:true|true (kweli)]]
+  * **[[:sw:obs:notes:key-terms:true|true (kweli)]]**
   * **[[:sw:obs:notes:key-terms:death|die (kufa)]]**
-  * [[:sw:obs:notes:key-terms:god|God (Mungu)]]
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
   * **[[:sw:obs:notes:key-terms:evil|evil (maovu)]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
