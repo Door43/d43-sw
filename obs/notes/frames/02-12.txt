@@ -8,12 +8,12 @@ Halafu **Mungu** akasema, "Sasa kuona wanadamu wamekuwa **kama sisi wakajua mema
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * [[:sw:obs:notes:frames:good|good (nzuri)]]
-  * **[[:sw:obs:notes:frames:evil|evil (mabaya)]]**
-  * **[[:sw:obs:notes:frames:life|life (uhai)]]**
-  * [[:sw:obs:notes:frames:adam|Adam (Adamu)]]
-  * [[:sw:obs:notes:frames:eve|Eve (Hawa)]]
-  * **[[:sw:obs:notes:frames:angels|angels (malaika)]]**
+  * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
+  * **[[:sw:obs:notes:key-terms:evil|evil (mabaya)]]**
+  * **[[:sw:obs:notes:key-terms:life|life (uhai)]]**
+  * **[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]**
+  * **[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]**
+  * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **like us by knowing good and evil**  - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, "because now they knew both good and evil."
