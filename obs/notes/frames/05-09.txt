@@ -8,10 +8,10 @@ Hapo karibu **Ibrahimu** akamuona **kondoo wa kiume** amekwama katika kichaka. *
 
 ===== Important Terms: Maelezo Ya Muhimu =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham]] - Ibrahimu**
-  * **[[:sw:obs:notes:key-terms:god|God]] - Mungu**
-  * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice]] - Dhabihu**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac]] - Isaka**
+  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+  * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice (Dhabihu)]]**
+  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
 ===== Translation Notes: Maelezo ya Tafsiri =====
 
   * **a ram**  - This is a male sheep. sheep were one of the animals that people could sacrifice to God.
