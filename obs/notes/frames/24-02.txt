@@ -15,7 +15,7 @@ Watu wengi walikuja **nyikani ** kumusikiliza **Yohana**. **Aliwahubiria**, akis
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **wilderness**  - See how you translated this word in **[[:sw:obs:notes:frames:24-01|[24-01]]]**.
-  * **nyikani**  - Ona vile ulivyotafsiri neno hili pale **[24-01]**.
+  * **nyikani**  - Ona vile ulivyotafsiri neno hili pale **[[:sw:obs:notes:frames:24-01|[24-01]]]**.
   * **Repent**  - It might be better to say, "Repent from your sins."
   * **Tubuni**  - Inaweza kuwa vyema zaidi kusema, "Tubuni kutoka kwa dhambi zenu."
   * **the kingdom of God is near**  - That is, "the kingdom of God is ready to appear" or, "the kingdom of God will arrive soon." This refers to God's ruling over people. This can also be translated as, "God's reign is about to begin" or, "God will soon rule over us as king."
