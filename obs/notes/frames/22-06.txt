@@ -13,7 +13,7 @@ Upesi tu baada ya **malaika** kunena na **Mariamu**, alienda kumtembelea **Elisa
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Elizabeth**  - See the note about Elizabeth on **[[:sw:obs:notes:frames:22-05|[22-04]]]**.
-  * **Elisabeti **- Ona maelezo kuhusu Elisabeti pale **[22-04]. **
+  * **Elisabeti **- Ona maelezo kuhusu Elisabeti pale **[[:sw:obs:notes:frames:22-05|[22-04]]]**.
   * **As soon as Elizabeth heard Mary's greeting**  - For some languages it may be better to say, "Mary greeted Elizabeth and as soon as Elizabeth heard her."
   * **Baada ya Elisabeti kusikia salamu za Mariamu**  - Katika lugha zingine itakuwa rahisi kusema, "Mariamu alisalimia Elisabeti na wakati tu Elisabeti alimusikia."
   * **baby jumped inside her**  - The baby moved suddenly inside Elizabeth's womb in response to Mary's greeting to Elizabeth.
