@@ -10,7 +10,7 @@
   * **[[:sw:obs:notes:key-terms:israel|Israelite (Muisraeli)]]**
   * **[[:sw:obs:notes:key-terms:priest|priests (makuhani)]]**
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifices (dhabihu)]]**
-  * **[[:sw:obs:notes:key-terms:god|God]]** (Mungu)
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]** 
   * **[[:sw:obs:notes:key-terms:punish|punishment (adhabu)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:pray|prayed (aliomba)]]**
