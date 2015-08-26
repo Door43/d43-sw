@@ -19,7 +19,7 @@ Kama miaka 100 baada ya **Ashuru** kuangamiza **ufalme wa Israeli**, Mungu alitu
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **empire**  - See how you translated this in **[[:sw:obs:notes:frames:20-02|[20-02]]]**.
-  * **dola**  - Ona vile ulivyotafsiri hii pale **[20-02].**
+  * **dola**  - Ona vile ulivyotafsiri hii pale **[[:sw:obs:notes:frames:20-02|[20-02]]]**.
   * **agreed to be**  – The king of Judah was forced to either serve the Babylonian king or be destroyed.
   * **alikubali kuwa**  - Mfalme wa Yuda alilazimishwa aidha kumutumikia mfalme wa Babeli au kuangamizwa.
   * **to be Nebuchadnezzar's servant**  - This could be translated as, "to govern Judah under Nebuchadnezzar's command."
