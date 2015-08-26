@@ -12,7 +12,7 @@ Wakati **wanaume wenye hekima** waliona Yesu na mama yake, **waliinama chini** n
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **wise men**  - See how you translated this term in **[[:sw:obs:notes:frames:23-09|[23-09]]]**.
-  * **wanaume wenya hekima**  - Ona ulivyo tafsiri hii neno pale **[23-09]. **
+  * **wanaume wenya hekima**  - Ona ulivyo tafsiri hii neno pale **[[:sw:obs:notes:frames:23-09|[23-09]]]**.
   * **bowed down**  - That is, "bowed low to the ground." At that time, this was the customary way of showing great respect or reverence.
   * **waliinama chini **- Hiyo ni, "waliinama chini kwa ardhi." Katika wakati huo, hii ndiyo ilikuwa desturi wakonyesha heshima.
   * **expensive**  - That is, "very valuable."
