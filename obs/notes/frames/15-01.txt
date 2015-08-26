@@ -22,7 +22,7 @@
   * **At last it was time for**  - "At last" means "finally" or, "after a long wait." To make it clear what "time" refers to, you could say, "after they had wandered in the desert for 40 years, God finally permitted."
   * **hatimaye ikafika wakati wa**  - "Hatimaye" inamanisha "mwisho kabisa" ama, "baada ya kugonja muda mrefu." Diposa iwe wazi "wakati" gani inamaanisha nini, unaweza sema, "baada ya kuzungazunguka katika jangwa miaka arobanne, Mungu hatimaye akaruhusu."
   * **two spies to the Canaanite city of Jericho**  - This could be translated as, "two men to Jericho, a city in Canaan, to find out information about it." Also see the notes for, "spy out the land" in **[[:sw:obs:notes:frames:14-04|[14-04]]]**.
-  * **wapelelezi wawili kwenda Yericho mji ulioko Kanani **- Hii inaweza kutafsiriwa kama, "wanaume wawili kwenda Yericho, mji ulioko Kanani, kutafuta habari kuihusu." Pia angalia maelezo ya, "peleleza nchi" pale** [14-04]. **
+  * **wapelelezi wawili kwenda Yericho mji ulioko Kanani **- Hii inaweza kutafsiriwa kama, "wanaume wawili kwenda Yericho, mji ulioko Kanani, kutafuta habari kuihusu." Pia angalia maelezo ya, "peleleza nchi" pale** [[:sw:obs:notes:frames:14-04|[14-04]]]**.
   * **protected by strong walls**  - This could be translated as, "completely surrounded by thick, strong walls made of stone to protect it from their enemies."
   * **umelindwa na kuta zenye nguvu**  - Hii inaweza kutafsiriwa kama, "imezingirwa kabisa na kuta nene za mawe na zenye nguvu ili kuilinda kutoka kwa adui zao."
   * **escape**  – It is also possible to add, "escape from people in Jericho who wanted to harm them."
