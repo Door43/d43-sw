@@ -10,7 +10,7 @@
   * **[[:sw:obs:notes:key-terms:paul|Saul (Sauli)]]**
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
-  * ****[[:sw:obs:notes:key-terms:believer|believer (muumini)]]** **
+  * **[[:sw:obs:notes:key-terms:believer|believer (muumini)]]** 
   * **[[:sw:obs:notes:key-terms:barnabas|Barnabas (Baranaba)]]**
   * **[[:sw:obs:notes:key-terms:apostle|apostles (mitume)]]**
   * **[[:sw:obs:notes:key-terms:preach|preached (alihubiri)]]**
