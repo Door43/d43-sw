@@ -9,10 +9,10 @@
 
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
-  * ****[[:sw:obs:notes:key-terms:prophet|word of God]] (neno la Mungu)** **
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**** **
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu) ]]**** **
-<font 20px/inherit;;inherit;;inherit>** Translation Notes (Maelezo ya Tafsiri):  **</font>
+  * **[[:sw:obs:notes:key-terms:prophet|word of God (neno la Mungu)]]** 
+  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]] **
+  * **[[:sw:obs:notes:key-terms:god|God (Mungu) ]] **
+** Translation Notes (Maelezo ya Tafsiri):  **
 
 **I’m working on 46, and Lizz is starting at 69. How about you jump ahead to verse 59? **
 
