@@ -12,7 +12,7 @@
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **story**  - See how you translated this term in **[[:sw:obs:notes:frames:34-01|[34-01]]]**.
-  * **hadithi **- Ona vile ulivyotafsiri hili neno pale **[34-01]. **
+  * **hadithi **- Ona vile ulivyotafsiri hili neno pale **[[:sw:obs:notes:frames:34-01|[34-01]]]**.
   * **yeast**  - This can also be translated as, "leaven" or, "the little bit of leaven." It is added to bread dough to make it rise. A little bit of yeast can be mixed into a large amount of dough and make the whole batch of dough rise.
   * **chachu**  - Hii pia inaweza kutafsiriwa kama, "chachu" ama, "kidogo ya chachu." Huwa inaongezwa kwa unga ili ipanuke. kidogo tu ya chachu inachanganywa na unga nyingi sana na kufanya unga yote ipanuke.
   * **bread dough**  - This is a mixture of flour and liquid that can be shaped and baked into bread. If you do not have words for dough or flour, you can borrow a word for flour or call it "ground-up grain."
