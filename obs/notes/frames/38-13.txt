@@ -14,5 +14,5 @@
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **After each time of prayer**  - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:sw:obs:notes:frames:38-12|[38-12]]]**.
-  * **Baada ya kila wakati wa maombi- **  Hiyo ni, "Kila wakati Yesu aliomba hilo ombai." Hii ina maana ya mara tatu akaomba, kama ilivyoelezwa pale **[38-12].**
+  * **Baada ya kila wakati wa maombi- **  Hiyo ni, "Kila wakati Yesu aliomba hilo ombai." Hii ina maana ya mara tatu akaomba, kama ilivyoelezwa pale **[[:sw:obs:notes:frames:38-12|[38-12]]]**.
 **[[:sw:obs:notes:frames:38-12|<<]] | [[:sw:obs:notes:38|Up]] | [[:sw:obs:notes:frames:38-14|>>]]**
