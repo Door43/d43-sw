@@ -14,6 +14,14 @@ Baada ya muda mrefu, **Ibrahimu ** akafa na **ahadi zote zile Mungu alikuwa amef
   * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
   * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
+
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:other:rebekah]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the promises … were passed on**  - The promises of the covenant that God made with Abraham were not for him only, but also for his descendants.
