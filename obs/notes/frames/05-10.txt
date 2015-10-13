@@ -14,6 +14,15 @@ Halafu **Mungu** akamwambia **Ibrahimu**, "Kwa sababu ulikuwa tayari kunipea kil
   * **[[:sw:obs:notes:key-terms:bless|bless (bariki)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (vizazi)]]**
   * **[[:sw:obs:notes:key-terms:obey|obeyed (alitii)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:bless]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:other:obey]]**
+  * 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **your only son**  - See explanation in **[[:sw:obs:notes:frames:05-08|[05-08]]]**.
