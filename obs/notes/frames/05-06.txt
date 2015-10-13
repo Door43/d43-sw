@@ -15,6 +15,15 @@ Wakati **Isaka ** alipokuwa kijana, **Mungu alijaribu imani ya Ibrahimu** kwa ku
   * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice (dhabihu)]]**
   * **[[:sw:obs:notes:key-terms:obey|obeyed (akatii)]]**
+
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:kt:faith]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:other:obey]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri) =====
 
   * **God tested Abraham's faith**  - God wanted Abraham to show that he was completely submitted to God, that he would obey whatever God told him to do.
