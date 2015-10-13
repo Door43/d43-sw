@@ -10,6 +10,11 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:noah|Noah (Nuhu)]]**
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifices (dhabihu)]]**
+
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:other:noah|Nuhu]]**
+  * **[[:sw:obe:other:sacrifice|dhabihu]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **God sent**  - Noah did not need to find the animals. God sent them to him.
