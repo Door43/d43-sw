@@ -9,6 +9,9 @@ Halafu **Mungu akasema****, "Na ardhi ikazalishe kila aina ya miti na mimea**." 
 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
+
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:good|nzuri]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God said**  - God created all vegetation by speaking a command.
