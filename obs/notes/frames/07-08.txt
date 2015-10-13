@@ -10,6 +10,11 @@
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
   * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
+
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:other:jacob]]**
+  * **[[:sw:obe:other:servant]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **after twenty years**  - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, "After twenty years living in the land where his relatives were."
