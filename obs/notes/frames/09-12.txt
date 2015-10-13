@@ -12,6 +12,11 @@ Siku moja **Musa** alikuwa **anatunza kondoo wake**, akaona kichaka abacho kinaw
   * **[[:sw:obs:notes:key-terms:sheep|sheep (kondoo)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:holy|holy (takatifu)]]**
+
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:sheep]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:holy]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **taking care of his sheep**  - This means he was doing the work of a shepherd to guide the sheep to grass and water, and to protect them. It could be translated as, "tending the sheep."
