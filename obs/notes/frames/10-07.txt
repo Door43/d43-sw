@@ -12,6 +12,12 @@ Halafu **Mungu** akamwambia **Musa** arushe majivu kwa hewa mbele ya **Farao**. 
   * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:israel]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God hardened Pharaoh's heart**  - God caused Pharaoh to continue to be stubborn. See also note in **[[:sw:obs:notes:frames:10-04|[10-04]]]**.
