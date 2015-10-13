@@ -14,6 +14,14 @@
   * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinned (nimetenda dhambi)]]**
   * **[[:sw:obs:notes:key-terms:pray|prayed (akaomba0]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:aaron]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:pray]]**
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **After that**  - This means, after God caused the painful sores to appear on the Egyptians' skin.
