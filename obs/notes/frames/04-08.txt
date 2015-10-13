@@ -15,6 +15,17 @@
   * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
   * **[[:sw:obs:notes:key-terms:believe|believed (Aliamini)]]**
   * **[[:sw:obs:notes:key-terms:righteous|righteous (Mwenye haki)]]**
+
+  * **[[:sw:obe:other:abraham|Abramu]]**
+  * **[[:sw:obe:other:sarah|Sarai]]**
+  * **[[:sw:obe:kt:son|Mwana]]**
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:promise|Akaahidi]]**
+  * **[[:sw:obe:other:descendant|uzao]]**
+  * **[[:sw:obe:kt:believe|Aliamini]]**
+  * **[[:sw:obe:kt:righteous|Mwenye haki]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Many years**  - Several years had passed since God had first promised that Abram would have a son.
