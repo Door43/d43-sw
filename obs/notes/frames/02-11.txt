@@ -14,6 +14,14 @@
   * **[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]**
   * **[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]**
 
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:other:disobey|alikosa kutii]]**
+  * **[[:sw:obe:kt:curse|akalaani]]**
+  * **[[:sw:obe:kt:death|kufa]]**
+  * **[[:sw:obe:other:eve|Hawa]]**
+  * **[[:sw:obe:other:adam|Adamu]]**
+
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **ground is cursed**  - As punishment for Adam's disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat.
