@@ -13,6 +13,12 @@ Mke wa bwana wake **alijaribu kulala na Yosefu,** lakini Yosefu alikataa kutenda
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:faithful|faithful (mwaminifu)]]**
   * **[[:sw:obs:notes:key-terms:bless|blessed (alibarikiwa)]]**
+
+  * **[[:sw:obe:other:josephot]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:faithful]]**
+  * **[[:sw:obe:kt:bless]]**
 ==== Translation Notes: Maelezo ya Tafsiri ====
 
   * **tried to sleep with Joseph**  – Another way to say this would be, "tried to seduce Joseph to have sex with her." To "sleep with" is a way of expressing this in order not to be crude or offensive.
