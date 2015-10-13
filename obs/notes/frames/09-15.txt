@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni]]**
+
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:aaron]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **was afraid and did not want to go**  - Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
