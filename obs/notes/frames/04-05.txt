@@ -13,6 +13,13 @@ Kwa hivyo **Abramu akamtii Mungu**. **Akamchukua** Mke wake, **Sarai,** pamoja n
   * **[[:sw:obs:notes:key-terms:sarah|Sarai (Sarai)]]**
   * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+
+  * **[[:sw:obe:other:abraham|Abramu]]**
+  * **[[:sw:obe:other:obey|Alimtii]]**
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:other:sarah|Sarai]]**
+  * **[[:sw:obe:other:servant|watumishi]]**
+  * **[[:sw:obe:other:canaan|Kanani]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **He took**  – Some languages would say, "He brought" here. Others would use two different verbs here, such as, "He caused his wife to come with him" and, "He brought along all of their servants and possessions."
