@@ -4,7 +4,7 @@
 
 God said, “I am **God** Almighty. I will make a **covenant** with you.” Then **Abram** bowed to the ground. God also told Abram, “You will be the **father of many nations**. I will give you and your **descendants** the land of **Canaan** as their possession and **I will be their God** forever. You must **circumcise every male in your family**.”
 
-Mungu akasema, "Mimi ni **Mungu ** Mwenyezi. <font 16px/inherit;;inherit;;inherit>Nami nitalifanya</font>    **<font 16px/inherit;;inherit;;inherit>agano</font>     ** <font 16px/inherit;;inherit;;inherit>na</font>    <font 16px/inherit;;inherit;;inherit>wewe."</font>    Naye** Abramu ** akainama chini. Mungu pia akamuambia Abramu,** "Wewe utakuwa baba wa mataifa mengi. ** Nitakupa wewe na **vizazi ** vyako nchi ya** Kanani** kama uridhi na** nitakuwa Mungu wao milele** **. Lazima kila mwanaume miongoni mwenu afanyiwe tohara."**
+Mungu akasema, "Mimi ni **Mungu ** Mwenyezi. Nami nitalifanya    **agano     ** na    wewe."    Naye** Abramu ** akainama chini. Mungu pia akamuambia Abramu,** "Wewe utakuwa baba wa mataifa mengi. ** Nitakupa wewe na **vizazi ** vyako nchi ya** Kanani** kama uridhi na** nitakuwa Mungu wao milele** **. Lazima kila mwanaume miongoni mwenu afanyiwe tohara."**
 
 ===== Important Terms: =====
 
@@ -14,6 +14,13 @@ Mungu akasema, "Mimi ni **Mungu ** Mwenyezi. <font 16px/inherit;;inherit;;inheri
   * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanaani)]]**
   * **[[:sw:obs:notes:key-terms:circumcise|circumcise (Tohara)]]**
+
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:covenant|agano]]**
+  * **[[:sw:obe:other:abraham|Abramu]]**
+  * **[[:sw:obe:other:descendant|uzao]]**
+  * **[[:sw:obe:other:canaan|Kanani]]**
+  * **[[:sw:obe:kt:circumcise|Tohara]]**
 ===== Translation Notes: =====
 
   * **father of many nations - ** ​Abram would have many descendants, and they would have their own lands and rule themselves. They and others would remember that Abram was their ancestor and would honor him.
