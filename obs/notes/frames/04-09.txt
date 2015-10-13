@@ -13,6 +13,14 @@ Na **Mungu ** akafanya **agano** na **Abramu**. Agano ni makubaliano kati ya vya
   * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
+
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:covenant|agano]]**
+  * **[[:sw:obe:other:abraham|Abramu]]**
+  * **[[:sw:obe:kt:son|Mwana]]**
+  * **[[:sw:obe:other:canaan|Kanani]]**
+  * **[[:sw:obe:other:descendant|uzao]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **two parties**  - The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram.
