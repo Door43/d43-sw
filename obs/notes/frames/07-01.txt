@@ -11,6 +11,11 @@ Wale wavulana walipokua, **Yakobo alipenda kukaa nyumbani**, lakini **Esau alipe
   * **[[:sw:obs:notes:key-terms:esau|Esau (Esau)]]**
   * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
   * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
+
+  * **[[:sw:obe:other:jacob]]**
+  * **[[:sw:obe:other:esau]]**
+  * **[[:sw:obe:other:rebekah]]**
+  * **[[:sw:obe:other:isaac]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **loved to stay at home … loved to hunt**  - Some languages will use a word for "love" here that is different from the one used for, "Rebekah loved Jacob." For example, this could be translated as, "preferred to stay at home … preferred to hunt."
