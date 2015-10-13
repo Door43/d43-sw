@@ -10,6 +10,11 @@
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
   * **[[:sw:obs:notes:key-terms:rebekah|Rebekah's (ya Rebeka)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:jacob]]**
+  * **[[:sw:obe:other:rebekah]]**
+  * **[[:sw:obe:kt:god]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **wealthy**  – This included money, large herds of animals and other possessions.
