@@ -11,6 +11,11 @@ Binti wa **Farao** akaona kile kikapu na akaangalia ndani, alipomwona mtoto, **a
   * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelite (Muisraeli)]]**
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:moses]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **took him as her own son**  - She was a princess. When she made him her son, he became a prince of Egypt.
