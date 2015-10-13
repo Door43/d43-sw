@@ -13,6 +13,13 @@ Baada ya miaka miwili, **Yosefu** bado alikuwa gerezani, ingawa alikuwa **hana h
   * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
   * **[[:sw:obs:notes:key-terms:king|kings (wafalme)]]**
   * **[[:sw:obs:notes:key-terms:dream|dreams (ndoto)]]**
+
+  * **[[:sw:obe:other:josephot]]**
+  * **[[:sw:obe:kt:innocent]]**
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:dream]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
