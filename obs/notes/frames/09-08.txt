@@ -11,6 +11,11 @@ Siku moja, wakati **Musa** alikuwa mtu mzima, akaona **Mumisri** akimchapa **mtu
   * **[[:sw:obs:notes:key-terms:egypt|Egyptian (Mumisri)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelite (Muisraeli)]]**
   * **[[:sw:obs:notes:key-terms:servant|slave (mtumwa)]]**
+
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:servant]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **grown up**  - Another way to say this would be, "grown into a man."
