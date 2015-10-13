@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:aaron]]**
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **to Pharaoh**  – It may be clearer to say, "to Pharaoh's palace to talk to him."
