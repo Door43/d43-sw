@@ -10,6 +10,9 @@ Katika** siku ya nne ya** umbaji, **Mungu akanena** na akatengeneza Jua , Mwezi 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]] **
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
 
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:good|nzuri]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri) ====
 
   * **the fourth day**  - The next in the orderly series of days in which God created.
