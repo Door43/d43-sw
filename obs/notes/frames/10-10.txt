@@ -9,6 +9,9 @@ Kwa hivyo **Mungu** akafanya **makundi ya nzige** zije **Misri**. Hizi **nzige**
 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:egypt]]**
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **swarms of locusts**  - Locusts are grasshoppers that fly together in swarms, or large groups, and that can destroy large areas of all kinds of plants and food crops by eating them.
