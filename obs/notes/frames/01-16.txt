@@ -11,6 +11,10 @@ When **the seventh day** came, **God** had **finished his work**. So **God reste
   * **[[:sw:obs:notes:key-terms:bless|blessed (alibariki)]]**
   * **[[:sw:obs:notes:key-terms:holy|holy (takatifu)]]**
 
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:bless|alibariki]]**
+  * **[[:sw:obe:kt:holy|takatifu]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the seventh day**  - The next day after the six days of creation were completed.
