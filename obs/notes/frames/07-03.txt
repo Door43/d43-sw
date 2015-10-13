@@ -13,6 +13,12 @@
   * **[[:sw:obs:notes:key-terms:esau|Esau (Esau)]]**
   * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:kt:bless]]**
+  * **[[:sw:obe:other:esau]]**
+  * **[[:sw:obe:other:rebekah]]**
+  * **[[:sw:obe:other:jacob]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **give his blessing**  - It was customary for fathers to formally express their desire for good things to happen to their children. Normally the older son received the best promise. Isaac wanted this extra prosperity to happen to Esau.
