@@ -10,6 +10,10 @@ Lakini **Farao alitenda** dhambi tena na **akafanya moyo wake mugumu**. Hangewar
   * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinned (alitenda dhambi)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:israel]]**
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **hardened his heart**  - See note in **[[:sw:obs:notes:frames:10-04|[10-04]]]**.
