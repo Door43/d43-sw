@@ -10,6 +10,11 @@
   * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
   * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:rebekah]]**
+  * **[[:sw:obe:kt:god]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **in Rebekah's womb**  - That is, "inside her."
