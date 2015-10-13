@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
   * **[[:sw:obs:notes:key-terms:esau|Esau (Esau)]]**
   * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
+
+  * **[[:sw:obe:other:jacob]]**
+  * **[[:sw:obe:other:esau]]**
+  * **[[:sw:obe:other:servant]]**
 ===== Translation Notes (Maelzo ya Tafsiri): =====
 
   * **your servant, Jacob**  - Jacob was not actually Esau's servant. But Jacob told his servants to say this because he wanted to show Esau that he was coming to him humbly and respectfully, so that Esau would no longer be angry with him.
