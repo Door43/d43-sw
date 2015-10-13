@@ -15,6 +15,15 @@ Zile **ahadi za agano** ambazo **Mungu** alimpea **Ibrahimu zilipitishwa kwa Isa
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
+
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:jacob]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:other:israel]]**
 ==== Translation Notes (Tafsiri ya Maelezo): ====
 
   * **covenant promises**  - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:sw:obs:notes:frames:07-10|[07-10]]]**.
