@@ -21,7 +21,7 @@
 
   * **[[:sw:obe:other:sarah|Sarai]]**
   * **[[:sw:obe:kt:son|mwana]]**
-  * **[[:sw:obe:kt:promise|Akaahidi]]**
+  * **[[:sw:obe:kt:promise|ahadi]]**
   * **[[:sw:obe:other:isaac|Isaka]]**
   * **[[:sw:obe:kt:covenant|agano]]**
   * **[[:sw:obe:other:ishmael|Ishmaeli]]**
