@@ -11,6 +11,11 @@ Lilofuata, **Mungu ** akafanya mifugo ya **Wamisri ** kuwa na magojwa na ikafa. 
   * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
   * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh's (ya Farao)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:israel]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **farm animals**  - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
