@@ -8,6 +8,8 @@ Wakati wazazi wa yule mvulana hawangemficha tena, walimuweka kwa **kikapu kinach
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:nile-river|Nile River (Mto wa Nile)]]**
+
+  * **[[:sw:obe:other:nileriver]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
 * //(There are no notes for this frame.)//
