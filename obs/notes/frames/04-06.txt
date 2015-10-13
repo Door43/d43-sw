@@ -12,6 +12,12 @@ Wakati **Abramu** alifika **Kanani**, **Mungu** akasema, "Tazama kila upande kar
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (Vizazi)]]**
   * **[[:sw:obs:notes:key-terms:inherit|inheritance (Urithi)]]**
+
+  * **[[:sw:obe:other:abraham|Abramu]]**
+  * **[[:sw:obe:other:canaan|Kanani]]**
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:other:descendant|Vizazi]]**
+  * **[[:sw:obe:kt:inherit|Urithi]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **all the land that you can see**  - If Abram was standing on a mountain, he could have seen a very large area. On several occasions God promised to give the entire land of Canaan to Abram and his descendants.
