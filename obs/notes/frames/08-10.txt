@@ -10,6 +10,11 @@
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+
+
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:other:jacob]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
