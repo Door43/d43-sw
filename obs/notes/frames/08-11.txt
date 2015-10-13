@@ -10,6 +10,10 @@ Kwa hivyo **Yakobo** akatuma **wanao walio wakubwa** **Misri ** kununua chakula.
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
   * **[[:sw:obs:notes:key-terms:joseph|Joseph (Yosefu)]]**
+
+  * **[[:sw:obe:other:jacob]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:josephot]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **his older sons**  - These were Joseph's older brothers who had sold him into slavery.
