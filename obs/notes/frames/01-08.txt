@@ -10,6 +10,9 @@ Katika **siku ya sita** ya uumbaji, **Mungu akasema**, "Na kuwe na **kila aina**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
 
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:good|nzuri]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the sixth day**  - The next event in a continuing, orderly progression of days and creative acts.
