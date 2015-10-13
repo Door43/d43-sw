@@ -11,6 +11,10 @@ So **God took some dirt**, **formed it** into **a man**, and **breathed life** i
   * ******[[:sw:obs:notes:key-terms:life|life (uhai)]]******
   * **[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]**
 
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:life|uhai]]**
+  * **[[:sw:obe:other:adam|Adamu]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **took some dirt**  - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
