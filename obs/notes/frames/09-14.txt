@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
   * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:yahweh]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:jacob]]**
 ==== Translation Notes (Maneno ya Muhimu): ====
 
   * **the people**  - See "my people" in **[[:sw:obs:notes:frames:09-13|[09-13]]]**.
