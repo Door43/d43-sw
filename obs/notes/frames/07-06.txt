@@ -11,6 +11,11 @@ Lakini **Rebeka** akasikia kuhusu **mpango wa Esau**. Kwa hivyo **yeye na Isaka 
   * **[[:sw:obs:notes:key-terms:esau|Esau's (ya Esau)]]**
   * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+
+  * **[[:sw:obe:other:rebekah]]**
+  * **[[:sw:obe:other:esau]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:jacob]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Esau's plan**  - Esau's plan was to kill Jacob after his father died.
