@@ -12,6 +12,11 @@ Mwanamke akajibu, "**M**u**ngu** alituambia tunaweza kula **tunda** la mti wowot
   * **[[:sw:obs:notes:key-terms:evil|evil (mabaya)]]**
   * **[[:sw:obs:notes:key-terms:death|die (kufa)]]**
 
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:good|nzuri]]**
+  * **[[:sw:obe:kt:evil|mabaya]]**
+  * **[[:sw:obe:kt:death|kufa]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **fruit**  - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
