@@ -10,6 +10,11 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
   * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:rebekah]]**
+  * **[[:sw:obe:kt:son]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **from the two sons**  - That is, "from the descendants of the two sons."
