@@ -1,0 +1,27 @@
+====== Amalekite ======
+
+===== Facts: =====
+
+Amalekites were a nomadic people group, originating, perhaps with Amalek, the grandson of Esau.
+
+  * They ranged across South Canaan from the Negeb to Arabia.
+  * The Amalekites were bitter enemies with Israel from the beginning of Israel's occupation of Canaan.
+  * Both Saul and David led military expeditions against the Amalekites, the latter having two of his wifes taken captive by them.
+  * By the 8th century BC, the Amalekites were no longer a threat to Israel.
+
+(Translation suggestions: [[:sw:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+  * [[:sw:obe:other:altarofincense|Prev chunk]]: [[:sw:obe:other:altarofincense?do=diff&rev2[0]=1412701930&rev2[1]=&difftype=sidebyside|publish-current]]
+  * [[:sw:obe:other:amazed|Next chunk]]: [[:sw:obe:other:amazed?do=diff&rev2[0]=1423767478&rev2[1]=&difftype=sidebyside|publish-current]]
+
+===== Bible References: =====
+
+{{topic>Amalekite&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft 2Sa01 ktlink}}

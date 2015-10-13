@@ -1,0 +1,19 @@
+====== furnace ======
+
+===== Facts: =====
+
+Text
+  * bullet
+  * bullet
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>furnace&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>create rev09 ktlink}}
