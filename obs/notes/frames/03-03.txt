@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu]])**
   * **[[:sw:obs:notes:key-terms:noah|Noah (Nuhu)]]**
 
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:other:noah|Nuhu]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsri): =====
 
   * **the boat**  - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
