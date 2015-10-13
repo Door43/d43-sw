@@ -17,6 +17,20 @@ Lakini **Esau** alikuwa tayari **amemsamehe Yakobo**, na walifurahia kuonana ten
   * **[[:sw:obs:notes:key-terms:promise|promises (ahadi)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
+
+  * **[[:sw:obe:other:esau]]**
+  * **[[:sw:obe:kt:forgive]]**
+  * **[[:sw:obe:other:jacob]]**
+  * **[[:sw:obe:other:peace]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:abraham]]**
+
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **lived peacefully**  - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
