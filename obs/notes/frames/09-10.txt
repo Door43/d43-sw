@@ -10,6 +10,10 @@ Wakati **Farao** alisikia kile alichokifanya **Musa**, alijaribu kumuua. Musa ak
   * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:egypt]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **wilderness**  - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
