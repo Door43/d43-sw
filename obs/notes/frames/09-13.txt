@@ -18,6 +18,18 @@
   * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
   * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:suffer]]**
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:jacob]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **suffering of my people**  - This could be translated as, "the very harsh treatment that my people are experiencing. Some languages might translate this as, "how the Egyptians are giving my people terrible pain."
