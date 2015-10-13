@@ -11,6 +11,10 @@ Adamu na mke wake walifurahia sana kuishi katika bustani nzuri aliyowatengenezea
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:sin|Sin (dhambi)]]**
 
+  * **[[:sw:obe:other:adam|Adamu]]**
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:sin|dhambi]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[:sw:obs:notes:frames:01-11|[01-11]]]**. See how you translated it there.
