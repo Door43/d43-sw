@@ -13,6 +13,13 @@ Kwa hivyo **Mungu alituma pigo la chawa**. Halafu akatuma pigo la **nzi**. **Far
   * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (wana wa Israeli)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:aaron]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:egypt]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God sent a plague**  – This could be translated as, "God caused there to be a plague" or, "God caused a plague (of gnats) to come over the land of Egypt."
