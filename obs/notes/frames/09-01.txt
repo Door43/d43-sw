@@ -11,6 +11,11 @@ Baada ya **Yosefu** kufa, jamaa zake wote walikaa **Misri**. Wao na **uzao** wao
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (wana wa Israeli)]]**
+
+  * **[[:sw:obe:other:josephot]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:other:israel]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **called the Israelites**  - The people group that descended from Jacob was called "Israel," which is the name that God gave to Jacob. The people from that group were called "Israelites."
