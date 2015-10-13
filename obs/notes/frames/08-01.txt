@@ -9,6 +9,10 @@ Miaka mingi baadaye, wakati **Yakobo** alikuwa mzee, **alituma mwanawe aliyempen
 
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
   * **[[:sw:obs:notes:key-terms:joseph|Joseph (Yosefu)]]**
+
+  * **[[:sw:obe:other:jacob]]**
+  * **[[:sw:obe:other:joseph]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **sent**  – This word means that Jacob told Joseph to go and Joseph went.
