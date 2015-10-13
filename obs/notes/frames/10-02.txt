@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
   * **[[:sw:obs:notes:key-terms:god-false|gods (miungu)]]**
+
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:kt:falsegod]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the people**  - This refers to the people of Israel, also called, "the Israelites."
