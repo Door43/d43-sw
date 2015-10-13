@@ -10,6 +10,10 @@ Hata baada ya **hizi mapigo tisa**, **Farao** bado alikataa kuwaachilia **waisra
   * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **these nine plagues**  - This means, "these nine disasters that God had caused."
