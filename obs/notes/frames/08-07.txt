@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:joseph|Joseph (Yosefu)]]**
   * **[[:sw:obs:notes:key-terms:dream|dreams (ndoto)]]**
   * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:josephot]]**
+  * **[[:sw:obe:other:dream]]**
+  * **[[:sw:obe:other:pharaoh]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **interpret dreams**  - To "interpret" is to tell what something means. So Joseph was able to tell people what their dreams meant.
