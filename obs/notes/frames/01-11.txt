@@ -14,6 +14,13 @@
   * **[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]**
   * **[[:sw:obs:notes:key-terms:death|die (kufa)]]**
 
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:life|uhai]]**
+  * **[[:sw:obe:kt:good|nzuri]]**
+  * **[[:sw:obe:kt:evil|maovu]]**
+  * **[[:sw:obe:other:adam|Adamu]]**
+  * **[[:sw:obe:kt:death|kufa]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **in the middle**  - The central location emphasizes the importance of the two trees.
