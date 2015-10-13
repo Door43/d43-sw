@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
   * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
   * **[[:sw:obs:notes:key-terms:isaac|Isaac's (ya Isaka)]]**
+
+  * **[[:sw:obe:other:rebekah]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:other:isaac]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Rebekah agreed**  - Even though Rebekah's parents were arranging her marriage, they did not force her to go marry Isaac.
