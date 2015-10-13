@@ -12,6 +12,12 @@ Wakati** Ibrahimu** na **Isaka walipokuwa wanatembea kuelekea mahali pa kutoa dh
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice (dhabihu)]]**
   * **[[:sw:obs:notes:key-terms:lamb|lamb (kondoo)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:kt:lamb]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **walked to the place of sacrifice**  - God had told Abraham to sacrifice Isaac on a special high hill that was about three days' walk from where they lived.
