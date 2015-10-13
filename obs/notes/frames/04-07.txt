@@ -12,6 +12,12 @@ Siku moja, **Abramu ** akakutana na **Melkizedeki**, **kuhani** wa **Mungu aliye
   * **[[:sw:obs:notes:key-terms:god|God Most High (Mungu aliye juu zaidi)]]**
   * **[[:sw:obs:notes:key-terms:bless|blessed (Akambariki)]]**
   * **[[:sw:obs:notes:key-terms:heaven|heaven (Bingu)]]**
+
+  * **[[:sw:obe:other:abraham|Abramu]]**
+  * **[[:sw:obe:kt:priest|Kuhani]]**
+  * **[[:sw:obe:kt:god|Mungu aliye juu zaidi]]**
+  * **[[:sw:obe:kt:bless|Akambariki]]**
+  * **[[:sw:obe:kt:heaven|Bingu]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Melchizedek**  - Melchizedek was the recognized religious authority in Canaan who received and presented offerings to God.
