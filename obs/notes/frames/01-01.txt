@@ -10,6 +10,9 @@ Hivi ndivyo jinsi **mwanzo ** wa vitu vyote ulifanyika. Mungu **aliumba ulimweng
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:holy-spirit|God's Spirit (Roho wa Mungu)]]**
 
+  * **[[:sw:obe:kt:god|Mungu]]**
+  * **[[:sw:obe:kt:holy-spirit|Roho wa Mungu]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the beginning**  - That is, "the beginning of all things," before anything existed except God.
