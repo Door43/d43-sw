@@ -11,6 +11,11 @@ Baada ya safari ndefu sana kuelekea nchi ambayo **jamaa wa Ibrahimu** walikuwa w
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
   * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
+
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:other:rebekah]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **granddaughter of Abraham's brother**  - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
