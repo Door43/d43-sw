@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:beg|begged (alimsihi)]]**
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:beg]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:israel]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God sent frogs all over Egypt**  - This could be translated as, "God caused many frogs to appear throughout Egypt."
