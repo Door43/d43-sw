@@ -12,6 +12,11 @@ Wakati **watoto wa Rebeka walizaliwa**, **yule mwana aliye mkubwa** akatoka akiw
   * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
   * **[[:sw:obs:notes:key-terms:esau|Esau (Esau)]]**
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+
+  * **[[:sw:obe:other:rebekah]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:other:esau]]**
+  * **[[:sw:obe:other:jacob]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Rebekah's babies were born**  - Some languages have another way of saying this such as, "when Rebekah saw and took them" or, "when Rebekah brought them to light."
