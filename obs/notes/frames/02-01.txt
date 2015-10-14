@@ -11,9 +11,9 @@ Adamu na mke wake walifurahia sana kuishi katika bustani nzuri aliyowatengenezea
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:sin|Sin (dhambi)]]**
 
-  * **[[:sw:obe:other:adam|Adamu]]**
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:sin|dhambi]]**
+  * **[[:sw:obe:other:adam]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:sin]]**
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
