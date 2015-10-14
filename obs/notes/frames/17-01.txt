@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:saul]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **first king of Israel**  – This could be translated as, "first king to rule over Israel."
