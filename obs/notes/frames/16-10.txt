@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:israel|Israelite (Muisraeli)]]**
   * **[[:sw:obs:notes:key-terms:gideon|Gideon (Gideoni)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:gideon]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **32,000 Israelite soldiers came to Gideon**  - Some languages might need to insert the following sentence at the beginning of the story: "Gideon called the Israelites to come fight against the Midianites." See **[[:sw:obs:notes:frames:16-08|[16-08]]]**.
