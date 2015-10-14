@@ -14,6 +14,13 @@ Kisha **Mungu** akamwambia **Musa** aende kwa kilele cha mlima ili akaweze kuona
   * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
   * **[[:sw:obs:notes:key-terms:trust|trusted (waliamini)]]**
   * **[[:sw:obs:notes:key-terms:obey|obeyed (walitii)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:kt:promisedland]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:joshua]]**
+  * 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **mourned for thirty days**  - For thirty days all the people of Israel cried and showed that they were very sad that Moses had died.
