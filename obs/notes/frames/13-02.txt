@@ -23,7 +23,7 @@
   * **[[:sw:obe:kt:covenant]]**
   * **[[:sw:obe:other:kingdom]]**
   * **[[:sw:obe:kt:priest]]**
-  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:kt:holy]]**
 
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
