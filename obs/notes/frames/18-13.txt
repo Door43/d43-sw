@@ -24,7 +24,6 @@ The **kings** of **Judah** were **descendants** of **David**. Some of these king
   * **[[:sw:obe:other:king]]**
   * **[[:sw:obe:other:kingdomofjudah]]**
   * **[[:sw:obe:other:descendant]]**
-  * **[[:sw:obe:other:descendant]]**
   * **[[:sw:obe:other:david]]**
   * **[[:sw:obe:kt:good]]**
   * **[[:sw:obe:kt:justice]]**
