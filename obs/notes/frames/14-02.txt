@@ -20,6 +20,21 @@
   * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
   * **[[:sw:obs:notes:key-terms:god-false|false gods (miungu ya uongo)]]**
   * **[[:sw:obs:notes:key-terms:evil|evil (maovu)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:jacob]]**
+  * **[[:sw:obe:kt:promisedland]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:other:peoplegroup]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:falsegod]]**
+  * **[[:sw:obe:kt:evil]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
 //(There are no notes for this frame.)//
