@@ -18,6 +18,18 @@
   * **[[:sw:obs:notes:key-terms:god-false|god (mungu)]]**
   * **[[:sw:obs:notes:key-terms:baal|Baal (Baali)]]**
 
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:ahab]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:kingdomofisrael]]**
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:falsegod]]**
+  * **[[:sw:obe:other:baal]]**
+
+
+
 ==== Translation Notes (Maelezo ya Tafsiri) ====
 
   * **until I say so**  - This may be translated as, "until I command the rain and dew to come again."
