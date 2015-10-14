@@ -15,6 +15,16 @@
   * **[[:sw:obs:notes:key-terms:idol|idols (sanamu)]]**
   * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
   * **[[:sw:obs:notes:key-terms:worship|worship (kuabudu)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:kt:promisedland]]**
+  * **[[:sw:obe:other:peace]]**
+  * **[[:sw:obe:other:idol]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:worship]]**
+  * 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **get rid of**  - This could be translated as, "get them out of the land" or, "remove them from the land."
