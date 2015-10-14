@@ -14,6 +14,13 @@ Watu wote wa **ufalme wa Israeli**, pamoja na **manabii ** 450 wa **Baali**, wak
   * **[[:sw:obs:notes:key-terms:elijah|Elijah (Elia)]]**
   * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:kingdomofisrael]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:baal]]**
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:kt:yahweh]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Mount Carmel**  - See how you translated this in **[[:sw:obs:notes:frames:19-05|[19-05]]]**.
