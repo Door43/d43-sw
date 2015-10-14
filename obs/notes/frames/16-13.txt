@@ -9,6 +9,9 @@ Kisha, askari wote **wa Gideoni** wakavunja nyungu zao wakati mmoja, kwa ghafla 
 
   * **[[:sw:obs:notes:key-terms:gideon|Gideon's (ya Gideoni)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:gideon]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **shouted**  - This could be translated as, "yelled loudly" or, "said with a very loud voice."
