@@ -17,7 +17,7 @@
   * **[[:sw:obe:other:midian]]** 
   * **[[:sw:obe:other:israel]]**
   * **[[:sw:obe:kt:save]]**
-  * **[[:sw:obe:other:israel]]**
+ 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God confused the Midianites**  - God caused the Midianites to be confused. They wanted to attack the Israelites, but instead, they attacked each other.
