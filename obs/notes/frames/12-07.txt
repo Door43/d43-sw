@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:moses]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **raise his hand over the sea**  - This could be translated as, "held out his hand over the sea". This was a gesture to show that God was doing this miracle through Moses.
