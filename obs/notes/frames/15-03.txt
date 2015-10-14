@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:jericho|Jericho (Yericho)]]**
   * **[[:sw:obs:notes:key-terms:obey|obeyed (alitii)]]**
   * **[[:sw:obs:notes:key-terms:priest|priests (makuhani)]]**
+
+  * **[[:sw:obe:other:jordanriver]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:joshua]]**
+  * **[[:sw:obe:other:jericho]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:priest]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **After the people crossed the Jordan River**  – In some languages it is better to say, "The people crossed the Jordan River and then…"
