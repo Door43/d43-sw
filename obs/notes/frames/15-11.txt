@@ -10,6 +10,10 @@ Baada ya Mungu kushinda zile majeshi, wengi wa vikundi vya watu kule **Kanani **
   * **[[:sw:obs:notes:key-terms:canaan|Canaanite (Kanani)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
+
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:joshua]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **attacked and destroyed them**  - This could be translated as, "fought against them and defeated them."
