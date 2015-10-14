@@ -14,6 +14,14 @@ Wakati **Daudi** alisikia **maneno haya**, mara tu alimshukuru **Mungu** na **ku
   * **[[:sw:obs:notes:key-terms:bless|blessings (baraka)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:other:praise]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:bless]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:christ]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **these words**  - That is, "the words the prophet had just said." This refers back to the promises in **[[:sw:obs:notes:frames:17-07|[17-07]]]**.
