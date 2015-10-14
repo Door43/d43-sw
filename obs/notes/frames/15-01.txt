@@ -17,6 +17,18 @@
   * **[[:sw:obs:notes:key-terms:believe|believed (aliamini)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:kt:promisedland]]**
+  * **[[:sw:obe:other:joshua]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:other:jericho]]**
+  * **[[:sw:obe:other:rahab]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:promise]]**
+
 ==== Translation Notes (Maelezoa ya Tafsiri): ====
 
   * **At last it was time for**  - "At last" means "finally" or, "after a long wait." To make it clear what "time" refers to, you could say, "after they had wandered in the desert for 40 years, God finally permitted."
