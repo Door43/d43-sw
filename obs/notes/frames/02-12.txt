@@ -15,13 +15,13 @@ Halafu **Mungu** akasema, "Sasa kuona wanadamu wamekuwa **kama sisi wakajua mema
   * **[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]**
   * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
 
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:good|nzuri]]**
-  * **[[:sw:obe:kt:evil|mabaya]]**
-  * **[[:sw:obe:kt:life|uhai]]**
-  * **[[:sw:obe:other:adam|Adamu]]**
-  * **[[:sw:obe:other:eve|Hawa]]**
-  * **[[:sw:obe:kt:angel|malaika]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:good]]**
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:kt:life]]**
+  * **[[:sw:obe:other:adam]]**
+  * **[[:sw:obe:other:eve]]**
+  * **[[:sw:obe:kt:angel]]**
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
