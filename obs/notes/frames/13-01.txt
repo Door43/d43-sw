@@ -12,6 +12,12 @@ Baada ya **Mungu** kuwaongoza **Waisraeli** kupitia **bahari ya shamu**, aliwaon
   * **[[:sw:obs:notes:key-terms:red-sea|Red Sea (Bahari ya Shamu)]]**
   * **[[:sw:obs:notes:key-terms:sinai|Sinai (Sinai)]]**
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:redsea]]**
+  * **[[:sw:obe:other:sinai]]**
+  * **[[:sw:obe:other:moses]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **burning bush**  - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:sw:obs:notes:frames:09-12|[09-12]]]**.
