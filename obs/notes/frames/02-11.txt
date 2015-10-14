@@ -14,12 +14,12 @@
   * **[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]**
   * **[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]**
 
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:other:disobey|alikosa kutii]]**
-  * **[[:sw:obe:kt:curse|akalaani]]**
-  * **[[:sw:obe:kt:death|kufa]]**
-  * **[[:sw:obe:other:eve|Hawa]]**
-  * **[[:sw:obe:other:adam|Adamu]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:disobey]]**
+  * **[[:sw:obe:kt:curse]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:other:eve]]**
+  * **[[:sw:obe:other:adam]]**
 
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
