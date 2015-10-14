@@ -11,6 +11,11 @@ Kwa hivyo **Mungu aliadhibu falme zote mbili** kwa kuruhusu maadui wao kuwaangam
   * **[[:sw:obs:notes:key-terms:punish|punished (aliadhibu)]]**
   * **[[:sw:obs:notes:key-terms:assyria|Assyrian Empire (ufalme wa Ashuru)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (ufalme wa Israeli)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:other:assyria]]**
+  * **[[:sw:obe:other:kingdomofisrael]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **both kingdoms**  - This refers to both the kingdoms of Israel and Judah.
