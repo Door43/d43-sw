@@ -18,6 +18,18 @@ Baada ya **Uria** kuuawa, **Daudi** alimuoa **Bathseba**. Baadaye, alizaa mtoto 
   * **[[:sw:obs:notes:key-terms:repent|repented (alitubu)]]**
   * **[[:sw:obs:notes:key-terms:forgive|forgave (alisamehe)]]**
   * **[[:sw:obs:notes:key-terms:obey|obeyed (alitii)]]**
+
+  * **[[:sw:obe:other:uriah]]**
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:other:bathsheba]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:nathan]]**
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:repent]]**
+  * **[[:sw:obe:kt:forgive]]**
+  * **[[:sw:obe:other:obey]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **what David had done**  - This refers to David's adultery with Bathsheba and his murder of her husband, Uriah.
