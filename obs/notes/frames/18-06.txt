@@ -10,6 +10,11 @@
   * **[[:sw:obs:notes:key-terms:rehoboam|Rehoboam (Rehoboamu)]]**
   * **[[:sw:obs:notes:key-terms:solomon|Solomon (Suleimani)]]**
   * **[[:sw:obs:notes:key-terms:punish|punish (adhibu)]]**
+
+  * **[[:sw:obe:other:rehoboam]]**
+  * **[[:sw:obe:other:solomon]]**
+  * **[[:sw:obe:other:punish]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **foolishly answered**  - Rehoboam's answer was harsh, and caused the people to turn against him.
