@@ -9,6 +9,9 @@ Na katika siku ya saba, **Waisraeli** wakaandamana kuzunguka mji wa Yericho mara
 
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
   * **[[:sw:obs:notes:key-terms:priest|priests (makuhani)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:priest]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **While they marched around the city for the last time**  - This can be translated as, "During their final circuit around the city."
