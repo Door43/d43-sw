@@ -12,6 +12,10 @@ Katika **ufalme** mpya wa **Israeli**, **wafalme** wote walikuwa **wabaya**. Wen
   * **[[:sw:obs:notes:key-terms:king|kings (wafalme)]]**
   * **[[:sw:obs:notes:key-terms:evil|evil (wabaya)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+
+  * **[[:sw:obe:other:kingdom]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:king]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Israelites**  - Here, "Israelites" refers only to the people living in the northern kingdom of Israel, not to the people living in the southern kingdom of Judah.
