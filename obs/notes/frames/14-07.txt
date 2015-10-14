@@ -13,6 +13,13 @@ Lakini watu hawakusikiliza **Kalebu** na **Yoshua**. Walikasirikia **Musa** na *
   * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
   * **[[:sw:obs:notes:key-terms:servant|slaves (watumwa)]]**
+
+  * **[[:sw:obe:other:caleb]]**
+  * **[[:sw:obe:other:joshua]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:aaron]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:servant]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Why did you bring us**  – This is not a real question. It is a way that some languages use to say, "You should not have brought us."
