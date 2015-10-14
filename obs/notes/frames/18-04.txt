@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:promise|promised (Aliahidi)]]** 
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:kingdom|kingdoms (Falme)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:solomon]]**
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:kingdom]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **as a punishment for Solomon's unfaithfulness, he promised to divide**  – This could be translated as, "to punish Solomon for being unfaithful to him, God solemnly said that he would divide."
