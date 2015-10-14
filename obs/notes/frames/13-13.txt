@@ -11,6 +11,11 @@ Wakati **Musa** aliteremka mlima na akaona ile **sanamu**, alikasirika sana kias
   * **[[:sw:obs:notes:key-terms:idol|idol (sanamu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:ten-commandments|Ten Commandments (Amri Kumi)]]**
+
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:idol]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:tencommandments]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **smashed the stones**  - He threw the stones down on the ground and they broke up into little pieces.
