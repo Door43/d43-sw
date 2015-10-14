@@ -13,6 +13,14 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:bless|blessed (alibariki)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinned (alitenda dhambi)]]**
+
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:kt:justice]]**
+  * **[[:sw:obe:kt:faithful]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:bless]]**
+  * **[[:sw:obe:kt:sin]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **David ruled with justice and faithfulness for many years**  - This could be translated as, "When David ruled the people, for many years he did what was right and fair, and he was faithful to God."
