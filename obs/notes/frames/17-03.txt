@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:praise|praised (alisifu)]]**
+
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:praise]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **a giant named Goliath**  - The word "giant" here describes a person who is unusually large and powerful. Goliath was a huge soldier in an army that was fighting against Israel.
