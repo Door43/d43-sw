@@ -11,6 +11,11 @@ Kwa hivyo wakawafuata **Waisraeli ** katika **njia ya katikati ya bahari**, laki
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
   * **[[:sw:obs:notes:key-terms:chariot|chariots (magari)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:chariot]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **path through the sea**  - This was the dry strip of land across the bottom of the sea, with a wall of water on each side.
