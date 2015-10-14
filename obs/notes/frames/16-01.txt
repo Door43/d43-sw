@@ -19,6 +19,19 @@ Baada ya **Yoshua** kufa, **Waisraeli walikataa kutii Mungu** na **hawakuwafukuz
   * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
   * **[[:sw:obs:notes:key-terms:true|true (kweli)]]**
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+
+  * **[[:sw:obe:other:joshua]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:disobey]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:lawofmoses]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:falsegod]]**
+  * **[[:sw:obe:kt:yahweh]]**
+  * **[[:sw:obe:kt:true]]**
+  * **[[:sw:obe:other:king]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **and did not drive out**  – This tells how they disobeyed God, so in some languages it may be better to start this as a new sentence, "They did not."
