@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:lamb|lamb's (ya kondoo)]]**
   * **[[:sw:obs:notes:key-terms:blood|blood (damu)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:lamb]]**
+  * **[[:sw:obe:kt:blood]]**
+  * **[[:sw:obe:other:egypt]]**
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **made without yeast**  – Yeast is something that is mixed into bread dough that makes the dough expand and it also makes the bread rise as it bakes. This could be translated as, "made without something that would make it rise." Making the bread with yeast would have taken much longer, so cooking the bread without yeast was a way to be prepared to leave Egypt quickly.
