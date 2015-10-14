@@ -18,6 +18,18 @@ Watu katika **ufalme wa Yuda** waliona vile **Mungu** **alivyowaadhibu** watu wa
   * **[[:sw:obs:notes:key-terms:god-false|gods (miungu)]]**
   * **[[:sw:obs:notes:key-terms:canaan|Canaanites (Wakanani)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+
+  * **[[:sw:obe:other:kingdomofjudah]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:other:kingdomofisrael]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:other:idol]]**
+  * **[[:sw:obe:kt:falsegod]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:kt:prophet]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **for not believing and obeying him**  – Another way to translate this would be, "because they did not believe or obey him."
