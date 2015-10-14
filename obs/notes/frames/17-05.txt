@@ -15,6 +15,15 @@ Hatimaye, **Sauli** alikufa katika vita, na **Daudi** akafanyika **mfalme** wa *
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:bless|blessed (alibariki)]]**
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+
+  * **[[:sw:obe:other:saul]]**
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:love]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:bless]]**
+  * **[[:sw:obe:other:jerusalem]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **made him successful**  - That is, "helped him accomplish the good things he wanted to do."
