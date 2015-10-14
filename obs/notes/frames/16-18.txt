@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:king]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Finally**  - This could be translated as, "After their enemies attacked them many times" or, "After many years of being attacked by many different nations."
