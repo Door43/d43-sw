@@ -12,6 +12,10 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
 
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:prophet]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Throughout the history of**  - This expression means that God sent many prophets at many different times during all of the years that Israel and Judah existed.
