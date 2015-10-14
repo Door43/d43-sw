@@ -10,6 +10,10 @@ The **kingdoms** of **Judah** and **Israel** became enemies and often fought aga
   * **[[:sw:obs:notes:key-terms:kingdom|kingdoms (falme)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-judah|Judah (Yuda)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-israel|Israel (Israeli)]]**
+
+  * **[[:sw:obe:other:kingdom]]**
+  * **[[:sw:obe:other:kingdomofjudah]]**
+  * **[[:sw:obe:other:kingdomofisrael]]**
 ==== Translation Notes: (Maelezo ya Tafsiri): ====
 
   * **Judah and Israel**  - The people of Judah and Israel were all descendants of Jacob and part of God's people. Even so, they disobeyed God and fought and killed each other.
