@@ -14,6 +14,15 @@ The **Israelites** were very happy to leave **Egypt**. **They were no longer sla
   * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
   * **[[:sw:obs:notes:key-terms:believe|believed (waliamini)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:promisedland]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:god]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **They were no longer slaves**  - This could be translated as, "They were not slaves anymore."
