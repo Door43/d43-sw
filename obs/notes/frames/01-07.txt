@@ -11,9 +11,9 @@ Katika **siku ya tano**, **Mungu akanena ** na **akaumba vyote vya kuogelea maji
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
   * **[[:sw:obs:notes:key-terms:bless|blessed (akabariki)]]**
 
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:good|nzuri]]**
-  * **[[:sw:obe:kt:bless|akabariki]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:good]]**
+  * **[[:sw:obe:kt:bless]]**
 
 ==== Translation Notes (Maelezo ya Tafsiri) ====
 
