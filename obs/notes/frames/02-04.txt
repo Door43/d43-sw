@@ -14,11 +14,11 @@ Nyoka akamjibu mwanamke, "Hiyo si **kweli**! **Hautakufa**. Mungu anajua ukiliku
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
   * **[[:sw:obs:notes:key-terms:evil|evil (maovu)]]**
 
-  * **[[:sw:obe:kt:true|kweli]]**
-  * **[[:sw:obe:kt:death|kufa]]**
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:good|nzuri]]**
-  * **[[:sw:obe:kt:evil|maovu]]**
+  * **[[:sw:obe:kt:true]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:good]]**
+  * **[[:sw:obe:kt:evil]]**
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
