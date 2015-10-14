@@ -13,6 +13,13 @@ Kwa hivyo **Farao** na jeshi lake wakafuata **Waisraeli** ili **wawafanye watumw
   * **[[:sw:obs:notes:key-terms:egypt|Egyptian (la Misri)]]**
   * **[[:sw:obs:notes:key-terms:red-sea|Red Sea (Bahari ya Shamu)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:redsea]]**
+  * **[[:sw:obe:other:egypt]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **they were trapped between…Red Sea**  - Another way to say this would be, "there was nowhere they could go to escape since the Egyptians were behind them and the Red Sea was in front of them."
