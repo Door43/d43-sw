@@ -10,6 +10,10 @@ Kila **Mumisri** ambaye mwanaume mzaliwa wa kwanza alikufa, **kutoka kwa muzaliw
   * **[[:sw:obs:notes:key-terms:egypt|Egyptian (Mumisri)]]**
   * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:egypt]]**
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **from the firstborn of the prisoner in jail, to the firstborn of Pharaoh**  - This is a way of saying that everyone's firstborn son died–from the son of the least important person to the son of the most important person, and everyone in between.
