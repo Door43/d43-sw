@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:save|save (kuokoa)]]**
   * **[[:sw:obs:notes:key-terms:red-sea|Red Sea (bahari ya shamu)]]**
+
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:other:redsea]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God will fight for you today and save you**  - Another way to say this would be, "Today God will defeat the Egyptians for you and keep them from harming you."
