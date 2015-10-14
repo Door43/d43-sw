@@ -15,6 +15,14 @@ Baada ya wakati wa **Elia**, **Mungu** alichagua mtu aliyeitwa Elisha awe **nabi
   * **[[:sw:obs:notes:key-terms:naaman|Naaman (Namani)]]**
   * **[[:sw:obs:notes:key-terms:heal|heal (ponya)]]**
   * **[[:sw:obs:notes:key-terms:jordan-river|Jordan River (Mto wa Yordani)]]**
+
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:miracle]]**
+  * **[[:sw:obe:other:naaman]]**
+  * **[[:sw:obe:other:heal]]**
+  * **[[:sw:obe:other:jordanriver]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **an enemy commander**  - Naaman was a commander in the army of one of the countries that was Israel's enemy.
