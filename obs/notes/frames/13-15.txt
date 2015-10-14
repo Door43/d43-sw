@@ -16,7 +16,7 @@
   * **[[:sw:obs:notes:key-terms:sinai|Mount Sinai (Mlima wa Sinai)]]**
   * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
 
-  * **[[:sw:obe:kt:lawofmoses]]**
+  * **[[:sw:obe:other:moses]]**
   * **[[:sw:obe:other:pray]]**
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:kt:forgive]]**
