@@ -10,6 +10,11 @@ Mume wake **Bathseba**, mwanamme aliyeitwa **Uria**, alikuwa mmoja wa askari bor
   * **[[:sw:obs:notes:key-terms:bathsheba|Bathsheba's (wa Bathseba)]]**
   * **[[:sw:obs:notes:key-terms:uriah|Uriah (Uria)]]**
   * **[[:sw:obs:notes:key-terms:david|David's (wa Daudi)]]**
+
+  * **[[:sw:obe:other:bathsheba]]**
+  * **[[:sw:obe:other:uriah]]**
+  * **[[:sw:obe:other:david]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **go be with his wife**  - That is, "go home to be intimate with his wife." David wanted people, especially Uriah, to believe that Bathsheba was pregnant with Uriah's child.
