@@ -15,6 +15,16 @@
   * **[[:sw:obs:notes:key-terms:worship|worship (kuabudu)]]**
   * **[[:sw:obs:notes:key-terms:temple|Temple (hekalu)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah (ufalme wa Yuda)]]**
+
+  * **[[:sw:obe:other:jeroboam]]**
+  * **[[:sw:obe:other:rebel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:idol]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:temple]]**
+  * **[[:sw:obe:other:kingdomofjudah]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **caused the people to sin**  - This could be translated as, "led the people to sin" or, "motivated the people to sin." Rehoboam led the people into sin by making idols for them to worship.
