@@ -16,6 +16,16 @@ Kama miaka 100 baada ya **Ashuru** kuangamiza **ufalme wa Israeli**, Mungu alitu
   * **[[:sw:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah (ufalme wa Yuda)]]**
   * **[[:sw:obs:notes:key-terms:babylon|Babylon (Babeli)]]**
   * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
+
+  * **[[:sw:obe:other:assyria]]**
+  * **[[:sw:obe:other:kingdomofisrael]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:nebuchadnezzar]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:babylon]]**
+  * **[[:sw:obe:other:kingdomofjudah]]**
+  * **[[:sw:obe:other:servant]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **empire**  - See how you translated this in **[[:sw:obs:notes:frames:20-02|[20-02]]]**.
