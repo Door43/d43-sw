@@ -11,6 +11,11 @@ Wakati watu walisikia hiyo, walihuzunika kuwa **walitenda dhambi**. Wakachukua s
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **they had sinned**  - It may be necessary to add, "they had sinned by disobeying God's command to conquer the peoples of Canaan."
