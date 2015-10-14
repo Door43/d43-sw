@@ -17,6 +17,18 @@ Kisha **Elia akaomba**, "**Yehova, Mungu wa Ibrahimu, Isaka**, **na Yakobo, tuon
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
   * **[[:sw:obs:notes:key-terms:true|true (kweli)]]**
+
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:other:pray]]**
+  * **[[:sw:obe:kt:yahweh]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:jacob]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:true]]** 
+
 ==== Translation Notes (Maelezoa ya Tafsiri): ====
 
   * **show us**  - That is, "prove to us" or, "demonstrate to us."
