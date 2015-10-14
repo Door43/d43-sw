@@ -10,6 +10,10 @@ Mara moja, moto **ikaanguka kutoka angani** na kuteketeza ile nyama, kuni, mawe,
   * **[[:sw:obs:notes:key-terms:altar|altar (madhabahu)]]**
   * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:altar]]**
+  * **[[:sw:obe:kt:yahweh]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **fell from the sky**  - This may be translated as, "suddenly came down from the sky."
