@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:amorite|Amorites (Waamori)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:amorite]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
 * //(There are no notes for this frame.)//
