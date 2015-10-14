@@ -15,6 +15,15 @@
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifices (dhabihu)]]**
   * **[[:sw:obs:notes:key-terms:tent-of-meeting|Tent of Meeting (Hema ya Mkutano)]]**
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:kt:temple]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:other:tentofmeeting]]**
+  * **[[:sw:obe:other:moses]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **build a temple**  - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
