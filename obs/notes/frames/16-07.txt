@@ -11,6 +11,10 @@ Asubuhi iliyofuata watu waliona kuwa mtu fulani amebomoa na kuharibu **madhabahu
   * **[[:sw:obs:notes:key-terms:altar|altar (madhabahu)]]**
   * **[[:sw:obs:notes:key-terms:gideon|Gideon's (ya Gideoni)]]**
   * **[[:sw:obs:notes:key-terms:god-false|god (mungu)]]**
+
+  * **[[:sw:obe:other:altar]]**
+  * **[[:sw:obe:other:gideon]]**
+  * **[[:sw:obe:kt:falsegod]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Why are you trying to help your god?**  - This is not a real question that asks for information. Another way of saying this would be, "You should not be trying to help your god" or, "You should not need to help your god."
