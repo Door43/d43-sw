@@ -15,6 +15,15 @@
   * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
   * **[[:sw:obs:notes:key-terms:pray|prayed (aliomba)]]**
+
+  * **[[:sw:obe:other:aaron]]**
+  * **[[:sw:obe:other:idol]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:pray]]**
 ==== Translation Notes: Maelezo ya Tafsiri ====
 
   * **made a golden idol**  - Aaron took the things made of gold that the people had brought to him, melted them, combined them, and formed them into the shape of a calf.
