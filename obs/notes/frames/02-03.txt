@@ -12,10 +12,10 @@ Mwanamke akajibu, "**M**u**ngu** alituambia tunaweza kula **tunda** la mti wowot
   * **[[:sw:obs:notes:key-terms:evil|evil (mabaya)]]**
   * **[[:sw:obs:notes:key-terms:death|die (kufa)]]**
 
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:good|nzuri]]**
-  * **[[:sw:obe:kt:evil|mabaya]]**
-  * **[[:sw:obe:kt:death|kufa]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:good]]**
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:kt:death]]**
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
