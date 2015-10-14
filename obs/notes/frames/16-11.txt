@@ -12,6 +12,12 @@ Usiku huo **Mungu** akamwambia **Gideoni**, "**Enda chini ** kwa kambi ya **Wami
   * **[[:sw:obs:notes:key-terms:midian|Midianite (Mumidiani)]]**
   * **[[:sw:obs:notes:key-terms:dream|dreamed (aliota)]]**
   * **[[:sw:obs:notes:key-terms:worship|worshiped (aliabudu)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:gideon]]**
+  * **[[:sw:obe:other:midian]]**
+  * **[[:sw:obe:other:dream]]**
+  * **[[:sw:obe:kt:worship]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Go down**  - The Midianite soldiers were camping out in a valley and were at a lower elevation than the Israelite soldiers.
