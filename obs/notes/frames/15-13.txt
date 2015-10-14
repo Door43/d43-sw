@@ -18,6 +18,17 @@
   * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
   * **[[:sw:obs:notes:key-terms:faithful|faithful (waaminifu)]]**
   * **[[:sw:obs:notes:key-terms:gods-law|his laws (sheria zake)]]**
+
+  * **[[:sw:obe:other:joshua]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:sinai]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:faithful]]**
+  * **[[:sw:obe:kt:lawofmoses]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **When Joshua was an old man**  – It may be clearer to say, "Many years later, when Joshua was an old man." Joshua was over 100 years old at this time.
