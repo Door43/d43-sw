@@ -11,6 +11,11 @@ Kwa hivyo **Yoshua** akakusanya jeshi la **Israeli** na wakaandamana usiku wote 
   * **[[:sw:obs:notes:key-terms:israel|Israelite (ya Israeli)]]**
   * **[[:sw:obs:notes:key-terms:gibeon|Gibeonites (Wagibeoni)]]**
   * **[[:sw:obs:notes:key-terms:amorite|Amorite (Waamori)]]**
+
+  * **[[:sw:obe:other:joshua]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:gibeon]]**
+  * **[[:sw:obe:other:amorite]]**
 ==== Translation Notes: ====
 
   * **to reach the Gibeonites**  - That is, "to get to the Gibeonites" or, "to arrive at where the Gibeonites lived." The Gibeonites lived in Canaan, but Canaan is big enough that it took all night for the Israelite army to travel from their camp to where the Gibeonites were.
