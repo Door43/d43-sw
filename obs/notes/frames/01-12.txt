@@ -11,9 +11,9 @@ Then **God** said, “It is **not good** for man to be **alone**.” But none of
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
   * **[[:sw:obs:notes:key-terms:adam| (la Adamu)]]**
 
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:good|nzuri]]**
-  * **[[:sw:obe:other:adam|la Adamu]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:good]]**
+  * **[[:sw:obe:other:adam]]**
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
