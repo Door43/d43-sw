@@ -11,9 +11,9 @@ So **God took some dirt**, **formed it** into **a man**, and **breathed life** i
   * ******[[:sw:obs:notes:key-terms:life|life (uhai)]]******
   * **[[:sw:obs:notes:key-terms:adam|Adam (Adamu)]]**
 
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:life|uhai]]**
-  * **[[:sw:obe:other:adam|Adamu]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:life]]**
+  * **[[:sw:obe:other:adam]]**
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
