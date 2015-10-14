@@ -10,6 +10,10 @@ Lakini **Wamisri hawakuamini Mungu au kutii amri zake**. Kwa hivyo Mungu **hakup
   * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
   * **[[:sw:obs:notes:key-terms:believe|believe (kuamini)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **did not believe God or obey his commands**  – In some languages it may be more natural or clear to say, "did not believe God and so they did not obey his commands."
