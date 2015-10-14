@@ -12,6 +12,12 @@ Wote wa **wafalme** na wengi wa watu wa **ufalme wa Israeli waliabudu sanamu**. 
   * **[[:sw:obs:notes:key-terms:worship|worshiped (waliabudu)]]**
   * **[[:sw:obs:notes:key-terms:idol|idols (sanamu)]]**
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice (dhabihu)]]**
+
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:kingdomofisrael]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:other:idol]]**
+  * **[[:sw:obe:other:sacrifice]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **child sacrifice**  - They killed children as offerings to some of their idols.
