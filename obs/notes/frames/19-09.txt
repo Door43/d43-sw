@@ -11,6 +11,11 @@ Njioni ilipofika,** Elia** aliandaa **dhabihu** kwa **Mungu**. Kisha akaambia wa
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice (dhabihu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:altar|altar (madhabahu)]]**
+
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:altar]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
 * //(There are no notes for this frame.)//
