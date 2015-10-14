@@ -15,6 +15,15 @@ Lakini kama **adhabu ** kwa **dhambi ya Daudi**, mtoto wake wakiume alikufa. Pia
   * **[[:sw:obs:notes:key-terms:promise|promises (ahadi)]]**
   * **[[:sw:obs:notes:key-terms:bathsheba|Bathsheba (Bathseba)]]**
   * **[[:sw:obs:notes:key-terms:solomon|Solomon (Suleimani)]]**
+
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:faithful]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:other:bathsheba]]**
+  * **[[:sw:obe:other:solomon]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **fighting in David's family**  - This "fighting" was very serious. Among other things, one of his sons murdered another son and tried to take David's place as king while David was still reigning. If possible, use a word that conveys the intensity of this conflict within the family.
