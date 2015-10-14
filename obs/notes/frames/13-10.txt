@@ -12,6 +12,12 @@ Watu kwa pamoja wakakubaliana **kutii ** sheria ambazo **Mungu** **aliwapa**, **
   * **[[:sw:obs:notes:key-terms:worship|worship (abudu)]]**
   * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinned (walitenda dhambi)]]**
+
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:sin]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **given them**  - This could be translated as, "told them to obey."
