@@ -14,6 +14,13 @@ Zile makabila zingine kumi za **taifa la Israeli ** ambazo zilimuasi **Rehoboamu
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
   * **[[:sw:obs:notes:key-terms:kingdom|kingdom (ufalme)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (ufalme wa Israeli)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:rehoboam]]**
+  * **[[:sw:obe:other:jeroboam]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:kingdom]]**
+  * **[[:sw:obe:other:kingdomofisrael]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **set up their kingdom**  - This may be translated as, they "established" or, "built" their kingdom. This sentence may also be translated as, "They separated themselves from the other two tribes and lived in the northern part of the land, and they called their country 'Israel.'"
