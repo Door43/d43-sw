@@ -12,6 +12,10 @@
   * **[[:sw:obs:notes:key-terms:elijah|Elijah (Elia)]]**
   * **[[:sw:obs:notes:key-terms:ahab|Ahab (Ahabu)]]**
 
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:other:ahab]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the wilderness**  - This was a remote location with very few people. This may also be translated as, "desert" or, "the bush."
