@@ -13,6 +13,13 @@ Baada ya **Mungu** kuwaambia **Waisraeli** zile sheria ambazo angetaka wafuate k
   * **[[:sw:obs:notes:key-terms:sinai|Mount Sinai (Mlima wa Sinai)]]**
   * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:other:sinai]]**
+  * **[[:sw:obe:kt:promisedland]]**
+  * **[[:sw:obe:other:canaan]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **pillar of cloud**  - See how you translated this phrase in **[[:sw:obs:notes:frames:12-02|[12-02]]]**.
