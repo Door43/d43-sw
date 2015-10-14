@@ -10,6 +10,10 @@ The **Israelites** did everything just as **God** had commanded them to do. In t
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:egypt]]**
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **every firstborn son**  - This means every firstborn son of families who had not made the blood sacrifice, that is, the Egyptians. To make this clear you may want to add, "Every Egyptian firstborn son" (since all the Israelite families had put the blood on their doorposts).
