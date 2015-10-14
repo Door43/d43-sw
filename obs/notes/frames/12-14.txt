@@ -13,6 +13,14 @@
   * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisiri)]]**
   * **[[:sw:obs:notes:key-terms:servant|slaves (watumwa)]]**
   * **[[:sw:obs:notes:key-terms:lamb|lamb (kondoo)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:passover]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:lamb]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the Passover**  - This could be translated as, "the Passover activities" or, "the Passover celebration" or, "the Passover meal."
