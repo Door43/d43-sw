@@ -12,6 +12,12 @@ Nyumba zote za **Waisraeli ** zilikuwa na **damu** inayozunguka milango, kwa hiv
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:save|saved (aliokoa)]]**
   * **[[:sw:obs:notes:key-terms:lamb|lamb's (ya kondoo)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:blood]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:lamb]]**
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **passed over**  - This means that God passed by those houses and did not stop to kill anyone there. This phrase became the name of the Jewish festival, "Passover."
