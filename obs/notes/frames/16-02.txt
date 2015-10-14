@@ -12,6 +12,12 @@ Kwa sababu **Waisraeli ** waliendelea **kutotii Mungu**, **aliwaadhibu** kwa kur
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:punish|punished (kuadhibu)]]**
   * **[[:sw:obs:notes:key-terms:repent|repented (walitubu)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:disobey]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:kt:repent]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **asked God to rescue them**  - That is, they asked God to help them and to set them free from their enemies.
