@@ -15,6 +15,15 @@ Baada wa **Waisraeli** kuzungazunguka katika jangwa kwa miaka arobanne, wao wote
   * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
   * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:rebel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:promisedland]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:joshua]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:prophet]]**
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **who had rebelled against God**  - This could be translated, "who had refused to obey God when he told them to go into the Promised Land."
