@@ -10,6 +10,10 @@ Watu walitaka kumfanya **Gideoni ** kuwa **mfalme** wao. Gideoni **hakuwaruhusu 
   * **[[:sw:obs:notes:key-terms:gideon|Gideon (Gideoni)]]**
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
   * **[[:sw:obs:notes:key-terms:midian|Midianites (Wamidiani)]]**
+
+  * **[[:sw:obe:other:gideon]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:midian]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **did not allow them to do this**  - Gideon knew that it was better for the Israelites to have God as their king.
