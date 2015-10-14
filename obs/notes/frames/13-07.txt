@@ -16,6 +16,16 @@ Na **Mungu ** akaandika **amri hizi kumi** kwa **vibao viwili vya mawe** na akaz
   * **[[:sw:obs:notes:key-terms:bless|bless (bariki)]]**
   * **[[:sw:obs:notes:key-terms:disobey|disobeyed (kukosa kutii)]]**
   * **[[:sw:obs:notes:key-terms:punish|punish (adhibu)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:tencommandments]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:kt:lawofmoses]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:bless]]**
+  * **[[:sw:obe:other:disobey]]**
+  * **[[:sw:obe:other:punish]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **these Ten Commandments**  - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:sw:obs:notes:frames:13-05|[13-05]]]** and **[[:sw:obs:notes:frames:13-06|[13-06]]]**.
