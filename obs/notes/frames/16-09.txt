@@ -13,6 +13,13 @@ Kwa ajiri ya **ishara** ya kwanza, **Gideoni** akaweka **ngozi ya kondoo** kwa a
   * **[[:sw:obs:notes:key-terms:save|save (okoa)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:midian|Midianites (Wamidiani)]]**
+
+  * **[[:sw:obe:other:gideon]]**
+  * **[[:sw:obe:other:sheep]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:midian]]**
 ==== Translation Notes (Maelezo ta Tafsiri): ====
 
   * **sign**  - This could be translated as, "miracle" or, "impossible thing."
