@@ -20,6 +20,21 @@ The **kings** of **Judah** were **descendants** of **David**. Some of these king
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrificed (kutoa dhabihu)]]**
   * **[[:sw:obs:notes:key-terms:god-false|gods (miungu)]]**
   * **[[:sw:obs:notes:key-terms:rebel|rebelled (waliasi)]]**
+
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:kingdomofjudah]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:kt:good]]**
+  * **[[:sw:obe:kt:justice]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:other:idol]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:kt:falsegod]]**
+  * **[[:sw:obe:other:rebel]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **ruled justly**  - This means they ruled according to God's laws. This can be translated as, "when they ruled, they did what was right."
