@@ -11,9 +11,9 @@ When **the seventh day** came, **God** had **finished his work**. So **God reste
   * **[[:sw:obs:notes:key-terms:bless|blessed (alibariki)]]**
   * **[[:sw:obs:notes:key-terms:holy|holy (takatifu)]]**
 
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:bless|alibariki]]**
-  * **[[:sw:obe:kt:holy|takatifu]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:bless]]**
+  * **[[:sw:obe:kt:holy]]**
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
