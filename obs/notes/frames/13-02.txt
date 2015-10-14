@@ -15,6 +15,17 @@
   * **[[:sw:obs:notes:key-terms:kingdom|kingdom (ufalme)]]**
   * **[[:sw:obs:notes:key-terms:priest|priests (makuhani]]**)
   * **[[:sw:obs:notes:key-terms:holy|holy (watakatifu)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:other:kingdom]]**
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:kt:priest]]**
+
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **keep my covenant**  - This could be translated as, "do what my covenant requires you to do." Obeying and keeping the covenant are not two different things. One way to make this clear would be to say, "obey me by keeping my covenant." God will soon tell them what his covenant requires.
