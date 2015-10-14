@@ -13,6 +13,14 @@ Ilibidi **Waisraeli** wavuke **Mto wa Yordani** diposa waingie **Nchi ya Ahadi**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
   * **[[:sw:obs:notes:key-terms:priest|priests (kuhani)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:jordanriver]]**
+  * **[[:sw:obe:kt:promisedland]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:joshua]]**
+  * **[[:sw:obe:kt:priest]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Have the priests go first**  – For some languages it may be helpful to add, "Have the priests go before the rest of the people to cross the river."
