@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
   * **[[:sw:obs:notes:key-terms:gibeon|Gibeonites (Wagibeoni)]]**
   * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:peace]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:other:gibeon]]**
+  * **[[:sw:obe:other:joshua]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **peace treaty**  – This is an agreement between two groups of people that they will not harm each other but will live in peace and help each other. This could be translated as, "peace agreement."
