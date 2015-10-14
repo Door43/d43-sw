@@ -12,6 +12,12 @@ Kisha zile kuta za **Yericho** zikaporomoka! **Waisraeli** waliharibu kila kitu 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:rahab|Rahab (Rahabu)]]**
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+
+  * **[[:sw:obe:other:jericho]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:rahab]]**
+  * **[[:sw:obe:other:canaan]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **became part of**  - This can be translated as, "who then joined the Israelite community" or, "who then became members of the nation of Israel."
