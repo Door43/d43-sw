@@ -19,6 +19,20 @@
   * **[[:sw:obs:notes:key-terms:righteous|righteous (mwenye haki)]]**
   * **[[:sw:obs:notes:key-terms:trust|trusted (alitumaini)]]**
   * **[[:sw:obs:notes:key-terms:obey|obeyed (alitii)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:saul]]**
+  * **[[:sw:obe:other:shepherd]]**
+  * **[[:sw:obe:other:bethlehem]]**
+  * **[[:sw:obe:other:sheep]]**
+  * **[[:sw:obe:other:humble]]**
+  * **[[:sw:obe:kt:righteous]]**
+  * **[[:sw:obe:kt:trust]]**
+  * **[[:sw:obe:other:obey]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **watching**  - That is, "caring for" or, "protecting" or, "taking care of."
