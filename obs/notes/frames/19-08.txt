@@ -10,6 +10,10 @@ Kisha **manabii ** wa **Baali wakaomba Baali**, "Tusikie, Baali!" Kwa siku yote 
   * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
   * **[[:sw:obs:notes:key-terms:baal|Baal (Baali)]]**
   * **[[:sw:obs:notes:key-terms:pray|prayed (waliomba)]]**
+
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:baal]]**
+  * **[[:sw:obe:other:pray]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **prayed to Baal**  - the prophets of Baal asked Baal to send fire onto the bull they prepared as a sacrifice.
