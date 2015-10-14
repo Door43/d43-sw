@@ -15,6 +15,16 @@
   * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
   * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
   * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:kt:faithful]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:jacob]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **miraculously gave them water from a rock**  - This could be translated, "by doing something that only God can do, he made water pour out of a rock so the people and animals could drink."
