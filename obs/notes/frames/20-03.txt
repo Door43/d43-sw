@@ -10,6 +10,10 @@ The **Assyrians** gathered all the leaders, the rich people, and the people with
   * **[[:sw:obs:notes:key-terms:assyria|Assyrians (Ashuru)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (ufalme wa Israeli)]]**
+
+  * **[[:sw:obe:other:assyria]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:kingdomofisrael]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **skills**  – This refers to practical skills such as woodworking, metalworking, and building.
