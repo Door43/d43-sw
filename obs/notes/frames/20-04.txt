@@ -12,6 +12,13 @@ Kisha **Waashuru** wakaleta **wageni** kuishi katika ile nchi mahali **ufalme wa
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
   * **[[:sw:obs:notes:key-terms:samaria|Samaritans (Wasamaria)]]**
+
+  * **[[:sw:obe:other:assyria]]**
+  * **[[:sw:obe:other:kingdomofisrael]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:other:samaria]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **foreigners**  - This refers to people who were not Israelites.
