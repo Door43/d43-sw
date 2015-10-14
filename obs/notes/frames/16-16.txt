@@ -17,7 +17,7 @@ Kisha **Gideoni akatumia ile dhahabu kutengeneza vazi spesheli** kama lile **kuh
   * **[[:sw:obs:notes:key-terms:deliverer|deliverer (mkombozi)]]**
 
   * **[[:sw:obe:other:gideon]]**
-  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:kt:highpriest]]**
   * **[[:sw:obe:kt:worship]]**
   * **[[:sw:obe:other:idol]]**
   * **[[:sw:obe:kt:god]]**
