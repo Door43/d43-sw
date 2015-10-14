@@ -19,6 +19,17 @@ Lakini **Mungu** alimtuma **nabii Nathani ** kwa **Daudi** na ujumbe, "Kwa sabab
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
   * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:nathan]]**
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:kt:temple]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:kt:bless]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:israel]]**
+  *  
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the prophet Nathan**  – It may be more natural in some languages to say, "a prophet named Nathan."
