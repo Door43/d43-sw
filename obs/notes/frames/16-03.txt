@@ -13,6 +13,13 @@ Kisha **Mungu aliwapa mkombozi** aliyewaokoa kutoka kwa adui zao na **akaleta am
   * **[[:sw:obs:notes:key-terms:worship|worshiping (Kuabudu)]]**
   * **[[:sw:obs:notes:key-terms:idol|idols (sanamu)]]**
   * **[[:sw:obs:notes:key-terms:midian|Midianites (Wamidiani)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:deliverer]]**
+  * **[[:sw:obe:other:peace]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:other:idol]]**
+  * **[[:sw:obe:other:midian]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God provided**  - This could be translated as, "God chose" or, "God appointed" or, "God raised up."
