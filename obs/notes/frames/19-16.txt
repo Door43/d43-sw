@@ -19,6 +19,19 @@
   * **[[:sw:obs:notes:key-terms:guilt|guilty (kuwa na hatia)]]**
   * **[[:sw:obs:notes:key-terms:punish|punish (adhibu)]]**
 
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:other:idol]]**
+  * **[[:sw:obe:kt:justice]]**
+  * **[[:sw:obe:kt:mercy]]**
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:judge]]**
+  * **[[:sw:obe:kt:guilt]]**
+  * **[[:sw:obe:other:punish]]**
+
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **start showing justice and mercy**  - This can be translated as, "start being just and merciful" or, "begin to demonstrate justice and mercy."
