@@ -17,6 +17,19 @@ The **kingdom of Israel** and the **kingdom of Judah** both **sinned** against *
   * **[[:sw:obs:notes:key-terms:repent|repent (kutubu)]]**
   * **[[:sw:obs:notes:key-terms:worship|worship (kuabudu)]]**
   * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
+
+  * **[[:sw:obe:other:kingdomofisrael]]**
+  * **[[:sw:obe:other:kingdomofjudah]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:other:sinai]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:repent]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:other:obey]]**
+
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **broke the covenant**  - That is, "disobeyed the commands God had given them in his covenant with them at Mount Sinai."
