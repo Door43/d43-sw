@@ -10,6 +10,10 @@ Kisha **Elia** akasema, "Msiruhusu yeyote kati ya **manabii** wa **Baali watorok
   * **[[:sw:obs:notes:key-terms:elijah|Elijah (Elia)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophets (Manabii)]]**
   * **[[:sw:obs:notes:key-terms:baal|Baal (Baali)]]**
+
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:baal]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **escape**  - The prophets of Baal tried to run away after their god was proven to be a false god.
