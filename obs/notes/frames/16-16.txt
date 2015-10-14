@@ -15,6 +15,15 @@ Kisha **Gideoni akatumia ile dhahabu kutengeneza vazi spesheli** kama lile **kuh
   * **[[:sw:obs:notes:key-terms:punish|punished (aliadhibu)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:deliverer|deliverer (mkombozi)]]**
+
+  * **[[:sw:obe:other:gideon]]**
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:other:idol]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:deliverer]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Gideon used the gold to make a special garment**  – This could be translated as, "Gideon melted down the gold objects the people had given him and formed a special garment out of that gold."
