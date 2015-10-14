@@ -11,6 +11,11 @@ Wakati huo huo **Kalebu** na **Yoshua**, wale wapelelezi wengine wawili wakasema
   * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:caleb]]**
+  * **[[:sw:obe:other:joshua]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **people of Canaan**  – This could be translated as, "the people who live in Canaan" or, "the Canaanites."
