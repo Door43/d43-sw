@@ -10,6 +10,10 @@ Kisha **Mungu** akalisongeza **lile nguzo la wingu** na akaiweka katikati ya **W
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:egypt]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **pillar of cloud**  – See how you translated this phrase in **[[:sw:obs:notes:frames:12-02|[12-02]]]**
