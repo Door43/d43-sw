@@ -12,6 +12,12 @@ Usiku huo huo, **Farao akaita Musa** na **Haruni na akasema**, "Chukueni **Waisr
   * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
   * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
+
+  * **[[:sw:obe:other:pharaoh]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:aaron]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:egypt]]**
 ==== Translation Notes (Maelezo ya tafsiri): ====
 
   * **called for**  – This means that Pharaoh told his servants to tell Moses and Aaron to come to him.
