@@ -12,6 +12,12 @@ Lakini **Suleimani** alipenda wanawake wa mataifa mengine. **Alikosa kutii Mungu
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:god-false|gods (miungu)]]**
   * **[[:sw:obs:notes:key-terms:worship|worship (abudu)]]**
+
+  * **[[:sw:obe:other:solomon]]**
+  * **[[:sw:obe:other:disobey]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:falsegod]]**
+  * **[[:sw:obe:kt:worship]]**
 ==== Translation Notes (Maelezo yaTafsiri): ====
 
   * **brought their gods with them**  - They brought their idols and their methods of worshiping idols with them to Israel.
