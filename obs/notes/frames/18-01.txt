@@ -13,6 +13,13 @@ Baada ya miaka mingi, **Daudi** alifariki na mwanawe **Suleimani** akaanza kutaw
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:wise|wisdom (Hekima)]]**
   * **[[:sw:obs:notes:key-terms:judge|judge (Hakimu)]]**
+
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:other:solomon]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:wise]]** 
+  * **[[:sw:obe:kt:judge]]**
 ==== Translation Notes (Tafsiri ya Maelezo): ====
 
   * **asked for wisdom**  - This could be translated as, "asked God to make him wise."
