@@ -13,6 +13,13 @@ Mara nyingi, watu **hawakumtii Mungu**. Mara kwa mara walifanyia **manabii ** ma
   * **[[:sw:obs:notes:key-terms:jeremiah|Jeremiah (Yeremia)]]**
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
   * **[[:sw:obs:notes:key-terms:mercy|mercy (huruma)]]**
+
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:jeremiah]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:kt:mercy]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **dry well**  - The well did not currently have any water in it, but it did still have mud in the bottom. This could be translated as, "empty well."
