@@ -19,6 +19,20 @@ Yeyote **aliyekosa kutii sheria ya Mungu ** angemlete mnyama **kwa madhabahu mbe
   * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
   * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (Uzao)]]**
+
+  * **[[:sw:obe:other:disobey]]**
+  * **[[:sw:obe:kt:lawofmoses]]**
+  * **[[:sw:obe:other:tentofmeeting]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:other:altar]]**
+  * **[[:sw:obe:kt:blood]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:other:aaron]]**
+  * **[[:sw:obe:other:descendant]]**
+
 ==== Translation Notes: Maelezo ya Tafsiri ====
 
   * **God's law**  - This refers to all the commandments and instructions that God had told the Israelites to obey.
