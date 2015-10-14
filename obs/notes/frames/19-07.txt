@@ -13,6 +13,13 @@ Kisha **Elia** akasema kwa **manabii** wa **Baali**, "Chinja ngombe na uindae ka
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice (dhabihu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:priest|priests (makuhani)]]**
+
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:baal]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:priest]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **who answers with fire**  - That is, "who supernaturally sends fire to burn up the sacrifice."
