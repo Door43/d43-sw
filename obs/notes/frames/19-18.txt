@@ -13,6 +13,12 @@ The **prophets continued to speak for God** even though the people hated them. T
   * **[[:sw:obs:notes:key-terms:repent|repent (tubu)]]**
   * **[[:sw:obs:notes:key-terms:promise|promise (ahadi)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:repent]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:christ]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **continued to speak for God**  - That is, "continued to tell the people what God wanted to tell them."
