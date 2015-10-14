@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
   * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:canaan]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God did not go with them into this battle**  - In other words, God did not help them in this fight.
