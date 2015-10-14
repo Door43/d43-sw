@@ -12,6 +12,12 @@ Kisha **Elia** akasema kwa **Mfalme Ahabu**, "Rudi mara moja kwa mji, kwa sababu
   * **[[:sw:obs:notes:key-terms:ahab|Ahab (Ahabu)]]**
   * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:ahab]]**
+  * **[[:sw:obe:kt:yahweh]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the sky grew black**  - That is, "the sky became very dark." Heavy rainclouds covered the sky, making it look dark grey or black.
