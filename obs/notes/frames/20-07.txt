@@ -12,6 +12,14 @@ Lakini baada ya miaka michache, mfalme wa **Yuda** **aliasi** **Babeli**. Kwa hi
   * **[[:sw:obs:notes:key-terms:babylon|Babylon (Babeli)]]**
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
   * **[[:sw:obs:notes:key-terms:temple|Temple (Hekalu)]]**
+
+  * **[[:sw:obe:other:kingdomofjudah]]**
+  * **[[:sw:obe:other:rebel]]**
+  * **[[:sw:obe:other:babylon]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:kt:temple]]**
+
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **came back**  - This may also be translated as, "returned" or "came to Judah again."
