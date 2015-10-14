@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
   * **[[:sw:obs:notes:key-terms:bathsheba|Bathsheba (Bathseba)]]**
+
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:other:bathsheba]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Instead of looking away**  - That is, David did not look away from the woman as she bathed, as he should have done.
