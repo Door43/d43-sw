@@ -9,6 +9,9 @@ Kwa zile miaka arobanne watu wa** Israeli** walizungukazunguka katika jangwa, **
 
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God provided for them**  – This could be translated as, "God gave them everything they needed for food, water, and shelter."
