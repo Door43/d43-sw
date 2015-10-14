@@ -11,6 +11,11 @@ Baada ya hiyo vita, **Mungu aliwapa kila kabila la Israeli sehemu yao la ile Nch
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
   * **[[:sw:obs:notes:key-terms:peace|peace (ahadi)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:promisedland]]**
+  * **[[:sw:obe:other:peace]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **God gave…Land**  – this could be translated as, "God appointed each tribe its own plot of land" or, "God decided which part of the Promised Land each tribe of Israel would live on."
