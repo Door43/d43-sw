@@ -13,6 +13,13 @@ Hata ingawa **Mungu aliadhibu** watu wake kwa sababu ya **dhambi** zao na kuwape
   * **[[:sw:obs:notes:key-terms:promise|promises (ahadi)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
   * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:promisedland]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **exile**  - See how you translated this term in **[[:sw:obs:notes:frames:20-09|[20-09]]]**.
