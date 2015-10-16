@@ -14,6 +14,14 @@ Ili **kumuadhibu** **mfalme** wa **Yuda** kwa sababu ya kuasi, askari wa **Nebuk
   * **[[:sw:obs:notes:key-terms:son|sons (wana)]]**
   * **[[:sw:obs:notes:key-terms:babylon|Babylon (Babeli)]]**
 
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:kingdomofjudah]]**
+  * **[[:sw:obe:other:nebuchadnezzar]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:other:babylon]]**
+
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **To punish**  - Nebuchadnezzar punished the king of Judah by telling his soldiers to do these things.
