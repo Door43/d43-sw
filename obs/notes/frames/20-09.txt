@@ -12,6 +12,14 @@
   * **[[:sw:obs:notes:key-terms:babylon|Babylon (Babeli)]]**
   * **[[:sw:obs:notes:key-terms:god|God's (wa Mungu)]]**
   * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
+
+  * **[[:sw:obe:other:nebuchadnezzar]]**
+  * **[[:sw:obe:other:kingdomofjudah]]**
+  * **[[:sw:obe:other:babylon]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:promisedland]]**
+
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **leaving…behind**  - That is, "leaving only the poorest people in Judah" or, "letting only the poorest people stay in Judah."
