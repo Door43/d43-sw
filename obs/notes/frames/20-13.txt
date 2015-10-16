@@ -11,6 +11,11 @@ Wakati watu walifika **Yerusalemu**, walijenga tena **Hekalu** na ukuta uliyo zi
   * **[[:sw:obs:notes:key-terms:temple|Temple (Hekalu)]]**
   * **[[:sw:obs:notes:key-terms:promised-land|Promised Land (Nchi ya Ahadi)]]**
   * **[[:sw:obs:notes:key-terms:worship|worshiped (waliabudu)]]**
+
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:kt:temple]]**
+  * **[[:sw:obe:kt:promisedland]]**
+  * **[[:sw:obe:kt:worship]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **the people**  - That is, the Israelites, the descendants of Jacob, who were now called the Jews.
