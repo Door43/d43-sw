@@ -12,6 +12,13 @@
   * **[[:sw:obs:notes:key-terms:messiah|Messiah(Masihi)]]**
   * **[[:sw:obs:notes:key-terms:priest|priest (kuhani)]]**
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:other:king]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **perfect prophet**  - The Messiah would be a prophet who is perfect in obedience to God, giving every word God would speak to the people. He would present God perfectly to the people, helping them to know and understand God.
