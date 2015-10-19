@@ -13,6 +13,12 @@ The **angel** said to **Zechariah**, “Your wife will have a son. You will name
   * **[[:sw:obs:notes:key-terms:john-baptist|John (Yohana)]]**
   * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:other:zechariahnt]]**
+  * **[[:sw:obe:other:johnthebaptist]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:kt:christ]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **The angel**  - This refers to the angel that came to Zechariah in **[[:sw:obs:notes:frames:22-01|[22-01]]]**.
