@@ -16,6 +16,20 @@
   * **[[:sw:obs:notes:key-terms:pray|prayed (aliomba)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mkuu)]]**
+
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:pray]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:highpriest]]**
+
+
+
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **on behalf of**  - This may be translated as, "for the benefit of" or, "in the place of."
