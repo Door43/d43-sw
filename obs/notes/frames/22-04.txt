@@ -14,6 +14,15 @@ Wakati **Elisabeti** alikuwa **mja mzito miezi sita**, malaika yule yule ghafla 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:god-son|Son (Mwana)]]**
   * **[[:sw:obs:notes:key-terms:god-father|Most High God (Mungu aliye juu zaidi)]]**
+
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:other:mary]]**
+  * **[[:sw:obe:other:virgin]]**
+  * **[[:sw:obe:other:josephnt]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:godthefather]]**
+
 ===== Translation Notes: =====
 
   * **six months pregnant**  - Either she had already been pregnant for six months or she was in the sixth month of her pregnancy.
