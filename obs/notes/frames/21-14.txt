@@ -21,6 +21,7 @@ The **prophets** foretold that the **Messiah** would **die** and that **God** wo
   * **[[:sw:obe:kt:christ]]**
   * **[[:sw:obe:kt:death]]**
   * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:raise]]**
   * **[[:sw:obe:kt:resurrection]]**
   * **[[:sw:obe:kt:save]]**
   * **[[:sw:obe:kt:sin]]**
