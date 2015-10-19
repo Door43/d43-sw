@@ -17,6 +17,14 @@ Baada ya **Elisabeti** kujifungua mtoto wa kiume, **Zakaria** na Elisabeti wakam
   * **[[:sw:obs:notes:key-terms:forgive|forgiveness (msamaha)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
 
+  * **[[:sw:obe:other:zechariahnt]]**
+  * **[[:sw:obe:other:johnthebaptist]]**
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:praise]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:forgive]]**
+  * **[[:sw:obe:kt:sin]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Elizabeth**  - See the note about Elizabeth on **[[:sw:obs:notes:frames:22-05|[22-04]]]**.
