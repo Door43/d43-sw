@@ -20,6 +20,12 @@
   * **[[:sw:obe:other:mary]]**
   * **[[:sw:obe:other:virgin]]**
   * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:kt:power]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:holy]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:believe]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **How can this be**  - That is, "How can I become pregnant?" Mary was not doubting the truth of the angel's words, but asking how it would happen.
