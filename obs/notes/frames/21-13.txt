@@ -15,6 +15,15 @@ The **prophets** also said that the **Messiah** would be perfect, **having no si
   * **[[:sw:obs:notes:key-terms:punish|punishment (adhabu)]]**
   * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:receive]]**
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:other:peace]]**
+  * **[[:sw:obe:kt:god]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **having no sin**  - This can also be translated as "he never sinned."
