@@ -11,6 +11,11 @@ The **angel** responded to Zechariah, “I was sent by **God** to bring you this
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
   * **[[:sw:obs:notes:key-terms:zechariah-nt|Zechariah (Zakaria)]]**
+
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:other:zechariahnt]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **became pregnant**  - Some languages have polite ways of saying "become pregnant." Use an expression that will not be embarrassing to readers.
