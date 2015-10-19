@@ -10,6 +10,10 @@ Upesi tu baada ya **malaika** kunena na **Mariamu**, alienda kumtembelea **Elisa
   * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
   * **[[:sw:obs:notes:key-terms:mary|Mary (Mariamu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:other:mary]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Elizabeth**  - See the note about Elizabeth on **[[:sw:obs:notes:frames:22-05|[22-04]]]**.
