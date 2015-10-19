@@ -12,6 +12,11 @@ The **prophets** also told about how the **Messiah** would **die**. **Isaiah pro
   * **[[:sw:obs:notes:key-terms:death|die (afe)]]**
   * **[[:sw:obs:notes:key-terms:isaiah|Isaiah (Isaya)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophesied (alitoa unabii)]]**
+
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:other:isaiah]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **pierce**  - That is, "stab." Sharp objects would penetrate his body as part of the punishment for people's sin.
