@@ -13,6 +13,12 @@ Katika siku zilizopita, **Mungu** alinena na **watu wake** kupitia kwa **malaika
   * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
   * **[[:sw:obs:notes:key-terms:priest|priest (kuhani)]]**
   * **[[:sw:obs:notes:key-terms:zechariah-nt|Zechariah (Zakaria)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:other:zechariahnt]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **his people**  - This could be translated as, "his people, the Israelites" or "his people, the Jews." But only include the added information if it is not clearly understood who these people were.
