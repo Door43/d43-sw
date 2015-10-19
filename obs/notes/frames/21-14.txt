@@ -16,6 +16,16 @@ The **prophets** foretold that the **Messiah** would **die** and that **God** wo
   * **[[:sw:obs:notes:key-terms:save|save (okoa)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinners (wenye dhambi)]]**
   * **[[:sw:obs:notes:key-terms:covenant-new|New Covenant (Agano Jipya)]]**
+
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:resurrection]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:covenant]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **raise him from the dead**  - That is, "cause him to be alive again."
