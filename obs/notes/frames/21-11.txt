@@ -13,9 +13,8 @@ The **prophet Isaiah** also **prophesied** that the **Messiah** would be **hated
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:betray|betray (kusaliti)]]**
 
-  * **[[:sw:obe:other:heal]]**
-  * **[[:sw:obe:other:isaiah]]**
   * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:isaiah]]**
   * **[[:sw:obe:kt:christ]]**
   * **[[:sw:obe:kt:betray]]**
 
