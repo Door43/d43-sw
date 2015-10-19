@@ -14,6 +14,14 @@
   * **[[:sw:obs:notes:key-terms:prophet|prophesied (walitabiri)]]**
   * **[[:sw:obs:notes:key-terms:virgin|virgin (bikira)]]**
   * **[[:sw:obs:notes:key-terms:bethlehem|Bethlehem (Bethlehemu)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:other:isaiah]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:virgin]]**
+  * **[[:sw:obe:other:bethlehem]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **Malachi**  - Malachi was the last prophet in the Old Testament.
