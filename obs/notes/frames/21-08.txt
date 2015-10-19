@@ -12,6 +12,12 @@ A **king** is someone who rules over a **kingdom** and **judges** the people. Th
   * **[[:sw:obs:notes:key-terms:judge|judges (anahukumu)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:david|David (Daudi)]]**
+
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:kingdom]]**
+  * **[[:sw:obe:kt:judge]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:other:david]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **sit on the throne of his ancestor David**  - A throne is a ceremonial chair for a king or queen that represents their authority. This expression could also be translated as, "have the authority to reign as his ancestor King David did" or, "be the descendant of King David and continue his rule over God's people."
