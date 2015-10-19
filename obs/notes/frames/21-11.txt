@@ -12,6 +12,13 @@ The **prophet Isaiah** also **prophesied** that the **Messiah** would be **hated
   * **[[:sw:obs:notes:key-terms:prophet|prophesied (alitabiri)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:betray|betray (kusaliti)]]**
+
+  * **[[:sw:obe:other:heal]]**
+  * **[[:sw:obe:other:isaiah]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:betray]]**
+
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **hated without reason and rejected**  - This could be translated as, "hated and rejected, even though he had done nothing wrong" or "…even though he was innocent."
