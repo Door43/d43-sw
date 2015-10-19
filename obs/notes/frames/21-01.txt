@@ -14,6 +14,14 @@
   * **[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendant (mzaliwa)]]**
   * **[[:sw:obs:notes:key-terms:satan|Satan (Shetani)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:other:adam]]**
+  * **[[:sw:obe:other:eve]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:kt:satan]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
   * **From the very beginning**  - That is, from when the earth was first created.
