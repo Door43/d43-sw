@@ -11,6 +11,10 @@ Kisha **Yesu** akachukua ile mikate mitano na samaki mbili, akatazama juu **bing
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:heaven|heaven (binguni)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:heaven]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //(There are no notes for this frame.)//
