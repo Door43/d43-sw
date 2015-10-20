@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:king-of-jews|king of the Jews (mfalme wa Wayahudi)]]**
   * **[[:sw:obs:notes:key-terms:bethlehem|Bethlehem (Bethlehemu)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:kt:wise]]**
+  * **[[:sw:obe:kt:kingofthejews]]**
+  * **[[:sw:obe:other:bethlehem]]**
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maneno ya Muhimu): =====
 
   * **Sometime later**  - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
