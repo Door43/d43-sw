@@ -13,6 +13,13 @@ Kisha **Yesu** akasema, "Ni **kweli** kuwa **hakuna nabii anayekubaliwa kwa mji 
   * **[[:sw:obs:notes:key-terms:elijah|Elijah (Elia)]]**
   * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:true]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **no prophet is accepted in his hometown**  - This phrase means, "people do not recognize the authority of a prophet that has grown up among them."
