@@ -12,6 +12,10 @@ Yale **mapepo ikamsihi Yesu**, "Tafadhali **usitufukuze** kutoka eneo hili!" Kul
   * **[[:sw:obs:notes:key-terms:beg|begged (walimsihi)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
 
+  * **[[:sw:obe:kt:demon]]**
+  * **[[:sw:obe:other:beg]]**
+  * **[[:sw:obe:kt:jesus]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **do not send us**  - That is, "do not make us go."
