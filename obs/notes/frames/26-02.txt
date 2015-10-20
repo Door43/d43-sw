@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:worship|worship (abudu)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
   * **[[:sw:obs:notes:key-terms:isaiah|Isaiah (Isaya)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:nazareth]]**
+  * **[[:sw:obe:kt:sabbath]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:isaiah]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **place of worship**  - That is, "the building where the Jews gathered to worship God." This can also be translated as, "worship building."
