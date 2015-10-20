@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:heal|heal (ponya)]]**
   * **[[:sw:obs:notes:key-terms:naaman|Naaman (Namani)]]**
   * **[[:sw:obs:notes:key-terms:jew|Jews (Wayahudi)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:other:heal]]**
+  * **[[:sw:obe:other:naaman]]**
+  * **[[:sw:obe:other:jew]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Elisha**  - Elisha was God's prophet who came after Elijah. Like Elijah, Elisha confronted Israelite kings who were sinning against God and he did miracles that God gave him power to do.
