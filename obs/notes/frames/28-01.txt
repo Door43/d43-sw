@@ -15,6 +15,15 @@
   * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
   * **[[:sw:obs:notes:key-terms:gods-law|God's laws (sheria za Mungu)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:good]]**
+  * **[[:sw:obe:kt:teacher]]**
+  * **[[:sw:obe:kt:eternity]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:lawofmoses]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
