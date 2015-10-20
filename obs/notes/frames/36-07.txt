@@ -12,6 +12,11 @@
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:death|die (kufa)]]**
   * **[[:sw:obs:notes:key-terms:life|life (uhai)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:life]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
