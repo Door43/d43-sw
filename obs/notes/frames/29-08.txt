@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:forgive|forgave (alimsamehe)]]**
   * **[[:sw:obs:notes:key-terms:beg|begged (aliomba)]]**
   * **[[:sw:obs:notes:key-terms:evil|wicked (mbaya)]]**
+
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:forgive]]**
+  * **[[:sw:obe:other:beg]]**
+  * **[[:sw:obe:kt:evil]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
