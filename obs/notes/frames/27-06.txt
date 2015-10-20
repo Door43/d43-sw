@@ -10,6 +10,10 @@ Baadaye, **Kuhani Myahudi alikuwa anateremka** katika hiyo barabara.  Wakati huy
   * **[[:sw:obs:notes:key-terms:jew|Jewish (Myahudi)]]**
   * **[[:sw:obs:notes:key-terms:priest|priest (kuhani)]]**
   * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leader (kiongozi wa kindini)]]**
+
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:other:jewishleaders]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to tell the story.)
