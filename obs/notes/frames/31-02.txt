@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:pray|pray (kuomba)]]**
+
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:other:pray]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Meanwhile**  - That is, "while Jesus was praying on the mountainside."
