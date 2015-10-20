@@ -13,6 +13,13 @@ Basi, **Mariamu** alifika. **Alipiga magoti karibu na Yesu** akasema, "**Bwana**
   * **[[:sw:obs:notes:key-terms:lazarus|Lazarus (Lazaro)]] **
   * **[[:sw:obs:notes:key-terms:tomb|tomb (kaburi)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:other:lazarus]]**
+  * **[[:sw:obe:other:tomb]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Mary**  - This was the same woman as in **[[:sw:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
