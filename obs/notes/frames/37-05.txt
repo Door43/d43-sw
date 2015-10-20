@@ -15,6 +15,15 @@
   * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:resurrection]]**
+  * **[[:sw:obe:kt:life]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:sonofgod]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **I am the Resurrection and the Life**  - This is one of several very powerful "I am" statements in which Jesus says something about his essential nature. In this one, Jesus indicated that he is the "provider" or, "source" of resurrection and life. If possible, translate this phrase in a way that makes it clear that this is his essential nature. This can also be translated as, "I am the one who resurrects people and causes them to live.
