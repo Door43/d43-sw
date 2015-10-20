@@ -10,6 +10,10 @@ Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am no
   * **[[:sw:obs:notes:key-terms:jew|Jews (Wayahudi)]]**
   * **[[:sw:obs:notes:key-terms:john-baptist|John (Yohana)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:other:johnthebaptist]]**
+  * **[[:sw:obe:kt:christ]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **He is so great**  - This could be translated as, "He is so important."
