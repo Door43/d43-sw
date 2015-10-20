@@ -9,6 +9,9 @@ Wakati **wanafunzi** walisikia kile Yesu alisema, **walishangaa** na kusema, "**
 
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:save|saved (kuokolewa)]]**
+
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:save]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **shocked**  - That is, "greatly astonished."
