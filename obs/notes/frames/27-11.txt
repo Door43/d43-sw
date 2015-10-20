@@ -9,6 +9,9 @@ Kisha **Yesu** akamuuliza yule **mtaalam wa sheria**, "Unafikiri aje? Nani kati 
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:mercy|merciful (mwenye huruma)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:mercy]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **law expert**  - That is, "an expert in the Jewish law." See how you translated this term in **[[:sw:obs:notes:frames:27-01|[27-01]]]**.
