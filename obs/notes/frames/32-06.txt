@@ -11,6 +11,11 @@ Yule **mtu aliyepagawa na mapepo akalia** kwa sauti kubwa, "**Unataka nini na mi
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:god-son|Son (Mwana)]]**
   * **[[:sw:obs:notes:key-terms:god|Most High God (Mungu aliye Juu Zaidi)]]**
+
+  * **[[:sw:obe:kt:demonpossessed]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **cried out**  - That is, "shouted" or, "exclaimed."
