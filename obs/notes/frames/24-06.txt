@@ -13,6 +13,13 @@ Siku iliyofuata, **Yesu ** akaja **kubatizwa** na **Yohana**. Wakati Yohana alim
   * **[[:sw:obs:notes:key-terms:lamb|Lamb (Kondoo)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:other:johnthebaptist]]**
+  * **[[:sw:obe:kt:lamb]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:sin]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **There is**  - For some languages this would be, "Here is" or, "That man is."
