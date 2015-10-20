@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
   * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
   * **[[:sw:obs:notes:key-terms:galilee|Galilee (Galilaya)]]**
+
+  * **[[:sw:obe:kt:satan]]**
+  * **[[:sw:obe:kt:tempt]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:power]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:other:galilee]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **After overcoming Satan's temptations, Jesus returned**  - You may prefer to make this into two sentences and say, "Jesus did not do the wrong things Satan tried to get him to do and so defeated him. After that, Jesus returned." The word "overcoming" can also be translated with "resisting" or, "rejecting" or, "refusing."
