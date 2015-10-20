@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:faithful|faithfully (kwa uaminifu)]]**
   * **[[:sw:obs:notes:key-terms:disobey|disobeyed (kutotii)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinful (yenye dhambi)]]**
+
+  * **[[:sw:obe:kt:faithful]]**
+  * **[[:sw:obe:other:disobey]]**
+  * **[[:sw:obe:kt:sin]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
