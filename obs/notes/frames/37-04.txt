@@ -13,6 +13,13 @@ When **Jesus** arrived at **Lazarus**' hometown, Lazarus had already been **dead
   * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
   * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:lazarus]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:sw:obs:notes:frames:37-01|[37-01]]]**.
