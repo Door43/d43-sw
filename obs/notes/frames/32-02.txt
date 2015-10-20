@@ -9,6 +9,10 @@ Walipofika upande ule mwingine wa bahari, **mtu aliyepagawa na mapepo akaja kwa 
 
   * **[[:sw:obs:notes:key-terms:demon-possessed|demon-possessed (aliyepagawa mapepo)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:kt:demonpossessed]]**
+  * **[[:sw:obe:kt:jesus]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **a demon-possessed man**  - That is, "a man who had demons in him" or, "a man who was controlled by evil spirits."
