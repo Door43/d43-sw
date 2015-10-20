@@ -10,6 +10,12 @@ Yesu akasema, **"Ufalme wa Mungu ni kama mfalme ambaye** alitaka **kukagua hesab
   * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom of God (ufalme wa Mungu)]]**
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
   * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
+
+  * **[[:sw:obe:kt:kingdomofgod]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:servant]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **The kingdom of God is like**  - Another way to say this would be, "God's rule over people is like" or, "The way God rules people can be compared to."
