@@ -8,6 +8,8 @@ Yule mtu **aliishi makaburini** katika eneo hilo. Huyu mtu angepasa sauti yake m
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:tomb|tombs (makaburi)]]**
+
+  * **[[:sw:obe:other:tomb]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **among the tombs**  - That is "near the tombs" or, "around the tombs."
