@@ -8,6 +8,8 @@ Yale **mapepo ** yalitoka ndani ya yule mtu na kuingia kwa nguruwe. Zile nguruwe
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:demon|demons (mapepo)]]**
+
+  * **[[:sw:obe:kt:demon]]**
 ===== Translation Notes (Maelezo ya Muhimu): =====
 
   * **herd**  - That is, "herd of pigs" or, "group of pigs." Many languages have specific names for groups of animals, such as "flock of sheep," "herd of cattle," "pack of dogs," and "school of fish." Use a word that can appropriately be used for a large group of pigs.
