@@ -10,6 +10,9 @@ Lakini kulikuwa na watu wengi ambao waliona **Yesu** na **wanafunzi** wakienda k
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **arrived**  - That is, "got to the other side of the lake" or, "got there."
