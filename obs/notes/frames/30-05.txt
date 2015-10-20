@@ -9,6 +9,10 @@ Lakini **Yesu** akawambia **wanafunzi,** "Nyinyi wapeni kitu wakule!" Wakajibu, 
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **How can we do that?**  - This could be translated as, "We cannot do that!" or, "It is impossible to do that!" The disciples were not asking an actual question. Rather, they were strongly expressing that they did not think this was possible.
