@@ -10,6 +10,10 @@ Baada ya muda mfupi, Mlawi **akawa anateremka katika ile barabara**. (**Walawi l
   * **[[:sw:obs:notes:key-terms:jew|Jews (Wayahudi)]]**
   * **[[:sw:obs:notes:key-terms:priest|priests (kuhani)]]**
   * **[[:sw:obs:notes:key-terms:temple|Temple (hekalu)]]**
+
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:kt:temple]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to tell the story.)
