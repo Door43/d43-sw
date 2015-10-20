@@ -13,6 +13,13 @@ Yule **mtaalamu wa sheria** akajibu kuwa **Sheria ya Mungu** inasema, "**Mpende 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:life|live (kuishi)]]**
+
+  * **[[:sw:obe:kt:lawofmoses]]**
+  * **[[:sw:obe:kt:love]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:life]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **law expert**  - That is, "an expert in the Jewish law." See how you translated this term in **[[:sw:obs:notes:frames:27-01|[27-01]]]**.
