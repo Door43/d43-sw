@@ -12,6 +12,12 @@ Basi **Shetani ** akamuonyesha **Yesu falme** **zote za ulimwengu** na **utukufu
   * **[[:sw:obs:notes:key-terms:kingdom|kingdoms(falme)]]**
   * **[[:sw:obs:notes:key-terms:glory|glory(utukufu)]]**
   * **[[:sw:obs:notes:key-terms:worship|worship(abudu)]]**
+
+  * **[[:sw:obe:kt:satan]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:kingdom]]**
+  * **[[:sw:obe:kt:glory]]**
+  * **[[:sw:obe:kt:worship]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **kingdoms of the world**  - This refers to all the greatest cities, countries, and other territories of the world.
