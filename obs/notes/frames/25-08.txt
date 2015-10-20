@@ -13,6 +13,11 @@
   * **[[:sw:obs:notes:key-terms:tempt|temptations (majaribu)]]**
   * **[[:sw:obs:notes:key-terms:angel|angels (malaika)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:satan]]**
+  * **[[:sw:obe:kt:tempt]]**
+  * **[[:sw:obe:kt:angel]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **did not give in to**  - This could be translated as, "did not do the things that Satan was tempting him to do."
