@@ -10,6 +10,10 @@ Kisha **Yesu akaenda kila mahali Galilaya,** na umati mkubwa wa watu ukaja kwake
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:galilee|Galilee (Galilaya)]]**
   * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:galilee]]**
+  * **[[:sw:obe:other:heal]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **went throughout the region of Galilee**  - That is, "all around in Galilee" or, "from place to place in Galilee."
