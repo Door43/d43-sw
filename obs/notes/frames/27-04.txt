@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:jew|Jewish (Myahudi)]]**
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
   * **[[:sw:obs:notes:key-terms:jericho|Jericho (Yericho)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:other:jericho]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
