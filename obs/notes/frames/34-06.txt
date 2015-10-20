@@ -13,6 +13,13 @@ Kisha **Yesu** akapeana **hadithi** kwa watu **walitumainia matendo yao mazuri n
   * **[[:sw:obs:notes:key-terms:pray|pray (kuomba)]]**
   * **[[:sw:obs:notes:key-terms:tax-collector|tax collector (mtosha ushuru)]]**
   * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leader (kiongozi wa kindini)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:trust]]**
+  * **[[:sw:obe:kt:temple]]**
+  * **[[:sw:obe:other:pray]]**
+  * **[[:sw:obe:other:taxcollector]]**
+  * **[[:sw:obe:other:jewishleaders]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **story**  - See how you translated this term in **[[:sw:obs:notes:frames:34-01|[34-01]]]**.
