@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:word-of-god|word of God (neno la Mungu)]]**
   * **[[:sw:obs:notes:key-terms:satan|devil (ibilisi)]]**
+
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:satan]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **This story confused the disciples.**  - That is, "The disciples did not understand this story."
