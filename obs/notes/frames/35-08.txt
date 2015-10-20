@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinned (kutenda dhambi)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
