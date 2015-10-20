@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:son|sons (wana)]]**
   * **[[:sw:obs:notes:key-terms:inherit|inheritance (urithi)]]**
+
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:kt:inherit]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus tells the story.)
