@@ -10,6 +10,11 @@ Mara moja, **Yesu** alitambua kuwa **nguvu imetoka ndani yake**. Kwa hivyo akage
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:power]]**
+  * **[[:sw:obe:kt:disciple]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **power had gone out from him**  - This may be translated as, "healing power had flowed from him into someone else" or, "his power had healed someone." Jesus did not lose any power because of this.
