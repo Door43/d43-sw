@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:heal|heal (ponya)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:heal]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **pressed in on him**  - That is, "pushed tightly against him" or, "crowded in tightly around him."
