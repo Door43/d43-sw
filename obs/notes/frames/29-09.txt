@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:god-father|heavenly Father (Baba wa binguni)]]**
   * **[[:sw:obs:notes:key-terms:forgive|forgive (samehe)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:godthefather]]**
+  * **[[:sw:obe:kt:forgive]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Then Jesus said**  - Some languages may add, "to his disciples."
