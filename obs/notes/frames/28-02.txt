@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:adultery|adultery (uasherati)]]**
   * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:adultery]]**
+  * **[[:sw:obe:kt:love]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Which ones do I need to obey?**  - That is, "Which laws will be enough for me to receive eternal life?"
