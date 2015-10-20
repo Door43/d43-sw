@@ -13,6 +13,11 @@ Kisha **Yesu** akawaambia **wanafunzi** wake, "Mmoja wenu **atanisaliti**." Wana
   * **[[:sw:obs:notes:key-terms:betray|betray (kusaliti)]]**
   * **[[:sw:obs:notes:key-terms:judas|Judas (Yuda)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:betray]]**
+  * **[[:sw:obe:other:judasiscariot]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **give this piece of bread**  - That is, "hand over this piece of bread."
