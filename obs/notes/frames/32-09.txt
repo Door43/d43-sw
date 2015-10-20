@@ -9,6 +9,9 @@ Wakati watu waliokuwa wanalinda zile nguruwe waliona **kile kimefanyika,** walik
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:demon|demons (mapepo)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:demon]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **what happened**  - That is, "how Jesus sent the demons out of the man and into the pigs."
