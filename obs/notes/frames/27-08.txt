@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:samaria|Samaritan (Msamaria)]]**
   * **[[:sw:obs:notes:key-terms:jew|Jews (Myahudi)]]**
+
+  * **[[:sw:obe:other:samaria]]**
+  * **[[:sw:obe:other:jew]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to tell the story.)
