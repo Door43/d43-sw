@@ -10,6 +10,9 @@ Kisha **Yesu alipasua ile mkate na samaki ** ikawa vipande vipande. Akawapa zile
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **broke the bread and the fish**  - That is, "tore the bread and the fish."
