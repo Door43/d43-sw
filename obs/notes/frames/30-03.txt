@@ -12,6 +12,11 @@ Ule umati ulikuwa zaidi ya watu 5,000, **bila kuhesabu wanawake na watoto.** **Y
   * **[[:sw:obs:notes:key-terms:sheep|sheep (kondoo)]]**
   * **[[:sw:obs:notes:key-terms:shepherd|shepherd (mchungaji)]]**
   * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:sheep]]**
+  * **[[:sw:obe:other:shepherd]]**
+  * **[[:sw:obe:other:heal]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **not counting the women and children**  - That is, "not counting the women and children who were with them" or, "and there were also women and children in addition to the men." Another way to translate this could also be, "in addition, there were many women and children."
