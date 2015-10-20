@@ -13,6 +13,12 @@ Watu wengi **ambao walikuwa na mapepo** ndani yao waliletwa kwa **Yesu**. **Kwa 
   * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
   * **[[:sw:obs:notes:key-terms:worship|worshiped (waliabudu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:demon]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **who had demons in them**  - That is, "who were controlled by evil spirits."
