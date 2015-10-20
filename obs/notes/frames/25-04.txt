@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:angel|angels (malaika)]]**
+
+  * **[[:sw:obe:kt:satan]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:temple]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:angel]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **throw yourself down**  - That is, "jump off this building to the ground."
