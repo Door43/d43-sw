@@ -16,6 +16,16 @@
   * **[[:sw:obs:notes:key-terms:blood|blood (damu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:pray]]**
+  * **[[:sw:obe:kt:godthefather]]**
+  * **[[:sw:obe:kt:suffer]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:forgive]]**
+  * **[[:sw:obe:kt:blood]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:angel]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **drink this cup of suffering**  - That is, "go through this suffering" or, "suffer what is about to happen" or, "endure this suffering."
