@@ -17,6 +17,16 @@
   * **[[:sw:obs:notes:key-terms:obey|obey (tii)]]**
   * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:highpriest]]**
+  * **[[:sw:obe:kt:godthefather]]**
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:other:heal]]**
+  * **[[:sw:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * **As the soldiers arrested Jesus**  - That is, "While the soldiers were arresting Jesus."
