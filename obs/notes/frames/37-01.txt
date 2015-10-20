@@ -15,6 +15,13 @@ Siku moja, **Yesu ** alipokea ujumbe kwamba **Lazaro** ni mgonjwa sana. Lazaro n
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:love|loved (alipenda)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:lazarus]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:glory]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:love]]**
+
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
