@@ -9,6 +9,9 @@ The **people** were very **afraid** and asked **Jesus** to leave. So Jesus got i
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:beg|begged (aliomba)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:beg]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **people**  - Some languages may prefer to say, "people from that region" or, "the Gerasene people."
