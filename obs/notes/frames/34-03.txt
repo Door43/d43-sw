@@ -9,6 +9,10 @@
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom of God (ufalme wa Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:kingdomofgod]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **story**  - See how you translated this term in **[[:sw:obs:notes:frames:34-01|[34-01]]]**.
