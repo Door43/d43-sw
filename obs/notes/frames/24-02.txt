@@ -12,6 +12,11 @@ Watu wengi walikuja **nyikani ** kumusikiliza **Yohana**. **Aliwahubiria**, akis
   * **[[:sw:obs:notes:key-terms:preach|preached (alihubiri)]]**
   * **[[:sw:obs:notes:key-terms:repent|Repent (Tumbuni)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom of God (ufalme wa Mungu)]]**
+
+  * **[[:sw:obe:other:johnthebaptist]]**
+  * **[[:sw:obe:other:preach]]**
+  * **[[:sw:obe:kt:repent]]**
+  * **[[:sw:obe:kt:kingdomofgod]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **wilderness**  - See how you translated this word in **[[:sw:obs:notes:frames:24-01|[24-01]]]**.
