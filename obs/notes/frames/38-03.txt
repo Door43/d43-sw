@@ -13,6 +13,13 @@ The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver c
   * **[[:sw:obs:notes:key-terms:betray|betray (kusaliti)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
+
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:highpriest]]**
+  * **[[:sw:obe:other:judasiscariot]]**
+  * **[[:sw:obe:kt:betray]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:prophet]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **thirty silver coins**  - Each of these coins were worth about four days' wages.
