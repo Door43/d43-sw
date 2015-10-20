@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom of God (ufalme wa Mungu)]]**
   * **[[:sw:obs:notes:key-terms:joy|joy (furaha)]]**
+
+  * **[[:sw:obe:kt:kingdomofgod]]**
+  * **[[:sw:obe:kt:joy]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus told another story.)
