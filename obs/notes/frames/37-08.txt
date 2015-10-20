@@ -12,6 +12,11 @@
   * **[[:sw:obs:notes:key-terms:glory|glory (utukufu)]] **
   * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:glory]]**
+  * **[[:sw:obe:kt:believe]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Did I not tell you?**  - That is, "Remember that I told you." Jesus is not asking this question in order to get an answer, so some languages should translate this as a command.
