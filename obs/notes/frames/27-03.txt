@@ -8,6 +8,8 @@ Lakini yule **mtaalam wa sheria** alitaka kuthibitisha kuwa yeye ni **mwenye hak
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:righteous|righteous (mwenye haki)]]**
+
+  * **[[:sw:obe:kt:righteous]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **law expert**  - That is, "an expert in the Jewish law." See how you translated this term in **[[:sw:obs:notes:frames:27-01|[27-01]]]**.
