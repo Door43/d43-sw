@@ -13,6 +13,13 @@ Kisha **Musa** na Nabii **Elia** **walijitokeza**. Watu hawa waliishi duniani ma
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:death|death (kifo)]]**
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:other:elijah]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:other:jerusalem]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **appeared**  - It is also possible to say, "appeared out of nowhere." They suddenly were there.
