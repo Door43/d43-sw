@@ -17,6 +17,16 @@ The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife*
   * **[[:sw:obs:notes:key-terms:yahweh|Yahweh (Yehova)]]**
   * **[[:sw:obs:notes:key-terms:save|saves (huokoa)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
+
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:other:josephnt]]**
+  * **[[:sw:obe:other:mary]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:yahweh]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:sin]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **do not be afraid to take Mary as your wife**  - This can also be translated as, "Stop thinking that you shouldn't marry Mary" or, "Do not hesitate to have Mary as your wife."
