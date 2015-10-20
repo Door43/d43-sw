@@ -9,6 +9,10 @@
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:good|good (mzuri)]]**
+
+  * **[[:sw:obe:kt:good]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
