@@ -14,6 +14,12 @@
   * **[[:sw:obs:notes:key-terms:fulfill|fulfilled (alitimiza)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
 
+  * **[[:sw:obe:other:johnthebaptist]]**
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:repent]]**
+  * **[[:sw:obe:kt:fulfill]]**
+  * **[[:sw:obe:kt:prophet]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **You poisonous snakes**  - This could be translated as, "You are like lying poisonous snakes!" John was calling them poisonous snakes because they were dangerous and deceptive.
