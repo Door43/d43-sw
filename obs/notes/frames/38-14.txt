@@ -13,6 +13,12 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:teacher|Teacher (Mwalimu)]]**
   * **[[:sw:obs:notes:key-terms:betray|betray (saliti)]]**
+
+  * **[[:sw:obe:other:judasiscariot]]**
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:teacher]]**
+  * **[[:sw:obe:kt:betray]]**
 ===== Translation Notes (Maelezo ya Tafsiri: =====
 
   * **came to**  - Some languages may prefer to say, "went to."
