@@ -13,6 +13,10 @@ Yule mwanamke **alianguka kwa mabega yake mbele ya Yesu, akitetemeka na akiwa na
   * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)]]**
   * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:faith]]**
+  * **[[:sw:obe:other:heal]]**
+  * **[[:sw:obe:other:peace]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **fell on her knees**  - That is, "quickly knelt down."
