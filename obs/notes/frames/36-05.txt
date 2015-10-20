@@ -11,6 +11,11 @@ As **Peter** was talking, a bright cloud came down and surrounded them and **a v
   * **[[:sw:obs:notes:key-terms:god-son|Son (Mwana)]]**
   * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:kt:love]]**
+  * **[[:sw:obe:kt:disciple]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **a voice from the cloud said**  - This can also be translated as, "a voice spoke from the cloud saying" or, "God spoke from the cloud and said."
