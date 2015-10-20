@@ -11,6 +11,11 @@ Baada ya siku mbili kupita, **Yesu** akawaambia **wanafunzi** wake, "Twendeni te
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:teacher|Teacher (Mwalimu)]]**
   * **[[:sw:obs:notes:key-terms:lazarus|Lazarus (Lazaro)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:teacher]]**
+  * **[[:sw:obe:other:lazarus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Judea**  - This refers to the southern section of Israel, which was settled by the tribe of Judah. Some languages will prefer to say, "the region of Judea."
