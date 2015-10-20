@@ -14,6 +14,12 @@ Wakati huo **Yesu** ilichukua kikombe na kusema, **"kunyweni hii. Ni damu yangu 
   * **[[:sw:obs:notes:key-terms:forgive|forgiveness (msamaha)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:blood]]**
+  * **[[:sw:obe:kt:newcovenant]]**
+  * **[[:sw:obe:kt:forgive]]**
+  * **[[:sw:obe:kt:sin]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **a cup**  - That is, "a cup of wine" or, "a cup full of a drink made from grapes."
