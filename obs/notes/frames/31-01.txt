@@ -10,6 +10,10 @@ Kisha **Yesu** akawaambia **wanafunzi** waingie kwa mashua na kusafiri hadi pand
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:pray|pray (kuomba)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:other:pray]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **he dismissed the crowd**  - This is another way of saying, "he sent the crowd on their way" or, "he told the crowd of people to go back to their homes."
