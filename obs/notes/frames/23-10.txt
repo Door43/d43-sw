@@ -9,6 +9,9 @@ Wakati **wanaume wenye hekima** waliona Yesu na mama yake, **waliinama chini** n
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:worship|worshiped (aliabudu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:worship]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **wise men**  - See how you translated this term in **[[:sw:obs:notes:frames:23-09|[23-09]]]**.
