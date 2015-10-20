@@ -12,6 +12,13 @@
   * **[[:sw:obs:notes:key-terms:sin|sinner (mwenye dhambi)]]**
   * **[[:sw:obs:notes:key-terms:adultery|adulterers (wazinifu)]]**
   * **[[:sw:obs:notes:key-terms:tax-collector|tax collector (mtoza ushuru)]]**
+
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:adultery]]**
+  * **[[:sw:obe:other:taxcollector]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
