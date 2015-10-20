@@ -9,6 +9,8 @@
 ===== Important Terms (Maneno ya Muhimu): =====
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
