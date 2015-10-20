@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
   * **[[:sw:obs:notes:key-terms:death|dead (amekufa)]]**
   * **[[:sw:obs:notes:key-terms:life|alive (yu hai)]]**
+
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:life]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
