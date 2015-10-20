@@ -13,6 +13,11 @@ Kisha **Yesu** akaenda pamoja na **wanafunzi** wake **mahali panaitwa bustanini 
   * **[[:sw:obs:notes:key-terms:pray|pray (kuomba)]]**
   * **[[:sw:obs:notes:key-terms:tempt|temptation (majaribu)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:other:pray]]**
+  * **[[:sw:obe:kt:tempt]]** 
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **a place called Gethsemane**  - This could be translated as, "a nearby place called Gethsemane" or, "a place called Gethsemane at the foot of the Mount of Olives."
