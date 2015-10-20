@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:glory|Glory (Utukufu)]]**
   * **[[:sw:obs:notes:key-terms:heaven|heaven (bingu)]]**
   * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
+
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:glory]]**
+  * **[[:sw:obe:kt:heaven]]**
+  * **[[:sw:obe:other:peace]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (The angel continued speaking.)
