@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
   * **[[:sw:obs:notes:key-terms:forgive|forgive (kusamehe)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:kt:forgive]]**
+  * **[[:sw:obe:kt:sin]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
