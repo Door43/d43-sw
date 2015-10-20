@@ -12,6 +12,12 @@ Usiku huo, kulikuwa na **wachungaji** fulani katika shamba iliyo karibu **wanali
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
   * **[[:sw:obs:notes:key-terms:bethlehem|Bethlehem (Bethlehemu)]]**
+
+  * **[[:sw:obe:other:shepherd]]**
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:other:bethlehem]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **guarding their flocks**  - A "flock" is a group of sheep. The shepherds were caring for their sheep, and protecting them from harm or theft.
