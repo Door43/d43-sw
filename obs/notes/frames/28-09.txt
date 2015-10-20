@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **left everything**  - That is, "left everything behind" or, "given up everything we owned."
