@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:inherit|inherit (kurithi)]]**
   * **[[:sw:obs:notes:key-terms:eternal-life|eternal life (uzima wa milele)]]**
   * **[[:sw:obs:notes:key-terms:gods-law|God's law (sheria za Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:teacher]]**
+  * **[[:sw:obe:kt:inherit]]**
+  * **[[:sw:obe:other:eternity]]**
+  * **[[:sw:obe:kt:lawofmoses]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
