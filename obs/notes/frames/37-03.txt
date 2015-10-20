@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:lazarus|Lazarus (Lazaro)]]**
   * **[[:sw:obs:notes:key-terms:death|dead (amekufa)]]**
   * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:other:lazarus]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:believe]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **he will get better**  - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he will get well."
