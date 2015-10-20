@@ -13,6 +13,13 @@ Wakati **Yesu** alikuja juu kutoka ndani ya maji baada ya **kubatizwa**, **Roho 
   * **[[:sw:obs:notes:key-terms:heaven|heaven (binguni)]]**
   * **[[:sw:obs:notes:key-terms:god-son|Son (Mwana)]]**
   * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:kt:heaven]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:love]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **my Son whom I love**  - Make sure the translation of this does not sound like there was another son. It may be necessary to say, "You are my Son. I love you very much and am very pleased with you."
