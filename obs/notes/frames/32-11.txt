@@ -11,6 +11,10 @@ Lakini **Yesu** akamwambia, "Hapana, nataka uende nyumbani na kuwaambia marafiki
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:mercy|mercy (huruma)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:mercy]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **how he has had mercy on you**  - This can be translated as, "how he has shown mercy to you" or, "that he has been merciful to you."
