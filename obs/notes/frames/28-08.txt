@@ -10,6 +10,12 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:god]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **With people this is impossible**  - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
