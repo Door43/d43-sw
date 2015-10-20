@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:tax-collector|tax collectors (watoza ushuru)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinners (wenye dhambi)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:taxcollector]]**
+  * **[[:sw:obe:kt:sin]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
