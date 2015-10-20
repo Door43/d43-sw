@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:heaven|heaven (mbiguni)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:heaven]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **you**  - If your language has different words for "you" depending on the number of people intended, use the singular form. Jesus was addressing this command to this one man.
