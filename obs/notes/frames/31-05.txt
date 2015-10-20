@@ -10,6 +10,12 @@ Kisha **Petero** akamwambia **Yesu, "Bwana, kama ni wewe**, niamuru nije kwako j
   * **[[:sw:obs:notes:key-terms:peter|Peter (Petero)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:lord]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **if it is you**  - That is, "if it is really you, and not a ghost."
