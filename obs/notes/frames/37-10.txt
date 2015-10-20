@@ -13,6 +13,12 @@ Kwa hivyo **Lazaro akatoka!** Alikuwa bado amefungwa **n****a**** nguo za kaburi
   * **[[:sw:obs:notes:key-terms:jew|Jews (Wayahudi)]] **
   * **[[:sw:obs:notes:key-terms:believe|believed (waliamini)]] **
   * **[[:sw:obs:notes:key-terms:miracle|miracle (muujiza)]] **
+
+  * **[[:sw:obe:other:lazarus]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:miracle]]**
 ===== Translation Notes: =====
 
   * **Lazarus came out!**  - Some languages should say, "Lazarus came out of the tomb!"
