@@ -15,6 +15,15 @@ Mmoja wa **wanafunzi wa Yesu** alikuwa mtu mmoja aitwaye **Yuda**. Yuda alikuwa 
   * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]] **
   * **[[:sw:obs:notes:key-terms:betray|betray (kusaliti)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:other:judasiscariot]]**
+  * **[[:sw:obe:kt:apostle]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:betray]]**
+  * **[[:sw:obe:kt:christ]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **in charge of the apostles' moneybag**  - That is, "responsible to hold the apostles' money" or, "responsible to hold the bag that had the disciples' money in it and to distribute funds from it."
