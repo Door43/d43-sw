@@ -13,6 +13,12 @@
   * **[[:sw:obs:notes:key-terms:angel|angel (malaika)]]**
   * **[[:sw:obs:notes:key-terms:dream|dream (ndoto)]]**
 
+  * **[[:sw:obe:other:mary]]**
+  * **[[:sw:obe:kt:righteous]]**
+  * **[[:sw:obe:other:josephnt]]**
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:other:dream]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **he knew it was not his baby**  - That is, "he knew that he was not the one who had caused her to be pregnant."
