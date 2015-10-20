@@ -11,6 +11,10 @@
   * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
   * **[[:sw:obs:notes:key-terms:joy|joy (furaha)]]**
   * **[[:sw:obs:notes:key-terms:persecute|persecution (mateso)]]**
+
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:joy]]**
+  * **[[:sw:obe:other:persecute]]** 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to explain the story.)
