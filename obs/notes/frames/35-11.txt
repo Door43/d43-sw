@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
   * **[[:sw:obs:notes:key-terms:beg|begged (alisihi)]]**
+
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:other:beg]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
