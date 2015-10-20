@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:baptize|baptize (batiza)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinned (kutenda dhambi)]]**
+
+  * **[[:sw:obe:other:johnthebaptist]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:kt:sin]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **I am not worthy to baptize you**  - This could be translated as, "I am not good enough to baptize you" or, "I am sinful, so I should not baptize you."
