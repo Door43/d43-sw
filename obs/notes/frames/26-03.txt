@@ -11,6 +11,11 @@ Yesu akasoma, "**Mungu** amenipa **Roho** wake ili **nikatangaze habari njema kw
   * **[[:sw:obs:notes:key-terms:holy-spirit|Spirit (Roho)]]**
   * **[[:sw:obs:notes:key-terms:good-news|good news (habari njema)]]**
   * **[[:sw:obs:notes:key-terms:lord|Lord's (ya Bwana)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:kt:goodnews]]**
+  * **[[:sw:obe:kt:lord]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **proclaim good news to the poor**  - That is, "to tell poor and needy people the good message that God will help them."
