@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:servant|servant (mtumishi)]]**
   * **[[:sw:obs:notes:key-terms:king|king (mfalme)]]**
   * **[[:sw:obs:notes:key-terms:servant|slaves (mtumwa)]]**
+
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:servant]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues the story.)
