@@ -11,6 +11,11 @@ Baada ya chakula, **Yesu** na **wanafunzi** wake walitembea katika **mlima wa Mi
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:shepherd|shepherd (muchungaji)]]**
   * **[[:sw:obs:notes:key-terms:sheep|sheep (kondoo)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:other:shepherd]]**
+  * **[[:sw:obe:other:sheep]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Mount of Olives**  - This is the name of a hill covered with olive trees, just outside the walls of the city of Jerusalem. It can also be translated as, "Olive Tree Hill."
