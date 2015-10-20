@@ -11,6 +11,10 @@ Hilo **kaburi** lilikuwa pango ikiwa na jiwe limewekwa mbele ya ufunguzi wake. *
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:death|dead (amekufa)]] **
 
+  * **[[:sw:obe:other:tomb]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:death]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **he told them**  - That is, "he told the men there." He was probably not telling Mary and Martha to roll the stone away.
