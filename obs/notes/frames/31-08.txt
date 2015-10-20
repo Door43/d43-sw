@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:worship|worshiped (waliabudu)]]**
   * **[[:sw:obs:notes:key-terms:true|Truly (Kweli)]]**
   * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:true]]**
+  * **[[:sw:obe:kt:sonofgod]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **When Peter and Jesus got into the boat, the wind**  - It may be better to say, "Peter and Jesus got into the boat, and then the wind."
