@@ -11,6 +11,11 @@ Kisa **Yesu** akaketi. Kila mtu akamtazama kwa karibu. Walijua sehemu ya **maand
   * **[[:sw:obs:notes:key-terms:word-of-god|scripture (maandiko)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:joseph-nt|Joseph (Yusufu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:other:josephnt]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **The words I just read to you are happening right now**  - Other ways to translate this would be, "The words you just heard me read are being fulfilled right now" or, "Today the words I read to you came true as you heard them."
