@@ -18,6 +18,17 @@ Kila mwaka, **Wayahudi** walisherehekea **Pasaka**. Hii ilikuwa ni maadhimisho y
   * **[[:sw:obs:notes:key-terms:preach|preaching (Kuhubiri)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (Wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:kt:passover]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:preach]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:other:jerusalem]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **many centuries earlier**  - That is, "hundreds of years earlier" or, "a very long time before."
