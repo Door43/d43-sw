@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **bread**  - Make sure that you use the same word to translate "bread" here as you did in **[[:sw:obs:notes:frames:25-02|[25-02]]]**.
