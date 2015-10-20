@@ -17,6 +17,12 @@
   * **[[:sw:obs:notes:key-terms:lord|Lord (Bwana)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:satan]]**
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Get away from me**  - This may also be translated as, "Leave me" or, "Leave me alone."
