@@ -12,6 +12,12 @@ Wakati watu walisikia ujumbe wa **Yohana**, wengi **walitubu dhambi zao**, na Yo
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:baptize|baptized (walibatizwa)]]**
   * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leaders (voingozi wa kindini)]]**
+
+  * **[[:sw:obe:other:johnthebaptist]]**
+  * **[[:sw:obe:kt:repent]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:other:jewishleaders]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **repented from their sins**  - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
