@@ -11,6 +11,10 @@
   * **[[:sw:obs:notes:key-terms:john-baptist|John (Yohana)]]**
   * **[[:sw:obs:notes:key-terms:zechariah-nt|Zechariah (Zakaria)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophet (nabii)]]**
+
+  * **[[:sw:obe:other:johnthebaptist]]**
+  * **[[:sw:obe:other:zechariahnt]]**
+  * **[[:sw:obe:kt:prophet]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **wilderness**  - That is, "the desert" or, "a remote, desert-like place." There were few people living out in this area.
