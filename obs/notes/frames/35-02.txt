@@ -11,6 +11,13 @@ Baadhi ya **viongozi wa kidini** ambao pia walikuwepo walimuona **Yesu** akitend
   * **[[:sw:obs:notes:key-terms:jewish-leaders|religious leaders (viongozi wa kidini)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinners (wenye dhambi)]]**
+
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:sin]]**
+
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **story**  - Jesus used this story to teach truths about God's kingdom. It is not clear if the events actually happened or not. If your language has a term that includes both fictional and real stories, you should use it here.
