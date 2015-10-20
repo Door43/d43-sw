@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
   * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:love]]**
+  * **[[:sw:obe:kt:god]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to explain the story.)
