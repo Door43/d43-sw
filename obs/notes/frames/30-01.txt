@@ -11,6 +11,10 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:apostle|apostles (mitume)]]**
   * **[[:sw:obs:notes:key-terms:preach|preach (kuhubiri)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:apostle]]**
+  * **[[:sw:obe:other:preach]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **quiet place**  - This refers to a place with few people where they could be by themselves.
