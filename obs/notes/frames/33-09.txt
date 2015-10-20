@@ -10,6 +10,12 @@
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
   * **[[:sw:obs:notes:key-terms:word-of-god|word of God (neno la Mungu)]]**
   * **[[:sw:obs:notes:key-terms:believe|believes (kuamini)]]**
+
+  * **[[:sw:obe:kt:good]]**
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:believe]]**
+
+
 ===== Translation Notes (Malezo ya Tafsiri): =====
 
   * (Jesus continues to explain the story.)
