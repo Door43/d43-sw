@@ -13,6 +13,12 @@ Baadhi ya watu **waliwashtaki wanafunzi kwa kuwa walevi**. Lakini **Petero ** al
   * **[[:sw:obs:notes:key-terms:fulfill|fulfills (inatimiza)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophecy (unabii)]]**
   * **[[:sw:obs:notes:key-terms:holy-spirit|Spirit (Roho)]]**
+
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:fulfill]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:holyspirit]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **accused the disciples of being drunk**  - This could also be translated as, "said that the disciples were drunk."
