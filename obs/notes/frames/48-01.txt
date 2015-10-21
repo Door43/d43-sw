@@ -13,6 +13,13 @@ Wakati **Mungu aliumba Ulimwengu**, kila kitu kilikuwa **kikamilifu**. **Hakukuw
   * **[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]**
   * **[[:sw:obs:notes:key-terms:love|loved (kupenda)]]**
   * **[[:sw:obs:notes:key-terms:death|death (kifo)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:adam]]**
+  * **[[:sw:obe:other:eve]]**
+  * **[[:sw:obe:kt:love]]**
+  * **[[:sw:obe:kt:death]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **God created the world**  - That is, "God made the world out of nothing."
