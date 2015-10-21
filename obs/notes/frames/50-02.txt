@@ -15,6 +15,14 @@ Tunapoendelea kusubiri **Yesu** arudi, **Mungu ** anatutaka tuishi kwa njia amba
   * **[[:sw:obs:notes:key-terms:preach|preach (kuhubiri)]]**
   * **[[:sw:obs:notes:key-terms:good-news|good news (habari njema)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:holy]]**
+  * **[[:sw:obe:kt:kingdomofgod]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:other:preach]]**
+  * **[[:sw:obe:kt:goodnews]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the end will come**  - This could be translated as, "the end of this world will come" or, "the end of this world will happen" or, "this present world will end."
