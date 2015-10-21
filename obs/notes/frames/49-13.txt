@@ -14,6 +14,14 @@
   * **[[:sw:obs:notes:key-terms:receive|receives (anapokea)]]**
   * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
   * **[[:sw:obs:notes:key-terms:love|loves (anapenda)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:receive]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:kt:love]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **he can have a close relationship with you**  - This can also be translated as, "so that you can be his child" or, "so that you can be his friend" or, "so you can belong to him."
