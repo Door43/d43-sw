@@ -14,6 +14,14 @@
   * **[[:sw:obs:notes:key-terms:eve|Eve (Hawa)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinned (wametenda dhambi)]]**
   * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:adam]]**
+  * **[[:sw:obe:other:eve]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:descendant]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **is separated from God**  - This can also be translated as, "cannot live with God" or, "cannot be near God" or, "cannot have a relationship with God."
