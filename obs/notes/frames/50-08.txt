@@ -12,6 +12,12 @@ The **disciples** did not understand the meaning of the story, so they asked **J
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-god|God's kingdom (ufalme wa Mungu)]]**
+
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:good]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:kingdomofgod]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the people of God's kingdom**  - This can also be translated as, "the people who live under God's authority" or, "the people who have submitted to God's rule" or, "the people who will live with God in his Kingdom."
