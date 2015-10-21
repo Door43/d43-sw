@@ -16,6 +16,14 @@
   * **[[:sw:obs:notes:key-terms:believer|believers (waaminio)]]**
   * **[[:sw:obs:notes:key-terms:church|churches (makanisa)]]**
 
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:kt:christian]]**
+  * **[[:sw:obe:other:preach]]**
+  * **[[:sw:obe:kt:goodnews]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:believer]]**
+  * **[[:sw:obe:kt:church]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
