@@ -16,6 +16,15 @@ Baadhi ya waaminio ambao walitoroka kutoka kwa **mateso ** huko **Yerusalemu ** 
   * **[[:sw:obs:notes:key-terms:paul|Saul (Sauli)]]**
   * **[[:sw:obs:notes:key-terms:church|church (kanisa)]]**
   * **[[:sw:obs:notes:key-terms:christian|Christians (Wakristo)]]**
+
+  * **[[:sw:obe:other:persecute]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:other:barnabas]]**
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:kt:church]]**
+  * **[[:sw:obe:kt:christian]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **city of Antioch**  - This was an ancient city located in what is now the southernmost tip of the modern country of Turkey, near its border with Syria and close to the Mediterranean Sea. It was about 450 miles northwest of Jerusalem.
