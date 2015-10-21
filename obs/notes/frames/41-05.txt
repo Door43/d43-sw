@@ -12,6 +12,12 @@ Wakati wanawake waliwasili katika kaburi, **malaika** akawaambia, "**Msiogope. Y
   * **[[:sw:obs:notes:key-terms:raise|risen (amefufuka)]]**
   * **[[:sw:obs:notes:key-terms:death|dead (amekufa)]]**
   * **[[:sw:obs:notes:key-terms:tomb|tomb (kaburi)]]**
+
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:raise]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:other:tomb]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Do not be afraid**  - That is, "Stop being afraid." An angel shining like lightning was a frightening sight!
