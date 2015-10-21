@@ -15,6 +15,14 @@
   * **[[:sw:obs:notes:key-terms:demon|demons (mapepo)]]**
   * **[[:sw:obs:notes:key-terms:raise|raised (alifufua)]]**
   * **[[:sw:obs:notes:key-terms:death|dead (wafu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:miracle]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:heal]]**
+  * **[[:sw:obe:kt:demon]]**
+  * **[[:sw:obe:kt:raise]]**
+  * **[[:sw:obe:kt:death]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **drove out demons**  - That is, "made demons come out of people."
