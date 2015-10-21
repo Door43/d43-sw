@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:word-of-god|his word (neno lake)]]**
   * **[[:sw:obs:notes:key-terms:worship|worship (abudu)]]**
   * **[[:sw:obs:notes:key-terms:christian|Christians (Wakristo)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:pray]]**
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:christian]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **to have a deeper relationship with him**  - This could also be translated as, "to love him more" or, "to know him more" or, "to become more faithful to him."
