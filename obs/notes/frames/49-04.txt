@@ -9,6 +9,9 @@ Pia alifundisha kwamba unahitaji **kumpenda Mungu** zaidi ya unavyopenda kitu ki
 
   * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:love]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **your wealth**  - This could also be translated as, "your money" or, "your possessions."
