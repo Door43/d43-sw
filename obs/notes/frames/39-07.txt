@@ -12,6 +12,11 @@ Kisha **Petero aliapa** akisema, “**Mungu**** anilaani mimi kama ninajua mtu h
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:curse|curse (laani)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:curse]]**
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **vowed**  - That is, "said emphatically" or, "said very strongly."
