@@ -12,6 +12,12 @@ Kwa karibu miaka 2,000 , watu zaidi na zaidi duniani kote wamekuwa wakisikia **h
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:church|Church (Kanisa)]]**
   * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
+
+  * **[[:sw:obe:kt:goodnews]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:church]]**
+  * **[[:sw:obe:kt:promise]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **The Church has been growing**  - This could also be translated as, "The number of people in the Church around the world has been increasing" or, "The number of believers in Jesus has been increasing."
