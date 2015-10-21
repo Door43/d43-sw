@@ -10,6 +10,8 @@ Vile Filipo na Muethiopia walikuwa wanasafiri, wakaja pahali **penye maji**. Mue
   * **[[:sw:obs:notes:key-terms:baptize|baptized (kubatizwa)]]**
   * **[[:sw:obs:notes:key-terms:chariot|chariot (gari la farasi)]]**
 
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:other:chariot]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **some water**  - Use a term that means a larger body of water such as a pond, lake, or stream.
