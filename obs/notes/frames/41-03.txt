@@ -13,6 +13,11 @@ Siku moja baada ya **Yesu** kuzikwa ikawa siku ya **Sabato**, na **wale Wayahudi
   * **[[:sw:obs:notes:key-terms:jew|Jews (Wayahudi)]]**
   * **[[:sw:obs:notes:key-terms:tomb|tomb (kaburi)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:sabbath]]**
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:other:tomb]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the Jews were not permitted**  - The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work.
