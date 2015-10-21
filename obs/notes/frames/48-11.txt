@@ -13,6 +13,15 @@
   * **[[:sw:obs:notes:key-terms:covenant-new|New Covenant (Agano Jipya)]]**
   * **[[:sw:obs:notes:key-terms:people-group|people group (kikundi cha watu)]]**
   * **[[:sw:obs:notes:key-terms:believe|believing (kuamini)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:other:peoplegroup]]**
+  * **[[:sw:obe:kt:believe]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the Israelites, who were his chosen people**  - That is, "the Israelites, the people he had chosen" or, "his chosen people, the Israelites."
