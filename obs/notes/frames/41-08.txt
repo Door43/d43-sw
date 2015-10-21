@@ -12,6 +12,11 @@ Wakati wanawake walikuwa wanaenda zao kuwaambia **wanafunzi** ile habari njema, 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:worship|worshiped (waliabudu)]]**
   * **[[:sw:obs:notes:key-terms:galilee|Galilee (Galilaya)]]**
+
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:other:galilee]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **will see me**  - That is, "will meet me" or, "can meet with me."
