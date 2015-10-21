@@ -15,6 +15,17 @@
   * **[[:sw:obs:notes:key-terms:forgive|forgive (samehe)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:repent]]**
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:forgive]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **in the name of**  - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
