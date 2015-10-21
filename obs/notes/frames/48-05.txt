@@ -12,6 +12,12 @@ Wakati **Mungu ** aliharibu dunia yote kwa mafuriko, alitoa mashua ya **kuokoa *
   * **[[:sw:obs:notes:key-terms:believe|believed (waliamini)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **destroyed because of their sins**  - This could also be translated as, "everyone should be punished eternally by God because they have sinned."
