@@ -15,6 +15,13 @@
   * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:death|died (kufariki)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:receive]]**
+  * **[[:sw:obe:kt:spirit]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:death]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **As Stephen was dying**  - That is, "Just before Stephen died."
