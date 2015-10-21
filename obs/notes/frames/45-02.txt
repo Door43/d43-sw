@@ -17,6 +17,15 @@
   * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mkuu)]]**
   * **[[:sw:obs:notes:key-terms:witness|witnesses (washuhuda)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:other:moses]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:highpriest]]**
+  * **[[:sw:obe:kt:witness]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
