@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:baptize|baptized (wakabatizwa)]]**
   * **[[:sw:obs:notes:key-terms:paul|Paul (Paulo)]]**
   * **[[:sw:obs:notes:key-terms:silas|Silas (Sila)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:other:silas]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **opened Lydia's heart**  - That is, "enabled Lydia."
