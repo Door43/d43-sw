@@ -15,6 +15,16 @@ Baada ya askari **kumsulubisha Yesu, viongozi wa Wayahudi wasioamini ** wakamwam
   * **[[:sw:obs:notes:key-terms:death|dead (wafu)]]**
   * **[[:sw:obs:notes:key-terms:tomb|tomb (kaburi)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+
+  * **[[:sw:obe:kt:crucify]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:other:pilate]]**
+  * **[[:sw:obe:kt:raise]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:other:tomb]]**
+  * **[[:sw:obe:kt:disciple]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the unbelieving Jewish leaders**  - That is, "the Jewish leaders who did not believe in Jesus."
