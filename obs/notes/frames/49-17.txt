@@ -17,6 +17,17 @@ Kama wewe ni rafiki wa **Mungu** na **mtumishi** wa **Bwana Yesu**, wewe utataka
   * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:faithful|faithful (muaminifu)]]**
   * **[[:sw:obs:notes:key-terms:forgive|forgive (samehe)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:christian]]**
+  * **[[:sw:obe:kt:tempt]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:faithful]]**
+  * **[[:sw:obe:kt:forgive]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **be tempted to sin**  - That is, ""be tempted to sin even though you know sin is wrong."
