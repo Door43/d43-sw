@@ -12,6 +12,12 @@ Kila mwaka, siku hamsini baada ya **Pasaka**, **Wayahudi ** walisheherekea siku 
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:heaven|heaven (mbinguni)]]**
+
+  * **[[:sw:obe:kt:passover]]**
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:heaven]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Pentecost**  - "Pentecost" means "fiftieth (day)." You could use the word "Pentecost" in your translation and let the text explain the meaning. Or you could use a term that means, "50th day."
