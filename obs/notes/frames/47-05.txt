@@ -11,7 +11,8 @@ Hatimaye **siku moja** wakati yule **msichana mtumwa ** alianza kutoa sauti kubw
   * **[[:sw:obs:notes:key-terms:paul|Paul (Paulo)]]**
   * **[[:sw:obs:notes:key-terms:demon|demon (pepo)]]**
   * **[[:sw:obs:notes:key-terms:demon|Jesus (Yesu)]]**
-<font 20px/inherit;;inherit;;inherit>** Translation Notes (Maelezo ya Tafsiri):  **</font>
+
+===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **one day - **  This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
   * **Siku Moja - **  Msemo huu unatanguliza tukio ambalo lilifanyika siku zilizopita, lakini haliezei wakati ule haswa. Lugha nyingi ziko na njia sawa ya kuanza kueleza hadithi ya ukweli.
