@@ -16,6 +16,15 @@ Siku arobaini baada ya **Yesu** kufufuka kutoka kwa wafu, akawaambia **wanafunzi
   * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
   * **[[:sw:obs:notes:key-terms:heaven|heaven (mbinguni)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:kt:godthefather]]**
+  * **[[:sw:obe:kt:power]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:kt:heaven]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **comes on you**  - That is, "comes down upon you" or, "comes onto you."
