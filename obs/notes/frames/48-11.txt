@@ -17,7 +17,7 @@
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:kt:covenant]]**
   * **[[:sw:obe:other:israel]]**
-  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:kt:newcovenant]]**
   * **[[:sw:obe:other:peoplegroup]]**
   * **[[:sw:obe:kt:believe]]**
 
