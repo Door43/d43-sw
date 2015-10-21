@@ -15,6 +15,14 @@ Askari wa gereza na familia yake yote **walimwamini ****Yesu ** na **wakabatizwa
   * **[[:sw:obs:notes:key-terms:silas|Silas (Sila)]]**
   * **[[:sw:obs:notes:key-terms:joy|rejoiced (walifurahia)]]**
 
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:other:silas]]**
+  * **[[:sw:obe:kt:joy]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //(There are no notes for this frame.)//
