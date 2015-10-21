@@ -20,6 +20,19 @@ A **disciple** of **Jesus**' named Philip was one of the **believers** who fled 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:chariot|chariot (gari la farasi)]]**
   * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
+
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:believer]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:other:persecute]]**
+  * **[[:sw:obe:other:samaria]]**
+  * **[[:sw:obe:other:preach]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:chariot]]**
+  * **[[:sw:obe:kt:holyspirit]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **one day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
