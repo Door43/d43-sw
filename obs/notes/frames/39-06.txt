@@ -11,6 +11,11 @@ As **Peter** was waiting outside the house, a **servant girl** saw him and said 
   * **[[:sw:obs:notes:key-terms:servant|servant girl (mtumishi wa kike)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:galilee|Galilee (Galilaya)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:galilee]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **denied it**  - This can be translated as, "said that it was not true" or, "said that he was not with Jesus" or, "said, 'No. That is not true.'"
