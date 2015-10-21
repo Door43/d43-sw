@@ -14,13 +14,13 @@
   * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:crucify|crucified (mlishulubisha)]]**
+  * **[[:sw:obe:other:ishmael|Ishmael]]**
+  * **[[:sw:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:sw:obe:kt:miracle|miracle, wonder, sign]]**
+  * **[[:sw:obe:kt:power|power]]**
+  * **[[:sw:obe:kt:god|God (Mungu)]]**
+  * **[[:sw:obe:kt:crucify|crucify]]**
 
-  * **[[:sw:obe:other:ishmael]]**
-  * **[[:sw:obe:kt:jesus]]**
-  * **[[:sw:obe:kt:miracle]]**
-  * **[[:sw:obe:kt:power]]**
-  * **[[:sw:obe:kt:god]]**
-  * **[[:sw:obe:kt:crucify]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Peter continues preaching to the crowd.)
