@@ -15,6 +15,13 @@ Mojawapo wa viongozi **katika kanisa la kwanza** alikuwa mtu aliyeitwa Stefano. 
   * **[[:sw:obs:notes:key-terms:believe|believe (kuamini)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
 
+  * **[[:sw:obe:kt:church]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:kt:wise]]**
+  * **[[:sw:obe:kt:miracle]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:jesus]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the early Church**  - That is, "the Church when it first began."
