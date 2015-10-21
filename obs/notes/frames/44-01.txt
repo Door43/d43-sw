@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:john|John (Yohana)]]**
   * **[[:sw:obs:notes:key-terms:temple|Temple (Hekalu)]]**
   * **[[:sw:obs:notes:key-terms:beg|begging (kuomba)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:other:johntheapostle]]**
+  * **[[:sw:obe:kt:temple]]**
+  * **[[:sw:obe:other:beg]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
