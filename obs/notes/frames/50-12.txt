@@ -12,6 +12,12 @@ Basi **Wakristo ** ambao **bado wako hai** watatokea angani na kujiunga na wakri
   * **[[:sw:obs:notes:key-terms:raise|rose (wamefufuka)]]**
   * **[[:sw:obs:notes:key-terms:death|dead (wafu)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:kt:christian]]**
+  * **[[:sw:obe:kt:life]]**
+  * **[[:sw:obe:kt:raise]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **still alive**  - That is, "still alive when Jesus returns."
