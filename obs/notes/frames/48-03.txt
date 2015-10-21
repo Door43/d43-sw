@@ -13,6 +13,11 @@ Kwa sababu **Adamu ** na **Hawa walitenda dhambi**, kitu **hata mbaya zaidi** ki
   * **[[:sw:obs:notes:key-terms:sin|sinned (walitenda dhambi)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
 
+  * **[[:sw:obe:other:adam]]**
+  * **[[:sw:obe:other:eve]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:god]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **even more terrible**  - That is, "much worse" or, "worse yet."
