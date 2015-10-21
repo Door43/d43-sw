@@ -14,6 +14,14 @@ Yesu akajibu, "**Wewe umesema**, lakini **ufalme wangu si utawala wa kidunia**. 
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:love|loves (anapenda)]]**
   * **[[:sw:obs:notes:key-terms:pilate|Pilate (Pilato)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:kingdomofgod]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:true]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:love]]**
+  * **[[:sw:obe:other:pilate]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **You have said so**  - That is, "You have spoken correctly."
