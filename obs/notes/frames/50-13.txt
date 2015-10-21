@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:life|live (kuishi)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:life]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:peace]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **crown**  - This crown represents our reward for believing in Jesus and serving him in this life.
