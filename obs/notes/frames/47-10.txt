@@ -11,6 +11,9 @@
   * **[[:sw:obs:notes:key-terms:rome|Roman authorities (serikali ya Kirumi)]]**
   * **[[:sw:obs:notes:key-terms:paul|Paul (Paulo)]]**
 
+  * **[[:sw:obe:other:rome]]**
+  * **[[:sw:obe:other:paul]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **The jailer**  - That is, "the official in charge of the jail."
