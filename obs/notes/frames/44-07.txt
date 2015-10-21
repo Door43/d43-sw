@@ -12,6 +12,12 @@ Siku iliyofuata, **viongozi wa Wayahudi ** wakaleta **Petero** na **Yohana** kwa
   * **[[:sw:obs:notes:key-terms:john|John (Yohana)]]**
   * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mkuu)]]**
   * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
+
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:other:johntheapostle]]**
+  * **[[:sw:obe:kt:highpriest]]**
+  * **[[:sw:obe:kt:power]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //(There are no notes for this frame.)//
