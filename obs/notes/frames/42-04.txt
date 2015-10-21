@@ -9,6 +9,9 @@ Watu wale wawili walialika **Yesu** akae nao, naye hivyo ndivyo alivyofanya. Wal
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **he disappeared from their sight**  - This could also be translated as, "he was gone" or, "he was no longer there."
