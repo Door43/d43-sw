@@ -12,6 +12,10 @@
   * **[[:sw:obs:notes:key-terms:death|died (alikufa)]]**
   * **[[:sw:obs:notes:key-terms:raise|rise (fufuka)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:christian]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:raise]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **he left**  - This could also be translated as, "he left the earth" or, "he left to go back to heaven."
