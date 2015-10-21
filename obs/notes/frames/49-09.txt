@@ -15,6 +15,16 @@ Lakini **Mungu alipenda** kila mtu katika ulimwengu sana hivi kwamba **akamtoa M
   * **[[:sw:obs:notes:key-terms:punish|punished (kuadhibiwa)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:life|live (kuishi)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:love]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:life]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **gave his only Son**  - This could also be translated as, "offered his only Son to the world as a sacrifice for sins" or, "gave us his only Son to be a sacrifice for our sins."
