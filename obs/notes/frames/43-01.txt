@@ -15,6 +15,13 @@ Baada ya **Yesu kurudi mbinguni**, **wanafunzi walikaa Yerusalemu** kama vile Ye
   * **[[:sw:obs:notes:key-terms:believer|believers (waaminio)]]**
   * **[[:sw:obs:notes:key-terms:pray|pray (kuomba)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:heaven]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:kt:believer]]**
+  * **[[:sw:obe:other:pray]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **returned to heaven**  - That is, "went back to heaven."
