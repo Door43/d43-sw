@@ -17,6 +17,17 @@
   * **[[:sw:obs:notes:key-terms:cross|cross (msalaba)]]**
   * **[[:sw:obs:notes:key-terms:raise|raised (alifufua)]]**
   * **[[:sw:obs:notes:key-terms:life|life (uhai)]]**
+
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:cross]]**
+  * **[[:sw:obe:kt:raise]]**
+  * **[[:sw:obe:kt:life]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Good works cannot save you**  - That is, "Doing good things cannot save you from your sins" or, "You cannot do anything good enough to save yourself from the penalty for your sins."
