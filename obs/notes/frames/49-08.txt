@@ -20,7 +20,6 @@
   * **[[:sw:obe:kt:sin]]**
   * **[[:sw:obe:other:adam]]**
   * **[[:sw:obe:other:eve]]**
-  * **[[:sw:obe:kt:sin]]**
   * **[[:sw:obe:other:descendant]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
