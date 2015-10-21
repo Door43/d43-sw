@@ -15,6 +15,9 @@
   * **[[:sw:obs:notes:key-terms:believer|believers (waaminio]]**)
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
 
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:other:preach]]**
+  * **[[:sw:obe:other:jew]]**
   * **[[:sw:obe:kt:jesus]]**
   * **[[:sw:obe:kt:sonofgod]]**
   * **[[:sw:obe:kt:believer]]**
