@@ -25,6 +25,7 @@ Important    Terms (Maneno ya Muhimu):
   * **[[:sw:obe:kt:fulfill]]**
   * **[[:sw:obe:kt:prophet]]**
   * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:holyone]]**
   * **[[:sw:obe:kt:witness]]**
   * **[[:sw:obe:kt:life]]**
 
