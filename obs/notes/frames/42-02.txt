@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:jerusalem]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **did not recognize him**  - That is, "did not know that it was Jesus."
