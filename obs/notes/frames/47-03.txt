@@ -16,6 +16,14 @@
   * **[[:sw:obs:notes:key-terms:demon|demon (pepo)]]**
   * **[[:sw:obs:notes:key-terms:lord|masters (mabwana)]]**
 
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:other:silas]]**
+  * **[[:sw:obe:other:pray]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:demonpossessed]]**
+  * **[[:sw:obe:kt:demon]]**
+  * **[[:sw:obe:kt:lord]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **her masters**  - In this case, this could also be translated as, "her owners."
