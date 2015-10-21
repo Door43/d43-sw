@@ -17,6 +17,18 @@ Wakati **Mungu ** alimwambia **Ibrahimu ** amtoe **mwanawe**, **Isaka**, kama **
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:lamb|Lamb of God (Mwana Kondoo wa Mungu)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:kt:lamb]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:lamb]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **instead of his son, Isaac**  - This can also be translated as, "in the place of his son, Isaac" or, "in his son Isaac's place" or, "so that he would not have to offer his son Isaac as a sacrifice."
