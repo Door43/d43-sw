@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:rome|Roman (ya Kirumi)]]**
   * **[[:sw:obs:notes:key-terms:mock|mocked (kudhihaki)]]**
   * **[[:sw:obs:notes:key-terms:king-of-jews|King of the Jews (Mfalme wa Wayahudi)]]**
+
+  * **[[:sw:obe:other:pilate]]**
+  * **[[:sw:obe:kt:crucify]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:rome]]**
+  * **[[:sw:obe:other:mock]]**
+  * **[[:sw:obe:kt:kingofthejews]]** 
 ===== Translation Notes (Maelezo y: =====
 
   * **riot**  - That is, "start doing violent things in their anger."
