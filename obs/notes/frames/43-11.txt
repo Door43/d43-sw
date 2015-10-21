@@ -20,7 +20,6 @@
   * **[[:sw:obe:kt:repent]]**
   * **[[:sw:obe:kt:baptize]]**
   * **[[:sw:obe:kt:jesus]]**
-  * **[[:sw:obe:kt:christ]]**
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:kt:forgive]]**
   * **[[:sw:obe:kt:sin]]**
