@@ -16,6 +16,14 @@
   * **[[:sw:obs:notes:key-terms:faithful|faithful (mwaminifu)]]**
   * **[[:sw:obs:notes:key-terms:save|save (okoa)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:kt:suffer]]**
+  * **[[:sw:obe:kt:satan]]**
+  * **[[:sw:obe:kt:faithful]]**
+  * **[[:sw:obe:kt:save]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **not greater than**  - That is, "not more important than" or, in this case, "not treated better than."
