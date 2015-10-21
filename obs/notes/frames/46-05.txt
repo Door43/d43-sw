@@ -11,6 +11,11 @@ Hivyo Anania alienda kwa **Sauli**, akawekelea mikono juu yake, na akasema, "**Y
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
   * **[[:sw:obs:notes:key-terms:baptize|baptized (alibatiza)]]**
+
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:kt:baptize]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **here**  - That is, "to Damascus."
