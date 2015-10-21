@@ -12,6 +12,11 @@ Baada ya askari **kumdhihaki Yesu**, **wakampeleka kumsulubisha.** Walimfanya ab
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:crucify|crucify (sulubisha)]]**
   * **[[:sw:obs:notes:key-terms:cross|cross (msalaba)]]**
+
+  * **[[:sw:obe:other:mock]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:crucify]]**
+  * **[[:sw:obe:kt:cross]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **led him away**  - That is, "forced him to go with them." This could also be translated as, "took him away."
