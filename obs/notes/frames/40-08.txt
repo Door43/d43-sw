@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:innocent|innocent (asiye na hatia)]]**
   * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
+
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:innocent]]**
+  * **[[:sw:obe:kt:sonofgod]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Through his death**  - That is, "By means of his death" or, "By dying."
