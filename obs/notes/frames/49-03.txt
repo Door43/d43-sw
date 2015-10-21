@@ -11,6 +11,10 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:god-son|Son of God (Mwana wa Mungu)]]**
   * **[[:sw:obs:notes:key-terms:love|love (upendo)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:love]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **a great teacher**  - That is, "a very important teacher" or, "an excellent teacher."
