@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
   * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
+
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:kt:good]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (Jesus continues to tell the story.)
