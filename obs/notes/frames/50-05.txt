@@ -10,6 +10,10 @@
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:good|good (nzuri)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:good]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **good seed**  - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
