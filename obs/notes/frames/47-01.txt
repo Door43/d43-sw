@@ -16,6 +16,16 @@ Kama vile Saulo aliendelea kusafiri akipitia katika **Dola ya Kirumi, akaanza ku
   * **[[:sw:obs:notes:key-terms:love|loved (alipenda)]]**
   * **[[:sw:obs:notes:key-terms:worship|worshiped (aliabudu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:other:rome]]**
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:other:silas]]**
+  * **[[:sw:obe:other:philippi]]**
+  * **[[:sw:obe:kt:goodnews]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:love]]**
+  * **[[:sw:obe:kt:worship]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **proclaim**  - That is, "teach" or, "preach."
