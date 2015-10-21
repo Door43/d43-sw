@@ -13,7 +13,16 @@ Kijana aliyeitwa **Sauli ** alikubaliana na watu waliomuua Stefano na **kulinda 
   * **[[:sw:obs:notes:key-terms:persecute|persecuting (kuwatesa)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:believer|believers (waaminio)]]**
-  * **[[:sw:obs:notes:key-terms:believer|preached (walihubiri)]]******
+  * **[[:sw:obs:notes:key-terms:believer|preached (walihubiri)]]**
+
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:other:persecute]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:believer]]**
+  * **[[:sw:obe:other:preach]]** 
+
+
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
