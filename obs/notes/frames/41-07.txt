@@ -9,6 +9,10 @@ Wale wanawake wakawa **wamejaa hofu na furaha kubwa**. Walikimbia kwenda kuwaamb
 
   * **[[:sw:obs:notes:key-terms:joy|joy (furaha)]]**
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
+
+  * **[[:sw:obe:kt:joy]]**
+  * **[[:sw:obe:kt:disciple]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **full of fear and great joy**  - That is, "experiencing emotions of fear and also great joy."
