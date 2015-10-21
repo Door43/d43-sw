@@ -14,6 +14,16 @@
   * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice (dhabihu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:forgive|forgive (samehe)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:punish]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:forgive]]**
+
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **take away**  - That is, "remove the penalty of" or, "remove the punishment for." The sacrifice of Jesus causes God to look at our sin as if it never existed.
