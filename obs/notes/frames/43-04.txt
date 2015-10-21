@@ -12,6 +12,9 @@ Wakati watu katika **Yerusalemu ** walisikia kelele, **umati ** ukaja kuona kile
   * **[[:sw:obs:notes:key-terms:believer|believers (waaminio)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
 
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:kt:believer]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **a crowd**  - This could be translated as, "a crowd of people" or, "a large group of people."
