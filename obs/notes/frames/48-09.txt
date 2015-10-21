@@ -13,6 +13,13 @@ Wakati **Mungu alituma pigo la mwisho juu ya Misri**, aliambia kila familia **ya
   * **[[:sw:obs:notes:key-terms:lamb|lamb (mwana kondoo)]]**
   * **[[:sw:obs:notes:key-terms:blood|blood (damu)]]**
   * **[[:sw:obs:notes:key-terms:passover|Passover (Pasaka)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:egypt]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:lamb]]**
+  * **[[:sw:obe:kt:blood]]**
+  * **[[:sw:obe:kt:passover]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **sent the last plague on Egypt**  - That is, "caused the final disaster to come on Egypt." This was the tenth plague when God caused the firstborn sons of the Egyptians to die.
