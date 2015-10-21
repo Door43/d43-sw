@@ -13,6 +13,13 @@ Kulikuwa na **mwanafunzi ** kule Dameski aliyeitwa Anania. **Mungu ** akamwambia
   * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
   * **[[:sw:obs:notes:key-terms:persecute|persecuted (aliwatesa)]]**
   * **[[:sw:obs:notes:key-terms:suffer|suffer (atateseka)]]**
+
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:kt:lord]]**
+  * **[[:sw:obe:other:persecute]]**
+  * **[[:sw:obe:kt:suffer]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **But Ananias said**  - If it is not clear why the word "But" is used here, this could be translated as, "But Ananias was afraid, so he said."
