@@ -14,6 +14,14 @@
   * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom (ufalme)]]**
   * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
   * **[[:sw:obs:notes:key-terms:justice|justice (haki)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:suffer]]**
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:kingdomofgod]]**
+  * **[[:sw:obe:other:peace]]**
+  * **[[:sw:obe:kt:justice]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **wipe away every tear**  - This could also be translated as, "bring an end to all of our grief" or, "make trouble end" or, "tenderly take away any sadness people have."
