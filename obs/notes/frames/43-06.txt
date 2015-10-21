@@ -14,7 +14,8 @@
   * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:crucify|crucified (mlishulubisha)]]**
-  * **[[:sw:obe:other:ishmael|Ishmael]]**
+
+  * **[[:sw:obe:other:israel]]**
   * **[[:sw:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:sw:obe:kt:miracle|miracle, wonder, sign]]**
   * **[[:sw:obe:kt:power|power]]**
