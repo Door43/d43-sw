@@ -19,6 +19,17 @@
   * **[[:sw:obs:notes:key-terms:life|life (maisha)]]**
   * **[[:sw:obs:notes:key-terms:save|saved (aliokoa)]]**
 
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:other:heal]]**
+  * **[[:sw:obe:kt:power]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:crucify]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:raise]]**
+  * **[[:sw:obe:kt:life]]**
+  * **[[:sw:obe:kt:save]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **healed**  - That is, "well" or, "whole" or, "strong."
