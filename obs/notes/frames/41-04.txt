@@ -12,6 +12,11 @@ Kwa ghafla **tetemeko kubwa la ardhi** lilitokea. **Malaika aliyeng'aa kama umem
   * **[[:sw:obs:notes:key-terms:heaven|heaven (mbinguni)]]**
   * **[[:sw:obs:notes:key-terms:tomb|tomb (kaburi)]]**
   * **[[:sw:obs:notes:key-terms:death|dead (wamekufa)]]**
+
+  * **[[:sw:obe:kt:angel]]**
+  * **[[:sw:obe:kt:heaven]]**
+  * **[[:sw:obe:other:tomb]]**
+  * **[[:sw:obe:kt:death]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **great earthquake**  - This could also be translated as, "violent earthquake" or, "forceful shaking of the ground." Some languages may prefer to reword this as, "the ground began to shake violently."
