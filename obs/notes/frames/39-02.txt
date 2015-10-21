@@ -11,6 +11,11 @@ Ndani ya nyumba, **viongozi wa Wayahudi wakaweka Yesu katika kesi**. Wakaleta **
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:witness|witnesses (mashahidi)]]**
   * **[[:sw:obs:notes:key-terms:guilt|guilty (hatia)]]**
+
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:witness]]**
+  * **[[:sw:obe:kt:guilt]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **put Jesus on trial**  - This could be translated as, "had a formal meeting to accuse Jesus of doing something wrong." Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
