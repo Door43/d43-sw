@@ -12,6 +12,11 @@ Katika siku arobaini zilizofuata, **Yesu** aliwatokea **wanafunzi** wake mara ny
   * **[[:sw:obs:notes:key-terms:disciple|disciples (wanafunzi)]]**
   * **[[:sw:obs:notes:key-terms:life|alive (hai)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom of God (ufalme wa Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:life]]**
+  * **[[:sw:obe:kt:kingdomofgod]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //(There are no notes for this frame.)//
