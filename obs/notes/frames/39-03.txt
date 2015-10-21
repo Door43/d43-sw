@@ -11,6 +11,11 @@ Hatimaye, **kuhani mkuu** akamtazama Yesu moja kwa moja na kusema, "Twambie, wew
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:god-son|Son of the living God (Mwana wa Mungu aliye hai)]]**
+
+  * **[[:sw:obe:kt:highpriest]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:sonofgod]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Finally**  - That is, "After they were unable to find any evidence against him" or, "After they were unable to prove that he was guilty."
