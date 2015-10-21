@@ -12,6 +12,11 @@ Yule **msichana mtumwa** aliendelea kutoa sauti ya juu walipokuwa wakitembea, "H
   * **[[:sw:obs:notes:key-terms:god|Most High Go(Mungu aliye juu sana)]]**
   * **[[:sw:obs:notes:key-terms:save|saved (kuokoka)]]**
   * **[[:sw:obs:notes:key-terms:paul|Paul (Paulo)]]**
+
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:kt:mosthigh]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:other:paul]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the way to be saved**  - That is, "how you can be saved" or, "how God saves people" or, "God's plan for saving people."
