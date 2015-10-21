@@ -12,6 +12,12 @@
   * **[[:sw:obs:notes:key-terms:love|loves (anapenda)]]**
   * **[[:sw:obs:notes:key-terms:sin|sinners (wenye dhambi)]]**
   * **[[:sw:obs:notes:key-terms:forgive|forgive (kusamehe)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:love]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:forgive]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //(There are no notes for this frame.)//
