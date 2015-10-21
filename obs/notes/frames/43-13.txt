@@ -13,6 +13,13 @@ The **disciples** continually listened to the teaching of the **apostles**, spen
   * **[[:sw:obs:notes:key-terms:praise|praising (wakisifu)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:believer|believers (waaminio)]]**
+
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:apostle]]**
+  * **[[:sw:obe:other:pray]]**
+  * **[[:sw:obe:other:praise]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:believe]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **thought well of them**  - That is, "had a positive opinion of them."
