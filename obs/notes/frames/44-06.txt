@@ -11,6 +11,11 @@ Viongozi wa **Hekalu** walisikitishwa sana na kile **Petero** na **Yohana** wali
   * **[[:sw:obs:notes:key-terms:peter|Peter (Petro)]]**
   * **[[:sw:obs:notes:key-terms:john|John (Yohana)]]**
   * **[[:sw:obs:notes:key-terms:believe|believed (waliamini)]]**
+
+  * **[[:sw:obe:kt:temple]]**
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:other:johntheapostle]]**
+  * **[[:sw:obe:kt:believe]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Peter's message**  - That is, "the message that Peter had preached to them."
