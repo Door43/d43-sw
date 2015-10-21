@@ -14,6 +14,14 @@ Kwa sababu **Adamu** na **Hawa waliasi Mungu** na **wakaleta dhambi katika** dun
   * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:curse|cursed (alilaani)]]**
   * **[[:sw:obs:notes:key-terms:heaven|heaven (mbingu)]]**
+
+  * **[[:sw:obe:other:adam]]**
+  * **[[:sw:obe:other:eve]]**
+  * **[[:sw:obe:other:disobey]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:curse]]**
+  * **[[:sw:obe:kt:heaven]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **brought sin into**  - This could be translated as, "caused sin to enter."
