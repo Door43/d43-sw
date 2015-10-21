@@ -15,6 +15,13 @@
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
   * **[[:sw:obs:notes:key-terms:death|dies (hufariki)]]**
 
+  * **[[:sw:obe:kt:satan]]**
+  * **[[:sw:obe:other:eve]]**
+  * **[[:sw:obe:other:adam]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:death]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the garden**  - This refers to the garden created by God where he placed the first man and woman.
