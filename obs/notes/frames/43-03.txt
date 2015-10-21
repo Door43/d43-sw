@@ -9,6 +9,9 @@ Wakati **waaminio ** walikuwa wote pamoja, ghafla nyumba walipokuwa ikajawa na *
 
   * **[[:sw:obs:notes:key-terms:believer|believers (waaminio)]]**
   * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
+
+  * **[[:sw:obe:kt:believer]]**
+  * **[[:sw:obe:kt:holyspirit]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **a sound like a strong wind**  - That is, "a noise that a strong wind makes" or, "the sound that the wind makes when it blows hard."
