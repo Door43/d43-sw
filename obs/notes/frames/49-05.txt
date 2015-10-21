@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom of God (Ufalme wa Mungu)]]**
   * **[[:sw:obs:notes:key-terms:save|saved (kuokolewa)]]**
   * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:kingdomofgod]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:sin]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **to be saved from your sin**  - That is, "to be saved from being punished for your sin" or, "that God would save you from your sin" or, "to receive salvation from your sin."
