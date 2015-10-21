@@ -13,6 +13,13 @@ Kisha **Yesu ** aliwaelezea kile **neno la Mungu** linasema kuhusu **Masihi**. A
   * **[[:sw:obs:notes:key-terms:prophet|prophets (manabii)]]**
   * **[[:sw:obs:notes:key-terms:suffer|suffer (kuteseka)]]**
   * **[[:sw:obs:notes:key-terms:raise|rise (fufuka)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:prophet]]**
+  * **[[:sw:obe:kt:suffer]]**
+  * **[[:sw:obe:kt:raise]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **on the third day**  - Some languages may prefer to say, "on the third day after his death."
