@@ -13,6 +13,7 @@ Wakati Filipo **alikaribia lile gari la farasi**, alisikia **Muethiopia ** akiso
   * **[[:sw:obs:notes:key-terms:life|life (maisha)]]**
 
   * **[[:sw:obe:other:chariot]]**
+  * **[[:sw:obe:kt:prophet]]**
   * **[[:sw:obe:other:isaiah]]**
   * **[[:sw:obe:kt:lamb]]**
   * **[[:sw:obe:kt:life]]**
