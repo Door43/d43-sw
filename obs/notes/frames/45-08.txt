@@ -11,10 +11,15 @@ Wakati Filipo **alikaribia lile gari la farasi**, alisikia **Muethiopia ** akiso
   * **[[:sw:obs:notes:key-terms:isaiah|prophet Isaiah (nabii Isaya)]]**
   * **[[:sw:obs:notes:key-terms:lamb|lamb (mwana kondoo)]]**
   * **[[:sw:obs:notes:key-terms:life|life (maisha)]]**
+
+  * **[[:sw:obe:other:chariot]]**
+  * **[[:sw:obe:other:isaiah]]**
+  * **[[:sw:obe:kt:lamb]]**
+  * **[[:sw:obe:kt:life]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Ethiopian**  - That is, a person from the country of Ethiopia. See note on **[[:sw:obs:notes:frames:45-07|[45-07]]]**.
-  * **Muethiopia- ** Hio ni, mtu kutoka nchi ya Ethiopia. Angalia maelezo pale<font inherit/inherit;;#008000;;inherit>** [45-07].  **</font>
+  * **Muethiopia- ** Hio ni, mtu kutoka nchi ya Ethiopia. Angalia maelezo pale** [45-07].  **
   * **approached the chariot**  - That is, "got close to the chariot" or, "came near to the chariot."
   * **alikaribia lile gari la farasi**  - Hiyo ni, "alikuwa karibu na gari la farasi" ama, alikuja karibu na gari la farasi."
   * **as a lamb is silent**  - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
