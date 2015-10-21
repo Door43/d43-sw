@@ -13,6 +13,12 @@ Umati wa watu haraka walikuja kuona yule mtu **aliyeponywa. Petro** akawaambia, 
   * **[[:sw:obs:notes:key-terms:power|power (nguvu)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:faith|faith (imani)]]**
+
+  * **[[:sw:obe:other:heal]]**
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:power]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:faith]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //(There are no notes for this frame.)//
