@@ -12,6 +12,12 @@ Kama wewe ni **Mkristo, Mungu** **amekusamehe** **dhambi ** zako kwa sababu ya y
   * **[[:sw:obs:notes:key-terms:forgive|forgiven (amesamehewa)]]**
   * **[[:sw:obs:notes:key-terms:sin|sins (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:kt:christian]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:forgive]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **considers you to be**  - That is, "thinks of you as" or, "regards you as" or, "calls you."
