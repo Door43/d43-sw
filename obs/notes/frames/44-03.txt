@@ -11,6 +11,11 @@ Mara moja, **Mungu akamponya** yule mtu kiwete, naye akaanza kutembea na kurukar
   * **[[:sw:obs:notes:key-terms:heal|healed (aliponya)]]**
   * **[[:sw:obs:notes:key-terms:praise|praise (kumsifu)]]**
   * **[[:sw:obs:notes:key-terms:temple|Temple (Hekalu)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:heal]]**
+  * **[[:sw:obe:other:praise]]**
+  * **[[:sw:obe:kt:temple]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **courtyard of the Temple**  - Only priests could enter the Temple, but ordinary Jews were allowed to come into this area that surrounded the Temple.
