@@ -13,6 +13,13 @@ Kisha **Yusufu** na Nikodemu, **viongozi ** wawili **Wayahudi** walio **amini Ye
   * **[[:sw:obs:notes:key-terms:messiah|Messiah (Masihi)]]**
   * **[[:sw:obs:notes:key-terms:pilate|Pilate (Pilato)]]**
   * **[[:sw:obs:notes:key-terms:tomb|tomb (kaburi)]]**
+
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:other:pilate]]**
+  * **[[:sw:obe:other:tomb]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Joseph**  - This was not Mary's husband. It was another man named Joseph.
