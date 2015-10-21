@@ -15,6 +15,14 @@ Karibu watu 3,000 **waliamini ** kile **Petero ** alisema na wakawa **wanafunzi 
   * **[[:sw:obs:notes:key-terms:baptize|baptized (walibatizwa)]]**
   * **[[:sw:obs:notes:key-terms:church|church (kanisa)]]**
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
+
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:kt:church]]**
+  * **[[:sw:obe:other:jerusalem]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //(There are no notes for this frame.)//
