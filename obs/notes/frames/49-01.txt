@@ -12,6 +12,11 @@ Malaika alimwambia **bikira** aitwaye **Mariamu** kwamba atamzaa **Mwana wa Mung
   * **[[:sw:obs:notes:key-terms:mary|Mary (Mariamu)]]**
   * **[[:sw:obs:notes:key-terms:god-son|God's Son (Mwana wa Mungu)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:other:virgin]]**
+  * **[[:sw:obe:other:mary]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * //(There are no notes for this frame.)//
