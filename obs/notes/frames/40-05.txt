@@ -14,6 +14,14 @@ The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They 
   * **[[:sw:obs:notes:key-terms:cross|cross (musalaba)]]**
   * **[[:sw:obs:notes:key-terms:save|save (okoa)]]**
   * **[[:sw:obs:notes:key-terms:believe|believe (amini)]]**
+
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:other:mock]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:cross]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:believe]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **believe you**  - That is, "believe in you" or, "believe that you are the Messiah."
