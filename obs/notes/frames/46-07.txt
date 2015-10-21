@@ -12,6 +12,11 @@ Baada ya siku nyingi, **Wayahudi ** walipanga mpango wa kumuua **Sauli**. Walitu
   * **[[:sw:obs:notes:key-terms:preach|preach (kuhubiri)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
 
+  * **[[:sw:obe:other:jew]]**
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:other:preach]]**
+  * **[[:sw:obe:kt:jesus]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the city gates**  - The gates were the only normal way into or out of the walled cities.
