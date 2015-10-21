@@ -14,6 +14,14 @@
   * **[[:sw:obs:notes:key-terms:barnabas|Barnabas (Baranaba)]]**
   * **[[:sw:obs:notes:key-terms:apostle|apostles (mitume)]]**
   * **[[:sw:obs:notes:key-terms:preach|preached (alihubiri)]]**
+
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:believer]]**
+  * **[[:sw:obe:other:barnabas]]**
+  * **[[:sw:obe:kt:apostle]]**
+  * **[[:sw:obe:other:preach]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **accepted Saul**  - That is, "believed that Saul also was a believer in Jesus."
