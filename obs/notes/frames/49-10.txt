@@ -15,6 +15,15 @@
   * **[[:sw:obs:notes:key-terms:cross|cross (msalaba)]]**
   * **[[:sw:obs:notes:key-terms:receive|received (alipokea)]]**
   * **[[:sw:obs:notes:key-terms:punish|punishment (adhabu)]]**
+
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:guilt]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:cross]]**
+  * **[[:sw:obe:kt:receive]]**
+  * **[[:sw:obe:other:punish]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Because of your sin**  - This can also be translated as, "Because you have sinned." To make it clear that this is talking about all people, for some languages it may be more clear to translate this as, "Because all people have sinned, they are guilty. They deserve death."
