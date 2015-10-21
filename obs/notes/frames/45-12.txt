@@ -11,6 +11,9 @@ Hivyo wakaenda chini ndani ya maji, na Filipo **akambazita ** Muethiopia. Baada 
   * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
 
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **carried Philip away**  - That is, "took Philip away" or, "snatched Philip away."
