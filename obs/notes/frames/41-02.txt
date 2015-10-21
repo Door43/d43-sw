@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:pilate|Pilate (Pilato)]]**
   * **[[:sw:obs:notes:key-terms:tomb|tomb (kaburi)]]**
+
+  * **[[:sw:obe:other:pilate]]**
+  * **[[:sw:obe:other:tomb]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **they placed**  - That is, "the religious leaders and the soldiers placed."
