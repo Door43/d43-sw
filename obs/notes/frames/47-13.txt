@@ -13,6 +13,13 @@ Siku iliyofuata **viongozi wa ule mji ** waliachilia **Paulo ** na **Sila ** kut
   * **[[:sw:obs:notes:key-terms:good-news|good news (habari njema)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:church|Church (kanisa)]]**
+
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:other:silas]]**
+  * **[[:sw:obe:other:philippi]]**
+  * **[[:sw:obe:kt:goodnews]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:church]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the leaders of the city**  - This refers to, "the officials of the city" or, "the authorities of the city."
