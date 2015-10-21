@@ -16,10 +16,18 @@
   * **[[:sw:obs:notes:key-terms:jerusalem|Jerusalem (Yerusalemu)]]**
   * **[[:sw:obs:notes:key-terms:priest-high|high priest (kuhani mKuu)]]**
 
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:persecute]]**
+  * **[[:sw:obe:kt:believer]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:kt:highpriest]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri); =====
 
   * **guarded the robes of the men who killed Stephen**  - See **[[:sw:obs:notes:frames:45-06|[45-06]]]**.
-  * **Alilinda nguo za watu waliomuua Stefano **- Tazama <font inherit/inherit;;#008000;;inherit>** [45-06]. **</font>
+  * **Alilinda nguo za watu waliomuua Stefano **- Tazama ** [45-06]. **
   * **from house to house**  - That is, "into many houses."
   * **nyumba kwa nyumba **- Hiyo ni, "kwa nyumba nyingi."
   * **Damascus**  - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
