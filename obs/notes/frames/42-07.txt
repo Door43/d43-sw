@@ -15,6 +15,14 @@
   * **[[:sw:obs:notes:key-terms:death|die (kufa)]]**
   * **[[:sw:obs:notes:key-terms:raise|rise (fufuka)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:fulfill]]**
+  * **[[:sw:obe:kt:christ]]**
+  * **[[:sw:obe:kt:suffer]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:raise]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **must be fulfilled**  - This can be translated as, "must happen."
