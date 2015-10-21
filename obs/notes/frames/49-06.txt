@@ -13,6 +13,13 @@
   * **[[:sw:obs:notes:key-terms:good-news|good news (habari njema)]]**
   * **[[:sw:obs:notes:key-terms:word-of-god|God's word (neno la Mungu)]]**
   * **[[:sw:obs:notes:key-terms:kingdom-of-god|his kingdom (ufalme wake)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:receive]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:goodnews]]**
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:kingdomofgod]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **others will not**  - That is, "other people will not receive him and therefore will not be saved."
