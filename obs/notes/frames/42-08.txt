@@ -17,6 +17,15 @@
   * **[[:sw:obs:notes:key-terms:people-group|people groups (vikundi vya watu)]]**
   * **[[:sw:obs:notes:key-terms:witness|witnesses (mashahidi)]]**
 
+  * **[[:sw:obe:kt:wordofgod]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:repent]]**
+  * **[[:sw:obe:kt:receive]]**
+  * **[[:sw:obe:kt:forgive]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:other:jerusalem]]**
+  * **[[:sw:obe:other:peoplegroup]]**
+  * **[[:sw:obe:kt:witness]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **proclaim**  - That is, "announce" or, "preach."
