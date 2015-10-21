@@ -18,6 +18,16 @@ Yesu akawaambia **wanafunzi** wake, "**Mimi nimepewa mamlaka yote mbinguni na du
   * **[[:sw:obs:notes:key-terms:holy-spirit|Holy Spirit (Roho Mtakatifu)]]**
   * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
 
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:disciple]]**
+  * **[[:sw:obe:kt:heaven]]**
+  * **[[:sw:obe:other:peoplegroup]]**
+  * **[[:sw:obe:kt:baptize]]**
+  * **[[:sw:obe:kt:godthefather]]**
+  * **[[:sw:obe:kt:sonofgod]]**
+  * **[[:sw:obe:kt:holyspirit]]**
+  * **[[:sw:obe:other:obey]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **All authority in heaven and on earth has been given to me**  - This can also be translated as, "God has given me all authority in heaven and on earth" or, "God has given me complete authority over everyone in heaven and on earth" or, "I have all authority in heaven an on earth."
