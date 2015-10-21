@@ -14,6 +14,14 @@ Kwa mamia ya miaka,** makuhani ** waliendelea kutoa **dhabihu ** kwa **Mungu ** 
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:priest-high|Great High Priest (Kuhani Mkuu Mkubwa)]]**
   * **[[:sw:obs:notes:key-terms:punish|punishmenT (adhabu)]]**
+
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:other:sacrifice]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:other:punish]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **he offered himself**  - This could also be translated as, "Jesus allowed himself to be killed."
