@@ -15,6 +15,15 @@
   * **[[:sw:obs:notes:key-terms:sin|sin (dhambi)]]**
   * **[[:sw:obs:notes:key-terms:god|God's (ya Mungu)]]**
   * **[[:sw:obs:notes:key-terms:punish|punishment (adhabu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:passover]]**
+  * **[[:sw:obe:kt:lamb]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:blood]]**
+  * **[[:sw:obe:kt:sin]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:punish]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **our Passover Lamb**  - That is, “the Passover Lamb that was killed for us” or, “the lamb that was killed so that God would pass over us” or, “the lamb that was killed so that God would spare us.”
