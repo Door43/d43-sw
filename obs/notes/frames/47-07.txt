@@ -12,6 +12,11 @@ Hivyo wamiliki wa yule **msichana mtumwa** wakawapeleka **Paulo ** na **Sila ** 
   * **[[:sw:obs:notes:key-terms:silas|Silas (Sila)]]**
   * **[[:sw:obs:notes:key-terms:rome|Roman authorities (serikali ya Kirumi)]]**
 
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:other:paul]]**
+  * **[[:sw:obe:other:silas]]**
+  * **[[:sw:obe:other:rome]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **threw them **- That is, "put them."
