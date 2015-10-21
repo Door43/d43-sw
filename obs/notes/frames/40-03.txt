@@ -10,6 +10,10 @@ Askari **walicheza kamari kwa ajili ya mavazi ya Yesu**. Walipofanya hivyo, **wa
   * **[[:sw:obs:notes:key-terms:jesus|Jesus' (ya Yesu)]]**
   * **[[:sw:obs:notes:key-terms:fulfill|fulfilled (ilitimiza)]]**
   * **[[:sw:obs:notes:key-terms:prophet|prophecy (unabii)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:fulfill]]**
+  * **[[:sw:obe:kt:prophet]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **gambled for Jesus' clothing**  - That is, "played a game of chance to win Jesus' clothes." We do not know how they did this, but in some cultures it could be translated as, "tossed stones on the ground to win Jesus' clothing" or, "chose sticks to decide who could take Jesus' clothes."
