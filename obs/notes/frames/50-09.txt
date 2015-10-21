@@ -11,6 +11,11 @@
   * **[[:sw:obs:notes:key-terms:satan|devil (ibilisi)]]**
   * **[[:sw:obs:notes:key-terms:god|God's (wa Mungu)]]**
   * **[[:sw:obs:notes:key-terms:angel|angels (malaika)]]**
+
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:kt:satan]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:angel]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **who belong to the evil one**  - That is, "who obey the evil one" or, "who are ruled by the evil one."
