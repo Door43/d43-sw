@@ -16,6 +16,16 @@
   * **[[:sw:obs:notes:key-terms:believe|believes (anayeamini)]]**
   * **[[:sw:obs:notes:key-terms:save|saved (kuokoka)]]**
   * **[[:sw:obs:notes:key-terms:spirit|spiritual (kiroho)]]**
+
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:peoplegroup]]**
+  * **[[:sw:obe:kt:bless]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:save]]**
+  * **[[:sw:obe:kt:spirit]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **all the people groups of the earth**  - This could also be translated as, "people from all different parts of the world."
