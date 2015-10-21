@@ -13,6 +13,13 @@ Wakati **Yesu** atakaporudi, ataharibu **Shetani** kabisa pamoja na **ufalme wak
   * **[[:sw:obs:notes:key-terms:hell|hell (jehanamu)]]**
   * **[[:sw:obs:notes:key-terms:obey|obey (tii)]]**
   * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
+
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:satan]]**
+  * **[[:sw:obe:other:kingdom]]**
+  * **[[:sw:obe:kt:hell]]**
+  * **[[:sw:obe:other:obey]]**
+  * **[[:sw:obe:kt:god]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **his kingdom**  - This could also be translated as, "Satan's evil rule over people" or, "all the evil things he does and the evil people he controls."
