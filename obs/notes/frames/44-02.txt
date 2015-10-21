@@ -9,6 +9,9 @@
 
   * **[[:sw:obs:notes:key-terms:peter|Peter (Petro)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **In the name of Jesus**  - "Name" here stands for the authority and power of the person. Therefore, this expression here means, "by the authority of Jesus."
