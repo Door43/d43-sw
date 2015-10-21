@@ -12,6 +12,12 @@ Mapema asubuhi iliyofuata, **viongozi wa Wayahudi** wakaleta **Yesu ** kwa **Pil
   * **[[:sw:obs:notes:key-terms:pilate|Pilate (Pilato)]]**
   * **[[:sw:obs:notes:key-terms:rome|Roman (Roma)]]**
   * **[[:sw:obs:notes:key-terms:king-of-jews|king of the Jews (mfalme wa Wayahudi)]]**
+
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:pilate]]**
+  * **[[:sw:obe:other:rome]]**
+  * **[[:sw:obe:kt:kingofthejews]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Roman governor**  - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
