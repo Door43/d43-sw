@@ -14,6 +14,14 @@ Daudi alikuwa **mfalme ** wa **Israeli**, lakini **Yesu ** ndiye **Mfalme wa uli
   * **[[:sw:obs:notes:key-terms:kingdom-of-god|kingdom (ufalme)]]**
   * **[[:sw:obs:notes:key-terms:justice|justice (haki)]]**
   * **[[:sw:obs:notes:key-terms:peace|peace (amani)]]**
+
+  * **[[:sw:obe:other:david]]**
+  * **[[:sw:obe:other:king]]**
+  * **[[:sw:obe:other:israel]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:kt:kingdomofgod]]**
+  * **[[:sw:obe:kt:justice]]**
+  * **[[:sw:obe:other:peace]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **the king of the entire universe**  - That is, "the king over everyone and everything everywhere."
