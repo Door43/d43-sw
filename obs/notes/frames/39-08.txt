@@ -13,6 +13,12 @@
   * **[[:sw:obs:notes:key-terms:betray|betrayer (msaliti)]]**
   * **[[:sw:obs:notes:key-terms:jewish-leaders|Jewish leaders (viongozi wa Wayahudi)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
+
+  * **[[:sw:obe:other:peter]]**
+  * **[[:sw:obe:other:judasiscariot]]**
+  * **[[:sw:obe:kt:betray]]**
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:jesus]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **cried bitterly**  - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
