@@ -13,6 +13,13 @@ The **Jewish leaders** all answered the **high priest**, “He deserves to **die
   * **[[:sw:obs:notes:key-terms:death|die (kufa)]]**
   * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
   * **[[:sw:obs:notes:key-terms:mock|mocked (walidhihaki)]]**
+
+  * **[[:sw:obe:other:jewishleaders]]**
+  * **[[:sw:obe:kt:highpriest]]**
+  * **[[:sw:obe:kt:death]]**
+  * **[[:sw:obe:kt:jesus]]**
+  * **[[:sw:obe:other:mock]]**
+
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **they blindfolded Jesus**  - That is. "they covered Jesus' eyes so that he could not see."
