@@ -8,6 +8,3 @@
 **Recent Changes**
 {{changes>ns = sw:obs}}
 
-**Latest Status**
-{{page>en:uwadmin:sw:obs:status}}
-
