@@ -8,27 +8,16 @@
 
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:sarah|Sarai (Sarai)]]**
-  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
-  * **[[:sw:obs:notes:key-terms:promise|promise (ahadi)]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
-  * **[[:sw:obs:notes:key-terms:covenant|covenant (agano)]]**
-  * **[[:sw:obs:notes:key-terms:ishmael|Ishmael (Ishmaeli)]]**
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abram's (ya Abramu)]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
-  * **[[:sw:obs:notes:key-terms:sarah|Sarah (Sara)]]**
-
-  * **[[:sw:obe:other:sarah|Sarai]]**
-  * **[[:sw:obe:kt:son|mwana]]**
-  * **[[:sw:obe:kt:promise|ahadi]]**
-  * **[[:sw:obe:other:isaac|Isaka]]**
-  * **[[:sw:obe:kt:covenant|agano]]**
-  * **[[:sw:obe:other:ishmael|Ishmaeli]]**
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:other:abraham|ya Abramu]]**
-  * **[[:sw:obe:other:abraham|Ibrahimu]]**
-  * **[[:sw:obe:other:sarah|Sara]]**
+  * **[[:sw:obe:other:sarah]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:other:isaac]]**
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:other:ishmael]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:sarah]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * (God continues to speak to Abram.)
