@@ -7,17 +7,11 @@ When **Abram** arrived in **Canaan**, **God** said, “Look all around you. I wi
 Wakati **Abramu** alifika **Kanani**, **Mungu** akasema, "Tazama kila upande karibu na wewe. Nitakupa wewe pamoja na vizazi vyako ardhi yote unayoweza kuiona kama urithi." **Basi, Abramu akafanya pale makao yake.**
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abram (Abramu)]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants (Vizazi)]]**
-  * **[[:sw:obs:notes:key-terms:inherit|inheritance (Urithi)]]**
-
-  * **[[:sw:obe:other:abraham|Abramu]]**
-  * **[[:sw:obe:other:canaan|Kanani]]**
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:other:descendant|Vizazi]]**
-  * **[[:sw:obe:kt:inherit|Urithi]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:kt:inherit]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **all the land that you can see**  - If Abram was standing on a mountain, he could have seen a very large area. On several occasions God promised to give the entire land of Canaan to Abram and his descendants.
