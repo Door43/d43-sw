@@ -7,10 +7,7 @@ When **Abraham** was very old, his **son**, **Isaac**, had grown to be a man. So
 Wakati **Ibrahimu** alikuwa mzee sana, mwanawe Isaka akawa amefika umri wa kuoa. Basi Ibrahimu **akamtuma mmoja wa watumishi wake arudi kwenye nchi ** ambayo jamii yake walipoishi ili amletee mke mwanawe Isaka.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
-  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
-  * **[[:sw:obs:notes:key-terms:servant|servants (watumishi)]]**
+ 
 
   * **[[:sw:obe:other:abraham]]**
   * **[[:sw:obe:kt:son]]**
