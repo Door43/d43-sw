@@ -7,14 +7,7 @@
 **Baadaye**, **Mungu akaleta** **mvua ya mawe** iliyoharibu mimea mingi kule **Misri ** na kuua kila mmoja alieenda nje. Farao akaita **Musa** na **Haruni ** na akawaambia, "**nimetenda dhambi**. **Munaweza enda**." Kwa hivyo Musa **akaomba** na ile mvua ya mawe ikaacha kunyesha kutoka angani.
 ===== Important Terms (Maneno ya muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egypt (Misri)]]**
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
-  * **[[:sw:obs:notes:key-terms:aaron|Aaron (Haruni)]]**
-  * **[[:sw:obs:notes:key-terms:sin|sinned (nimetenda dhambi)]]**
-  * **[[:sw:obs:notes:key-terms:pray|prayed (akaomba0]]**
-
+  
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:other:egypt]]**
   * **[[:sw:obe:other:pharaoh]]**
