@@ -8,19 +8,13 @@ Miaka kumi baada ya **Abramu** na **Sarai ** kufika **Kanani, bado hawakuwa na m
 
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abram (Abramu)]]**
-  * **[[:sw:obs:notes:key-terms:sarah|Sarai (Sarai)]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:servant|servant (mutumishi)]]**
-  * **[[:sw:obs:notes:key-terms:hagar|Hagar (Hajiri)]]**
 
-  * **[[:sw:obe:other:abraham|Abramu]]**
-  * **[[:sw:obe:other:sarah|Sarai]]**
-  * **[[:sw:obe:other:canaan|Kanani]]**
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:other:servant|mutumishi]]**
-  * **[[:sw:obe:other:hagar|Hajiri]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:sarah]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:servant]]**
+  * **[[:sw:obe:other:hagar]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **still did not have a child**  - Without a child, Abram had no descendants to become a great nation.
