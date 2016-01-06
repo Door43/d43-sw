@@ -7,13 +7,7 @@
 **Mungu** aliwaamuru **Waisraeli** kusherehekea **Pasaka** kila mwaka ili **wakumbuke vile Mungu aliwapa ushindi juu** ya **Wamisri ** na akawaokoa kutoka kwa kuwa **watumwa**. Walisherehekea kwa kuchinja **kondoo aliye mkamilifu**, na kuikula na **mkate usiyo na chachu**, na kusema vile Mungu alivyo **waokoa**.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
-  * **[[:sw:obs:notes:key-terms:passover|Passover (Pasaka)]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisiri)]]**
-  * **[[:sw:obs:notes:key-terms:servant|slaves (watumwa)]]**
-  * **[[:sw:obs:notes:key-terms:lamb|lamb (kondoo)]]**
-
+ 
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:other:israel]]**
   * **[[:sw:obe:kt:passover]]**
