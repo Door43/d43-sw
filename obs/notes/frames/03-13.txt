@@ -7,11 +7,8 @@
 **Miezi miwili baadaye Mungu** akamwambia **Nuhu**, "Wewe na jamii yako na wanyama wote munaweza toka kwa mashua sasa. **Iweni na watoto** wengi na wajukuu wengi na **mjaze dunia.**" Kwa hivyo Nuhu na jamii yake wakatoka kwa mashua.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:noah|Noah (Nuhu)]]**
-
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:other:noah|Nuhu]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:noah]]**
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
