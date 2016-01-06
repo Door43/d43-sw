@@ -8,12 +8,6 @@
 
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
-  * **[[:sw:obs:notes:key-terms:bless|blessing (baraka)]]**
-  * **[[:sw:obs:notes:key-terms:esau|Esau (Esau)]]**
-  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
-
   * **[[:sw:obe:other:isaac]]**
   * **[[:sw:obe:kt:bless]]**
   * **[[:sw:obe:other:esau]]**
