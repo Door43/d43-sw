@@ -8,10 +8,6 @@ Wakati **watoto wa Rebeka walizaliwa**, **yule mwana aliye mkubwa** akatoka akiw
 
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah's (ya Rebeka)]]**
-  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
-  * **[[:sw:obs:notes:key-terms:esau|Esau (Esau)]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
 
   * **[[:sw:obe:other:rebekah]]**
   * **[[:sw:obe:kt:son]]**
