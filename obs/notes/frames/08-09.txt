@@ -7,8 +7,7 @@
 **Yosefu** aliwaambia watu **wahifadhi chakula nyingi ** katika miaka ile saba ya mavuno mengi. Halafu Yosefu akawauzia watu ile chakula wakati wa ile miaka saba ya **njaa** ilipofika, ndio wawe chakula ya kutosha.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:joseph|Joseph (Yosefu)]]**
-
+ 
   * **[[:sw:obe:other:josephot]]**
 
 ==== Translation Notes (Maelezo ya Tafsiri): ====
@@ -16,5 +15,5 @@
   * **store up large amounts of food**  - They took food from the abundant harvests to the cities and stored it there. The food then belonged to Pharaoh.
   * **Kuhifadhi chakula kingi **- Walichukua kutoka kwa wingi wa mavuno wakaipeleka kwa miji na kuihifadhi huko.
   * **famine**  - See how you translated this in **[[:sw:obs:notes:frames:08-07|[08-07]]]**.
-  * **Njaa**  - Ona ulivyotafsiri hii pale **[08-07]**
+  * **Njaa**  - Ona ulivyotafsiri hii pale **[[:sw:obs:notes:frames:08-07|[08-07]]]**.
 **[[:sw:obs:notes:frames:08-08|<<]] | [[:sw:obs:notes:08|Up]] | [[:sw:obs:notes:frames:08-10|>>]]**
