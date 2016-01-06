@@ -7,19 +7,12 @@ Then **God** made a **covenant** with **Abram**. A covenant is an agreement betw
 Na **Mungu ** akafanya **agano** na **Abramu**. Agano ni makubaliano kati ya vyama **viwili**. Mungu akasema, "nitakupa **mwana kutoka kwa mwili wako mwenyewe**. Nchi ya **Kanani** ninawapa **vizazi ** vyako." Lakini Abramu bado **hakuwa na mwana. **
 ===== Important Terms (Maneno ya muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:covenant|covenant (agano)]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abram (Abramu)]]**
-  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
-  * **[[:sw:obs:notes:key-terms:canaan|Canaan (Kanani)]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
-
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:covenant|agano]]**
-  * **[[:sw:obe:other:abraham|Abramu]]**
-  * **[[:sw:obe:kt:son|Mwana]]**
-  * **[[:sw:obe:other:canaan|Kanani]]**
-  * **[[:sw:obe:other:descendant|uzao]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:covenant]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:other:canaan]]**
+  * **[[:sw:obe:other:descendant]]**
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
