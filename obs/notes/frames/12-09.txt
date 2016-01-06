@@ -13,8 +13,7 @@ Na **Mungu** akainua lile wingu juu na akaliondoa kwa njia ili **Wamisri ** wawe
   * **[[:sw:obe:other:israel]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
-* //(There are no notes for this frame.)//
-
-//*(Hukuna maelezo katika sehemu hii.)//
+  * //(There are no notes for this frame.)//
+  *//(Hukuna maelezo katika sehemu hii.)//
 
 **[[:sw:obs:notes:frames:12-08|<<]] | [[:sw:obs:notes:12|Up]] | [[:sw:obs:notes:frames:12-10|>>]]**
