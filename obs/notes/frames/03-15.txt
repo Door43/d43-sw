@@ -7,17 +7,11 @@
 **Mungu** akasema, "**Ninaahidi sitalaani kamwe tena** ardhi kwa sababu ya mambo **maovu** wanaotenda watu, ama niharibu dunia kwa njia ya kuleta mafuriko, hata ingawa **watu ni wenye dhambi kutoka wakiwa watoto.**"
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:promise|promise (ahadi)]]**
-  * **[[:sw:obs:notes:key-terms:curse|curse (laana)]]**
-  * **[[:sw:obs:notes:key-terms:evil|evil (maovu)]]**
-  * **[[:sw:obs:notes:key-terms:sin|sinful (wenye dhambi)]]**
-
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:promise|ahadi]]**
-  * **[[:sw:obe:kt:curse|laana]]**
-  * **[[:sw:obe:kt:evil|maovu]]**
-  * **[[:sw:obe:kt:sin|wenye dhambi]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:kt:curse]]**
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:kt:sin]]**
 
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
