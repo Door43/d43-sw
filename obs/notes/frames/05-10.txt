@@ -7,14 +7,6 @@ Then **God** said to **Abraham**, “Because you were willing to give me everyth
 Halafu **Mungu** akamwambia **Ibrahimu**, "Kwa sababu ulikuwa tayari kunipea kila kitu, hata **mwanao wa pekee**, **ninaahidi kukubariki.** **Vizazi** vyako vitakuwa zaidi ya **nyota wa angani.** Sababu **umenitii**, **jamii zote za dunia** **zitabarikiwa kupitia kwa jamii yako**."
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
-  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
-  * **[[:sw:obs:notes:key-terms:promise|promise (ahadi)]]**
-  * **[[:sw:obs:notes:key-terms:bless|bless (bariki)]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants (vizazi)]]**
-  * **[[:sw:obs:notes:key-terms:obey|obeyed (alitii)]]**
-
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:other:abraham]]**
   * **[[:sw:obe:kt:son]]**
