@@ -8,13 +8,7 @@ Siku hiyo **Ibrahimu akawatahirisha wanaume wote wa nyumba yake. ** Baada ya mwa
 
 ===== Important Terms: Maneno Ya Muhimu =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
-  * **[[:sw:obs:notes:key-terms:circumcise|circumcised (alitahiri)]]**
-  * **[[:sw:obs:notes:key-terms:sarah|Sarah (Sarai)]]**
-  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-
+ 
   * **[[:sw:obe:other:abraham]]**
   * **[[:sw:obe:kt:circumcise]]**
   * **[[:sw:obe:other:sarah]]**
