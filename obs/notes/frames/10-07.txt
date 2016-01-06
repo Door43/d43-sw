@@ -7,12 +7,6 @@ Then **God** told **Moses** to throw ashes into the air in front of **Pharaoh**.
 Halafu **Mungu** akamwambia **Musa** arushe majivu kwa hewa mbele ya **Farao**. Alipofanya hivyo, **Wamisri ** wakawa na vidonda vyenye uchungu, lakini **Waisraeli** hawakuwa nazo. **Mungu akafanya moyo wa Farao mugumu**, na Farao hangewaruhusu waisraeli kuwa huru.
 ===== Important Terms (Maneno ya muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
-  * **[[:sw:obs:notes:key-terms:egypt|Egyptians (Wamisri)]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
-
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:other:moses]]**
   * **[[:sw:obe:other:pharaoh]]**
