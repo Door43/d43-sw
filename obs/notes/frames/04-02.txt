@@ -7,17 +7,10 @@ They were very **proud**, and they did not care about what **God** said. They ev
 Walikuwa **wamejaa kiburi**, na hawakujali aliposema **Mungu**. Hata wakaanza kujenga **mnara mrefu utakaofika binguni.** Mungu akaona kuwa wakiendelea kufanya kazi pamoja kutenda maovu, wanaweza tenda mambo mengine mengi ya **dhambi. **
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:proud|proud (kiburi)]]**
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:heaven|heaven (nbinguni)]]**
-  * **[[:sw:obs:notes:key-terms:evil|evil (maovu)]]**
-  * **[[:sw:obs:notes:key-terms:sin|sinful (zenye dhambi)]]**
-
-  * **[[:sw:obe:other:proud|kiburi]]**
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:heaven|nbinguni]]**
-  * **[[:sw:obe:kt:evil|maovu]]**
-  * **[[:sw:obe:kt:sin|zenye dhambi]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:heaven]]**
+  * **[[:sw:obe:kt:evil]]**
+  * **[[:sw:obe:kt:sin]]**
 
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
