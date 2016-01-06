@@ -7,10 +7,7 @@
 **Mungu** akamwambia **Rebeka**, "mataifa mawili zitatoka **kutoka kwa wana wawili ** waliyomo ndani yako. **Watapambana moja na mwingine** na **mwanao aliye mkubwa** **atamutumikia aliye mdogo**.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:rebekah|Rebekah (Rebeka)]]**
-  * **[[:sw:obs:notes:key-terms:son|son (mwana)]]**
-
+ 
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:other:rebekah]]**
   * **[[:sw:obe:kt:son]]**
