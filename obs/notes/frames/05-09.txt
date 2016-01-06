@@ -8,11 +8,6 @@ Hapo karibu **Ibrahimu** akamuona **kondoo wa kiume** amekwama katika kichaka. *
 
 ===== Important Terms: Maelezo Ya Muhimu =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:sacrifice|sacrifice (Dhabihu)]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
-
   * **[[:sw:obe:other:abraham]]**
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:other:sacrifice]]**
