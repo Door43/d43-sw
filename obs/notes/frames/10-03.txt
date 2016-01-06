@@ -7,10 +7,7 @@
 **Mungu alibadilisha mto wa Nile ukawa damu**, lakini **Farao** bado hangeruhusu **Waisraeli** waende.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:nile-river|Nile River (mto wa Nile)]]**
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites (Waisraeli)]]**
+
 
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:other:nileriver]]**
