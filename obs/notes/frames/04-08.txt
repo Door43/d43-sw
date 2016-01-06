@@ -7,23 +7,14 @@
 **Miaka mingi** ikapita, lakini **Abramu** na **Sarai** bado hawakuwa na **mwana**. Mungu akanena na Abramu na **akamuahidi ** tena kuwa atapata mwana na **uzao wake watakuwa wengi kama nyota wa angani**. Abramu **akaamini** ahadi ya Mungu. Mungu akatangaza kuwa Abramu ni **menye haki ** kwa sababu aliamini ahadi ya Mungu.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abram (Abramu)]]**
-  * **[[:sw:obs:notes:key-terms:sarah|Sarai (Sarai)]]**
-  * **[[:sw:obs:notes:key-terms:son|son (Mwana)]]**
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised (Akaahidi)]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
-  * **[[:sw:obs:notes:key-terms:believe|believed (Aliamini)]]**
-  * **[[:sw:obs:notes:key-terms:righteous|righteous (Mwenye haki)]]**
-
-  * **[[:sw:obe:other:abraham|Abramu]]**
-  * **[[:sw:obe:other:sarah|Sarai]]**
-  * **[[:sw:obe:kt:son|Mwana]]**
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:promise|Akaahidi]]**
-  * **[[:sw:obe:other:descendant|uzao]]**
-  * **[[:sw:obe:kt:believe|Aliamini]]**
-  * **[[:sw:obe:kt:righteous|Mwenye haki]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:other:sarah]]**
+  * **[[:sw:obe:kt:son]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:promise]]**
+  * **[[:sw:obe:other:descendant]]**
+  * **[[:sw:obe:kt:believe]]**
+  * **[[:sw:obe:kt:righteous]]**
 
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
