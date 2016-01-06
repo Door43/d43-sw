@@ -7,13 +7,13 @@ When the boy's parents could no longer hide him, they put him in a **floating ba
 Wakati wazazi wa yule mvulana hawangemficha tena, walimuweka kwa **kikapu kinachoelea juu ya maji miongoni mwa mianzi karibu na mto wa Nile** ndiposa wamuokoe asiuawe. Dada yake mkubwa akachungulia kuona kile kitafanyika kwake.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:nile-river|Nile River (Mto wa Nile)]]**
+
 
   * **[[:sw:obe:other:nileriver]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
-* //(There are no notes for this frame.)//
+  * //(There are no notes for this frame.)//
 
-//*(Hakuna maelezo katika sehemu hii)//
+  *//(Hakuna maelezo katika sehemu hii)//
 
 **[[:sw:obs:notes:frames:09-05|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-07|>>]]**
