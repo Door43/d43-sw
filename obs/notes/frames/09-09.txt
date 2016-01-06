@@ -7,15 +7,15 @@ When **Moses** thought nobody would see, he killed the **Egyptian** and buried h
 Wakati **Musa** alifikiri hakuna mtu angeona, alimuua yule **Mumisri ** na akazika mwili wake. Lakini mtu fulani akaona alichokifanya Musa.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:moses|Moses (Musa)]]**
+
   * **[[:sw:obs:notes:key-terms:egypt|Egyptian (Mumisri)]]**
 
   * **[[:sw:obe:other:moses]]**
   * **[[:sw:obe:other:egypt]]**
 ==== Translation Notes (Maelezo ya Tafsiri): ====
 
-* //(There are no notes for this frame)//.
+  * //(There are no notes for this frame)//.
 
-//*(Hakuna maelezo katika sehemu hii). //
+  *//(Hakuna maelezo katika sehemu hii). //
 
 **[[:sw:obs:notes:frames:09-08|<<]] | [[:sw:obs:notes:09|Up]] | [[:sw:obs:notes:frames:09-10|>>]]**
