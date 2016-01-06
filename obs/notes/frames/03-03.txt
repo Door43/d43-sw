@@ -7,11 +7,8 @@
 **Mungu** akamwambia **Nuhu** aitengeneze **mashua** kama mita 140 kwa urefu, na mita 23 kwa upana, na mita 13.5 kwenda juu. Nuhu alikuwa aijenge akitumia mbao na atengeneze ghorofa tatu, vyumba nyingi, paa na ndirisha. Ile mashua ingewaweka salama Nuhu, jamii yake, na wanyama wote wa nchi kavu wakati wa mafuriko.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu]])**
-  * **[[:sw:obs:notes:key-terms:noah|Noah (Nuhu)]]**
-
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:other:noah|Nuhu]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:other:noah]]**
 
 
 ===== Translation Notes (Maelezo ya Tafsri): =====
