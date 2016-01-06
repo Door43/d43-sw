@@ -7,17 +7,12 @@ One day, **Abram** met **Melchizedek**, the **priest** of **God Most High**. Mel
 Siku moja, **Abramu ** akakutana na **Melkizedeki**, **kuhani** wa **Mungu aliye juu zaidi**. Melkizedeki **akambariki** Abramu na kusema, "na Mungu aliye juu zaidi ambaye ni **mwenye** **bingu na nchi** abariki Abramu." Halafu, Abramu akampea Melkizedeki fungu la kumi la mali yake yote.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:abraham|Abram (Abramu)]]**
-  * **[[:sw:obs:notes:key-terms:priest|priest (Kuhani)]]**
-  * **[[:sw:obs:notes:key-terms:god|God Most High (Mungu aliye juu zaidi)]]**
-  * **[[:sw:obs:notes:key-terms:bless|blessed (Akambariki)]]**
-  * **[[:sw:obs:notes:key-terms:heaven|heaven (Bingu)]]**
 
-  * **[[:sw:obe:other:abraham|Abramu]]**
-  * **[[:sw:obe:kt:priest|Kuhani]]**
-  * **[[:sw:obe:kt:god|Mungu aliye juu zaidi]]**
-  * **[[:sw:obe:kt:bless|Akambariki]]**
-  * **[[:sw:obe:kt:heaven|Bingu]]**
+  * **[[:sw:obe:other:abraham]]**
+  * **[[:sw:obe:kt:priest]]**
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:bless]]**
+  * **[[:sw:obe:kt:heaven]]**
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
   * **Melchizedek**  - Melchizedek was the recognized religious authority in Canaan who received and presented offerings to God.
