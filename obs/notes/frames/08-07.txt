@@ -7,11 +7,7 @@
 **Mungu** alikuwa amempea **Yosefu** uwezo wa **kutafsiri ndoto**, kwa hivyo Farao akafanya Yosefu aletwe kwake kutoka gerezani. Yosefu akamtafsiria zile ndoto na akasema, "**Mungu anaenda kuleta** miaka saba ya mavuno mengi, ikifuatiwa na miaka saba ya **njaa**."
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:joseph|Joseph (Yosefu)]]**
-  * **[[:sw:obs:notes:key-terms:dream|dreams (ndoto)]]**
-  * **[[:sw:obs:notes:key-terms:pharaoh|Pharaoh (Farao)]]**
-
+  
   * **[[:sw:obe:kt:god]]**
   * **[[:sw:obe:other:josephot]]**
   * **[[:sw:obe:other:dream]]**
