@@ -7,15 +7,7 @@ The **covenant promises** that **God** gave to **Abraham** were **passed on to I
 Zile **ahadi za agano** ambazo **Mungu** alimpea **Ibrahimu zilipitishwa kwa Isaka**, wakati huo kwa **Yakobo**, na wakati huu kwa wana kumi na wawili wa Yakobo na jamii zao. **Uzao** wa wale wana kumi na wawili zilifanyika zile **makabila kumi na mbili ya Israeli.**
 ===== Important Terms (Maneno ya muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:covenant|covenant (agano)]]**
-  * **[[:sw:obs:notes:key-terms:promise|promises (ahadi)]]**
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:abraham|Abraham (Ibrahimu)]]**
-  * **[[:sw:obs:notes:key-terms:isaac|Isaac (Isaka)]]**
-  * **[[:sw:obs:notes:key-terms:jacob|Jacob (Yakobo)]]**
-  * **[[:sw:obs:notes:key-terms:descendant|descendants (uzao)]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
-
+ 
   * **[[:sw:obe:kt:covenant]]**
   * **[[:sw:obe:kt:promise]]**
   * **[[:sw:obe:kt:god]]**
