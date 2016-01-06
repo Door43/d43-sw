@@ -7,17 +7,11 @@ After **Noah** got off the boat, he built an **altar** and **sacrificed** some o
 Baada ya **Nuhu** kutoka kwa mashua, akajenga **madhabahu** na **kutoa sadaka** ya **mnyama wa kila aina aliyefaa kutolewa sadaka**. **Mungu akafurahia** hiyo sadaka na **akambariki ** Nuhu na jamii yake.
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:noah|Noah (Nuhu)]]**
-  * **[[:sw:obs:notes:key-terms:altar|altar (madhabahu)]]**
-  * **[[:sw:obs:notes:key-terms:sacrifice|sacrificed (akatoa sadaka)]]**
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:bless|blessed (akabariki)]]**
-
-  * **[[:sw:obe:other:noah|Nuhu]]**
-  * **[[:sw:obe:other:altar|madhabahu]]**
-  * **[[:sw:obe:other:sacrifice|akatoa sadaka]]**  
-  * **[[:sw:obe:kt:god|Mungu]]**
-  * **[[:sw:obe:kt:bless|akabariki]]**
+  * **[[:sw:obe:other:noah]]**
+  * **[[:sw:obe:other:altar]]**
+  * **[[:sw:obe:other:sacrifice|]]**  
+  * **[[:sw:obe:kt:god]]**
+  * **[[:sw:obe:kt:bless]]**
 
 ===== Translation Notes (Maelezo ya Tafsiri): =====
 
