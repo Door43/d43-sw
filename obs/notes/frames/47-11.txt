@@ -8,20 +8,9 @@ Yule askari wa geraza akatetemeka alipokuwa akija kwa **Paulo ** na **Sila ** na
 
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:paul|Paul (Paulo)]]**
-  * **[[:sw:obs:notes:key-terms:silas|Silas (Sila)]]**
-  * **[[:sw:obs:notes:key-terms:save|saved (kuokoka)]]**
-  * **[[:sw:obs:notes:key-terms:paul|Paul (Paulo)]]**
-  * **[[:sw:obs:notes:key-terms:believe|Believe (Amini)]]**
-  * **[[:sw:obs:notes:key-terms:jesus|Jesus (Yesu)]]**
-  * **[[:sw:obs:notes:key-terms:lord|Master (Bwana)]]**
-  * **[[:sw:obs:notes:key-terms:preach|preached (alihubiri)]]**
-  * **[[:sw:obs:notes:key-terms:good-news|good news (habari njema)]]**
-
   * **[[:sw:obe:other:paul]]**
   * **[[:sw:obe:other:silas]]**
   * **[[:sw:obe:kt:save]]**
-  * **[[:sw:obe:other:paul]]**
   * **[[:sw:obe:kt:believe]]**
   * **[[:sw:obe:kt:jesus]]**
   * **[[:sw:obe:kt:lord]]**
