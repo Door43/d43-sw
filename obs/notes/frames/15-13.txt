@@ -8,23 +8,11 @@
 
 ===== Important Terms (Maneno ya Muhimu): =====
 
-  * **[[:sw:obs:notes:key-terms:joshua|Joshua (Yoshua)]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israel (Israeli)]]**
-  * **[[:sw:obs:notes:key-terms:obey|obey (kutii)]]**
-  * **[[:sw:obs:notes:key-terms:covenant|covenant (agano)]]**
-  * **[[:sw:obs:notes:key-terms:god|God (Mungu)]]**
-  * **[[:sw:obs:notes:key-terms:israel|Israelites (Israeli)]]**
-  * **[[:sw:obs:notes:key-terms:sinai|Sinai (Sinai)]]**
-  * **[[:sw:obs:notes:key-terms:promise|promised (aliahidi)]]**
-  * **[[:sw:obs:notes:key-terms:faithful|faithful (waaminifu)]]**
-  * **[[:sw:obs:notes:key-terms:gods-law|his laws (sheria zake)]]**
-
   * **[[:sw:obe:other:joshua]]**
   * **[[:sw:obe:other:israel]]**
   * **[[:sw:obe:other:obey]]**
   * **[[:sw:obe:kt:covenant]]**
   * **[[:sw:obe:kt:god]]**
-  * **[[:sw:obe:other:israel]]**
   * **[[:sw:obe:other:sinai]]**
   * **[[:sw:obe:kt:promise]]**
   * **[[:sw:obe:kt:faithful]]**
