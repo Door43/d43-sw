@@ -1,11 +1,11 @@
-====== Complete List of Important Terms - Swahili ======
+====== Complete List of translationWords - Swahili======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:sw:obe:kt:home]]
-  * [[:sw:obe:other:home]]
+  * [[:sw:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:sw:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+
+==== All Terms in the OBE: ====
 
 <nspages sw:obe -r -title -exclude:home -textPages="">
-
